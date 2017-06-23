@@ -1,0 +1,45 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 20:16:24 (BRST -02:00)
+
+inetnum:     131.221.64/22
+status:      allocated
+aut-num:     N/A
+owner:       LEVEL SEVEN SRL
+ownerid:     AR-LSSR5-LACNIC
+responsible: Monsalvo Gabriel
+address:     Mendoza, 654, 
+address:     4000 - S.M. de Tucuman - TU
+country:     AR
+phone:       +54 381 4307715 []
+owner-c:     MOG12
+tech-c:      MOG12
+abuse-c:     MOG12
+created:     20141008
+changed:     20141008
+
+nic-hdl:     MOG12
+person:      Monsalvo Gabriel
+e-mail:      gabriel@ARLAB.COM.AR
+address:     Mendoza, 654, 601
+address:     4000 - S.M. de Tucuman - Tu
+country:     AR
+phone:       +54 381 4307715 []
+created:     20140717
+changed:     20140717
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

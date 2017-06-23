@@ -1,0 +1,53 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-06 03:07:39 (BRST -02:00)
+
+inetnum:     201.220.24/24
+status:      assigned
+aut-num:     AS262258
+abuse-c:     PSD2
+owner:       SITRACK.COM
+ownerid:     AR-SITR-LACNIC
+responsible: Agustín Doña
+address:     Alsina, 2250, Godoy Cruz
+address:     5501 - Mendoza - 
+country:     AR
+phone:       +54 261 4611100 [206]
+owner-c:     PSD2
+tech-c:      PSD2
+abuse-c:     PSD2
+inetrev:     201.220.24/24
+nserver:     NS1.SITRACK.COM  
+nsstat:      20170102 AA
+nslastaa:    20170102
+nserver:     NS2.SITRACK.COM  
+nsstat:      20170102 AA
+nslastaa:    20170102
+created:     20130118
+changed:     20130118
+
+nic-hdl:     PSD2
+person:      Agustín Alejandro Doña
+e-mail:      hostmaster@SITRACK.COM
+address:     Alsina, 2250, 
+address:     5501 - Godoy Cruz - MZ
+country:     AR
+phone:       +54 261 4611100 [206]
+created:     20031216
+changed:     20130206
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

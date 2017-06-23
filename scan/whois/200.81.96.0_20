@@ -1,0 +1,45 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-06 02:23:47 (BRST -02:00)
+
+inetnum:     200.81.96/20
+status:      allocated
+aut-num:     N/A
+owner:       TIBA S.A.
+ownerid:     AR-TISA3-LACNIC
+responsible: Juan Rojas
+address:     Austria, 2900, 
+address:     C1425EGX - Buenos Aires - 
+country:     AR
+phone:       +54 11 48068400 [232]
+owner-c:     JUR
+tech-c:      JUR
+abuse-c:     JUR
+created:     20020821
+changed:     20030317
+
+nic-hdl:     JUR
+person:      Juan Rojas
+e-mail:      jrojas@ENCOMPASS.TV
+address:     Saenz Valiente, 2420, 
+address:     1640 - Martinez - BA
+country:     AR
+phone:       +54 11 41068400 [344]
+created:     20030317
+changed:     20151103
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

@@ -1,0 +1,52 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 20:36:35 (BRST -02:00)
+
+inetnum:     138.121.104/22
+status:      allocated
+aut-num:     N/A
+owner:       RED POWER INTERNET SRL
+ownerid:     AR-RPIS1-LACNIC
+responsible: Suarez Carlos Manuel
+address:     GENERAL PAZ, 180, 
+address:     6000 - Junin - BA
+country:     AR
+phone:       +54 236 14664720 []
+owner-c:     SCM22
+tech-c:      SCM22
+abuse-c:     SCM22
+inetrev:     138.121.104/22
+nserver:     DNS1.REDPOWER.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     DNS2.REDPOWER.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+created:     20150625
+changed:     20150625
+
+nic-hdl:     SCM22
+person:      Suarez Carlos Manuel
+e-mail:      manager@REDPOWER.COM.AR
+address:     General Paz, 180, 
+address:     6000 - Junin - BA
+country:     AR
+phone:       +054 236 4664720 []
+created:     20150430
+changed:     20150603
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

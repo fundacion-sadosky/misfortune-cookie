@@ -1,0 +1,46 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-06 01:50:21 (BRST -02:00)
+
+inetnum:     200.31.240/20
+status:      allocated
+aut-num:     AS52416
+abuse-c:     AMC12
+owner:       COOP LTDA DE LUZ Y FUERZA ELECT. DE MAR DE AJO
+ownerid:     AR-CLLY-LACNIC
+responsible: Adriel Correa acorrea@clyfema.com.ar
+address:     AVDA. LIBERTADOR, 569, 
+address:     7109 - Mar de Ajo - BA
+country:     AR
+phone:       +54 2257 420022 []
+owner-c:     AMC12
+tech-c:      AMC12
+abuse-c:     AMC12
+created:     20121025
+changed:     20121025
+
+nic-hdl:     AMC12
+person:      Adriel Matias Correa
+e-mail:      acorrea@CLYFEMA.COM.AR
+address:     Avda. Libertador, 569, 
+address:     7109 - Mar de Ajo - BA
+country:     AR
+phone:       +54 2257 604000 []
+created:     20120111
+changed:     20141003
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

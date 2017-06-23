@@ -1,0 +1,45 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 21:22:11 (BRST -02:00)
+
+inetnum:     168.196.24/22
+status:      allocated
+aut-num:     N/A
+owner:       ISP GROUP SRL
+ownerid:     AR-IGSR4-LACNIC
+responsible: Nicolas Gimenez
+address:     Salliquello, 742, 
+address:     8000 - Bahia Blanca - 
+country:     AR
+phone:       +54 291 155777424 []
+owner-c:     NIG8
+tech-c:      NIG8
+abuse-c:     NIG8
+created:     20160823
+changed:     20160823
+
+nic-hdl:     NIG8
+person:      Nicolas Gimenez
+e-mail:      nicolas.gimenez@ISPGROUP.COM.AR
+address:     Salliquello, 742, 
+address:     8000 - Bahia Blanca - BU
+country:     AR
+phone:       +54 9291 2915777424 []
+created:     20160428
+changed:     20160428
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

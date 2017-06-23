@@ -1,0 +1,52 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-06 00:34:06 (BRST -02:00)
+
+inetnum:     190.124.208/21
+status:      assigned
+aut-num:     N/A
+owner:       FUNDACION DEL SUR PARA EL DESARROLLO TECNOLOGICO (FUNDASUR)
+ownerid:     AR-FSPE-LACNIC
+responsible: José Festa
+address:     12 DE OCTUBRE, 1842, 
+address:     8000 - BAHIA BLANCA - BA
+country:     AR
+phone:       +54 291 4861666 [345]
+owner-c:     CAM15
+tech-c:      CAM15
+abuse-c:     CAM15
+inetrev:     190.124.208/21
+nserver:     NS1.CRIBA.EDU.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NS2.CRIBA.EDU.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+created:     20100104
+changed:     20100104
+
+nic-hdl:     CAM15
+person:      CARLOS MATRANGOLO
+e-mail:      symatran@CRIBA.EDU.AR
+address:     Camino La Carrindanga, Km.7, 
+address:     8000 - BAHIA BLANCA - BA
+country:     AR
+phone:       +54 291 4861666 [345]
+created:     20070420
+changed:     20101207
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

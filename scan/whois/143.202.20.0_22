@@ -1,0 +1,45 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 20:56:04 (BRST -02:00)
+
+inetnum:     143.202.20/22
+status:      allocated
+aut-num:     N/A
+owner:       TECNO AZAR S.A.
+ownerid:     AR-TASA62-LACNIC
+responsible: Leandro Pascual Rios
+address:     TTE.GRAL. JUAN PERON, 1143, 
+address:     1038 - Ciudad Autonoma de Buenos Aires - 
+country:     AR
+phone:       +54 2477 427033 []
+owner-c:     LPR7
+tech-c:      LPR7
+abuse-c:     LPR7
+created:     20150929
+changed:     20150929
+
+nic-hdl:     LPR7
+person:      Leandro Pascual Rios
+e-mail:      leandrorios@TECNOAZAR.COM.AR
+address:     Sarmiento, 1050, Tita 6 PB F
+address:     2700 - Pergamino - BA
+country:     AR
+phone:       +54 2477 465068 []
+created:     20150707
+changed:     20150707
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

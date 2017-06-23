@@ -1,0 +1,66 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 20:53:17 (BRST -02:00)
+
+inetnum:     143.0.76/22
+status:      allocated
+aut-num:     N/A
+owner:       CPS
+ownerid:     AR-CPSC2-LACNIC
+responsible: Adrian Gaido
+address:     J. A. Roca, 620, P 8
+address:     1067 - Capital Federal - CF
+country:     AR
+phone:       +54 11 60911030 []
+owner-c:     ADG3
+tech-c:      ADG3
+abuse-c:     ADG3
+inetrev:     143.0.76/24
+nserver:     NS1.CPS.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NS2.CPS.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+inetrev:     143.0.77/24
+nserver:     NS1.CPS.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     NS2.CPS.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+inetrev:     143.0.78/23
+nserver:     NS1.CPS.COM.AR  
+nsstat:      20170102 AA
+nslastaa:    20170102
+nserver:     NS2.CPS.COM.AR  
+nsstat:      20170102 AA
+nslastaa:    20170102
+created:     20151019
+changed:     20151019
+
+nic-hdl:     ADG3
+person:      Adrian Gaido 1
+e-mail:      abuse@METROTEL.COM.AR
+address:     Tacuari, 351, P 1
+address:     1067 - Capital Federal - 
+country:     AR
+phone:       +54 11 60911030 []
+created:     20060908
+changed:     20121127
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

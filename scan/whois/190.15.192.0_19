@@ -1,0 +1,52 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 23:39:47 (BRST -02:00)
+
+inetnum:     190.15.192/19
+status:      allocated
+aut-num:     N/A
+owner:       Informática y Telecomunicaciones S.A.
+ownerid:     AR-IYTS-LACNIC
+responsible: Sergio Lorenzo
+address:     Perú, 1070, 
+address:     M5500FAX - Mendoza - MZ
+country:     AR
+phone:       +54 261 4134500 []
+owner-c:     SEL2
+tech-c:      SEL2
+abuse-c:     SEL2
+inetrev:     190.15.192/19
+nserver:     CHOIQUE.ITCSA.NET.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     TOMERO.ITCSA.NET.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+created:     20070201
+changed:     20070201
+
+nic-hdl:     SEL2
+person:      Sergio Lorenzo
+e-mail:      sergiol@ITCSA.NET.AR
+address:     Perú, 1070, 
+address:     M5500FAX - Mendoza - 
+country:     AR
+phone:       +054 261 4134500 []
+created:     20030413
+changed:     20061127
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

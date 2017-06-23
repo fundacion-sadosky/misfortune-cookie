@@ -1,0 +1,60 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-06 00:21:09 (BRST -02:00)
+
+inetnum:     190.114.192/19
+status:      assigned
+aut-num:     N/A
+owner:       Universidad Tecnologica Nacional
+ownerid:     AR-UTNA2-LACNIC
+responsible: Juan Palmieri
+address:     Sarmiento, 440, 
+address:     C1041AAJ - Ciudad Aut. de Buenos Aires - BA
+country:     AR
+phone:       +54 11 53715600 []
+owner-c:     GBF
+tech-c:      GBF
+abuse-c:     GBF
+inetrev:     190.114.212/22
+nserver:     PANDA.UTN.EDU.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     NS3.UTN.EDU.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+inetrev:     190.114.216/22
+inetrev:     190.114.222/23
+nserver:     NS3.UTN.EDU.AR  
+nsstat:      20170102 AA
+nslastaa:    20170102
+nserver:     PANDA.UTN.EDU.AR  
+nsstat:      20170102 AA
+nslastaa:    20170102
+created:     20100111
+changed:     20140623
+
+nic-hdl:     GBF
+person:      Gerardo B Fernandez
+e-mail:      gfernandez@REC.UTN.EDU.AR
+address:     Sarmiento, 440, piso 5
+address:     C1041AAJ - Cdad. Autonoma de Buenos Aires - 
+country:     AR
+phone:       +54 11 5371 [5667]
+created:     20091103
+changed:     20091103
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

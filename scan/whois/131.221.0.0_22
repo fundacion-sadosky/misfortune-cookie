@@ -1,0 +1,52 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 20:15:42 (BRST -02:00)
+
+inetnum:     131.221.0/22
+status:      assigned
+aut-num:     N/A
+owner:       UNIVERSIDAD NACIONAL DEL CENTRO DE LA PROVINCIA DE BUENOS AIRES
+ownerid:     AR-UNCL-LACNIC
+responsible: Martin Bradaschia
+address:     Pinto, 399, 
+address:     7000 - Tandil - BA
+country:     AR
+phone:       +54 4 385505 []
+owner-c:     MAB212
+tech-c:      MAB212
+abuse-c:     MAB212
+inetrev:     131.221.0/22
+nserver:     NS-1.UNICEN.EDU.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     NS-2.UNICEN.EDU.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+created:     20141010
+changed:     20141010
+
+nic-hdl:     MAB212
+person:      Martin Bradaschia
+e-mail:      mbrada@REC.UNICEN.EDU.AR
+address:     Pinto 399, , 
+address:     7000 - Tandil - BA
+country:     AR
+phone:       +54 249 4385505 []
+created:     20140522
+changed:     20140522
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

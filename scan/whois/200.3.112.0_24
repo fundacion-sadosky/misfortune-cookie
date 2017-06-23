@@ -1,0 +1,42 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-06 01:15:36 (BRST -02:00)
+
+inetnum:     200.3.112/24
+status:      assigned
+aut-num:     N/A
+owner:       Logicel, S.A.
+ownerid:     AR-LOSA-LACNIC
+address:     Aisina 1360 6to
+address:     1088 Buenos Aires
+country:     AR
+owner-c:     GN63-ARIN
+created:     19950523
+changed:     19950523
+source:      ARIN-HISTORIC
+
+nic-hdl:     GN63-ARIN
+person:      Gabriel Nunez
+e-mail:      
+address:     Logicel, S.A.
+address:     Aisina 1360 6to
+address:     1088 Buenos Aires
+country:     AR
+phone:       +54-1-381-9057
+source:      ARIN-HISTORIC
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

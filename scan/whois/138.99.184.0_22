@@ -1,0 +1,45 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 20:28:34 (BRST -02:00)
+
+inetnum:     138.99.184/22
+status:      allocated
+aut-num:     N/A
+owner:       Iperactive SA
+ownerid:     AR-IPSA10-LACNIC
+responsible: Alejandro Yapour
+address:     Belgrano, 2913, Olavarria
+address:     7400 - Buenos Aires - BA
+country:     AR
+phone:       +54 2248 426441 []
+owner-c:     ALY2
+tech-c:      ALY2
+abuse-c:     ALY2
+created:     20150409
+changed:     20150409
+
+nic-hdl:     ALY2
+person:      Alejandro Yapour
+e-mail:      alejandro@37SUR.COM
+address:     Belgrano, 2913, 
+address:     7400 - Olavarria - BA
+country:     AR
+phone:       +54 2284 426441 []
+created:     20110905
+changed:     20110905
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

@@ -1,0 +1,49 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-06 02:52:32 (BRST -02:00)
+
+inetnum:     200.123.240/20
+status:      allocated
+aut-num:     N/A
+owner:       INTERCITY COMUNICACIONES S.A.
+ownerid:     AR-ICSA22-LACNIC
+responsible: Ivan Pecovich
+address:     AVENIDA ITALIA, 1837, -
+address:     - - RIO CUARTO - CB
+country:     AR
+phone:       +54 358 4210000 [104]
+owner-c:     ICS4
+tech-c:      ICS4
+abuse-c:     ICS4
+inetrev:     200.123.240/20
+nserver:     NS1.INTERCITY.NET.AR  
+nsstat:      20170101 AA
+nslastaa:    20170101
+created:     20120910
+changed:     20120910
+
+nic-hdl:     ICS4
+person:      INTERCITY COMUNICACIONES S.A.
+e-mail:      lacnic@INTERCITY.NET.AR
+address:     AVENIDA ITALIA, 1837, 
+address:     5800 - RIO CUARTO - 
+country:     AR
+phone:       +54 0358 4210000 [109]
+created:     20110928
+changed:     20130703
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

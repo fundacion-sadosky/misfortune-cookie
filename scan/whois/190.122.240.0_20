@@ -1,0 +1,58 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-06 00:29:33 (BRST -02:00)
+
+inetnum:     190.122.240/20
+status:      assigned
+aut-num:     N/A
+owner:       Universidad Nacional del Litoral
+ownerid:     AR-UNLI1-LACNIC
+responsible: José Luis del Barco
+address:     Pje. Martínez, 2652, 
+address:     S3002AAB - Santa Fe - SF
+country:     AR
+phone:       +54 342 4554245 []
+owner-c:     JLB5
+tech-c:      JLB5
+abuse-c:     JLB5
+inetrev:     190.122.240/20
+nserver:     DNS1.UNL.EDU.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     DNS2.UNL.EDU.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     DNS3.UNL.EDU.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     DNS4.UNL.EDU.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+created:     20090707
+changed:     20090707
+
+nic-hdl:     JLB5
+person:      José Luis del Barco
+e-mail:      jdeba@UNL.EDU.AR
+address:     Pje. Martínez, 2652, 
+address:     S3002AAB - Santa Fe - SF
+country:     AR
+phone:       +54 342 4554245 []
+created:     20080712
+changed:     20130920
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

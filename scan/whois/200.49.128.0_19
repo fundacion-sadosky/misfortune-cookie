@@ -1,0 +1,96 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-06 01:59:28 (BRST -02:00)
+
+inetnum:     200.49.128/19
+status:      allocated
+aut-num:     N/A
+owner:       CABLEVISION S.A.
+ownerid:     AR-CASA10-LACNIC
+responsible: Esteban Poggio
+address:     Aguero, 3440, 
+address:     1605 - Munro - BA
+country:     AR
+phone:       +54 11 51996100 []
+owner-c:     NEA
+tech-c:      NEA
+abuse-c:     NEA
+inetrev:     200.49.128/20
+nserver:     DNS1.CVTCI.COM.AR  
+nsstat:      20170102 AA
+nslastaa:    20170102
+nserver:     DNS2.CVTCI.COM.AR  
+nsstat:      20170102 AA
+nslastaa:    20170102
+inetrev:     200.49.144/24
+inetrev:     200.49.145/24
+nserver:     DNS1.CVTCI.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     DNS2.CVTCI.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+inetrev:     200.49.147/24
+nserver:     DNS1.CVTCI.COM.AR  
+nsstat:      20170101 AA
+nslastaa:    20170101
+nserver:     DNS2.CVTCI.COM.AR  
+nsstat:      20170101 AA
+nslastaa:    20170101
+inetrev:     200.49.149/24
+nserver:     DNS1.CVTCI.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     DNS2.CVTCI.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+inetrev:     200.49.151/24
+nserver:     DNS1.CVTCI.COM.AR  
+nsstat:      20170101 AA
+nslastaa:    20170101
+nserver:     DNS2.CVTCI.COM.AR  
+nsstat:      20170101 AA
+nslastaa:    20170101
+inetrev:     200.49.152/24
+nserver:     DNS1.CVTCI.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     DNS2.CVTCI.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+inetrev:     200.49.154/24
+inetrev:     200.49.156/22
+nserver:     DNS1.CVTCI.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     DNS2.CVTCI.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+created:     20000630
+changed:     20030429
+
+nic-hdl:     NEA
+person:      Network Administrator
+e-mail:      lacnic@CABLEVISION.COM.AR
+address:     Aguero, 3440, 2 Piso
+address:     1605 - Munro - BA
+country:     AR
+phone:       +54 11 47786569 []
+created:     20030204
+changed:     20160505
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

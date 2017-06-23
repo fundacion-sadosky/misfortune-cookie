@@ -1,0 +1,65 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-06 02:43:26 (BRST -02:00)
+
+inetnum:     200.115.0/20
+status:      allocated
+aut-num:     N/A
+owner:       Servicio Satelital S.A.
+ownerid:     AR-SSSA2-LACNIC
+responsible: Alfredo Francolini
+address:     Suipacha, 1067, 4to piso B
+address:     C1008AAU - Buenos Aires - CF
+country:     AR
+phone:       +54 11 43171800 []
+owner-c:     CRA4
+tech-c:      ADI4
+abuse-c:     ADI4
+inetrev:     200.115.0/20
+nserver:     DNS1.SSATELITAL.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     DNS2.SSATELITAL.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     DNS3.SSATELITAL.COM.AR  [lame - not published]
+nsstat:      20170104 TIMEOUT
+nslastaa:    20101116
+created:     20041214
+changed:     20041214
+
+nic-hdl:     ADI4
+person:      Administracion IP
+e-mail:      ipadmin@SSATELITAL.COM.AR
+address:     Peron, 949, 5to piso
+address:     1038 - Buenos Aires - --
+country:     AR
+phone:       +54 11 6334 [1000]
+created:     20041103
+changed:     20041103
+
+nic-hdl:     CRA4
+person:      CRIVICICH ANTONIO
+e-mail:      acrivicich@SATELITAL.COM.AR
+address:     SUIPACHA, 1067, 4 B
+address:     1008 - CAPITAL FEDERAL - BA
+country:     AR
+phone:       +54 11 41525100 []
+created:     20121219
+changed:     20151119
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

@@ -1,0 +1,62 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 22:34:28 (BRST -02:00)
+
+inetnum:     181.118.128/20
+status:      allocated
+aut-num:     N/A
+owner:       SITERNET SRL
+ownerid:     AR-SISR20-LACNIC
+responsible: Roberto Boero
+address:     Avenida Buzon, 782, --
+address:     7000 - Buenos Aires - BA
+country:     AR
+phone:       +54 249 4433600 []
+owner-c:     GRP26
+tech-c:      SIS34
+abuse-c:     SIS34
+inetrev:     181.118.128/20
+nserver:     DNS1.RSONET.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     DNS2.RSONET.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+created:     20131011
+changed:     20131011
+
+nic-hdl:     GRP26
+person:      graciela picchi
+e-mail:      gracielapicchi@RURALINK.COM.AR
+address:     Av Buzon, 782, 
+address:     7000 - Tandil - Bs
+country:     AR
+phone:       +54 9249 4550563 []
+created:     20151023
+changed:     20151023
+
+nic-hdl:     SIS34
+person:      SITERNET SRL
+e-mail:      rboero@SOMTIK.COM
+address:     av Buzon, 782, 
+address:     7000 - tandil - 
+country:     AR
+phone:       +54 249 4433600 []
+created:     20130605
+changed:     20140211
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

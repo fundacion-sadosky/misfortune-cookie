@@ -1,0 +1,52 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-06 15:15:56 (BRST -02:00)
+
+inetnum:     167.252/16
+status:      assigned
+aut-num:     N/A
+owner:       Cerveceria Y Malteria Quilmes
+ownerid:     AR-CYMQ-LACNIC
+responsible: Cerveceria Quilmes Tecnologia
+address:     12 de Octubre y Gran Canaria, SN, 
+address:     1878 - Quilmes - BA
+country:     AR
+phone:       +54 011 4349 [1700]
+owner-c:     CQT
+tech-c:      CQT
+abuse-c:     CQT
+inetrev:     167.252/16
+nserver:     NS1.QUILMES.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     NS2.QUILMES.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+created:     19931126
+changed:     19931126
+
+nic-hdl:     CQT
+person:      Cerveceria Quilmes Tecnologia
+e-mail:      tecnocmq@QUILMES.COM.AR
+address:     12 de Octubre y Gran Canaria, S/N, 
+address:     B1878AAB - Quilmes - 
+country:     AR
+phone:       +54 11 4349-1700 [1707]
+created:     20050822
+changed:     20061105
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

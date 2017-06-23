@@ -1,0 +1,84 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 22:27:30 (BRST -02:00)
+
+inetnum:     181.16.128/17
+status:      allocated
+aut-num:     N/A
+owner:       Colsecor Cooperativa Limitada
+ownerid:     AR-CCLI2-LACNIC
+responsible: Administrador IP Colsecor
+address:     Rodriguez del Busto, 2724, -
+address:     X5009DXJ - Córdoba - 
+country:     AR
+phone:       +54 351 4812000 []
+owner-c:     AIL48
+tech-c:      AIL48
+abuse-c:     AAC58
+inetrev:     181.16.132/24
+nserver:     REVERSO.COLSECOR.NET.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+inetrev:     181.16.133/24
+inetrev:     181.16.135/24
+inetrev:     181.16.143/24
+inetrev:     181.16.144/24
+nserver:     REVERSO.COLSECOR.NET.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+inetrev:     181.16.146/24
+inetrev:     181.16.169/24
+nserver:     REVERSO.COLSECOR.NET.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+inetrev:     181.16.180/24
+nserver:     REVERSO.COLSECOR.NET.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+inetrev:     181.16.183/24
+inetrev:     181.16.191/24
+nserver:     REVERSO.COLSECOR.NET.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+inetrev:     181.16.197/24
+nserver:     REVERSO.COLSECOR.NET.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+created:     20110105
+changed:     20160822
+
+nic-hdl:     AAC58
+person:      ADM Abuso Cooperativa Colsecor
+e-mail:      abuse@COLSECOR.COM.AR
+address:     Castro Barros, 146, 
+address:     X5000HTO - Córdoba - Co
+country:     AR
+phone:       +54 351 4719096 [330]
+created:     20150127
+changed:     20150127
+
+nic-hdl:     AIL48
+person:      ADM IP Colsecor Ltda.
+e-mail:      ipadmin@COLSECOR.COM.AR
+address:     Rodriguez Del Busto, 2724, 
+address:     X5009DXJ - Córdoba - Co
+country:     AR
+phone:       +54 351 4812000 [330]
+created:     20150127
+changed:     20160908
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

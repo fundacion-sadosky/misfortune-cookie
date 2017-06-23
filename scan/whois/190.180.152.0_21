@@ -1,0 +1,49 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-06 00:39:05 (BRST -02:00)
+
+inetnum:     190.180.152/21
+status:      allocated
+aut-num:     N/A
+owner:       Cicomsa S.A.
+ownerid:     AR-CISA17-LACNIC
+responsible: Santiago Quagliata
+address:     Ruta 36 KM27500, , 
+address:     1888 - Florencio Varela - BA
+country:     AR
+phone:       +54 11 53640000 []
+owner-c:     CIS27
+tech-c:      CIS27
+abuse-c:     CIS27
+inetrev:     190.180.156/22
+nserver:     TOR.MSHQUIL.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+created:     20140515
+changed:     20140515
+
+nic-hdl:     CIS27
+person:      CICOMSA S.A.
+e-mail:      cicomsaips@SOPNET.COM.AR
+address:     Ruta 36 (ex ruta2) KM, 27500, 
+address:     1888 - Florencio Varela - BA
+country:     AR
+phone:       +0054 11 53640000 []
+created:     20131115
+changed:     20131115
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

@@ -1,0 +1,45 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-06 02:33:37 (BRST -02:00)
+
+inetnum:     200.106.248/21
+status:      assigned
+aut-num:     N/A
+owner:       Universidad Nacional de Jujuy
+ownerid:     AR-UNJU-LACNIC
+responsible: Germán Eduardo Jerez
+address:     Av. Bolivia, 1239, -
+address:     4600 - S.S.DE JUJUY - 
+country:     AR
+phone:       +54 388 4221602 []
+owner-c:     UNJ2
+tech-c:      UNJ2
+abuse-c:     UNJ2
+created:     20110930
+changed:     20110930
+
+nic-hdl:     UNJ2
+person:      Universidad Nacional de Jujuy
+e-mail:      informatica@UNJU.EDU.AR
+address:     Avenida Bolivia, 1239, 
+address:     4600 - San Salvador de Jujuy - 
+country:     AR
+phone:       +054 0388 4221602 []
+created:     20110603
+changed:     20110603
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

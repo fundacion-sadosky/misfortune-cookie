@@ -1,0 +1,45 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 21:35:30 (BRST -02:00)
+
+inetnum:     170.0.84/22
+status:      allocated
+aut-num:     N/A
+owner:       Dardo Rene Schroder
+ownerid:     AR-DRSC-LACNIC
+responsible: Dardo Rene Schroder
+address:     Av. Libertador, S/Nro, M:27 no determinado
+address:     3385 - Comandante Andresito - MS
+country:     AR
+phone:       +54 3757 497398 [507029]
+owner-c:     DRS26
+tech-c:      DRS26
+abuse-c:     DRS26
+created:     20160511
+changed:     20160511
+
+nic-hdl:     DRS26
+person:      Dardo Rene Schroder
+e-mail:      dschroder@PC-TRONICS.COM.AR
+address:     AV LIBERTADOR, S/NRO, M:27 NO DETERMINADO : ZONA INDUSTRIAL
+address:     3385 - Comandante Andresito - MS
+country:     AR
+phone:       +54 3757 497398 [507029]
+created:     20160315
+changed:     20160322
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

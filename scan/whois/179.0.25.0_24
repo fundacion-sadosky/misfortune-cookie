@@ -1,0 +1,55 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 22:07:37 (BRST -02:00)
+
+inetnum:     179.0.25/24
+status:      assigned
+aut-num:     N/A
+owner:       Fundación Universidad Empresarial Siglo 21
+ownerid:     AR-FUES2-LACNIC
+responsible: Nicolas Baldarena
+address:     Monseñor Pablo Cabrera Km 8,5, , 
+address:     5000 - Cordoba - CO
+country:     AR
+phone:       +54 351 4757562 [6562]
+owner-c:     NIB8
+tech-c:      NIB8
+abuse-c:     NIB8
+inetrev:     179.0.25/24
+nserver:     DNS3.UESIGLO21.EDU.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     DNS2.UESIGLO21.EDU.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     DNS1.UESIGLO21.EDU.AR  [lame - not published]
+nsstat:      20170105 TIMEOUT
+nslastaa:    20140903
+created:     20130806
+changed:     20130806
+
+nic-hdl:     NIB8
+person:      Nicolas Baldarena
+e-mail:      nicolas.baldarena@UES21.EDU.AR
+address:     Monseñor Pablo Cabrera Km 8.5, , 
+address:     5000 - Cordoba - CB
+country:     AR
+phone:       +54 351 4757562 [6562]
+created:     20130520
+changed:     20160831
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

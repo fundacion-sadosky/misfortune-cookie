@@ -1,0 +1,58 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-06 00:14:25 (BRST -02:00)
+
+inetnum:     190.112.32/21
+status:      allocated
+aut-num:     N/A
+owner:       Loop Coronel Suarez S.A.
+ownerid:     AR-LCSS-LACNIC
+responsible: Claudio M. Bottini
+address:     Rivadavia, 1063, 
+address:     7530 - Coronel Pringles - BA
+country:     AR
+phone:       +54 2922 465050 []
+owner-c:     LAA4
+tech-c:      LAA4
+abuse-c:     LAA4
+inetrev:     190.112.32/21
+nserver:     NS1.LOOPSUAREZ.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     NS2.LOOPSUAREZ.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     NS3.LOOPSUAREZ.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     NS4.LOOPSUAREZ.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+created:     20100806
+changed:     20110512
+
+nic-hdl:     LAA4
+person:      Leonel Alejandro Argal
+e-mail:      leoarg85@GMAIL.COM
+address:     Belgrano, 875, 
+address:     8170 - Pigüé - BA
+country:     AR
+phone:       +54 2923 415796 []
+created:     20110510
+changed:     20150319
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

@@ -1,0 +1,45 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 21:58:29 (BRST -02:00)
+
+inetnum:     170.238.67/24
+status:      assigned
+aut-num:     N/A
+owner:       TELEVISIÓN LITORAL S.A.
+ownerid:     AR-TLSA12-LACNIC
+responsible: Ignacio Mendez
+address:     Avenida. Pte. J. D. Perón, 8101, 
+address:     S2010AC - Rosario - 
+country:     AR
+phone:       +54  4575415 [341]
+owner-c:     IGM15
+tech-c:      IGM15
+abuse-c:     IGM15
+created:     20161128
+changed:     20161128
+
+nic-hdl:     IGM15
+person:      Ignacio Mendez
+e-mail:      ignacio.mendez@ROSARIO3.COM
+address:     Av. Pte. J. D. Perón, 8101, 
+address:     S2010ACF - Rosario - SF
+country:     AR
+phone:       +54 341 4575415 []
+created:     20160629
+changed:     20160629
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

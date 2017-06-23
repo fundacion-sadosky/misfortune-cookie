@@ -1,0 +1,45 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 22:29:35 (BRST -02:00)
+
+inetnum:     181.46/15
+status:      allocated
+aut-num:     N/A
+owner:       Telecentro S.A.
+ownerid:     AR-TESA26-LACNIC
+responsible: Administrador de Direcciones IP
+address:     Coronel Apolinario Figueroa, 254, 
+address:     C1414EDF - Buenos Aires - BA
+country:     AR
+phone:       +54 11 6380-9500 []
+owner-c:     FRH
+tech-c:      FRH
+abuse-c:     FRH
+created:     20111215
+changed:     20111215
+
+nic-hdl:     FRH
+person:      Administrador de Direcciones
+e-mail:      ipadmin@TELECENTRO.NET.AR
+address:     Coronel Apolinario Figueroa, 254, 
+address:     C1414EDF - Buenos Aires - 
+country:     AR
+phone:       +54 11 63809500 [0]
+created:     20060731
+changed:     20120919
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

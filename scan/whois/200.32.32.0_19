@@ -1,0 +1,73 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-06 01:51:03 (BRST -02:00)
+
+inetnum:     200.32.32/19
+status:      allocated
+aut-num:     N/A
+owner:       Telefonica de Argentina
+ownerid:     AR-TEAR7-LACNIC
+responsible: José Luis Pérez Elias
+address:     AV. ING. HUERGO, 723, GERENCIA DE REQUERIMIENTOS JUDICIALES
+address:     1065 - Buenos Aires - CF
+country:     AR
+phone:       +54  8102220102 []
+owner-c:     TEA
+tech-c:      TEA
+abuse-c:     TEA
+inetrev:     200.32.41/24
+nserver:     UL1.SATLINK.COM  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     UN1.SATLINK.COM  
+nsstat:      20170104 AA
+nslastaa:    20170104
+inetrev:     200.32.47/24
+nserver:     UL1.SATLINK.COM  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     UN1.SATLINK.COM  
+nsstat:      20170105 AA
+nslastaa:    20170105
+inetrev:     200.32.52/23
+nserver:     UL1.SATLINK.COM  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     UN1.SATLINK.COM  
+nsstat:      20170104 AA
+nslastaa:    20170104
+inetrev:     200.32.56/24
+nserver:     UN1.SATLINK.COM  
+nsstat:      20161231 AA
+nslastaa:    20161231
+nserver:     UL1.SATLINK.COM  
+nsstat:      20161231 AA
+nslastaa:    20161231
+created:     20010109
+changed:     20100412
+
+nic-hdl:     TEA
+person:      Telefonica de Argentina
+e-mail:      tasamail.ar@TELEFONICA.COM
+address:     AV. ING. HUERGO, 723, 
+address:     1065 - Capital Federal - BA
+country:     AR
+phone:       +54 11 43335000 []
+created:     20030618
+changed:     20110603
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

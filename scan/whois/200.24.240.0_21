@@ -1,0 +1,52 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-06 01:47:54 (BRST -02:00)
+
+inetnum:     200.24.240/21
+status:      allocated
+aut-num:     N/A
+owner:       JSNet S.A.
+ownerid:     AR-JSSA1-LACNIC
+responsible: Juan Piorno
+address:     San Martin, 607, 
+address:     6237 - America - 
+country:     AR
+phone:       +54 2337 453651 []
+owner-c:     JUP6
+tech-c:      JUP6
+abuse-c:     JUP6
+inetrev:     200.24.240/24
+nserver:     DNSAME.JSNET.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     SERVERTL.JSNET.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+created:     20071009
+changed:     20071009
+
+nic-hdl:     JUP6
+person:      Juan Piorno
+e-mail:      jsnetsa@JSNET.COM.AR
+address:     España, 62, 
+address:     6237 - America - 
+country:     AR
+phone:       +54 2337 453651 []
+created:     20041012
+changed:     20150408
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

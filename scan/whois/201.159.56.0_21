@@ -1,0 +1,45 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-06 03:02:01 (BRST -02:00)
+
+inetnum:     201.159.56/21
+status:      allocated
+aut-num:     N/A
+owner:       Grupo Servicios Junin S.A.
+ownerid:     AR-GSJU-LACNIC
+responsible: ALBERTO PEDRO DAMIANI
+address:     Coronel Suarez, 27, 
+address:     6000 - Junin - BA
+country:     AR
+phone:       +54 0236 4630057 []
+owner-c:     APD
+tech-c:      APD
+abuse-c:     APD
+created:     20140611
+changed:     20140611
+
+nic-hdl:     APD
+person:      ALBERTO PEDRO DAMIANI
+e-mail:      juan.aparicio@GRUPOJUNIN.COM.AR
+address:     CORONEL SUAREZ, 27, 
+address:     6000 - JUNIN - BA
+country:     AR
+phone:       +54 236 4630057 []
+created:     20081023
+changed:     20150916
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

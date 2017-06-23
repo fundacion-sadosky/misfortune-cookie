@@ -1,0 +1,74 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 20:16:44 (BRST -02:00)
+
+inetnum:     131.255.4/22
+status:      allocated
+aut-num:     AS61493
+abuse-c:     INS4
+owner:       InterBS S.R.L. (BAEHOST)
+ownerid:     AR-INSR15-LACNIC
+responsible: Javier Larrosa
+address:     Cabildo, 2230, Piso 5, Of B
+address:     1428 - Ciudad de Buenos Aires - 
+country:     AR
+phone:       +54 11 47868735 []
+owner-c:     INS4
+tech-c:      INS4
+abuse-c:     INS4
+inetrev:     131.255.4/24
+nserver:     DNSR1.BAEHOST.COM.AR  
+nsstat:      20170102 AA
+nslastaa:    20170102
+nserver:     DNSR2.BAEHOST.COM.AR  
+nsstat:      20170102 AA
+nslastaa:    20170102
+inetrev:     131.255.5/24
+nserver:     DNSR1.BAEHOST.COM.AR  
+nsstat:      20170104 TIMEOUT
+nslastaa:    20170101
+nserver:     DNSR2.BAEHOST.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+inetrev:     131.255.6/24
+nserver:     DNSR1.BAEHOST.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     DNSR2.BAEHOST.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+inetrev:     131.255.7/24
+nserver:     DNSR1.BAEHOST.COM.AR  
+nsstat:      20170101 AA
+nslastaa:    20170101
+nserver:     DNSR2.BAEHOST.COM.AR  
+nsstat:      20170101 AA
+nslastaa:    20170101
+created:     20141022
+changed:     20141022
+
+nic-hdl:     INS4
+person:      InTerBS SRL / BAEHOST.com
+e-mail:      info@INTERBS.COM.AR
+address:     Av. Cabildo, 2230, 5 B
+address:     C1428AAR - Ciudad de Buenos Aires - 
+country:     AR
+phone:       +54 11 47868735 []
+created:     20040225
+changed:     20141202
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

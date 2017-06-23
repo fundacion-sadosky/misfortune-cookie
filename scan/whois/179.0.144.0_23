@@ -1,0 +1,45 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 22:09:21 (BRST -02:00)
+
+inetnum:     179.0.144/23
+status:      assigned
+aut-num:     N/A
+owner:       Universidad Nacional de General Sarmiento
+ownerid:     AR-UNGS-LACNIC
+responsible: Analia Barberio
+address:     J. M. Gutierrez, 1150, --
+address:     1613 - Los Polvorines - BA
+country:     AR
+phone:       +54 11 44697512 []
+owner-c:     ANB55
+tech-c:      ANB55
+abuse-c:     ANB55
+created:     20131127
+changed:     20131127
+
+nic-hdl:     ANB55
+person:      Analia Barberio
+e-mail:      redes@UNGS.EDU.AR
+address:     J.M. Gutierrez, 1150, 
+address:     1613 - Los Polvorines, BA - Ar
+country:     AR
+phone:       +54 11 44697512 []
+created:     20130320
+changed:     20151109
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

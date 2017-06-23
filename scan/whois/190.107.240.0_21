@@ -1,0 +1,62 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-06 00:08:28 (BRST -02:00)
+
+inetnum:     190.107.240/21
+status:      allocated
+aut-num:     N/A
+owner:       RperezNet
+ownerid:     AR-RPER-LACNIC
+responsible: Alejandro Luna
+address:     Av. Mitre, 1455, 
+address:     7245 - Buenos Aires - CF
+country:     AR
+phone:       +54 11 66329000 []
+owner-c:     AFL27
+tech-c:      RBM
+abuse-c:     RBM
+inetrev:     190.107.247/24
+nserver:     DNS2.RSONET.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     DNS1.RSONET.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+created:     20091203
+changed:     20091203
+
+nic-hdl:     AFL27
+person:      Alejandro Fabian Luna
+e-mail:      informaticarl@RPEREZNET.COM.AR
+address:     bv alberdi 345, 345, 
+address:     6544 - Roque PErez - ba
+country:     AR
+phone:       +54 2227 470591 []
+created:     20130712
+changed:     20160210
+
+nic-hdl:     RBM
+person:      Roberto Boero Mansilla
+e-mail:      rboero@SOMTIK.COM
+address:     Los nogales, 535, 1
+address:     1727 - Marcos Paz, Buenos Aires - BA
+country:     AR
+phone:       +54 11 6632 [9000]
+created:     20071127
+changed:     20161230
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

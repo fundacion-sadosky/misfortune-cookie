@@ -1,0 +1,61 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 21:07:13 (BRST -02:00)
+
+inetnum:     167.250.168/22
+status:      allocated
+aut-num:     N/A
+owner:       COMUNIDAD 3 PLAY
+ownerid:     AR-COPL-LACNIC
+responsible: Valeria Beatriz Lucas
+address:     Victor Martinez, 275, 
+address:     1765 - Isidro Casanova - BA
+country:     AR
+phone:       +54 011 44678418 []
+owner-c:     VBL11
+tech-c:      VBL11
+abuse-c:     VBL11
+inetrev:     167.250.168/24
+nserver:     NS0.DNSMADEEASY.COM  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NS1.DNSMADEEASY.COM  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NS2.DNSMADEEASY.COM  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NS3.DNSMADEEASY.COM  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NS4.DNSMADEEASY.COM  
+nsstat:      20170104 AA
+nslastaa:    20170104
+created:     20151216
+changed:     20151216
+
+nic-hdl:     VBL11
+person:      Valeria Beatriz Lucas
+e-mail:      info@COMUNIDADTRESPLAY.COM
+address:     Victor Martinez, 275, 
+address:     1765 - La Matanza - bs
+country:     AR
+phone:       +54 011 1544361537 []
+created:     20130902
+changed:     20160527
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

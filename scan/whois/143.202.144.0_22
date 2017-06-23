@@ -1,0 +1,45 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 20:58:10 (BRST -02:00)
+
+inetnum:     143.202.144/22
+status:      allocated
+aut-num:     N/A
+owner:       COOP DE GRAL VIAMONTE
+ownerid:     AR-CGVI1-LACNIC
+responsible: W. SCHIAVONE; wschiavone.coegv@ceviamont
+address:     BARTOLOMÉ MITRE, 471, 
+address:     6015 - LOS TOLDOS - BA
+country:     AR
+phone:       +54 2358 442287 []
+owner-c:     CEV24
+tech-c:      CEV24
+abuse-c:     CEV24
+created:     20151013
+changed:     20151013
+
+nic-hdl:     CEV24
+person:      Cooperativa Electrica de Gral. Viamonte
+e-mail:      lostoldosips@SOPNET.COM.AR
+address:     Mitre, 471, 
+address:     6015 - Gral.Viamonte - 
+country:     AR
+phone:       +54 2358 442287 []
+created:     20150716
+changed:     20150716
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

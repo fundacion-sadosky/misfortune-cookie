@@ -1,0 +1,56 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 22:11:48 (BRST -02:00)
+
+inetnum:     179.0.224/19
+status:      allocated
+aut-num:     N/A
+owner:       COOPERATIVAS DE CALAMUCHITA - CONSORCIO DE COOPERACIÓN
+ownerid:     AR-CCCC2-LACNIC
+responsible: Juan José Borgialo
+address:     San Juan s/n, , 
+address:      - Almafuerte - 
+country:     AR
+phone:       +357 1 485650 []
+owner-c:     MAR181
+tech-c:      MAR181
+abuse-c:     MAR181
+inetrev:     179.0.225/24
+nserver:     NS1.SRCOOP.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     NS2.SRCOOP.COM.AR  [lame - not published]
+nsstat:      20170105 NOT SYNC ZONE
+nslastaa:    20140728
+inetrev:     179.0.249/24
+nserver:     SERVER2.COOPEMBALSE.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+created:     20140505
+changed:     20140505
+
+nic-hdl:     MAR181
+person:      Dario Tapia
+e-mail:      soporteit@TECNOREDSA.COM.AR
+address:     Libertad, 579, 
+address:     X5196 - Santa Rosa de Calamuchita - Cb
+country:     AR
+phone:       +54 3546 402157 []
+created:     20131001
+changed:     20131227
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

@@ -1,0 +1,65 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-06 01:13:09 (BRST -02:00)
+
+inetnum:     200.1.117/24
+status:      assigned
+aut-num:     N/A
+owner:       SIDERCA S.A.I.C.
+ownerid:     AR-ASTE1-LACNIC
+responsible: Matias Campolo
+address:     Dr. Simini, 250, Piso 15
+address:     2804 - Campana - CF
+country:     AR
+phone:       +54 11 40182252 []
+owner-c:     MAC294
+tech-c:      OSB3
+abuse-c:     OSB3
+inetrev:     200.1.117/24
+nserver:     OTSRV1.TECHINTGROUP.NET  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     NS1.TECHINTGROUP.NET  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     DSTCUNS1.SIDERCA.COM  
+nsstat:      20170105 AA
+nslastaa:    20170105
+created:     20030911
+changed:     20030911
+
+nic-hdl:     MAC294
+person:      Mariano Musante
+e-mail:      SIDLTTV@TENARIS.COM
+address:     Della Paolera, 299, 
+address:     C1001ADA - CABA - BA
+country:     AR
+phone:       +54 11 59849345 [49345]
+created:     20140421
+changed:     20150702
+
+nic-hdl:     OSB3
+person:      Facundo Gomila
+e-mail:      netmaster@TECSIS.COM
+address:     Av. Eduardo Madero, 942, Piso 3
+address:     C1106ACW - Buenos Aires - 
+country:     AR
+phone:       +54 11 5168 [2020]
+created:     20030804
+changed:     20061108
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

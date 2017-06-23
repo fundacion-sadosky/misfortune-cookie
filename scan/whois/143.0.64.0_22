@@ -1,0 +1,45 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 20:52:57 (BRST -02:00)
+
+inetnum:     143.0.64/22
+status:      allocated
+aut-num:     N/A
+owner:       DOVA SRL
+ownerid:     AR-DOSR-LACNIC
+responsible: PABLO VALPERGA
+address:     San Martin, 2211, 
+address:     1524 - San Miguel de Tucuman - 
+country:     AR
+phone:       +0054 0381 4321534 [00]
+owner-c:     PAV24
+tech-c:      PAV24
+abuse-c:     PAV24
+created:     20151008
+changed:     20151008
+
+nic-hdl:     PAV24
+person:      Pablo Valpergaq
+e-mail:      pvalperga@DOVANET.COM.AR
+address:     San Martin, 2211, 
+address:     4000 - San Miguel de Tucuman - Tu
+country:     AR
+phone:       +54 381 4321534 []
+created:     20140902
+changed:     20150715
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

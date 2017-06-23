@@ -1,0 +1,52 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 22:13:33 (BRST -02:00)
+
+inetnum:     179.42.176/20
+status:      allocated
+aut-num:     N/A
+owner:       NEOPHONE ARGENTINA SRL
+ownerid:     AR-CAPC1-LACNIC
+responsible: Hernán Pablo Fraiese
+address:     Malvinas Argentinas, 426, 
+address:     6720 - San Andres de Giles - BA
+country:     AR
+phone:       +54 2325 442898 []
+owner-c:     HEF9
+tech-c:      HEF9
+abuse-c:     HEF9
+inetrev:     179.42.184/22
+nserver:     NS1.ARECOONLINE.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NS2.ARECOONLINE.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+created:     20130905
+changed:     20130905
+
+nic-hdl:     HEF9
+person:      Hernan Pablo Fraiese
+e-mail:      hpfraiese@GILESONLINE.COM.AR
+address:     Malvinas Argentinas, 426, 
+address:     6720 - San Andrés de Giles - BA
+country:     AR
+phone:       +54 2325 442898 []
+created:     20100217
+changed:     20120319
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

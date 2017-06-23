@@ -1,0 +1,45 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-06 00:30:36 (BRST -02:00)
+
+inetnum:     190.123.112/21
+status:      allocated
+aut-num:     N/A
+owner:       Coop. Telefonica de Capitán Bermúdez
+ownerid:     AR-CTCB-LACNIC
+responsible: Coordinador Tecnico - Comercial
+address:     Rivadavia 91, --, 
+address:     S2154BFA - Capitán Bermúdez - SF
+country:     AR
+phone:       +54 341 4912200 [252]
+owner-c:     GUV6
+tech-c:      GUV6
+abuse-c:     GUV6
+created:     20110316
+changed:     20110316
+
+nic-hdl:     GUV6
+person:      Coordinador Tecnico-Comercial
+e-mail:      coordinador_netcoop@NETCOOP.COM.AR
+address:     Rivadavia, 91, 
+address:     S2154BFA - Capitan Bermudez - SF
+country:     AR
+phone:       +54 341 4912200 [252]
+created:     20061025
+changed:     20130813
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

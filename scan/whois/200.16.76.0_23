@@ -1,0 +1,52 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-06 01:42:59 (BRST -02:00)
+
+inetnum:     200.16.76/23
+status:      assigned
+aut-num:     N/A
+owner:       Metrovias S.A.
+ownerid:     AR-MESA-LACNIC
+responsible: Nicolas Urquiza
+address:     Las Heras, 402, 
+address:     5000 - Cordoba - 
+country:     AR
+phone:       +54 3 4104400 [9221]
+owner-c:     NIU2
+tech-c:      NIU2
+abuse-c:     NIU2
+inetrev:     200.16.76/23
+nserver:     NS01.PROMINENTE.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     NS02.PROMINENTE.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+created:     19950112
+changed:     19950112
+
+nic-hdl:     NIU2
+person:      Nicolas Urquiza
+e-mail:      nurquiza@GRUPOPROMINENTE.COM
+address:     Las Heras, 402, 
+address:     5000 - Cordoba - 
+country:     AR
+phone:       +54 3 4104400 [9221]
+created:     20080411
+changed:     20080411
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

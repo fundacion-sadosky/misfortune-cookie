@@ -1,0 +1,67 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-06 03:00:36 (BRST -02:00)
+
+inetnum:     201.139.80/22
+status:      allocated
+aut-num:     AS61449
+abuse-c:     DAF35
+owner:       RESEARCH SRL
+ownerid:     AR-RESR14-LACNIC
+responsible: Darío Fernández
+address:     Zabala, 3937, 
+address:     3300 - Posadas - 
+country:     AR
+phone:       +54 4 468157 []
+owner-c:     DAF35
+tech-c:      DAF35
+abuse-c:     DAF35
+inetrev:     201.139.80/23
+nserver:     DNS.RESEARCHSRL.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     DNS2.RESEARCHSRL.COM.AR  [lame - not published]
+nsstat:      20170104 QREFUSED
+nslastaa:    20161018
+inetrev:     201.139.82/24
+nserver:     DNS.RESEARCHSRL.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     DNS2.RESEARCHSRL.COM.AR  [lame - not published]
+nsstat:      20170104 QREFUSED
+nslastaa:    20161017
+inetrev:     201.139.83/24
+nserver:     DNS.RESEARCHSRL.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     DNS2.RESEARCHSRL.COM.AR  [lame - not published]
+nsstat:      20170105 QREFUSED
+nslastaa:    20161013
+created:     20140702
+changed:     20140702
+
+nic-hdl:     DAF35
+person:      Darío Ernesto Fernández
+e-mail:      dfernandez@RESEARCHSRL.COM.AR
+address:     Av. Tomas Guido, 4435, 
+address:     3300 - Posadas - 
+country:     AR
+phone:       +54 376 4619600 []
+created:     20140221
+changed:     20150511
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

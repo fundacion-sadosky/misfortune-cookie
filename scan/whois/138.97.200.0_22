@@ -1,0 +1,49 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 20:26:50 (BRST -02:00)
+
+inetnum:     138.97.200/22
+status:      allocated
+aut-num:     N/A
+owner:       GRUPO BARONE SRL
+ownerid:     AR-BMRI-LACNIC
+responsible: BARONE MATIAS RICARDO
+address:     Obligado, 149, 
+address:     2900 - SAN NICOLAS D LOS ARROYOS - BA
+country:     AR
+phone:       +54 336 4434491 []
+owner-c:     GBS16
+tech-c:      GBS16
+abuse-c:     GBS16
+inetrev:     138.97.200/23
+nserver:     DNS1.ISP-BARONE.COM.AR  
+nsstat:      20170104 TIMEOUT
+nslastaa:    20161225
+created:     20150331
+changed:     20150331
+
+nic-hdl:     GBS16
+person:      Grupo Barone SRL
+e-mail:      matias@BARONESN.COM
+address:     Obligado, 149, 
+address:     2900 - San Nicolas de los Arroyos - 
+country:     AR
+phone:       +54 336 4434491 []
+created:     20131119
+changed:     20160701
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

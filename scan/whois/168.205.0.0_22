@@ -1,0 +1,60 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 21:27:30 (BRST -02:00)
+
+inetnum:     168.205.0/22
+status:      allocated
+aut-num:     AS52399
+abuse-c:     NOA26
+owner:       NET ACEBAL S.A.
+ownerid:     AR-NASA34-LACNIC
+responsible: Nestor Bonfante
+address:     Las Heras, 585, 
+address:     2109 - Acebal - SF
+country:     AR
+phone:       +549 3469 693005 []
+owner-c:     NEB11
+tech-c:      NEB11
+abuse-c:     NEB11
+inetrev:     168.205.0/22
+nserver:     NS1.ACH-INTERNET.COM.AR  
+nsstat:      20170101 AA
+nslastaa:    20170101
+created:     20160225
+changed:     20160314
+
+nic-hdl:     NEB11
+person:      Nestor Bonfante
+e-mail:      nestorbonfante66@GMAIL.COM
+address:     Las Heras, 585, 
+address:     2109 - Acebal - SF
+country:     AR
+phone:       +54 3400 668173 []
+created:     20160118
+changed:     20160118
+
+nic-hdl:     NOA26
+person:      NOC - ACH
+e-mail:      recursosip@ALVAREZCABLEHOGAR.COM.AR
+address:     Rivadavia, 858, 
+address:     2107 - Alvarez - SF
+country:     AR
+phone:       +54 3402 462210 []
+created:     20120531
+changed:     20120531
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

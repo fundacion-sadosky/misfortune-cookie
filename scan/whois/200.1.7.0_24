@@ -1,0 +1,45 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-06 01:11:45 (BRST -02:00)
+
+inetnum:     200.1.7/24
+status:      assigned
+aut-num:     N/A
+owner:       Weatherford International Inc.
+ownerid:     AR-WIIN-LACNIC
+responsible: Martín Balbo
+address:     Bouchard, 547, Piso 23
+address:     C1106ABG - Buenos Aires - DF
+country:     AR
+phone:       +54 11 50770000 [5102]
+owner-c:     GAM65
+tech-c:      GAM65
+abuse-c:     GAM65
+created:     20080703
+changed:     20161227
+
+nic-hdl:     GAM65
+person:      Gabriel Mareque
+e-mail:      gabriel.mareque@LA.WEATHERFORD.COM
+address:     Bouchard, 547, 
+address:     1106 - CABA - 
+country:     AR
+phone:       +54 011 33699109 []
+created:     20161227
+changed:     20161227
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

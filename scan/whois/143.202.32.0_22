@@ -1,0 +1,45 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 20:56:46 (BRST -02:00)
+
+inetnum:     143.202.32/22
+status:      allocated
+aut-num:     N/A
+owner:       COOP. DE PROVISIÓN DE ELECTRICIDAD, SERVICIOS, VIVIENDA Y CRÉDITO DE MAR DEL PLATA LTDA
+ownerid:     AR-CPES1-LACNIC
+responsible: Jorge Falcone
+address:     Alberti 3600, 3600, 
+address:     7600 - Mar del Plata - 
+country:     AR
+phone:       +54 223 4951411 []
+owner-c:     CMP18
+tech-c:      CMP18
+abuse-c:     CMP18
+created:     20151027
+changed:     20151027
+
+nic-hdl:     CMP18
+person:      Cooperativa mar del plata
+e-mail:      mdpips@SOPNET.COM.AR
+address:     Alberti, 3600, 
+address:      - Mar del Plata - 
+country:     AR
+phone:       +54 223 4951411 [124]
+created:     20150822
+changed:     20150822
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

@@ -1,0 +1,45 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-06 02:55:00 (BRST -02:00)
+
+inetnum:     200.124.184/22
+status:      allocated
+aut-num:     N/A
+owner:       CABLESAT TV SRL
+ownerid:     AR-CTSR3-LACNIC
+responsible: Juan Pablo Ramello
+address:     MARCONI, 1083, 
+address:     5960 - CORDOBA - 
+country:     AR
+phone:       +54 351 3284023 []
+owner-c:     JPR2
+tech-c:      JPR2
+abuse-c:     JPR2
+created:     20120917
+changed:     20120917
+
+nic-hdl:     JPR2
+person:      JUAN PABLO RAMELLO
+e-mail:      jpramello@COPITEC.ORG.AR
+address:     PIO ANGULO, 154, 
+address:     2550 - BELL VILLE - 
+country:     AR
+phone:       +54 351 3284023 []
+created:     20120601
+changed:     20161125
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

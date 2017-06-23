@@ -1,0 +1,54 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-06 00:17:13 (BRST -02:00)
+
+inetnum:     190.112.216/22
+status:      allocated
+aut-num:     AS52465
+abuse-c:     FEK4
+owner:       WNet Internet y Hosting
+ownerid:     AR-WIYH-LACNIC
+responsible: Federico Kearney
+address:     Pellegrini, 1750, 9C
+address:     S2000BUR - Rosario - SF
+country:     AR
+phone:       +54 0341 447 [6898]
+owner-c:     FEK4
+tech-c:      FEK4
+abuse-c:     FEK4
+inetrev:     190.112.218/24
+nserver:     NS1.WNINTERNET.COM  
+nsstat:      20161231 AA
+nslastaa:    20161231
+inetrev:     190.112.219/24
+nserver:     NS1.WNINTERNET.COM  
+nsstat:      20170105 AA
+nslastaa:    20170105
+created:     20121016
+changed:     20121016
+
+nic-hdl:     FEK4
+person:      Federico Kearney
+e-mail:      info@WNINTERNET.COM
+address:     Pellegrini, 1750, 9C
+address:     S2000BUR - Rosario - SF
+country:     AR
+phone:       +54 0341 527 [1152]
+created:     20120626
+changed:     20130827
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

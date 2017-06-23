@@ -1,0 +1,45 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 20:23:21 (BRST -02:00)
+
+inetnum:     138.36.148/22
+status:      allocated
+aut-num:     N/A
+owner:       Pedraza Luis Eduardo (DANEZ)
+ownerid:     AR-PLED1-LACNIC
+responsible: Luis Eduardo Pedraza
+address:     Cruz del sur / San miguel, 3385, 
+address:     1663 - Buenos Aires - 
+country:     AR
+phone:       +54 11 44556283 []
+owner-c:     LEP34
+tech-c:      LEP34
+abuse-c:     LEP34
+created:     20150206
+changed:     20150206
+
+nic-hdl:     LEP34
+person:      luis eduardo pedraza
+e-mail:      danez@DANEZNET.COM
+address:     cruz del sur, 3385, san miguel
+address:     1663 - san miguel - Bu
+country:     AR
+phone:       +54 11 44556283 []
+created:     20141006
+changed:     20150106
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

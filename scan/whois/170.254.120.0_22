@@ -1,0 +1,45 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 22:04:08 (BRST -02:00)
+
+inetnum:     170.254.120/22
+status:      allocated
+aut-num:     N/A
+owner:       Quitilipi Televisora Color SRL
+ownerid:     AR-QTCS-LACNIC
+responsible: Claudio De Lange
+address:     Santa Cruz, 631, 
+address:     3530 - Quitilipi - CH
+country:     AR
+phone:       +54 364 4480247 []
+owner-c:     QTS2
+tech-c:      QTS2
+abuse-c:     QTS2
+created:     20160726
+changed:     20160726
+
+nic-hdl:     QTS2
+person:      Quitilipi televisora color srl
+e-mail:      claudiodelanghe@HFCDIGITAL.COM.AR
+address:     santa cruz, 631, 
+address:     3530 - quitilipi - 
+country:     AR
+phone:       +054 364 4480247 []
+created:     20160428
+changed:     20160530
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

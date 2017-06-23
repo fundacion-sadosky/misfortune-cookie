@@ -1,0 +1,76 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-06 00:17:55 (BRST -02:00)
+
+inetnum:     190.113.160/19
+status:      allocated
+aut-num:     N/A
+owner:       ARLINK S.A.
+ownerid:     AR-ARSA18-LACNIC
+responsible: Italo Rocha
+address:     Lisandro de la Torre, 150, 
+address:     5500 - Mendoza - 
+country:     AR
+phone:       +54 261 4496000 [6072]
+owner-c:     SGR
+tech-c:      SGR2
+abuse-c:     SGR2
+inetrev:     190.113.160/20
+nserver:     DHCP2MZA.SUPERCANAL.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+inetrev:     190.113.176/21
+nserver:     DHCP2MZA.SUPERCANAL.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+inetrev:     190.113.184/23
+inetrev:     190.113.187/24
+nserver:     DHCP2MZA.SUPERCANAL.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+inetrev:     190.113.189/24
+nserver:     DHCP2MZA.SUPERCANAL.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+inetrev:     190.113.191/24
+nserver:     DHCP2MZA.SUPERCANAL.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+created:     20100908
+changed:     20100908
+
+nic-hdl:     SGR
+person:      Italo Ezequiel Rocha
+e-mail:      lacnic@SUPERCANAL.COM.AR
+address:     Lisandro de la Torre, 150, 
+address:     5500 - Mendoza - 
+country:     AR
+phone:       +54 261 4496034 []
+created:     20090518
+changed:     20160927
+
+nic-hdl:     SGR2
+person:      Dante Renda
+e-mail:      dante@SUPERCANAL.COM.AR
+address:     Gral Paz, 323, 
+address:     5500 - Mendoza - 
+country:     AR
+phone:       +54 261 4254320 [6619]
+created:     20090529
+changed:     20161130
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

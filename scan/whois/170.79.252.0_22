@@ -1,0 +1,45 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 21:40:43 (BRST -02:00)
+
+inetnum:     170.79.252/22
+status:      allocated
+aut-num:     N/A
+owner:       VILLA GESELL TELEVISIÒN COMUNITARIA S.A.
+ownerid:     AR-VGTC-LACNIC
+responsible: Sergio Horbik
+address:     paseo 113 entre avenidas 14 y 15, , 
+address:     7165 - Villa gesell - BA
+country:     AR
+phone:       +54 2255 463397 []
+owner-c:     SEH16
+tech-c:      SEH16
+abuse-c:     SEH16
+created:     20161018
+changed:     20161018
+
+nic-hdl:     SEH16
+person:      Sergio Horbik
+e-mail:      shorbik@GESATEL.COM
+address:     Paseo 113 entre avenidas 14 y 15, S/N, 
+address:     7165 - Villa Gesell - BA
+country:     AR
+phone:       +54 2255 463397 [193]
+created:     20150226
+changed:     20150309
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

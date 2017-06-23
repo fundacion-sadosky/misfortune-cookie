@@ -1,0 +1,62 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-06 00:45:01 (BRST -02:00)
+
+inetnum:     190.188/15
+status:      allocated
+aut-num:     N/A
+owner:       Prima S.A.
+ownerid:     AR-PRSA-LACNIC
+responsible: Esteban Poggio
+address:     Hornos, 690, 
+address:     C1272ACL - Buenos Aires - 
+country:     AR
+phone:       +54 11 51996100 []
+owner-c:     MIF
+tech-c:      NEA
+abuse-c:     NEA
+inetrev:     190.188/15
+nserver:     O200.PRIMA.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     O2000.PRIMA.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+created:     20070621
+changed:     20070704
+
+nic-hdl:     MIF
+person:      Esteban Poggio
+e-mail:      lacnic@CABLEVISION.COM.AR
+address:     Hornos, 690, 
+address:     C1272ACL - Capital Federal - BA
+country:     AR
+phone:       +54 11 51996100 []
+created:     20021105
+changed:     20160505
+
+nic-hdl:     NEA
+person:      Network Administrator
+e-mail:      lacnic@CABLEVISION.COM.AR
+address:     Aguero, 3440, 2 Piso
+address:     1605 - Munro - BA
+country:     AR
+phone:       +54 11 47786569 []
+created:     20030204
+changed:     20160505
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

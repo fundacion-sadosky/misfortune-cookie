@@ -1,0 +1,49 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 22:33:46 (BRST -02:00)
+
+inetnum:     181.118.0/19
+status:      allocated
+aut-num:     N/A
+owner:       Alpha Tel S.A.
+ownerid:     AR-ATSA17-LACNIC
+responsible: Guillermo Santiago Vazquez
+address:     Calle Tucuman, 1, Piso 4
+address:     C1049AAA - Buenos Aires - CF
+country:     AR
+phone:       +54 11 43216367 []
+owner-c:     HOF7
+tech-c:      HOF7
+abuse-c:     HOF7
+inetrev:     181.118.0/19
+nserver:     NSF03.DIRECTVNET.COM.AR  
+nsstat:      20161231 AA
+nslastaa:    20161231
+created:     20120810
+changed:     20160307
+
+nic-hdl:     HOF7
+person:      Horacio Farias
+e-mail:      hfarias@DIRECTVLA.COM.AR
+address:     Capitán Justo G.Bermúdez, 4547, 
+address:     B1605DII - vicente lopez - ba
+country:     AR
+phone:       +0054 11 36988720 []
+created:     20160307
+changed:     20160307
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

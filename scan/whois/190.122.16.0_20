@@ -1,0 +1,62 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-06 00:25:42 (BRST -02:00)
+
+inetnum:     190.122.16/20
+status:      allocated
+aut-num:     N/A
+owner:       RSONet
+ownerid:     AR-RSON-LACNIC
+responsible: Mauricio Hidalgo
+address:     Mitre, 342, 
+address:     1727 - Marcos Paz - BA
+country:     AR
+phone:       +54 11 59184125 []
+owner-c:     MAR168
+tech-c:      RBM
+abuse-c:     RBM
+inetrev:     190.122.16/20
+nserver:     DNS1.RSONET.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     DNS2.RSONET.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+created:     20100310
+changed:     20100310
+
+nic-hdl:     MAR168
+person:      Maximiliano Ruiz
+e-mail:      mruiz@RSONET.COM.AR
+address:     Bme Mitre, 379, 
+address:      - Marcos Paz - BA
+country:     AR
+phone:       +54 11 59175252 []
+created:     20130712
+changed:     20160112
+
+nic-hdl:     RBM
+person:      Roberto Boero Mansilla
+e-mail:      rboero@SOMTIK.COM
+address:     Los nogales, 535, 1
+address:     1727 - Marcos Paz, Buenos Aires - BA
+country:     AR
+phone:       +54 11 6632 [9000]
+created:     20071127
+changed:     20161230
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

@@ -1,0 +1,52 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-06 00:13:01 (BRST -02:00)
+
+inetnum:     190.111.124/22
+status:      allocated
+aut-num:     N/A
+owner:       Coop. Provincia de Serv. Publicos y Comunitarios de Neuquen LTDA.
+ownerid:     AR-CPSY-LACNIC
+responsible: Christian Callejón
+address:     MITRE, 609, Neuquén
+address:     8300 - Neuquén - 
+country:     AR
+phone:       +54 299 15041097 []
+owner-c:     CHC6
+tech-c:      CHC6
+abuse-c:     CHC6
+inetrev:     190.111.124/22
+nserver:     NS1.LINUXNEUQUEN.COM.AR  
+nsstat:      20170102 AA
+nslastaa:    20170102
+nserver:     NS2.LINUXNEUQUEN.COM.AR  
+nsstat:      20170102 AA
+nslastaa:    20170102
+created:     20101027
+changed:     20101027
+
+nic-hdl:     CHC6
+person:      Christian Callejon
+e-mail:      christian@COOPERATIVACALF.COM.AR
+address:     Mitre, 609, 
+address:     8300 - Neuquen - NQ
+country:     AR
+phone:       +54 299 4487233 []
+created:     20100512
+changed:     20100512
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

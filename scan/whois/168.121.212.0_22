@@ -1,0 +1,45 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 21:14:31 (BRST -02:00)
+
+inetnum:     168.121.212/22
+status:      allocated
+aut-num:     N/A
+owner:       CORRAL DE BUSTOS TELEVISION SRL
+ownerid:     AR-CBTS-LACNIC
+responsible: Gino Genovesio
+address:     Entre Rios, 580, 
+address:     2645 - Corral de Bustos - CO
+country:     AR
+phone:       +54 3468 421800 []
+owner-c:     GIG21
+tech-c:      GIG21
+abuse-c:     GIG21
+created:     20160204
+changed:     20160204
+
+nic-hdl:     GIG21
+person:      Gino Genovesio
+e-mail:      ginoenzo@CORRALDEBUSTOSTV.COM
+address:     25 de Mayo, 339, 
+address:     2645 - Corral de Bustos - Cb
+country:     AR
+phone:       +54 3468 421185 []
+created:     20150915
+changed:     20161102
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

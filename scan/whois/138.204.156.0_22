@@ -1,0 +1,45 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 20:45:38 (BRST -02:00)
+
+inetnum:     138.204.156/22
+status:      allocated
+aut-num:     N/A
+owner:       Daniel Alejandro Tomsic( RF COMUNICACIONES)
+ownerid:     AR-DATR-LACNIC
+responsible: Daniel Alejandro Tomsic
+address:     Santiago, 1520, 00
+address:     4000 - San Miguel de Tucuman - 
+country:     AR
+phone:       +54 381 4238077 [00]
+owner-c:     DAT34
+tech-c:      DAT34
+abuse-c:     DAT34
+created:     20150812
+changed:     20150812
+
+nic-hdl:     DAT34
+person:      Daniel Alejandro Tomsic
+e-mail:      daniel@RFCOM.COM.AR
+address:     Santiago, 1520, 
+address:     4000 - San Miguel de Tucuman - Tu
+country:     AR
+phone:       +54 381 4238077 []
+created:     20140902
+changed:     20150504
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

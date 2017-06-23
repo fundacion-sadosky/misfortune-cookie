@@ -1,0 +1,45 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 21:59:15 (BRST -02:00)
+
+inetnum:     170.238.204/22
+status:      allocated
+aut-num:     N/A
+owner:       COOP DE PROV DE SERV PUBLICOS TELEFON VIVIENDA CONSUMO Y CREDITO DE EL HOYO LTDA
+ownerid:     AR-CCST-LACNIC
+responsible: Daniel Kondratiuk daniel.kondratiuk@gmai
+address:     Islas Malvinas, S/N, 
+address:     8431 - El Hoyo - ch
+country:     AR
+phone:       +54 2944 471846 []
+owner-c:     MAQ18
+tech-c:      MAQ18
+abuse-c:     MAQ18
+created:     20161111
+changed:     20161111
+
+nic-hdl:     MAQ18
+person:      Maximo Quijano
+e-mail:      mquijano@COSTELHO.COM.AR
+address:     islas malvinas, 0, coop
+address:     9211 - el hoyo - CH
+country:     AR
+phone:       +54 294 4471952 []
+created:     20130524
+changed:     20160517
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

@@ -1,0 +1,52 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-06 01:15:57 (BRST -02:00)
+
+inetnum:     200.3.113/24
+status:      assigned
+aut-num:     N/A
+owner:       Instituto Nacional de Tecnologia Industrial (INTI)
+ownerid:     AR-INTI-LACNIC
+responsible: Anibal Foti
+address:     Avenida General Paz, 5445, 
+address:     1650 - San Martin - 
+country:     AR
+phone:       +054 11 4724-6915 []
+owner-c:     ANF7
+tech-c:      ANF7
+abuse-c:     ANF7
+inetrev:     200.3.113/24
+nserver:     NS1.INTI.GOV.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     NS2.INTI.GOV.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+created:     19950523
+changed:     20020628
+
+nic-hdl:     ANF7
+person:      Anibal Foti
+e-mail:      dominios@INTI.GOV.AR
+address:     Avenida General Paz, 5445, 
+address:     1650 - San Martin - 
+country:     AR
+phone:       +054 011 4724-6915 []
+created:     20090519
+changed:     20090519
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

@@ -1,0 +1,158 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 23:34:32 (BRST -02:00)
+
+inetnum:     190.12.224/19
+status:      allocated
+aut-num:     N/A
+owner:       Interdotnet Argentina S.A.
+ownerid:     AR-IASA5-LACNIC
+responsible: Enzo Fusaro
+address:     Maipú, 24, -
+address:     1084 - Capital Federal - 
+country:     AR
+phone:       +54 11 6328-1500 []
+owner-c:     RUB2
+tech-c:      RUB2
+abuse-c:     RUB2
+inetrev:     190.12.225/24
+inetrev:     190.12.226/24
+nserver:     NS5.AR.INTER.NET  [lame - not published]
+nsstat:      20170103 TIMEOUT
+nslastaa:    20150211
+nserver:     NS6.AR.INTER.NET  [lame - not published]
+nsstat:      20170103 TIMEOUT
+nslastaa:    20150211
+inetrev:     190.12.227/24
+nserver:     NS5.AR.INTER.NET  [lame - not published]
+nsstat:      20170104 ERR
+nslastaa:    20150211
+nserver:     NS6.AR.INTER.NET  [lame - not published]
+nsstat:      20170104 ERR
+nslastaa:    20150211
+inetrev:     190.12.228/24
+nserver:     NS5.AR.INTER.NET  [lame - not published]
+nsstat:      20170105 TIMEOUT
+nslastaa:    20150208
+nserver:     NS6.AR.INTER.NET  [lame - not published]
+nsstat:      20170105 TIMEOUT
+nslastaa:    20150208
+inetrev:     190.12.229/24
+nserver:     NS5.AR.INTER.NET  [lame - not published]
+nsstat:      20170105 TIMEOUT
+nslastaa:    20150211
+nserver:     NS6.AR.INTER.NET  [lame - not published]
+nsstat:      20170105 TIMEOUT
+nslastaa:    20150211
+inetrev:     190.12.230/24
+nserver:     NS5.AR.INTER.NET  [lame - not published]
+nsstat:      20170104 ERR
+nslastaa:    20150210
+nserver:     NS6.AR.INTER.NET  [lame - not published]
+nsstat:      20170104 ERR
+nslastaa:    20150210
+inetrev:     190.12.231/24
+nserver:     NS5.AR.INTER.NET  [lame - not published]
+nsstat:      20170105 ERR
+nslastaa:    20150208
+nserver:     NS6.AR.INTER.NET  [lame - not published]
+nsstat:      20170105 ERR
+nslastaa:    20150208
+inetrev:     190.12.232/24
+nserver:     NS5.AR.INTER.NET  [lame - not published]
+nsstat:      20170105 ERR
+nslastaa:    20150211
+nserver:     NS6.AR.INTER.NET  [lame - not published]
+nsstat:      20170105 ERR
+nslastaa:    20150211
+nserver:     NS7.AR.INTER.NET  [lame - not published]
+nsstat:      20170105 ERR
+nslastaa:    20120619
+inetrev:     190.12.233/24
+nserver:     NS5.AR.INTER.NET  [lame - not published]
+nsstat:      20170103 ERR
+nslastaa:    20150211
+nserver:     NS6.AR.INTER.NET  [lame - not published]
+nsstat:      20170103 ERR
+nslastaa:    20150211
+nserver:     NS7.AR.INTER.NET  [lame - not published]
+nsstat:      20170103 ERR
+nslastaa:    20120619
+inetrev:     190.12.234/24
+nserver:     NS5.AR.INTER.NET  [lame - not published]
+nsstat:      20170103 ERR
+nslastaa:    20150209
+nserver:     NS6.AR.INTER.NET  [lame - not published]
+nsstat:      20170103 ERR
+nslastaa:    20150209
+nserver:     NS7.AR.INTER.NET  [lame - not published]
+nsstat:      20170103 TIMEOUT
+nslastaa:    20120620
+inetrev:     190.12.235/24
+nserver:     NS5.AR.INTER.NET  [lame - not published]
+nsstat:      20170105 ERR
+nslastaa:    20150210
+nserver:     NS6.AR.INTER.NET  [lame - not published]
+nsstat:      20170105 ERR
+nslastaa:    20150210
+nserver:     NS7.AR.INTER.NET  [lame - not published]
+nsstat:      20170105 ERR
+nslastaa:    20120618
+inetrev:     190.12.236/23
+nserver:     NS5.AR.INTER.NET  [lame - not published]
+nsstat:      20170104 ERR
+nslastaa:    20150209
+nserver:     NS6.AR.INTER.NET  [lame - not published]
+nsstat:      20170104 ERR
+nslastaa:    20150209
+nserver:     NS7.AR.INTER.NET  [lame - not published]
+nsstat:      20170104 ERR
+nslastaa:    20120618
+inetrev:     190.12.238/24
+nserver:     NS5.AR.INTER.NET  [lame - not published]
+nsstat:      20170104 ERR
+nslastaa:    20150211
+nserver:     NS6.AR.INTER.NET  [lame - not published]
+nsstat:      20170104 ERR
+nslastaa:    20150211
+nserver:     NS7.AR.INTER.NET  [lame - not published]
+nsstat:      20170104 TIMEOUT
+nslastaa:    20120619
+inetrev:     190.12.239/24
+nserver:     NS5.AR.INTER.NET  [lame - not published]
+nsstat:      20170103 ERR
+nslastaa:    20150211
+nserver:     NS6.AR.INTER.NET  [lame - not published]
+nsstat:      20170103 ERR
+nslastaa:    20150211
+nserver:     NS7.AR.INTER.NET  [lame - not published]
+nsstat:      20170103 TIMEOUT
+nslastaa:    20120618
+created:     20070514
+changed:     20070514
+
+nic-hdl:     RUB2
+person:      Juan Jose Sarasola
+e-mail:      lacnic@AR.INTER.NET
+address:     Maipu, 24, 
+address:     C1084ABB - Capital Federal - BA
+country:     AR
+phone:       +54 11 63281500 []
+created:     20030428
+changed:     20160512
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

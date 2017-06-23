@@ -1,0 +1,52 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 20:21:16 (BRST -02:00)
+
+inetnum:     138.0.152/22
+status:      allocated
+aut-num:     N/A
+owner:       Gigared S.A.
+ownerid:     AR-GISA2-LACNIC
+responsible: Roberto Feijoo
+address:     Donado, 840, 
+address:     C1427CZB - Capital Federal - 
+country:     AR
+phone:       +54 11 63106000 [6071]
+owner-c:     FER
+tech-c:      FER
+abuse-c:     FER
+inetrev:     138.0.152/22
+nserver:     NS1.GIGARED.COM  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     NS2.GIGARED.COM  
+nsstat:      20170105 AA
+nslastaa:    20170105
+created:     20150102
+changed:     20150102
+
+nic-hdl:     FER
+person:      Feijoo Roberto
+e-mail:      rfeijoo@GIGARED.COM.AR
+address:     Donado, 840, 
+address:     C1427CZB - Capital Federal - BA
+country:     AR
+phone:       +54 11 604006000 [6030]
+created:     20030110
+changed:     20150303
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

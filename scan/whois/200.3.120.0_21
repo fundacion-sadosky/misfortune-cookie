@@ -1,0 +1,52 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-06 01:16:39 (BRST -02:00)
+
+inetnum:     200.3.120/21
+status:      assigned
+aut-num:     N/A
+owner:       Universidad Nacional de Rosario
+ownerid:     AR-UNRO-LACNIC
+responsible: Prof. Darío Mairoana
+address:     Maipu, 1065, 
+address:     S2000CGK - Rosario - SF
+country:     AR
+phone:       +54 34 1420 [1284]
+owner-c:     MFC5
+tech-c:      MFC5
+abuse-c:     MFC5
+inetrev:     200.3.120/21
+nserver:     AGATHA.UNR.EDU.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     VALERIA.UNR.EDU.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+created:     19950523
+changed:     20141001
+
+nic-hdl:     MFC5
+person:      Francisco Pablo Bruno
+e-mail:      telematica@UNR.EDU.AR
+address:     Maipú, 1065, Of. 425
+address:     2000 - Rosario - SF
+country:     AR
+phone:       +54 341 420 [1284]
+created:     20100304
+changed:     20141001
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

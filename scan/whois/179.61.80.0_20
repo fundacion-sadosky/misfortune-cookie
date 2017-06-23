@@ -1,0 +1,45 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 22:24:00 (BRST -02:00)
+
+inetnum:     179.61.80/20
+status:      allocated
+aut-num:     N/A
+owner:       C.E.C.S.A.G.A.L COOP ALVEAR
+ownerid:     AR-CCAL-LACNIC
+responsible: Juan José Piriz
+address:     Zamenhoff, 27, 
+address:     5620 - Gral Alvear - MZ
+country:     AR
+phone:       +54 2625 422055 []
+owner-c:     JJP7
+tech-c:      JJP7
+abuse-c:     JJP7
+created:     20131227
+changed:     20131227
+
+nic-hdl:     JJP7
+person:      Juan Jose Piriz
+e-mail:      jjpiriz@CECSAGAL.COM.AR
+address:     Zamenhoff, 27, 
+address:     5620 - General Alvear - Mz
+country:     AR
+phone:       +0054 2625 15404051 []
+created:     20111214
+changed:     20151104
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

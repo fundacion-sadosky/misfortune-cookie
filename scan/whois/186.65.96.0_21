@@ -1,0 +1,49 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 23:01:21 (BRST -02:00)
+
+inetnum:     186.65.96/21
+status:      allocated
+aut-num:     N/A
+owner:       Cooperativa Eléctrica de Azul Ltda.
+ownerid:     AR-CEAL2-LACNIC
+responsible: Ing. Oscar Grasso modurante@ceal.com.ar
+address:     Yrigoyen, 318, 
+address:     7300 - Azul - BA
+country:     AR
+phone:       +54 2281 431600 []
+owner-c:     CEL16
+tech-c:      CEL16
+abuse-c:     CEL16
+inetrev:     186.65.96/21
+nserver:     NS4.CEAL.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+created:     20120510
+changed:     20120510
+
+nic-hdl:     CEL16
+person:      Silvio Diaz
+e-mail:      tecnica@CEAL.COM.AR
+address:     Hipolito Yrigoyen, 318, 
+address:     7300 - Azul - 
+country:     AR
+phone:       +54 2281 431600 [137]
+created:     20120123
+changed:     20130613
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

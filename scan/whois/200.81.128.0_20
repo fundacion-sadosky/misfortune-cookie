@@ -1,0 +1,49 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-06 02:24:50 (BRST -02:00)
+
+inetnum:     200.81.128/20
+status:      allocated
+aut-num:     N/A
+owner:       TELEFONICA-UNIDAD LARGA DISTANCIA
+ownerid:     AR-TLDI-LACNIC
+responsible: HORACIO TEDESCO
+address:     Av. Independencia, 169, 
+address:     1099 - Buenos Aires - 
+country:     AR
+phone:       +54 11 53212271 []
+owner-c:     HOT
+tech-c:      HOT
+abuse-c:     HOT
+inetrev:     200.81.128/20
+nserver:     DNS1.TIWS.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+created:     20011019
+changed:     20020408
+
+nic-hdl:     HOT
+person:      Horacio Tedesco
+e-mail:      horacio.tedesco@TELEFONICA.COM
+address:     Pte.Peron, 1286, 
+address:     1038 - Buenos Aires - 
+country:     AR
+phone:       +54 11 43701549 []
+created:     20040921
+changed:     20101012
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

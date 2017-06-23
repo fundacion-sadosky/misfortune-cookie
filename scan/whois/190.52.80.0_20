@@ -1,0 +1,52 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 23:44:40 (BRST -02:00)
+
+inetnum:     190.52.80/20
+status:      allocated
+aut-num:     N/A
+owner:       COOP. ELÉCTRICA Y DE SERVICIOS MARIANO MORENO LTDA.
+ownerid:     AR-CEYS6-LACNIC
+responsible: Omar Malondra
+address:     MENDOZA, 390, 
+address:     6500 - 9 de JULIO - BA
+country:     AR
+phone:       +54 2317 524000 []
+owner-c:     ROL17
+tech-c:      ROL17
+abuse-c:     ROL17
+inetrev:     190.52.80/20
+nserver:     DNS1.CEYSTEL.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     DNS2.CEYSTEL.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+created:     20120425
+changed:     20120425
+
+nic-hdl:     ROL17
+person:      Rodolfo Luis
+e-mail:      rdiaz@CEYS.COM.AR
+address:     Mendoza, 390, 
+address:     6500 - 9 de Julio - 
+country:     AR
+phone:       +54 2317 524000 []
+created:     20120105
+changed:     20150814
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

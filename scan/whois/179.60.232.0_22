@@ -1,0 +1,59 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 22:21:13 (BRST -02:00)
+
+inetnum:     179.60.232/22
+status:      allocated
+aut-num:     N/A
+owner:       WICORP SA
+ownerid:     AR-WISA6-LACNIC
+responsible: Lucas Delmonte
+address:     Paraguay, 1416, Rosario
+address:     2000 - Rosario - 
+country:     AR
+phone:       +54 9341 6154930 []
+owner-c:     WIS26
+tech-c:      WIS26
+abuse-c:     WIS26
+inetrev:     179.60.233/24
+nserver:     DNS1.NUBENET.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     DNS2.NUBENET.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+inetrev:     179.60.234/23
+nserver:     DNS1.NUBENET.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     DNS2.NUBENET.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+created:     20131021
+changed:     20131021
+
+nic-hdl:     WIS26
+person:      NUBENET - WICORP SA
+e-mail:      ADMIN@NUBENET.COM.AR
+address:     Paraguay, 1416, 
+address:     2000 - Rosario - SF
+country:     AR
+phone:       +54 0341 4229699 []
+created:     20130821
+changed:     20150609
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

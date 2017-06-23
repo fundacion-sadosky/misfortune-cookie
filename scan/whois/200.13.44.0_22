@@ -1,0 +1,52 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-06 01:38:47 (BRST -02:00)
+
+inetnum:     200.13.44/22
+status:      allocated
+aut-num:     N/A
+owner:       Trynet S.R.L.
+ownerid:     AR-TRYN2-LACNIC
+responsible: Ernesto Bianciotto
+address:     Santa Fe, 1497, 
+address:     2452 - San Jorge (Santa Fé) - 
+country:     AR
+phone:       +54 3406 441447 []
+owner-c:     TRS2
+tech-c:      TRS2
+abuse-c:     TRS2
+inetrev:     200.13.44/22
+nserver:     NS1.TRYNET.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NS2.TRYNET.COM.AR  [lame - not published]
+nsstat:      20170104 ERR
+nslastaa:    20110226
+created:     20101013
+changed:     20101013
+
+nic-hdl:     TRS2
+person:      Ernesto Bianciotto
+e-mail:      info@TRYNET.COM.AR
+address:     Santa Fe, 1497, 
+address:     2451 - San Jorge - SF
+country:     AR
+phone:       +54 3406 441447 []
+created:     20100210
+changed:     20131002
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

@@ -1,0 +1,49 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 23:43:58 (BRST -02:00)
+
+inetnum:     190.52.40/21
+status:      allocated
+aut-num:     N/A
+owner:       Cooperativa de Electricidad y Servicios Publicos de Arroyito Ltda
+ownerid:     AR-CEYS10-LACNIC
+responsible: Cr. Monica Fonti
+address:     Belgrano, 844, 
+address:     X2434APF - Arroyito - CO
+country:     AR
+phone:       +54 3576 421473 []
+owner-c:     ILB
+tech-c:      ILB
+abuse-c:     ILB
+inetrev:     190.52.40/21
+nserver:     NS1.CESCOM.NET.AR  
+nsstat:      20161231 AA
+nslastaa:    20161231
+created:     20110304
+changed:     20110304
+
+nic-hdl:     ILB
+person:      Cr. Monica Fonti
+e-mail:      lacnic-tecnica@CESCOM.NET.AR
+address:     Belgrano, 844, 
+address:     X2434APF - Arroyito - CB
+country:     AR
+phone:       +54 3576 450001 []
+created:     20090703
+changed:     20141030
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

@@ -1,0 +1,45 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 20:55:23 (BRST -02:00)
+
+inetnum:     143.137.244/22
+status:      allocated
+aut-num:     N/A
+owner:       VELNET S.A.
+ownerid:     AR-VESA23-LACNIC
+responsible: Marcelo Ruben Fontana
+address:     Santiago, 3416, 
+address:     2000 - ROSARIO - 
+country:     AR
+phone:       +54 341 4311100 []
+owner-c:     MRF19
+tech-c:      MRF19
+abuse-c:     MRF19
+created:     20151016
+changed:     20151016
+
+nic-hdl:     MRF19
+person:      Marcelo Ruben Fontana
+e-mail:      marcelo@INSTALNET.COM.AR
+address:     Santiago, 3416, Santa Fe
+address:     2000 - Rosario - 
+country:     AR
+phone:       +54 341 4311100 [801]
+created:     20150917
+changed:     20150917
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

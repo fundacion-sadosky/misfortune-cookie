@@ -1,0 +1,45 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 20:53:59 (BRST -02:00)
+
+inetnum:     143.0.100/24
+status:      assigned
+aut-num:     N/A
+owner:       INSTITUTO UNIVERSITARIO AERONÁUTICO
+ownerid:     AR-IUAE-LACNIC
+responsible: Enrique Banchio
+address:     Av. Fuerza Aérea, 6500, 
+address:      - Córdoba - 
+country:     AR
+phone:       +54 351 4435000 [34115]
+owner-c:     IUA
+tech-c:      IUA
+abuse-c:     IUA
+created:     20151015
+changed:     20151015
+
+nic-hdl:     IUA
+person:      Instituto Universitario Aeronáutico
+e-mail:      ebanchio@IUA.EDU.AR
+address:     Av. Fuerza Aérea, 6500, 
+address:     5022 - Córdoba - AR
+country:     AR
+phone:       +54 0351 4435000 [34115]
+created:     20090316
+changed:     20090721
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

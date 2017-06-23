@@ -1,0 +1,55 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-06 01:38:04 (BRST -02:00)
+
+inetnum:     200.13.41/24
+status:      assigned
+aut-num:     N/A
+owner:       Rosario Bus S.A.
+ownerid:     AR-RBSA-LACNIC
+responsible: Agustin Bermudez
+address:     San Martin, 2690, 
+address:     2000 - Rosario - SF
+country:     AR
+phone:       +54 0341 4808230 [126]
+owner-c:     FEF4
+tech-c:      AGB3
+abuse-c:     AGB3
+created:     20060728
+changed:     20060728
+
+nic-hdl:     AGB3
+person:      Agustin Bermudez
+e-mail:      agustin.bermudez@ROSARIOBUS.COM.AR
+address:     San Martin, 2690, 
+address:     2000 - Rosario - SF
+country:     AR
+phone:       +54 0341 4808230 [126]
+created:     20060519
+changed:     20060519
+
+nic-hdl:     FEF4
+person:      Fernando Feldman
+e-mail:      fernando.feldman@ROSARIOBUS.COM.AR
+address:     San Martín, 2690, 
+address:     2000 - Rosario - 
+country:     AR
+phone:       +54 341 4808230 [110]
+created:     20070730
+changed:     20070730
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

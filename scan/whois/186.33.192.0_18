@@ -1,0 +1,68 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 22:56:28 (BRST -02:00)
+
+inetnum:     186.33.192/18
+status:      allocated
+aut-num:     N/A
+owner:       ARSAT - Empresa Argentina de Soluciones Satelitales S.A.
+ownerid:     AR-EASS-LACNIC
+responsible: IP Administrator
+address:     Av. Del Libertador, 498, Piso 21
+address:     C1001ABR - CABA - BA
+country:     AR
+phone:       +54 11 58112600 [111]
+owner-c:     FED8
+tech-c:      FED8
+abuse-c:     FED8
+inetrev:     186.33.208/24
+inetrev:     186.33.209/24
+nserver:     NS01.DCARSAT.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     NS02.DCARSAT.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+inetrev:     186.33.210/23
+inetrev:     186.33.212/22
+nserver:     NS01.DCARSAT.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NS02.DCARSAT.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+inetrev:     186.33.236/23
+nserver:     NS01.DCARSAT.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     NS02.DCARSAT.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+created:     20111208
+changed:     20111208
+
+nic-hdl:     FED8
+person:      IP Administrator
+e-mail:      ipadmin@ARSAT.COM.AR
+address:     Avenida del Libertador, 498, Piso 21
+address:     C1001ABR - Buenos Aires - 
+country:     AR
+phone:       +54 11 58112600 [111]
+created:     20110824
+changed:     20160314
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

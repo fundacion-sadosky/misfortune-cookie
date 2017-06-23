@@ -1,0 +1,109 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-06 02:04:02 (BRST -02:00)
+
+inetnum:     200.58.112/20
+status:      allocated
+aut-num:     N/A
+owner:       Dattatec.com
+ownerid:     AR-DATT-LACNIC
+responsible: Guillermo Tornatore
+address:     Cordoba, 3753, 
+address:     2000 - Rosario - SF
+country:     AR
+phone:       +54 341 4360555 []
+owner-c:     GUT
+tech-c:      DOS29
+abuse-c:     ABD18
+inetrev:     200.58.112/23
+nserver:     HUNGRIA.HOSTMAR.COM  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     FRANCIA.HOSTMAR.COM  
+nsstat:      20170105 AA
+nslastaa:    20170105
+inetrev:     200.58.114/23
+nserver:     HUNGRIA.HOSTMAR.COM  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     FRANCIA.HOSTMAR.COM  
+nsstat:      20170103 AA
+nslastaa:    20170103
+inetrev:     200.58.116/23
+inetrev:     200.58.118/23
+nserver:     HUNGRIA.HOSTMAR.COM  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     FRANCIA.HOSTMAR.COM  
+nsstat:      20170105 AA
+nslastaa:    20170105
+inetrev:     200.58.120/23
+nserver:     HUNGRIA.HOSTMAR.COM  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     FRANCIA.HOSTMAR.COM  
+nsstat:      20170104 AA
+nslastaa:    20170104
+inetrev:     200.58.122/23
+inetrev:     200.58.124/23
+nserver:     HUNGRIA.HOSTMAR.COM  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     FRANCIA.HOSTMAR.COM  
+nsstat:      20170103 AA
+nslastaa:    20170103
+inetrev:     200.58.127/24
+nserver:     HUNGRIA.HOSTMAR.COM  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     FRANCIA.HOSTMAR.COM  
+nsstat:      20170105 AA
+nslastaa:    20170105
+created:     20040625
+changed:     20160309
+
+nic-hdl:     ABD18
+person:      Abuse DonWeb
+e-mail:      abuse@DONWEB.COM
+address:     Cordoba, 3753, 
+address:     2000 - Rosario - SF
+country:     AR
+phone:       +54 341 6075300 []
+created:     20160309
+changed:     20160309
+
+nic-hdl:     DOS29
+person:      Donweb.com SRL
+e-mail:      noc@DONWEB.COM
+address:     Cordoba, 3753, 
+address:     2000 - Rosario - SF
+country:     AR
+phone:       +54 341 6075300 []
+created:     20160309
+changed:     20160309
+
+nic-hdl:     GUT
+person:      Hostmar ISP
+e-mail:      ipmaster@HOSTMAR.COM
+address:     Cordoba, 3753, 
+address:     2000 - Rosario - SF
+country:     AR
+phone:       +54 341 4360555 []
+created:     20040506
+changed:     20110309
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

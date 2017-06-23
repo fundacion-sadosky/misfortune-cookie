@@ -1,0 +1,45 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 20:11:31 (BRST -02:00)
+
+inetnum:     131.100.100/22
+status:      allocated
+aut-num:     N/A
+owner:       Cooperativa Colonia Caroya
+ownerid:     AR-CCCA-LACNIC
+responsible: Marquez Juan Carlos
+address:     J. Alice y Don Bosco, xxx, 
+address:     5223 - Colonia Caroya - 
+country:     AR
+phone:       +54 3525 469129 [9172]
+owner-c:     CSJ
+tech-c:      CSJ
+abuse-c:     CSJ
+created:     20141008
+changed:     20141008
+
+nic-hdl:     CSJ
+person:      Cooperativa de Serv. Pub. de C.C. y J.M.
+e-mail:      soptec@COOP5.COM.AR
+address:     Avda. San Martin, 138, 
+address:     5223 - Colonia Caroya - 
+country:     AR
+phone:       +054 3525 469100 [129]
+created:     20031114
+changed:     20130627
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

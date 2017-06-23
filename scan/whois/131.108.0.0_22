@@ -1,0 +1,49 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 20:12:34 (BRST -02:00)
+
+inetnum:     131.108.0/22
+status:      allocated
+aut-num:     N/A
+owner:       COOPERATIVA ELECTRICA DE SALADILLO
+ownerid:     AR-CESA2-LACNIC
+responsible: Andrea Ali
+address:     av belgrano, 3384, 
+address:     7260 - Saladillo - BA
+country:     AR
+phone:       +54 2344 430000 []
+owner-c:     CES57
+tech-c:      CES57
+abuse-c:     CES57
+inetrev:     131.108.0/22
+nserver:     TOR.MSHQUIL.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+created:     20140826
+changed:     20140826
+
+nic-hdl:     CES57
+person:      Cooperativa Electrica de Saladillo
+e-mail:      nic.coopsal@COOPSAL.COM.AR
+address:     Av. Belgrano, 3384, 
+address:     7260 - Saladillo - BA
+country:     AR
+phone:       +54 2344 430000 [200]
+created:     20140422
+changed:     20151009
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

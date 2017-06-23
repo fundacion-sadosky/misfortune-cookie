@@ -1,0 +1,52 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-06 01:31:23 (BRST -02:00)
+
+inetnum:     200.10.186/24
+status:      assigned
+aut-num:     N/A
+owner:       CCI - Centro de Comunicacion e Informacion, Asocia
+ownerid:     AR-CCCI-LACNIC
+responsible: Carlos E. Alvarez
+address:     Talcahuano, 325, 3ro. F
+address:     C1013AAG - Buenos Aires - CF
+country:     AR
+phone:       +54 11 43826842 []
+owner-c:     CAA16
+tech-c:      CAA16
+abuse-c:     CAA16
+inetrev:     200.10.186/24
+nserver:     WAMANI2.WAMANI.APC.ORG  [lame - not published]
+nsstat:      20170104 UH
+nslastaa:    20130709
+nserver:     WAMANI.WAMANI.APC.ORG  [lame - not published]
+nsstat:      20170104 UH
+nslastaa:    20121208
+created:     19940421
+changed:     19940421
+
+nic-hdl:     CAA16
+person:      Carlos E. Alvarez
+e-mail:      carlos@WAMANI.ORG
+address:     Talcahuano, 325, Piso 3- F
+address:     C1013AAG - Buenos Aires - 
+country:     AR
+phone:       +54 11 43826842 []
+created:     20050501
+changed:     20121217
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

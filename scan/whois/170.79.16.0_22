@@ -1,0 +1,45 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 21:40:02 (BRST -02:00)
+
+inetnum:     170.79.16/22
+status:      allocated
+aut-num:     N/A
+owner:       COOPERATIVA DE PROVISION DE SERVICIO ELECTRICO Y OTROS SERV DE PIGUE
+ownerid:     AR-CSPP1-LACNIC
+responsible: Matias Messa
+address:     Urquiza, 99, 
+address:     8170 - Pigüe - BS
+country:     AR
+phone:       +54 2923 407715 []
+owner-c:     MAM435
+tech-c:      MAM435
+abuse-c:     MAM435
+created:     20161005
+changed:     20161005
+
+nic-hdl:     MAM435
+person:      Matias Messa
+e-mail:      mmessa.celp@PIGUE.COM.AR
+address:     Urquiza, 99, 
+address:     8170 - Pigue - BA
+country:     AR
+phone:       +54 2923 15696028 []
+created:     20160820
+changed:     20160820
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

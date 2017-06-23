@@ -1,0 +1,45 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 20:08:02 (BRST -02:00)
+
+inetnum:     131.0.232/22
+status:      allocated
+aut-num:     N/A
+owner:       MUSURIT
+ownerid:     AR-MUSU-LACNIC
+responsible: Serguei Dobrynine
+address:     Guardia Vieja, 3458, piso 1 oficina 2
+address:     1192 - Capital Federal - BA
+country:     AR
+phone:       +54 11 48666545 []
+owner-c:     SED19
+tech-c:      SED19
+abuse-c:     SED19
+created:     20140725
+changed:     20140725
+
+nic-hdl:     SED19
+person:      Serguei Dobrynine
+e-mail:      info@MUSURIT.COM
+address:     Guardia Vieja, 3458, 1fl. office: 2
+address:     1192 - Capital Federal - Bs
+country:     AR
+phone:       +54 11 48666545 []
+created:     20140611
+changed:     20140714
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

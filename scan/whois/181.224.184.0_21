@@ -1,0 +1,55 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 22:44:36 (BRST -02:00)
+
+inetnum:     181.224.184/21
+status:      allocated
+aut-num:     N/A
+owner:       Atcco S.R.L.
+ownerid:     AR-ATSR2-LACNIC
+responsible: Santiago Olivan
+address:     Av. III, 2129, 
+address:     7105 - San Clemente del Tuyu - BA
+country:     AR
+phone:       +54 2252 422416 []
+owner-c:     FRR9
+tech-c:      SAO
+abuse-c:     SAO
+created:     20130708
+changed:     20130708
+
+nic-hdl:     FRR9
+person:      ROQUE, Francisco E.
+e-mail:      froque@AVCDIGITAL.COM.AR
+address:     Calle 4, 596, 
+address:     B7107CG - Santa Teresita - BA
+country:     AR
+phone:       +54 2246 420282 []
+created:     20100913
+changed:     20150507
+
+nic-hdl:     SAO
+person:      Santiago Olivan
+e-mail:      atcco@MASBITS.COM.AR
+address:     av III, 2129, 
+address:     7105 - San clemente del tuyu - BA
+country:     AR
+phone:       +54 2252 403625 []
+created:     20121004
+changed:     20121004
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

@@ -1,0 +1,45 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 21:23:14 (BRST -02:00)
+
+inetnum:     168.196.140/22
+status:      allocated
+aut-num:     N/A
+owner:       ANTENA DELTA SRL
+ownerid:     AR-ADSR6-LACNIC
+responsible: Santiago Borca
+address:     CARLOS CASARES, 2909, 
+address:     1644 - San Fernando - 
+country:     AR
+phone:       +54 11 58520496 []
+owner-c:     ADS87
+tech-c:      ADS87
+abuse-c:     ADS87
+created:     20160912
+changed:     20160912
+
+nic-hdl:     ADS87
+person:      Antena Delta SRL
+e-mail:      santiago@ANTENADELTA.COM.AR
+address:     Carlos Casares, 2909, 
+address:      - San Fernando - BA
+country:     AR
+phone:       +54 11 30786279 []
+created:     20150928
+changed:     20160725
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

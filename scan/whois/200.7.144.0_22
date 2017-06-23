@@ -1,0 +1,69 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-06 01:21:13 (BRST -02:00)
+
+inetnum:     200.7.144/22
+status:      allocated
+aut-num:     N/A
+owner:       Cable Video Color SRL
+ownerid:     AR-CVCS5-LACNIC
+responsible: Cable Video Color SRL
+address:     Estanislao Lopez, 348, 
+address:     3015 - San Jerónimo Norte - SF
+country:     AR
+phone:       +54 3404 460547 []
+owner-c:     CVS16
+tech-c:      CVS
+abuse-c:     CVS
+inetrev:     200.7.144/23
+nserver:     NSERVER1.CABLENET.NET.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NSERVER2.CABLENET.NET.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+inetrev:     200.7.146/23
+nserver:     NSERVER1.CABLENET.NET.AR  
+nsstat:      20170105 UH
+nslastaa:    20170103
+nserver:     NSERVER2.CABLENET.NET.AR  
+nsstat:      20170105 UH
+nslastaa:    20170103
+created:     20120910
+changed:     20120910
+
+nic-hdl:     CVS
+person:      Raul Donnet
+e-mail:      cablesanjeronimo@SJNCABLE.COM.AR
+address:     Estanislao Lopez, 348, 
+address:     3015 - San Jerónimo Norte - SF
+country:     AR
+phone:       +54 3404 460547 []
+created:     20120528
+changed:     20120618
+
+nic-hdl:     CVS16
+person:      Cable Video Color SRL
+e-mail:      cvc@SJNCABLE.COM.AR
+address:     Estanislao Lopez, 348, 
+address:     S3015 - San Jerónimo Norte - SF
+country:     AR
+phone:       +54 3404 460547 []
+created:     20150819
+changed:     20160801
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

@@ -1,0 +1,52 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-06 01:03:20 (BRST -02:00)
+
+inetnum:     192.231.120/23
+status:      assigned
+aut-num:     N/A
+owner:       PREFECTURA NAVAL ARGENTINA
+ownerid:     AR-PNAR1-LACNIC
+responsible: Ernesto Klocker
+address:     EDUARDO MADERO, 235, 
+address:     235 - Buenos Aires - CA
+country:     AR
+phone:       +54 4 43187663 []
+owner-c:     ERK5
+tech-c:      ERK5
+abuse-c:     ERK5
+inetrev:     192.231.120/24
+nserver:     NS1.PREFECTURANAVAL.GOV.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     NS2.PREFECTURANAVAL.GOV.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+created:     20141230
+changed:     20141230
+
+nic-hdl:     ERK5
+person:      Ernesto Klocker
+e-mail:      eklocker@PREFECTURANAVAL.GOV.AR
+address:     Eduardo Madero, 235, 
+address:     1106 - Buenos Aires - 
+country:     AR
+phone:       +54 11 43187663 [2913]
+created:     20141113
+changed:     20141114
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

@@ -1,0 +1,55 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-06 02:33:58 (BRST -02:00)
+
+inetnum:     200.107.81/24
+status:      assigned
+aut-num:     N/A
+owner:       Municipalidad de Rosario
+ownerid:     AR-MURO1-LACNIC
+responsible: Municipalidad de Rosario
+address:     Buenos Aires, 711, 
+address:     2000 - Rosario - SF
+country:     AR
+phone:       +54 341 480-2710 []
+owner-c:     HMR
+tech-c:      HMR
+abuse-c:     HMR
+inetrev:     200.107.81/24
+nserver:     DNSSRV1.ROSARIO.GOV.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     DNSSRV2.ROSARIO.GOV.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     DNSSRV3.ROSARIO.GOV.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+created:     20090709
+changed:     20090709
+
+nic-hdl:     HMR
+person:      Hostmaster Municipalidad de Rosario
+e-mail:      hostmaster@ROSARIO.GOV.AR
+address:     Buenos Aires, 711, 3r piso
+address:     2000 - Rosario - SF
+country:     AR
+phone:       +54 341 4802596 []
+created:     20080815
+changed:     20140715
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

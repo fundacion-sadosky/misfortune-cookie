@@ -1,0 +1,52 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-06 01:01:35 (BRST -02:00)
+
+inetnum:     191.103.96/20
+status:      allocated
+aut-num:     N/A
+owner:       COMPAÑIA DE CIRCUITOS CERRADOS S.A.
+ownerid:     AR-CCCE-LACNIC
+responsible: Martín Marcink
+address:     General Paz 639, , 
+address:     4000 - San Miguel de Tucuman - TU
+country:     AR
+phone:       +54 0381 4300067 [134]
+owner-c:     MAM282
+tech-c:      MAM282
+abuse-c:     MAM282
+inetrev:     191.103.96/20
+nserver:     DNS2.VIACCC.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     DNS3.VIACCC.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+created:     20140324
+changed:     20140324
+
+nic-hdl:     MAM282
+person:      Martín Marcink
+e-mail:      martinm@VIACCC.COM
+address:     Gral Paz, 639, 
+address:     4000 - San Miguel de Tucuman - Tu
+country:     AR
+phone:       +54 0381 4300067 [134]
+created:     20130624
+changed:     20130624
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

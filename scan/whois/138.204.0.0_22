@@ -1,0 +1,45 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 20:44:14 (BRST -02:00)
+
+inetnum:     138.204.0/22
+status:      allocated
+aut-num:     N/A
+owner:       VICUÑA TV S. A.
+ownerid:     AR-VTSA12-LACNIC
+responsible: Gaston Mana
+address:     Intendente Lorenzo Gomez, 796, 
+address:     6140 - Vicuña Mackenna - Co
+country:     AR
+phone:       +549 0358 420885 []
+owner-c:     GAM56
+tech-c:      GAM56
+abuse-c:     GAM56
+created:     20150817
+changed:     20150817
+
+nic-hdl:     GAM56
+person:      Gaston Mana
+e-mail:      cables@HRDIGITAL.COM.AR
+address:     Intendente Lorenzo Gomez, 796, 
+address:     6140 - Vicuña Mackenna - Co
+country:     AR
+phone:       +549 0358 15405022 []
+created:     20150702
+changed:     20150723
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

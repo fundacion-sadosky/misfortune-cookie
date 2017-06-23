@@ -1,0 +1,45 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 21:43:10 (BRST -02:00)
+
+inetnum:     170.80.200/22
+status:      allocated
+aut-num:     N/A
+owner:       INTERWISP SRL
+ownerid:     AR-INSR53-LACNIC
+responsible: INTERWISP SRL
+address:     AV RAMON FRANCO, 6151, 
+address:     1875 - Wilde - BA
+country:     AR
+phone:       +54 11 43531616 []
+owner-c:     INS43
+tech-c:      INS43
+abuse-c:     INS43
+created:     20161123
+changed:     20161123
+
+nic-hdl:     INS43
+person:      INTERWISP S.R.L.
+e-mail:      diego@INTERWISP.COM
+address:     Av Ramon Franco, 6151, 
+address:     1875 - Wilde, Buenos Aires - 
+country:     AR
+phone:       +54 11 21502927 []
+created:     20160810
+changed:     20160817
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

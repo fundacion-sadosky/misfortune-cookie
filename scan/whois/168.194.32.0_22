@@ -1,0 +1,45 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 21:17:19 (BRST -02:00)
+
+inetnum:     168.194.32/22
+status:      allocated
+aut-num:     N/A
+owner:       CORDOBA IP SRL
+ownerid:     AR-CISR22-LACNIC
+responsible: Adrian Gustavo Rovaretti
+address:     Felipe Boero, 2078, 
+address:     5010 - Cordoba - 
+country:     AR
+phone:       +54 351 5260820 []
+owner-c:     CIS35
+tech-c:      CIS35
+abuse-c:     CIS35
+created:     20160808
+changed:     20160808
+
+nic-hdl:     CIS35
+person:      Cordoba IP SRL
+e-mail:      nic@CORDOBAIP.COM
+address:     Felipe Boero, 2078, 
+address:     5010 - Cordoba - 
+country:     AR
+phone:       +54 0351 5260820 []
+created:     20160613
+changed:     20160613
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

@@ -1,0 +1,45 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-06 01:53:51 (BRST -02:00)
+
+inetnum:     200.33.203/24
+status:      assigned
+aut-num:     N/A
+owner:       RADIO MITRE S.A.
+ownerid:     AR-RMSA10-LACNIC
+responsible: Cristian Carlucci
+address:     Mansilla, 2668, 
+address:     C1425BPD - Buenos Aires - 
+country:     AR
+phone:       +54 11 57771500 []
+owner-c:     CRC58
+tech-c:      CRC58
+abuse-c:     CRC58
+created:     20160802
+changed:     20160802
+
+nic-hdl:     CRC58
+person:      Cristian Carlucci
+e-mail:      ccarlucci@RADIOMITRE.COM.AR
+address:     Mansilla, 2668, 
+address:     C1425BPD - Buenos Aires - 
+country:     AR
+phone:       +54 11 57771500 [3538]
+created:     20160510
+changed:     20160510
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

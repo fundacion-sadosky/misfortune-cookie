@@ -1,0 +1,52 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 22:39:21 (BRST -02:00)
+
+inetnum:     181.177.200/21
+status:      allocated
+aut-num:     N/A
+owner:       LocalHost S.A.
+ownerid:     AR-LOSA16-LACNIC
+responsible: LocalHost S.A.
+address:     Mendoza, 2917, 
+address:     C1428DKY - Ciudad Autonoma de Buenos Aires - CF
+country:     AR
+phone:       +54 11 47846993 []
+owner-c:     LOS
+tech-c:      LOS
+abuse-c:     LOS
+inetrev:     181.177.200/21
+nserver:     DNS1.LOCALHOST.NET.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     DNS2.LOCALHOST.NET.AR  [lame - not published]
+nsstat:      20170104 QREFUSED
+nslastaa:    20150531
+created:     20130213
+changed:     20130213
+
+nic-hdl:     LOS
+person:      LocalHost S.A.
+e-mail:      root@LOCALHOST.NET.AR
+address:     Mendoza, 2917, -
+address:     C1428DKY - Ciudad Autonoma de Buenos Aires - BA
+country:     AR
+phone:       +54 11 47846993 [0]
+created:     20080911
+changed:     20110823
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

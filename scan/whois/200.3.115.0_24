@@ -1,0 +1,43 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-06 01:16:18 (BRST -02:00)
+
+inetnum:     200.3.115/24
+status:      assigned
+aut-num:     N/A
+owner:       Teccom SA
+ownerid:     AR-TESA-LACNIC
+address:     Vta de obligado 2420 #7B
+address:     Buenos Aires, 1428
+country:     AR
+owner-c:     CGM8-ARIN
+created:     19951205
+changed:     19951205
+source:      ARIN-HISTORIC
+
+nic-hdl:     CGM8-ARIN
+person:      Carlos Guillermo Mendioroz
+e-mail:      tron@HUAPI.BA.AR
+address:     D.F.Sarmiento 4165
+address:     Olivos
+address:     BsAs
+address:     1636
+country:     AR
+phone:       +54 1 377-7506
+source:      ARIN-HISTORIC
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

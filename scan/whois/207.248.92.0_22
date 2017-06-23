@@ -1,0 +1,56 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-06 03:17:28 (BRST -02:00)
+
+inetnum:     207.248.92/22
+status:      allocated
+aut-num:     AS28100
+abuse-c:     CVC
+owner:       COOP V Y OSSP Y OSS SANTIAGO TEMPLE LTDA
+ownerid:     AR-CVYO-LACNIC
+responsible: Felipe D Sabahini
+address:     Av Sarmiento, 1100, Santiago Temple
+address:     5124 - Cordoba - 
+country:     AR
+phone:       +54 3574 15400260 []
+owner-c:     FES46
+tech-c:      FES46
+abuse-c:     FES46
+created:     20140509
+changed:     20140509
+
+nic-hdl:     CVC
+person:      Cooperativa Villa del Rosario Coovilros
+e-mail:      covinter@COVINTER.COM.AR
+address:     Jose Mateo Luque, 1006, 
+address:     X5963DMV - Villa del Rosario - CB
+country:     AR
+phone:       +54 3573 453000 [111]
+created:     20080915
+changed:     20111216
+
+nic-hdl:     FES46
+person:      Felipe Sabahini
+e-mail:      soporte@COOPTEMPLE.COM.AR
+address:     Av. Sarmiento, 1100, 
+address:     5124 - Santiago Temple - CB
+country:     AR
+phone:       +54 3574 400260 []
+created:     20131119
+changed:     20140508
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

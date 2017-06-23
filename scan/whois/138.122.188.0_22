@@ -1,0 +1,63 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 20:39:22 (BRST -02:00)
+
+inetnum:     138.122.188/22
+status:      allocated
+aut-num:     AS263801
+abuse-c:     JAM86
+owner:       LINKEAR SRL
+ownerid:     AR-LISR12-LACNIC
+responsible: Pablo Cesar Thurler
+address:     Victorica, 4862, 
+address:     1744 - Moreno - BA
+country:     AR
+phone:       +54 11 30185840 []
+owner-c:     PAT26
+tech-c:      JAM86
+abuse-c:     JAM86
+inetrev:     138.122.188/22
+nserver:     NS1.LNKSRL.COM  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     NS2.LNKSRL.COM  
+nsstat:      20170105 AA
+nslastaa:    20170105
+created:     20150716
+changed:     20150716
+
+nic-hdl:     JAM86
+person:      Javier Marengo
+e-mail:      jmarengo@LINKEARSRL.COM.AR
+address:     Victorica, 4862, 
+address:     1744 - Moreno - BA
+country:     AR
+phone:       +54 11 30185840 []
+created:     20140115
+changed:     20150526
+
+nic-hdl:     PAT26
+person:      Pablo Thurler
+e-mail:      pablothurler@LINKEARSRL.COM.AR
+address:     calle victorica, 4862, 
+address:     B1744 - moreno - BA
+country:     AR
+phone:       +054 237 4682822 []
+created:     20131219
+changed:     20150718
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

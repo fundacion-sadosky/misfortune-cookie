@@ -1,0 +1,45 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 22:01:00 (BRST -02:00)
+
+inetnum:     170.239.48/22
+status:      allocated
+aut-num:     N/A
+owner:       Coop. Energía Elect. y Otros Servicios Las Varillas
+ownerid:     AR-CEEY1-LACNIC
+responsible: Alejandro Rivero
+address:     9 de Julio, 158, 
+address:     5940 - Las Varillas - CO
+country:     AR
+phone:       +54 0353 422070 [118]
+owner-c:     ALR25
+tech-c:      ALR25
+abuse-c:     ALR25
+created:     20161103
+changed:     20161103
+
+nic-hdl:     ALR25
+person:      Alejandro Rivero
+e-mail:      alerivero@LASVARINET.COM.AR
+address:     9 de Julio, 148, 
+address:     5940 - Las Varillas - 
+country:     AR
+phone:       +54 0353 455001 []
+created:     20091202
+changed:     20160927
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

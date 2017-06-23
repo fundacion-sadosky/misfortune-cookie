@@ -1,0 +1,298 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 20:05:42 (BRST -02:00)
+
+inetnum:     66.60.0/18
+status:      allocated
+aut-num:     N/A
+owner:       SkyOnline de Argentina S.A.
+ownerid:     AR-SKSA-LACNIC
+responsible: Nicolas Martin Vuga
+address:     Av. Roque Saenz Pena, 1155, 
+address:     C1035AAG - Capital Federal - BA
+country:     AR
+phone:       +54 11 50935200 [5488]
+owner-c:     SNA
+tech-c:      SNA
+abuse-c:     SNA
+inetrev:     66.60.0/24
+nserver:     NS.NETIZEN.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     NS1.NETIZEN.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+inetrev:     66.60.1/24
+inetrev:     66.60.2/24
+nserver:     NS.NETIZEN.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NS1.NETIZEN.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+inetrev:     66.60.3/24
+nserver:     NS.NETIZEN.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     NS1.NETIZEN.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+inetrev:     66.60.4/24
+nserver:     NS.NETIZEN.COM.AR  
+nsstat:      20170102 AA
+nslastaa:    20170102
+nserver:     NS1.NETIZEN.COM.AR  
+nsstat:      20170102 AA
+nslastaa:    20170102
+inetrev:     66.60.5/24
+nserver:     NS.NETIZEN.COM.AR  
+nsstat:      20170101 AA
+nslastaa:    20170101
+nserver:     NS1.NETIZEN.COM.AR  
+nsstat:      20170101 AA
+nslastaa:    20170101
+inetrev:     66.60.6/24
+nserver:     NS.NETIZEN.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NS1.NETIZEN.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+inetrev:     66.60.7/24
+nserver:     NS.NETIZEN.COM.AR  
+nsstat:      20170102 AA
+nslastaa:    20170102
+nserver:     NS1.NETIZEN.COM.AR  
+nsstat:      20170102 AA
+nslastaa:    20170102
+inetrev:     66.60.8/24
+nserver:     NS.NETIZEN.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     NS1.NETIZEN.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+inetrev:     66.60.9/24
+nserver:     NS.NETIZEN.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NS1.NETIZEN.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+inetrev:     66.60.10/24
+nserver:     NS.NETIZEN.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     NS1.NETIZEN.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+inetrev:     66.60.11/24
+inetrev:     66.60.12/22
+nserver:     NS.NETIZEN.COM.AR  
+nsstat:      20170102 AA
+nslastaa:    20170102
+nserver:     NS1.NETIZEN.COM.AR  
+nsstat:      20170102 AA
+nslastaa:    20170102
+inetrev:     66.60.16/21
+inetrev:     66.60.24/22
+nserver:     NS.NETIZEN.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     NS1.NETIZEN.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+inetrev:     66.60.28/24
+nserver:     NS.NETIZEN.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     NS1.NETIZEN.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+inetrev:     66.60.29/24
+nserver:     NS.NETIZEN.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     NS1.NETIZEN.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+inetrev:     66.60.30/24
+nserver:     NS.NETIZEN.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     NS1.NETIZEN.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+inetrev:     66.60.32/22
+nserver:     NS.NETIZEN.COM.AR  
+nsstat:      20170101 AA
+nslastaa:    20170101
+nserver:     NS1.NETIZEN.COM.AR  
+nsstat:      20170101 AA
+nslastaa:    20170101
+inetrev:     66.60.36/24
+nserver:     NS.NETIZEN.COM.AR  
+nsstat:      20161231 AA
+nslastaa:    20161231
+nserver:     NS1.NETIZEN.COM.AR  
+nsstat:      20161231 AA
+nslastaa:    20161231
+inetrev:     66.60.37/24
+nserver:     NS.NETIZEN.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NS1.NETIZEN.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+inetrev:     66.60.38/24
+nserver:     NS.NETIZEN.COM.AR  
+nsstat:      20170101 AA
+nslastaa:    20170101
+nserver:     NS1.NETIZEN.COM.AR  
+nsstat:      20170101 AA
+nslastaa:    20170101
+inetrev:     66.60.39/24
+nserver:     NS.NETIZEN.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NS1.NETIZEN.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+inetrev:     66.60.40/24
+nserver:     NS.NETIZEN.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     NS1.NETIZEN.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+inetrev:     66.60.41/24
+nserver:     NS.NETIZEN.COM.AR  
+nsstat:      20170101 AA
+nslastaa:    20170101
+nserver:     NS1.NETIZEN.COM.AR  
+nsstat:      20170101 AA
+nslastaa:    20170101
+inetrev:     66.60.42/24
+nserver:     NS.NETIZEN.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     NS1.NETIZEN.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+inetrev:     66.60.43/24
+inetrev:     66.60.44/24
+nserver:     NS.NETIZEN.COM.AR  
+nsstat:      20170102 AA
+nslastaa:    20170102
+nserver:     NS1.NETIZEN.COM.AR  
+nsstat:      20170102 AA
+nslastaa:    20170102
+inetrev:     66.60.45/24
+inetrev:     66.60.46/24
+nserver:     NS.NETIZEN.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NS1.NETIZEN.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+inetrev:     66.60.47/24
+nserver:     NS.NETIZEN.COM.AR  
+nsstat:      20161231 AA
+nslastaa:    20161231
+nserver:     NS1.NETIZEN.COM.AR  
+nsstat:      20161231 AA
+nslastaa:    20161231
+inetrev:     66.60.48/24
+nserver:     NS.NETIZEN.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NS1.NETIZEN.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+inetrev:     66.60.49/24
+nserver:     NS.NETIZEN.COM.AR  
+nsstat:      20170102 AA
+nslastaa:    20170102
+nserver:     NS1.NETIZEN.COM.AR  
+nsstat:      20170102 AA
+nslastaa:    20170102
+inetrev:     66.60.50/24
+inetrev:     66.60.51/24
+nserver:     NS.NETIZEN.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     NS1.NETIZEN.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+inetrev:     66.60.52/24
+inetrev:     66.60.53/24
+nserver:     NS.NETIZEN.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NS1.NETIZEN.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+inetrev:     66.60.54/24
+nserver:     NS.NETIZEN.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     NS1.NETIZEN.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+inetrev:     66.60.55/24
+nserver:     NS.NETIZEN.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NS1.NETIZEN.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+inetrev:     66.60.56/24
+nserver:     NS.NETIZEN.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     NS1.NETIZEN.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+inetrev:     66.60.57/24
+nserver:     NS.NETIZEN.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NS1.NETIZEN.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+inetrev:     66.60.58/23
+inetrev:     66.60.60/22
+nserver:     NS.NETIZEN.COM.AR  
+nsstat:      20170102 AA
+nslastaa:    20170102
+nserver:     NS1.NETIZEN.COM.AR  
+nsstat:      20170102 AA
+nslastaa:    20170102
+created:     20001226
+changed:     20040701
+
+nic-hdl:     SNA
+person:      SkyOnline Network Administration
+e-mail:      ipadmin@SKYONLINE.NET.AR
+address:     Av. Roque Saenz Peña, 1155, 2º Piso
+address:     C1035AAG - Buenos Aires - 
+country:     AR
+phone:       +54 11 50935200 [5488]
+created:     20040310
+changed:     20111228
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

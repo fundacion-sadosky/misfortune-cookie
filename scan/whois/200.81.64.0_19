@@ -1,0 +1,66 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-06 02:23:26 (BRST -02:00)
+
+inetnum:     200.81.64/19
+status:      allocated
+aut-num:     N/A
+owner:       TIBA S.A.
+ownerid:     AR-TISA3-LACNIC
+responsible: Juan Rojas
+address:     Austria, 2900, 
+address:     C1425EGX - Buenos Aires - 
+country:     AR
+phone:       +54 11 48068400 [232]
+owner-c:     JUR
+tech-c:      JUR
+abuse-c:     JUR
+inetrev:     200.81.64/21
+nserver:     INET2.TELECEL.COM.PY  [lame - not published]
+nsstat:      20170105 QREFUSED
+nslastaa:    20060310
+nserver:     INET3.TELECEL.COM.PY  [lame - not published]
+nsstat:      20170105 UDN
+nslastaa:    20060310
+inetrev:     200.81.79/24
+nserver:     FCDARWIN.ORG.EC  [lame - not published]
+nsstat:      20170105 UH
+nslastaa:    20051015
+nserver:     NS01.BACKUPDNS.COM  [lame - not published]
+nsstat:      20170105 QREFUSED
+nslastaa:    20070920
+inetrev:     200.81.80/23
+nserver:     DNS1.TIBA.COM.AR  [lame - not published]
+nsstat:      20170103 QREFUSED
+nslastaa:    20020830
+nserver:     DNS2.TIBA.COM.AR  [lame - not published]
+nsstat:      20170103 QREFUSED
+nslastaa:    20020830
+created:     20010921
+changed:     20030317
+
+nic-hdl:     JUR
+person:      Juan Rojas
+e-mail:      jrojas@ENCOMPASS.TV
+address:     Saenz Valiente, 2420, 
+address:     1640 - Martinez - BA
+country:     AR
+phone:       +54 11 41068400 [344]
+created:     20030317
+changed:     20151103
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

@@ -1,0 +1,53 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-06 03:09:04 (BRST -02:00)
+
+inetnum:     201.220.176/20
+status:      allocated
+aut-num:     AS27818
+abuse-c:     ANM7
+owner:       Cotesma
+ownerid:     AR-COTE6-LACNIC
+responsible: Ing. Pablo Correa
+address:     Capitán Drury, 761, 
+address:     8370 - San Martín de los Andes - NQN - NQ
+country:     AR
+phone:       +0054 2972 427000 [102]
+owner-c:     ANM7
+tech-c:      ANM7
+abuse-c:     ANM7
+inetrev:     201.220.176/20
+nserver:     NS1.SMANDES.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     NS2.SMANDES.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+created:     20090824
+changed:     20090824
+
+nic-hdl:     ANM7
+person:      Cooperativa Telefónica SMA - Cotesma
+e-mail:      redadmin@COTESMA.COM.AR
+address:     Cap. Drury, 761, 
+address:     8370 - San Martin de los Andes - NQ
+country:     AR
+phone:       +54 2972 427000 [2200]
+created:     20050908
+changed:     20141008
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

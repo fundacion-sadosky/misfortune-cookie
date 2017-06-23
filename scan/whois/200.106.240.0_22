@@ -1,0 +1,52 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-06 02:33:16 (BRST -02:00)
+
+inetnum:     200.106.240/22
+status:      allocated
+aut-num:     N/A
+owner:       Telefonica Global Technology S.A. Sucursal Argentina
+ownerid:     AR-TGTS-LACNIC
+responsible: Horacio Goldenberg
+address:     Suipacha, 150, 5to piso
+address:     C1008AAD - Buenos Aires - CF
+country:     AR
+phone:       +54 11 53210000 []
+owner-c:     TGS
+tech-c:      TGS
+abuse-c:     TGS
+inetrev:     200.106.240/22
+nserver:     VEL1.TGT.NET.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     VIA1.TGT.NET.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+created:     20110830
+changed:     20110830
+
+nic-hdl:     TGS
+person:      Gabriel Caivano
+e-mail:      ddr-pii.ar@TELEFONICA.COM
+address:     Suipacha, 150, 5
+address:     C1008AAD - Buenos Aires - CF
+country:     AR
+phone:       +54 11 53210000 []
+created:     20110603
+changed:     20140619
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

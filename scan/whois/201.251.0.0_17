@@ -1,0 +1,354 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-06 03:13:38 (BRST -02:00)
+
+inetnum:     201.251.0/17
+status:      allocated
+aut-num:     N/A
+owner:       Telefonica de Argentina
+ownerid:     AR-TEAR7-LACNIC
+responsible: José Luis Pérez Elias
+address:     AV. ING. HUERGO, 723, GERENCIA DE REQUERIMIENTOS JUDICIALES
+address:     1065 - Buenos Aires - CF
+country:     AR
+phone:       +54  8102220102 []
+owner-c:     TEA
+tech-c:      TEA
+abuse-c:     TEA
+inetrev:     201.251.3/24
+inetrev:     201.251.4/22
+nserver:     DNS1.MRSE.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     DNS2.MRSE.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     DNS3.MRSE.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+inetrev:     201.251.8/24
+nserver:     DNS1.MRSE.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     DNS2.MRSE.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     DNS3.MRSE.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     DNS4.MRSE.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+inetrev:     201.251.10/24
+inetrev:     201.251.18/23
+inetrev:     201.251.23/24
+inetrev:     201.251.25/24
+nserver:     DNS1.MRSE.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     DNS2.MRSE.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     DNS3.MRSE.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+inetrev:     201.251.30/23
+nserver:     DNS1.MRSE.COM.AR  
+nsstat:      20170102 AA
+nslastaa:    20170102
+nserver:     DNS2.MRSE.COM.AR  
+nsstat:      20170102 AA
+nslastaa:    20170102
+nserver:     DNS3.MRSE.COM.AR  
+nsstat:      20170102 AA
+nslastaa:    20170102
+inetrev:     201.251.35/24
+nserver:     DNS1.MRSE.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     DNS2.MRSE.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     DNS3.MRSE.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+inetrev:     201.251.37/24
+nserver:     DNS1.MRSE.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     DNS2.MRSE.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     DNS3.MRSE.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+inetrev:     201.251.41/24
+inetrev:     201.251.42/23
+inetrev:     201.251.44/22
+nserver:     DNS1.MRSE.COM.AR  
+nsstat:      20170101 AA
+nslastaa:    20170101
+nserver:     DNS2.MRSE.COM.AR  
+nsstat:      20170101 AA
+nslastaa:    20170101
+nserver:     DNS3.MRSE.COM.AR  
+nsstat:      20170101 AA
+nslastaa:    20170101
+inetrev:     201.251.50/24
+inetrev:     201.251.53/24
+inetrev:     201.251.58/23
+inetrev:     201.251.60/22
+nserver:     DNS1.MRSE.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     DNS2.MRSE.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     DNS3.MRSE.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+inetrev:     201.251.65/24
+inetrev:     201.251.66/23
+nserver:     DNS1.MRSE.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     DNS2.MRSE.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     DNS3.MRSE.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+inetrev:     201.251.69/24
+nserver:     DNS1.MRSE.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     DNS2.MRSE.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     DNS3.MRSE.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+inetrev:     201.251.74/24
+nserver:     DNS1.MRSE.COM.AR  
+nsstat:      20170102 AA
+nslastaa:    20170102
+nserver:     DNS2.MRSE.COM.AR  
+nsstat:      20170102 AA
+nslastaa:    20170102
+nserver:     DNS4.MRSE.COM.AR  
+nsstat:      20170102 AA
+nslastaa:    20170102
+inetrev:     201.251.75/24
+inetrev:     201.251.76/22
+nserver:     DNS3.MRSE.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     DNS2.MRSE.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+inetrev:     201.251.88/23
+nserver:     DNS1.MRSE.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     DNS2.MRSE.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     DNS3.MRSE.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+inetrev:     201.251.90/24
+inetrev:     201.251.92/24
+nserver:     DNS1.MRSE.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     DNS2.MRSE.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     DNS3.MRSE.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+inetrev:     201.251.94/24
+nserver:     DNS1.MRSE.COM.AR  
+nsstat:      20170102 AA
+nslastaa:    20170102
+nserver:     DNS2.MRSE.COM.AR  
+nsstat:      20170102 AA
+nslastaa:    20170102
+nserver:     DNS3.MRSE.COM.AR  
+nsstat:      20170102 AA
+nslastaa:    20170102
+inetrev:     201.251.97/24
+nserver:     DNS1.MRSE.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     DNS2.MRSE.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     DNS3.MRSE.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     DNS4.MRSE.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+inetrev:     201.251.98/23
+nserver:     DNS1.MRSE.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     DNS2.MRSE.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     DNS3.MRSE.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+inetrev:     201.251.100/23
+nserver:     DNS1.MRSE.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     DNS2.MRSE.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     DNS3.MRSE.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+inetrev:     201.251.102/24
+nserver:     DNS1.MRSE.COM.AR  
+nsstat:      20170102 AA
+nslastaa:    20170102
+nserver:     DNS2.MRSE.COM.AR  
+nsstat:      20170102 AA
+nslastaa:    20170102
+nserver:     DNS3.MRSE.COM.AR  
+nsstat:      20170102 AA
+nslastaa:    20170102
+nserver:     DNS4.MRSE.COM.AR  
+nsstat:      20170102 AA
+nslastaa:    20170102
+inetrev:     201.251.103/24
+nserver:     DNS1.MRSE.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     DNS2.MRSE.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     DNS3.MRSE.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+inetrev:     201.251.104/23
+nserver:     DNS1.MRSE.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     DNS2.MRSE.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     DNS3.MRSE.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+inetrev:     201.251.106/24
+nserver:     DNS1.MRSE.COM.AR  
+nsstat:      20170101 AA
+nslastaa:    20170101
+nserver:     DNS2.MRSE.COM.AR  
+nsstat:      20170101 AA
+nslastaa:    20170101
+nserver:     DNS3.MRSE.COM.AR  
+nsstat:      20170101 AA
+nslastaa:    20170101
+inetrev:     201.251.108/24
+nserver:     DNS1.MRSE.COM.AR  
+nsstat:      20170102 AA
+nslastaa:    20170102
+nserver:     DNS2.MRSE.COM.AR  
+nsstat:      20170102 AA
+nslastaa:    20170102
+nserver:     DNS3.MRSE.COM.AR  
+nsstat:      20170102 AA
+nslastaa:    20170102
+inetrev:     201.251.110/23
+nserver:     DNS1.MRSE.COM.AR  
+nsstat:      20170101 AA
+nslastaa:    20170101
+nserver:     DNS2.MRSE.COM.AR  
+nsstat:      20170101 AA
+nslastaa:    20170101
+nserver:     DNS3.MRSE.COM.AR  
+nsstat:      20170101 AA
+nslastaa:    20170101
+inetrev:     201.251.112/23
+nserver:     DNS1.MRSE.COM.AR  
+nsstat:      20170102 AA
+nslastaa:    20170102
+nserver:     DNS2.MRSE.COM.AR  
+nsstat:      20170102 AA
+nslastaa:    20170102
+nserver:     DNS3.MRSE.COM.AR  
+nsstat:      20170102 AA
+nslastaa:    20170102
+inetrev:     201.251.118/23
+inetrev:     201.251.120/23
+nserver:     DNS1.MRSE.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     DNS2.MRSE.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     DNS3.MRSE.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+inetrev:     201.251.122/24
+nserver:     DNS1.MRSE.COM.AR  
+nsstat:      20170102 AA
+nslastaa:    20170102
+nserver:     DNS2.MRSE.COM.AR  
+nsstat:      20170102 AA
+nslastaa:    20170102
+nserver:     DNS3.MRSE.COM.AR  
+nsstat:      20170102 AA
+nslastaa:    20170102
+inetrev:     201.251.123/24
+nserver:     DNS1.MRSE.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     DNS2.MRSE.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     DNS3.MRSE.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+inetrev:     201.251.124/22
+nserver:     DNS1.MRSE.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     DNS2.MRSE.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     DNS3.MRSE.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+created:     20050407
+changed:     20050407
+
+nic-hdl:     TEA
+person:      Telefonica de Argentina
+e-mail:      tasamail.ar@TELEFONICA.COM
+address:     AV. ING. HUERGO, 723, 
+address:     1065 - Capital Federal - BA
+country:     AR
+phone:       +54 11 43335000 []
+created:     20030618
+changed:     20110603
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

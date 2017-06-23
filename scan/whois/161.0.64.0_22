@@ -1,0 +1,45 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 21:02:41 (BRST -02:00)
+
+inetnum:     161.0.64/22
+status:      allocated
+aut-num:     N/A
+owner:       COMUNICACIONES Y SERVICIOS SRL
+ownerid:     AR-CYSS-LACNIC
+responsible: Hernan Kohnen
+address:     España, 2801, -
+address:     3300 - Posadas (Misiones) - 
+country:     AR
+phone:       +54 376 4433333 [210]
+owner-c:     HEK
+tech-c:      HEK
+abuse-c:     HEK
+created:     20140331
+changed:     20140331
+
+nic-hdl:     HEK
+person:      Hernan Kohnen
+e-mail:      hernan.kohnen@CYS.NET.AR
+address:     España, 2801, 
+address:     3300 - Posadas - 
+country:     AR
+phone:       +54 376 4433333 []
+created:     20120903
+changed:     20160316
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

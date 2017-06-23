@@ -1,0 +1,49 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 21:46:59 (BRST -02:00)
+
+inetnum:     170.84.204/22
+status:      allocated
+aut-num:     N/A
+owner:       Pampacom S.R.L.
+ownerid:     AR-PASR4-LACNIC
+responsible: Emanuel Poeylaut
+address:     San Martin, 1276, 
+address:     2630 - Firmat - SF
+country:     AR
+phone:       +54 3465 420922 []
+owner-c:     PAS9
+tech-c:      PAS9
+abuse-c:     PAS9
+inetrev:     170.84.204/22
+nserver:     MELKOR.PAMPACOM.COM.AR  
+nsstat:      20170102 AA
+nslastaa:    20170102
+created:     20160609
+changed:     20160609
+
+nic-hdl:     PAS9
+person:      Pampacom S.R.L.
+e-mail:      pampacomsrl@PAMPACOMSRL.COM.AR
+address:     San Martin, 1276, 
+address:     2630 - Firmat - SF
+country:     AR
+phone:       +54 3465 420922 []
+created:     20070927
+changed:     20070927
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

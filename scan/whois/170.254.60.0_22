@@ -1,0 +1,45 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 22:03:26 (BRST -02:00)
+
+inetnum:     170.254.60/22
+status:      allocated
+aut-num:     N/A
+owner:       TELE IMAGEN CODIFICADA SA
+ownerid:     AR-TICS-LACNIC
+responsible: Hugo Pereira
+address:     Independencia 446, , 
+address:     4200 - Santiago del Estero - 
+country:     AR
+phone:       +54 385 4224509 []
+owner-c:     HUP7
+tech-c:      HUP7
+abuse-c:     HUP7
+created:     20160805
+changed:     20160805
+
+nic-hdl:     HUP7
+person:      Hugo Pereyra
+e-mail:      hpereyra@TICONLINE.COM.AR
+address:     Calle Andes, 101, 
+address:     4200 - Santiago del Estero - 
+country:     AR
+phone:       +54 0385 154899528 []
+created:     20150219
+changed:     20150219
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

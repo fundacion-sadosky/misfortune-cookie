@@ -1,0 +1,52 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 23:34:53 (BRST -02:00)
+
+inetnum:     190.13.88/21
+status:      allocated
+aut-num:     N/A
+owner:       Integral Insumos
+ownerid:     AR-ININ2-LACNIC
+responsible: Daniel Bolatti
+address:     Richieri, 68, 
+address:     2322 - Sunchales - SF
+country:     AR
+phone:       +54 3493 428106 []
+owner-c:     DIT3
+tech-c:      DIT3
+abuse-c:     DIT3
+inetrev:     190.13.88/21
+nserver:     HOST1.INSUNET.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     HOST6.INSUNET.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+created:     20110526
+changed:     20110526
+
+nic-hdl:     DIT3
+person:      Diego Toselli
+e-mail:      diego.toselli@INTEGRALINSUMOS.COM.AR
+address:     Richieri, 68, 
+address:     2322 - Sunchales - SF
+country:     AR
+phone:       +54 3493 420000 []
+created:     20080131
+changed:     20161107
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

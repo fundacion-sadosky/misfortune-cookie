@@ -1,0 +1,45 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-06 01:02:17 (BRST -02:00)
+
+inetnum:     192.100.186/23
+status:      assigned
+aut-num:     N/A
+owner:       Universidad Nacional de Misiones
+ownerid:     AR-UNMI-LACNIC
+responsible: Marcelo Puerta
+address:     Ruta Nacional, N°12, Km 7 1/2, Villa Lanus, Campus Universitario.
+address:     3304 - Posadas - MI
+country:     AR
+phone:       +54 376 4480200 [280]
+owner-c:     PMF2
+tech-c:      PMF2
+abuse-c:     PMF2
+created:     20140513
+changed:     20140513
+
+nic-hdl:     PMF2
+person:      Puerta Marcelo Fabian
+e-mail:      marcelo.puerta@MAIL.UNAM.EDU.AR
+address:     Avenida 170, 6625, 
+address:     3300 - Posadas - Mn
+country:     AR
+phone:       +54 376 154755599 [0]
+created:     20110906
+changed:     20130916
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

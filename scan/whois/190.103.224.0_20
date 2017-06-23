@@ -1,0 +1,143 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 23:57:58 (BRST -02:00)
+
+inetnum:     190.103.224/20
+status:      allocated
+aut-num:     N/A
+owner:       Red Intercable Digital S.A.
+ownerid:     AR-RIDS-LACNIC
+responsible: Red Intercable Digital S.A.
+address:     Av. Belgrano, 615, Piso 12
+address:     1092 - Buenos Aires - BA
+country:     AR
+phone:       +54 11 60915656 []
+owner-c:     NER17
+tech-c:      NER17
+abuse-c:     NER17
+inetrev:     190.103.224/22
+nserver:     NS.RIDSA.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     NS1.RIDSA.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     NS2.RIDSA.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     NS3.RIDSA.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     NS4.RIDSA.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+inetrev:     190.103.228/24
+nserver:     NS.RIDSA.COM.AR  
+nsstat:      20170102 AA
+nslastaa:    20170102
+nserver:     NS1.RIDSA.COM.AR  
+nsstat:      20170102 AA
+nslastaa:    20170102
+nserver:     NS2.RIDSA.COM.AR  
+nsstat:      20170102 AA
+nslastaa:    20170102
+nserver:     NS3.RIDSA.COM.AR  
+nsstat:      20170102 AA
+nslastaa:    20170102
+nserver:     NS4.RIDSA.COM.AR  
+nsstat:      20170102 AA
+nslastaa:    20170102
+inetrev:     190.103.230/23
+nserver:     NS.RIDSA.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NS1.RIDSA.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NS2.RIDSA.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NS3.RIDSA.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NS4.RIDSA.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+inetrev:     190.103.232/22
+inetrev:     190.103.236/24
+inetrev:     190.103.237/24
+nserver:     NS.RIDSA.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     NS1.RIDSA.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     NS2.RIDSA.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     NS3.RIDSA.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     NS4.RIDSA.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+inetrev:     190.103.238/24
+nserver:     NS.RIDSA.COM.AR  
+nsstat:      20161231 AA
+nslastaa:    20161231
+nserver:     NS1.RIDSA.COM.AR  
+nsstat:      20161231 AA
+nslastaa:    20161231
+nserver:     NS2.RIDSA.COM.AR  
+nsstat:      20161231 AA
+nslastaa:    20161231
+nserver:     NS3.RIDSA.COM.AR  
+nsstat:      20161231 AA
+nslastaa:    20161231
+nserver:     NS4.RIDSA.COM.AR  
+nsstat:      20161231 AA
+nslastaa:    20161231
+inetrev:     190.103.239/24
+nserver:     NS.RIDSA.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NS1.RIDSA.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NS2.RIDSA.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NS3.RIDSA.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NS4.RIDSA.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+created:     20080618
+changed:     20161220
+
+nic-hdl:     NER17
+person:      Network Ridsa
+e-mail:      lacnic@RIDSA.COM.AR
+address:     Av. Belgrano, 615, Piso 12
+address:     1092 - Buenos Aires - Ar
+country:     AR
+phone:       +54 11 60915665 [8000]
+created:     20161220
+changed:     20161220
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

@@ -1,0 +1,45 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 21:25:03 (BRST -02:00)
+
+inetnum:     168.197.44/22
+status:      allocated
+aut-num:     N/A
+owner:       VIDEOTEL SRL
+ownerid:     AR-VISR23-LACNIC
+responsible: Victor Marcelo Caris
+address:     Av. Luciano Catalano, 138, 
+address:     4612 - Palpala - 
+country:     AR
+phone:       +54 0388 4271123 []
+owner-c:     VMC12
+tech-c:      VMC12
+abuse-c:     VMC12
+created:     20160921
+changed:     20160921
+
+nic-hdl:     VMC12
+person:      Victor Marcelo Caris
+e-mail:      gerencia@VIDEOTEL.COM.AR
+address:     Av. Luciano Catalano, 138, 
+address:     4612 - Palpala - Ju
+country:     AR
+phone:       +54 0388 4271123 []
+created:     20160309
+changed:     20160426
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

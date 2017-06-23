@@ -1,0 +1,54 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-06 03:02:22 (BRST -02:00)
+
+inetnum:     201.159.216/22
+status:      allocated
+aut-num:     AS52328
+abuse-c:     NOC5
+owner:       CABLETEL SA
+ownerid:     AR-CASA90-LACNIC
+responsible: Norberto Bertero
+address:     Av. 9 de Julio, 1163, 
+address:     S2183XAB - Arequito - SF
+country:     AR
+phone:       +54 3464 470280 []
+owner-c:     NOC5
+tech-c:      NOC5
+abuse-c:     NOC5
+inetrev:     201.159.216/23
+inetrev:     201.159.218/23
+nserver:     MARTY.CBTEL.NET.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     MCFLY.CBTEL.NET.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+created:     20140612
+changed:     20140612
+
+nic-hdl:     NOC5
+person:      NOC - CABLETEL S.A.
+e-mail:      noc@CBTEL.NET.AR
+address:     Av. 9 de Julio, 1163, 
+address:     S2183XAB - Arequito - 
+country:     AR
+phone:       +54 3464 470280 [535]
+created:     20101102
+changed:     20140122
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

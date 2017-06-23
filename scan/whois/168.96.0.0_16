@@ -1,0 +1,72 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 21:12:05 (BRST -02:00)
+
+inetnum:     168.96/16
+status:      assigned
+aut-num:     N/A
+owner:       Fundación InnovaT
+ownerid:     AR-ACCH-LACNIC
+responsible: Juan José Nicolás
+address:     Julián Alvarez, 1218, 
+address:     C1414DRZ - Buenos Aires - 
+country:     AR
+phone:       +54 911 44785473 []
+owner-c:     JJN
+tech-c:      MAC357
+abuse-c:     JCF60
+inetrev:     168.96/16
+nserver:     NS1.RETINA.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NS2.RETINA.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+created:     19940303
+changed:     20151214
+
+nic-hdl:     JCF60
+person:      Juan Carlos Fischer
+e-mail:      abuse@INNOVA-RED.NET
+address:     Avenida Córdoba, 831, piso 6
+address:     1054 - CABA - 
+country:     AR
+phone:       +54 11 48918999 [8609]
+created:     20151211
+changed:     20151211
+
+nic-hdl:     JJN
+person:      Juan José Nicolás
+e-mail:      jnicolas@INNOVA-RED.NET
+address:     Av. Cordoba, 831, 6 Piso
+address:     C1054AAC - Buenos Aires - 
+country:     AR
+phone:       +54 11 48918900 [8633]
+created:     20061109
+changed:     20151026
+
+nic-hdl:     MAC357
+person:      Marcelo Cáncer
+e-mail:      mcancer@INNOVA-RED.NET
+address:     Junin, 674, 
+address:     1026 - Buenos Aires - 
+country:     AR
+phone:       +54 011 48918900 [8637]
+created:     20151026
+changed:     20151026
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

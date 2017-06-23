@@ -1,0 +1,52 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 20:33:27 (BRST -02:00)
+
+inetnum:     138.118.144/22
+status:      allocated
+aut-num:     N/A
+owner:       HFC INGENIERIA SRL
+ownerid:     AR-HISR6-LACNIC
+responsible: Lozano Marcelo Marcos
+address:     Felipe Erdman, 2, Villa Dolores
+address:     X5870AQB - CORDOBA - -
+country:     AR
+phone:       +054 3544 421115 [000000]
+owner-c:     MAL177
+tech-c:      MAL177
+abuse-c:     MAL177
+inetrev:     138.118.144/22
+nserver:     NS1.CABLESAT.DO  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NS2.CABLESAT.DO  
+nsstat:      20170104 AA
+nslastaa:    20170104
+created:     20150519
+changed:     20150519
+
+nic-hdl:     MAL177
+person:      Marcelo Marcos Lozano
+e-mail:      mlozano@HFCINGENIERIA.COM.AR
+address:     Ciudad de Rosario, 296, 
+address:     D5702GWF - San Luis - 
+country:     AR
+phone:       +54 266 4351578 []
+created:     20150409
+changed:     20150603
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

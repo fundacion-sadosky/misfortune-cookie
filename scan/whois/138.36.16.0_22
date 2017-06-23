@@ -1,0 +1,73 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 20:22:19 (BRST -02:00)
+
+inetnum:     138.36.16/22
+status:      allocated
+aut-num:     N/A
+owner:       MESI SRL
+ownerid:     AR-MESI-LACNIC
+responsible: Andrés Meggiotto
+address:     Av. Paseo Colon, 588 4, 
+address:     1063 - Caba - BA
+country:     AR
+phone:       +54 011 43316374 []
+owner-c:     ANM69
+tech-c:      ANM69
+abuse-c:     ANM69
+inetrev:     138.36.16/24
+nserver:     NS1.MESI.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     NS2.MESI.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+inetrev:     138.36.17/24
+nserver:     NS1.MESI.COM.AR  
+nsstat:      20161231 AA
+nslastaa:    20161231
+nserver:     NS2.MESI.COM.AR  
+nsstat:      20161231 AA
+nslastaa:    20161231
+inetrev:     138.36.18/24
+nserver:     NS1.MESI.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     NS2.MESI.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+inetrev:     138.36.19/24
+nserver:     NS1.MESI.COM.AR  
+nsstat:      20170101 AA
+nslastaa:    20170101
+nserver:     NS2.MESI.COM.AR  
+nsstat:      20170101 AA
+nslastaa:    20170101
+created:     20150112
+changed:     20150112
+
+nic-hdl:     ANM69
+person:      Andrés Meggiotto
+e-mail:      andres@MESI.COM.AR
+address:     Av. Paseo Colón 588, 4, 10
+address:     1063 - CABA - BA
+country:     AR
+phone:       +54 011 43316374 [564]
+created:     20130626
+changed:     20130705
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

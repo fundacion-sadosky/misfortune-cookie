@@ -1,0 +1,60 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-06 02:58:09 (BRST -02:00)
+
+inetnum:     200.229.252/22
+status:      allocated
+aut-num:     AS52465
+abuse-c:     FEK4
+owner:       Carcamo German Rodrigo
+ownerid:     AR-CAGE-LACNIC
+responsible: Carcamo German
+address:     Jenner, 234, 
+address:     2000 - Rosario - SF
+country:     AR
+phone:       +54 341 6415939 []
+owner-c:     CAG68
+tech-c:      CAG68
+abuse-c:     CAG68
+inetrev:     200.229.252/22
+nserver:     NS2.GECOMNET.COM.AR  [lame - not published]
+nsstat:      20170103 UH
+nslastaa:    20150706
+created:     20140604
+changed:     20140604
+
+nic-hdl:     CAG68
+person:      carcamo german
+e-mail:      info@GECOMNET.COM.AR
+address:     donado bis, 270, 
+address:     2000 - rosario - 
+country:     AR
+phone:       +054 341 56415939 [0]
+created:     20131020
+changed:     20140310
+
+nic-hdl:     FEK4
+person:      Federico Kearney
+e-mail:      info@WNINTERNET.COM
+address:     Pellegrini, 1750, 9C
+address:     S2000BUR - Rosario - SF
+country:     AR
+phone:       +54 0341 527 [1152]
+created:     20120626
+changed:     20130827
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

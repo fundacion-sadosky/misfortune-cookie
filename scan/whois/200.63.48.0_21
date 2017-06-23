@@ -1,0 +1,73 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-06 02:12:05 (BRST -02:00)
+
+inetnum:     200.63.48/21
+status:      allocated
+aut-num:     N/A
+owner:       BairesWeb
+ownerid:     AR-ARTU-LACNIC
+responsible: Pablo Arturi
+address:     Maipu, 464, 1 dto B
+address:     1006 - Buenos Aires - 
+country:     AR
+phone:       +54 11 5218-4829 []
+owner-c:     PAA
+tech-c:      PAA
+abuse-c:     PAA
+inetrev:     200.63.48/24
+nserver:     R1.DNSBA.COM  
+nsstat:      20170101 AA
+nslastaa:    20170101
+nserver:     R2.DNSBA.COM  
+nsstat:      20170101 AA
+nslastaa:    20170101
+inetrev:     200.63.49/24
+nserver:     R1.DNSBA.COM  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     R2.DNSBA.COM  
+nsstat:      20170104 AA
+nslastaa:    20170104
+inetrev:     200.63.50/23
+nserver:     R1.DNSBA.COM  
+nsstat:      20170101 AA
+nslastaa:    20170101
+nserver:     R2.DNSBA.COM  
+nsstat:      20170101 AA
+nslastaa:    20170101
+inetrev:     200.63.52/22
+nserver:     R1.DNSBA.COM  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     R2.DNSBA.COM  
+nsstat:      20170105 AA
+nslastaa:    20170105
+created:     20080307
+changed:     20080307
+
+nic-hdl:     PAA
+person:      Pablo Arturi
+e-mail:      noc@DNSBA.COM
+address:     vieytes, 24, 8 A
+address:     1640 - Martinez - 
+country:     AR
+phone:       +54 11 5218 [4829]
+created:     20021117
+changed:     20160401
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

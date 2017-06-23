@@ -1,0 +1,52 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 20:34:29 (BRST -02:00)
+
+inetnum:     138.118.216/22
+status:      allocated
+aut-num:     N/A
+owner:       Global Telecomunicaciones SRL
+ownerid:     AR-GTSR-LACNIC
+responsible: Roman Bolondi
+address:     Gral. Mitre, 169, 
+address:     2679 - Pascanas - Cb
+country:     AR
+phone:       +54 353 4898378 []
+owner-c:     RRB14
+tech-c:      RRB14
+abuse-c:     RRB14
+inetrev:     138.118.216/22
+nserver:     DNS1.NPLAY.COM.AR  
+nsstat:      20170102 AA
+nslastaa:    20170102
+nserver:     DNS2.NPLAY.COM.AR  
+nsstat:      20170102 AA
+nslastaa:    20170102
+created:     20150611
+changed:     20150611
+
+nic-hdl:     RRB14
+person:      ROMAN RICARDO BOLONDI
+e-mail:      rbolondi@GLOBALTELECOM.COM.AR
+address:     MITRE, 169, 
+address:     2679 - PASCANAS - 
+country:     AR
+phone:       +54 353 4898378 []
+created:     20130617
+changed:     20130617
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

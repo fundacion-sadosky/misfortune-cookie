@@ -1,0 +1,59 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-06 02:25:53 (BRST -02:00)
+
+inetnum:     200.81.176/20
+status:      allocated
+aut-num:     N/A
+owner:       SION S.A
+ownerid:     AR-SISA8-LACNIC
+responsible: Fernando Oliva
+address:     AV. Cabildo, 2677, Piso 7
+address:     1428 - Capital Federal - BA
+country:     AR
+phone:       +54 11 41102525 []
+owner-c:     FEO
+tech-c:      FEO
+abuse-c:     FEO
+inetrev:     200.81.176/21
+nserver:     NS1.SION.COM  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     NS2.SION.COM  
+nsstat:      20170105 AA
+nslastaa:    20170105
+inetrev:     200.81.184/21
+nserver:     NS1.SION.COM  
+nsstat:      20170102 AA
+nslastaa:    20170102
+nserver:     NS2.SION.COM  
+nsstat:      20170102 AA
+nslastaa:    20170102
+created:     20080623
+changed:     20080623
+
+nic-hdl:     FEO
+person:      Fernando Oliva
+e-mail:      foliva@SION.COM
+address:     Cabildo, 2677, Piso 7
+address:     1428 - Buenos Aires - 
+country:     AR
+phone:       +54 11 39602580 []
+created:     20020925
+changed:     20140220
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

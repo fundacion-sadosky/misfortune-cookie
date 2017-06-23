@@ -1,0 +1,58 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-06 02:40:37 (BRST -02:00)
+
+inetnum:     200.114.80/21
+status:      allocated
+aut-num:     N/A
+owner:       CITARELLA S.A.
+ownerid:     AR-CISA20-LACNIC
+responsible: Sergio Orellano
+address:     Calle 2, 366, 
+address:     1900 - La Plata - BA
+country:     AR
+phone:       +54 221 4229800 []
+owner-c:     SEO
+tech-c:      SEO
+abuse-c:     SEO
+inetrev:     200.114.80/21
+nserver:     NS1.IPLATENSE.NET.AR  
+nsstat:      20170102 AA
+nslastaa:    20170102
+nserver:     NS2.IPLATENSE.NET.AR  
+nsstat:      20170102 AA
+nslastaa:    20170102
+nserver:     TAURUS.IPLATENSE.COM.AR  
+nsstat:      20170102 AA
+nslastaa:    20170102
+nserver:     ORION.IPLATENSE.COM.AR  
+nsstat:      20170102 AA
+nslastaa:    20170102
+created:     20090609
+changed:     20090609
+
+nic-hdl:     SEO
+person:      Julio Citarella
+e-mail:      soporte@CITARELLA.COM.AR
+address:     Calle 2, 366, e/ 39 y 40
+address:     1900 - La Plata - BS
+country:     AR
+phone:       +54 221 4229800 []
+created:     20090331
+changed:     20110719
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

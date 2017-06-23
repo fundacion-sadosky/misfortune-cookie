@@ -1,0 +1,52 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-06 01:06:51 (BRST -02:00)
+
+inetnum:     200.0.175/24
+status:      assigned
+aut-num:     N/A
+owner:       Darcom S.A.
+ownerid:     AR-DASA2-LACNIC
+responsible: Claudio Liberman
+address:     Av. Cordoba, 939, 3er Piso
+address:     1054 - Buenos Aires - CF
+country:     AR
+phone:       +0054 11 52520000 []
+owner-c:     DAP13
+tech-c:      DAP13
+abuse-c:     DAP13
+inetrev:     200.0.175/24
+nserver:     NS1.DARCOM.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     NS2.DARCOM.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+created:     20071107
+changed:     20071107
+
+nic-hdl:     DAP13
+person:      Daniel Picornell
+e-mail:      danielp@DARCOM.COM.AR
+address:     Cordoba, 939, 
+address:     C1054AAI - Capital Federal - 
+country:     AR
+phone:       +54 11 52520066 []
+created:     20071009
+changed:     20071009
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

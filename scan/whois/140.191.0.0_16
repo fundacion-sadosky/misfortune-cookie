@@ -1,0 +1,52 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 20:52:36 (BRST -02:00)
+
+inetnum:     140.191/16
+status:      assigned
+aut-num:     N/A
+owner:       United Nations Development Programme
+ownerid:     AR-UNDP1-LACNIC
+responsible: Gonzalo Gomez
+address:     Esmeralda, 1212, 3er Piso - Informatica
+address:     1007 - Buenos Aires - 
+country:     AR
+phone:       +54 11 48197262 []
+owner-c:     ARC3
+tech-c:      ARC3
+abuse-c:     ARC3
+inetrev:     140.191/16
+nserver:     NS1.MRECIC.GOV.AR  
+nsstat:      20170101 AA
+nslastaa:    20170101
+nserver:     NS2.MRECIC.GOV.AR  
+nsstat:      20170101 AA
+nslastaa:    20170101
+created:     19900523
+changed:     20100412
+
+nic-hdl:     ARC3
+person:      Administrador de Red - Comunicaciones
+e-mail:      noc-ar@MRECIC.GOV.AR
+address:     Esmeralda, 1212, 3er Piso - Informatica
+address:     1007 - Buenos Aires - 
+country:     AR
+phone:       +54 11 48197262 []
+created:     20100408
+changed:     20100408
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

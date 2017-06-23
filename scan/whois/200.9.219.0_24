@@ -1,0 +1,52 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-06 01:25:04 (BRST -02:00)
+
+inetnum:     200.9.219/24
+status:      assigned
+aut-num:     N/A
+owner:       Intersoft Argentina S.A.
+ownerid:     AR-IASA1-LACNIC
+responsible: Intersoft S.A.
+address:     Av. Cordoba, 883, Piso 9
+address:     1054 - Capital Federal - 
+country:     AR
+phone:       +54 11 41318900 []
+owner-c:     INS9
+tech-c:      INS9
+abuse-c:     INS9
+inetrev:     200.9.219/24
+nserver:     DNS.INTERSOFT.COM.AR  [lame - not published]
+nsstat:      20170103 TIMEOUT
+nslastaa:    20130317
+nserver:     GWAIHIR.INTERSOFT.COM.AR  [lame - not published]
+nsstat:      20170103 TIMEOUT
+nslastaa:    20130317
+created:     19940122
+changed:     19981006
+
+nic-hdl:     INS9
+person:      Intersoft SA
+e-mail:      hardaiz@INTERSOFT.COM.AR
+address:     Av. Cordoba, 883, Piso 9
+address:     1054 - Capital Federal - 
+country:     AR
+phone:       +54 11 41318900 []
+created:     20091104
+changed:     20091104
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

@@ -1,0 +1,50 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-06 01:07:12 (BRST -02:00)
+
+inetnum:     200.0.181/24
+status:      assigned
+aut-num:     N/A
+owner:       Open Solutions S.A.
+ownerid:     AR-OSSA-LACNIC
+address:     Av. de Mayo 881 piso 3
+address:     Buenos Aires - 1084
+country:     AR
+owner-c:     MJD3-ARIN
+inetrev:     200.0.181/24
+nserver:     NS1.ISOL.NET.AR  [lame - not published]
+nsstat:      20170105 QREFUSED
+nslastaa:    20061022
+nserver:     NS1.ISOL.NET  [lame - not published]
+nsstat:      20170105 UDN
+nslastaa:    20020830
+created:     19950420
+changed:     19971125
+source:      ARIN-HISTORIC
+
+nic-hdl:     MJD3-ARIN
+person:      Mario Dominguez
+e-mail:      mariojd@ISOL.NET
+address:     InterServer Inc.
+address:     Genesis Yachts Corp.
+address:     6538 Collins Ave. Suite 203
+address:     Miami Beach, FL 33141
+country:     US
+phone:       +1 305 495 7675
+source:      ARIN-HISTORIC
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

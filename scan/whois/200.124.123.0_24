@@ -1,0 +1,52 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-06 02:53:56 (BRST -02:00)
+
+inetnum:     200.124.123/24
+status:      assigned
+aut-num:     N/A
+owner:       Visa Argentina S.A.
+ownerid:     AR-VASA18-LACNIC
+responsible: Carlos Teodori
+address:     Avenida Corrientes, 1437, Piso 6
+address:     1042 - Cap Fed - BA
+country:     AR
+phone:       +054 011 43792677 []
+owner-c:     ESC11
+tech-c:      ESC11
+abuse-c:     ESC11
+inetrev:     200.124.123/24
+nserver:     NS.VISA.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     COBE.BTLATAM.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+created:     20120117
+changed:     20120117
+
+nic-hdl:     ESC11
+person:      Diego Avila
+e-mail:      davila@PRISMAMP.COM
+address:     Av. Corrientes, 1437, 6
+address:     1042 - Capital Federal - BA
+country:     AR
+phone:       +54 11 43792677 []
+created:     20110810
+changed:     20150424
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

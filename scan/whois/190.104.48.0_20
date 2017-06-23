@@ -1,0 +1,52 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 23:59:01 (BRST -02:00)
+
+inetnum:     190.104.48/20
+status:      allocated
+aut-num:     N/A
+owner:       COOP. LIMITADA DE CONSUMO DE ELECTRICIDAD DE SALTO
+ownerid:     AR-CLCE1-LACNIC
+responsible: Aldo H. Echague
+address:     AV. DARDO LAFALCE, 296, 
+address:     2741 - SALTO - BA
+country:     AR
+phone:       +54 2474 422828 []
+owner-c:     FEV10
+tech-c:      FEV10
+abuse-c:     FEV10
+inetrev:     190.104.48/20
+nserver:     NS1.S10.COOPENET.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     NS2.S10.COOPENET.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+created:     20120319
+changed:     20120319
+
+nic-hdl:     FEV10
+person:      Federico Ventura
+e-mail:      fventura@COOPELSALTO.COM.AR
+address:     Av. Dardo Lafalce, 296, 
+address:     2741 - Salto - BA
+country:     AR
+phone:       +054 2474 422828 [104]
+created:     20110803
+changed:     20150317
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

@@ -1,0 +1,57 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 22:25:24 (BRST -02:00)
+
+inetnum:     179.63.236/22
+status:      allocated
+aut-num:     N/A
+owner:       Hotingtraders.com
+ownerid:     AR-HOTI-LACNIC
+responsible: Pablo enz
+address:     Carcano, 335, 
+address:     5152 - Villa Carlos Paz - CO
+country:     AR
+phone:       +54 3541 430565 []
+owner-c:     MAB56
+tech-c:      MAB56
+abuse-c:     MAB56
+inetrev:     179.63.236/24
+nserver:     NUBENIC.COM  
+nsstat:      20170103 AA
+nslastaa:    20170103
+inetrev:     179.63.237/24
+nserver:     PLAN-D.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+inetrev:     179.63.238/23
+nserver:     NUBENIC.COM  
+nsstat:      20170105 AA
+nslastaa:    20170105
+created:     20130805
+changed:     20130805
+
+nic-hdl:     MAB56
+person:      Pablo Enz
+e-mail:      cuentas@NUBENIC.COM
+address:     Los Cerros, 721, 
+address:     5152 - Carlos Paz - Ar
+country:     AR
+phone:       +0054 3541 430565 []
+created:     20130130
+changed:     20160727
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

@@ -1,0 +1,69 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 23:58:40 (BRST -02:00)
+
+inetnum:     190.104.32/20
+status:      allocated
+aut-num:     N/A
+owner:       Jumpnet Soluciones de Internet S.R.L.
+ownerid:     AR-FDCR-LACNIC
+responsible: FERNANDEZ DAGA CARLOS ROBERTO
+address:     Maure, 2426, 
+address:     1613 - Pablo Noguez - BA
+country:     AR
+phone:       +054 011 60911000 []
+owner-c:     WAR7
+tech-c:      RBM
+abuse-c:     RBM
+inetrev:     190.104.39/24
+nserver:     DNS1.JUMPNET.COM.AR  [lame - not published]
+nsstat:      20170104 QREFUSED
+nslastaa:    20150519
+nserver:     DNS2.JUMPNET.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+inetrev:     190.104.44/22
+nserver:     DNS1.JUMPNET.COM.AR  [lame - not published]
+nsstat:      20170105 QREFUSED
+nslastaa:    20150515
+nserver:     DNS2.JUMPNET.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+created:     20120305
+changed:     20120305
+
+nic-hdl:     RBM
+person:      Roberto Boero Mansilla
+e-mail:      rboero@SOMTIK.COM
+address:     Los nogales, 535, 1
+address:     1727 - Marcos Paz, Buenos Aires - BA
+country:     AR
+phone:       +54 11 6632 [9000]
+created:     20071127
+changed:     20161230
+
+nic-hdl:     WAR7
+person:      walter rosso
+e-mail:      e_pulses@HOTMAIL.COM
+address:     donizetti, 41, local 17
+address:     1759 - buenos aires caba - 
+country:     AR
+phone:       +0054 011 4682 [5773]
+created:     20100510
+changed:     20160315
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

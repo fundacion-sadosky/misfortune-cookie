@@ -1,0 +1,45 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 22:04:50 (BRST -02:00)
+
+inetnum:     170.254.156/22
+status:      allocated
+aut-num:     N/A
+owner:       Raponi Beatriz Enriketa
+ownerid:     AR-WIPI-LACNIC
+responsible: Raponi Beatriz Enriket
+address:     Las Rocas 22, , 
+address:     8315 - Piedra del Aguila - 
+country:     AR
+phone:       +54 2942 493655 []
+owner-c:     RBE2
+tech-c:      RBE2
+abuse-c:     RBE2
+created:     20160721
+changed:     20160721
+
+nic-hdl:     RBE2
+person:      Raponi Beatriz Enriketa
+e-mail:      cyberaguila@GMAIL.COM
+address:     Las Rocas, 22, 
+address:      - Piedra del Aguila - 
+country:     AR
+phone:       +054 2942 15602024 []
+created:     20150521
+changed:     20150521
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

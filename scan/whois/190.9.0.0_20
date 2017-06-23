@@ -1,0 +1,52 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 23:29:59 (BRST -02:00)
+
+inetnum:     190.9.0/20
+status:      allocated
+aut-num:     N/A
+owner:       Cooperativa Telefonica Carlos Tejedor Ltda.
+ownerid:     AR-CTCT3-LACNIC
+responsible: Cooperativa Telefonica Carlos Tejedor Lt
+address:     Av. Constitucion, 5151, Sistemas
+address:     7600 - Mar del Plata - BA
+country:     AR
+phone:       +54 223 4793641 []
+owner-c:     GAB6
+tech-c:      GAB6
+abuse-c:     GAB6
+inetrev:     190.9.0/20
+nserver:     DNS.COPETEL.NET.AR  
+nsstat:      20161230 AA
+nslastaa:    20161230
+nserver:     DNS2.COPETEL.NET.AR  
+nsstat:      20161230 AA
+nslastaa:    20161230
+created:     20060221
+changed:     20060221
+
+nic-hdl:     GAB6
+person:      Gabriel Biloni
+e-mail:      gbiloni@COPETEL.COM.AR
+address:     Av.Constitucion, 5151, Sistemas
+address:     7600 - Mar del Plata - BA
+country:     AR
+phone:       +54 223 4793641 []
+created:     20060201
+changed:     20060201
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

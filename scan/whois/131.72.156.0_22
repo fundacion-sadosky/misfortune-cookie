@@ -1,0 +1,66 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 20:09:47 (BRST -02:00)
+
+inetnum:     131.72.156/22
+status:      allocated
+aut-num:     N/A
+owner:       CYBERTAP
+ownerid:     AR-CYBE7-LACNIC
+responsible: ROMERA RICARDO FEDERICO
+address:     Av. San Martin, 195, 
+address:     7303 - Tapalque - 
+country:     AR
+phone:       +54 2283 430621 []
+owner-c:     RIF8
+tech-c:      RIF8
+abuse-c:     RIF8
+inetrev:     131.72.156/24
+nserver:     DNS1.CABLETAP.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     DNS2.CABLETAP.COM.AR  
+nsstat:      20170104 NOT SYNC ZONE
+nslastaa:    20161113
+inetrev:     131.72.157/24
+nserver:     DNS1.CABLETAP.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     DNS2.CABLETAP.COM.AR  
+nsstat:      20170104 NOT SYNC ZONE
+nslastaa:    20161116
+inetrev:     131.72.158/23
+nserver:     DNS1.CABLETAP.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     DNS2.CABLETAP.COM.AR  
+nsstat:      20170104 NOT SYNC ZONE
+nslastaa:    20161113
+created:     20140801
+changed:     20140801
+
+nic-hdl:     RIF8
+person:      RICARDO FEDERICO
+e-mail:      federico@CYBERTAP.COM.AR
+address:     Av. San Martin, 98, 
+address:     7303 - Tapalque - 
+country:     AR
+phone:       +54 11 54004538 []
+created:     20110914
+changed:     20140731
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

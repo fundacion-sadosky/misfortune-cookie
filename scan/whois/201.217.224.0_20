@@ -1,0 +1,52 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-06 03:05:31 (BRST -02:00)
+
+inetnum:     201.217.224/20
+status:      allocated
+aut-num:     N/A
+owner:       MERCO COMUNICACIONES
+ownerid:     AR-MECO2-LACNIC
+responsible: Federico Brandenburg
+address:     25 de Mayo, 565, oficina 5
+address:     1002 - Buenos Aires - CF
+country:     AR
+phone:       +54 911 50200404 []
+owner-c:     FEB9
+tech-c:      FEB9
+abuse-c:     FEB9
+inetrev:     201.217.224/20
+nserver:     DNS3.MEGACABLE.COM.AR  
+nsstat:      20170102 AA
+nslastaa:    20170102
+nserver:     DNS2.MEGACABLE.COM.AR  
+nsstat:      20170102 AA
+nslastaa:    20170102
+created:     20110831
+changed:     20110831
+
+nic-hdl:     FEB9
+person:      Federico Brandenburg
+e-mail:      fbrandenburg@GCISERVICIOS.COM.AR
+address:     25 de Mayo, 565, ofic 5º
+address:     1002 - Capital Federal - CF
+country:     AR
+phone:       +54 11 43158899 [21]
+created:     20080213
+changed:     20140508
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

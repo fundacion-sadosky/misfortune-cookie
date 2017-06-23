@@ -1,0 +1,45 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-06 01:02:38 (BRST -02:00)
+
+inetnum:     192.100.254/24
+status:      assigned
+aut-num:     N/A
+owner:       MUNICIPALIDAD DE LA COSTA
+ownerid:     AR-MLCO2-LACNIC
+responsible: Jorge Pierini
+address:     Av. Costanera, 8001, Mar del Tuyu
+address:     7108 - Mar del Tuyu - BA
+country:     AR
+phone:       +54 221 155022426 []
+owner-c:     JOP64
+tech-c:      JOP64
+abuse-c:     JOP64
+created:     20140627
+changed:     20140627
+
+nic-hdl:     JOP64
+person:      Jorge Pierini
+e-mail:      jpierini@LACOSTA.GOB.AR
+address:     Calle 30 entre 59 y 60, PB Dto A, 1325, 
+address:     1900 - La Plata - BA
+country:     AR
+phone:       +54 221 155022426 []
+created:     20131128
+changed:     20131210
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

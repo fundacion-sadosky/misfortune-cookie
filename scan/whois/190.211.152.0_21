@@ -1,0 +1,55 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-06 00:51:00 (BRST -02:00)
+
+inetnum:     190.211.152/21
+status:      allocated
+aut-num:     N/A
+owner:       Fiber2home S.A
+ownerid:     AR-NESA32-LACNIC
+responsible: Ramiro Bermudez
+address:     Los Crisantemos, 475, 
+address:     1667 - Pilar - -
+country:     AR
+phone:       +54 11 53536511 []
+owner-c:     FIS14
+tech-c:      LAP4
+abuse-c:     LAP4
+created:     20101103
+changed:     20101103
+
+nic-hdl:     FIS14
+person:      Fiber2home S.A.
+e-mail:      aarenzon@FIBER2HOME.COM.AR
+address:     Los Crisantemos, 475, C115
+address:     1667 - Pilar - Pr
+country:     AR
+phone:       +54 11 53536511 []
+created:     20150924
+changed:     20150924
+
+nic-hdl:     LAP4
+person:      Alberto Arenzon
+e-mail:      administracion@NETELCOM.COM.AR
+address:     J.D.Perón, 1509, Piso 7
+address:     C1037ACC - Buenos Aires - AR
+country:     AR
+phone:       +54 11 53525200 [120]
+created:     20061122
+changed:     20160523
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

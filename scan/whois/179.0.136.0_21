@@ -1,0 +1,69 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 22:09:01 (BRST -02:00)
+
+inetnum:     179.0.136/21
+status:      assigned
+aut-num:     AS27875
+abuse-c:     CRJ
+owner:       Universidad Nacional de Cuyo
+ownerid:     AR-UNCU-LACNIC
+responsible: Roberto Cutuli
+address:     Centro Universitario - Parque, 000, 
+address:     5500 - Mendoza - 
+country:     AR
+phone:       +54 261 4135000 [5211]
+owner-c:     CRA
+tech-c:      CRA
+abuse-c:     CRJ
+inetrev:     179.0.136/21
+nserver:     RAIZ.UNCU.EDU.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NOC.UNCU.EDU.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NS0.UNCU.EDU.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NS1.UNCU.EDU.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+created:     20130614
+changed:     20160405
+
+nic-hdl:     CRA
+person:      CUTULI, Roberto Andrés
+e-mail:      rcutuli@UNCU.EDU.AR
+address:     Nodo Informático - CICUNC - Centro Universitario, S/N, UNCuyo
+address:     5500 - Mendoza - AR
+country:     AR
+phone:       +54 261 4135211 []
+created:     20030828
+changed:     20140507
+
+nic-hdl:     CRJ
+person:      Cremaschi Javier
+e-mail:      jcremas@UNCU.EDU.AR
+address:     Universidad Nacional de Cuyo, 5500, 
+address:     5500 - Mendoza - 
+country:     AR
+phone:       +54 261 4135211 []
+created:     20050321
+changed:     20050407
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

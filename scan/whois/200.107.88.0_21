@@ -1,0 +1,49 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-06 02:34:19 (BRST -02:00)
+
+inetnum:     200.107.88/21
+status:      allocated
+aut-num:     N/A
+owner:       Sociedad Cooperativa Popular Limitada de Comodoro
+ownerid:     AR-SCPL2-LACNIC
+responsible: Alejandro Rapallini
+address:     Av. San Martín, 1641, 
+address:     U9000AJG - Comodoro Rivadavia - 
+country:     AR
+phone:       +54 297 4472020 [281]
+owner-c:     HUI2
+tech-c:      HUI2
+abuse-c:     HUI2
+inetrev:     200.107.88/21
+nserver:     NS0.COMODORO.COOP  
+nsstat:      20170103 AA
+nslastaa:    20170103
+created:     20100514
+changed:     20100514
+
+nic-hdl:     HUI2
+person:      Alejandro Rapallini
+e-mail:      plantainterna@SCPLCR.COM
+address:     Av. San Martin, 1641, 
+address:     U9000AJG - Comodoro Rivadavia - Ch
+country:     AR
+phone:       +54 297 4472020 [299]
+created:     20070815
+changed:     20141020
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

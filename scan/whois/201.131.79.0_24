@@ -1,0 +1,45 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-06 02:59:12 (BRST -02:00)
+
+inetnum:     201.131.79/24
+status:      assigned
+aut-num:     N/A
+owner:       ADMINISTRACION FEDERAL DE INGRESOS PUBLICOS(AFIP)
+ownerid:     AR-AFIP-LACNIC
+responsible: DEINCO AFIP
+address:     Av. Paseo Colón, 635PB, DEINCO
+address:     C106D3ACG - Buenos Aires - 
+country:     AR
+phone:       +54 11 43471136 []
+owner-c:     DEA
+tech-c:      DEA
+abuse-c:     DEA
+created:     20150601
+changed:     20150601
+
+nic-hdl:     DEA
+person:      AFIP - DEINCO
+e-mail:      deinco@AFIP.GOB.AR
+address:     Paseo Colon, 635, Planta Baja
+address:     C1063ACG - de Buenos Aires - 
+country:     AR
+phone:       +54 11 43471111 []
+created:     20030527
+changed:     20150313
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

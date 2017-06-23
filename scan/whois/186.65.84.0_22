@@ -1,0 +1,73 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 23:01:00 (BRST -02:00)
+
+inetnum:     186.65.84/22
+status:      allocated
+aut-num:     N/A
+owner:       Sista S.A.
+ownerid:     AR-SISA39-LACNIC
+responsible: Raul Crudele
+address:     Calle 37, 282, 
+address:     B1902AVL - Punta Lara - La Plata - BA
+country:     AR
+phone:       +54 221 4275510 []
+owner-c:     RAC22
+tech-c:      RAC22
+abuse-c:     RAC22
+inetrev:     186.65.84/24
+nserver:     NS1.SIS.NET.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     NS2.SIS.NET.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+inetrev:     186.65.85/24
+nserver:     NS1.SIS.NET.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NS2.SIS.NET.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+inetrev:     186.65.86/24
+nserver:     NS1.SIS.NET.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     NS2.SIS.NET.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+inetrev:     186.65.87/24
+nserver:     NS1.SIS.NET.AR  
+nsstat:      20170102 AA
+nslastaa:    20170102
+nserver:     NS2.SIS.NET.AR  
+nsstat:      20170102 AA
+nslastaa:    20170102
+created:     20120713
+changed:     20120713
+
+nic-hdl:     RAC22
+person:      Raul Crudele
+e-mail:      raul@SISTA.COM.AR
+address:     Calle 37, 282, 
+address:     B1902AVL - La Plata - BA
+country:     AR
+phone:       +54 221 4275510 []
+created:     20120518
+changed:     20120518
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

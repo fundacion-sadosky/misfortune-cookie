@@ -1,0 +1,52 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 23:36:17 (BRST -02:00)
+
+inetnum:     190.13.224/20
+status:      allocated
+aut-num:     N/A
+owner:       Cooperativa de Provisión de Servicios Publicos de Tortuguitas
+ownerid:     AR-CPSP3-LACNIC
+responsible: Enrique Wizenfeld
+address:     Moreno, 1160, 
+address:     1667 - Tortuguitas - Malvinas AR - BA
+country:     AR
+phone:       +54 2320 491111 []
+owner-c:     CST2
+tech-c:      CST2
+abuse-c:     CST2
+inetrev:     190.13.224/20
+nserver:     NS2.COOPTORTU.COM.AR  
+nsstat:      20161230 AA
+nslastaa:    20161230
+nserver:     NS1.COOPTORTU.COM.AR  
+nsstat:      20161230 AA
+nslastaa:    20161230
+created:     20070920
+changed:     20070920
+
+nic-hdl:     CST2
+person:      Enrique Wizenfeld
+e-mail:      ew@COOPTORTU.COM.AR
+address:     Moreno 1160 - Tortuguitas- Prov. de Bs.As., 1160, 
+address:     B1667LDD - Tortuguitas - Bs
+country:     AR
+phone:       +54 2320 491111 [125]
+created:     20050414
+changed:     20110301
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

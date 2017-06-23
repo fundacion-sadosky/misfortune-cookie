@@ -1,0 +1,52 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 23:10:26 (BRST -02:00)
+
+inetnum:     186.148.200/21
+status:      allocated
+aut-num:     N/A
+owner:       Cooperativa de Electricidad, Obras y Servicios Públicos Suipacha JJ Almeira Ltda.
+ownerid:     AR-CCSC1-LACNIC
+responsible: Juan Pablo Hiernard
+address:     Rivadavia, 276, 
+address:     6612 - Suipacha - BA
+country:     AR
+phone:       +54 2324 480043 []
+owner-c:     JPH3
+tech-c:      JPH3
+abuse-c:     JPH3
+inetrev:     186.148.200/21
+nserver:     NS1.COESANET.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     NS2.COESANET.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+created:     20111017
+changed:     20111017
+
+nic-hdl:     JPH3
+person:      Juan Pablo Hiernard
+e-mail:      soporte@COESANET.COM.AR
+address:     Rivadavia, 276, --
+address:     6612 - Suipacha - AR
+country:     AR
+phone:       +54 2324 480043 [0]
+created:     20110831
+changed:     20161021
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

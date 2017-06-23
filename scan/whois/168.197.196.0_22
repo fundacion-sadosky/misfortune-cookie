@@ -1,0 +1,45 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 21:26:06 (BRST -02:00)
+
+inetnum:     168.197.196/22
+status:      allocated
+aut-num:     N/A
+owner:       ANDRES POZZI (PUNTONETINTERNET)
+ownerid:     AR-APPU-LACNIC
+responsible: ANDRES POZZI
+address:     Urquiza, 1506, 
+address:     5503 - Guyamallen - 
+country:     AR
+phone:       +54 261 5612093 []
+owner-c:     ANP69
+tech-c:      ANP69
+abuse-c:     ANP69
+created:     20160928
+changed:     20160928
+
+nic-hdl:     ANP69
+person:      Andres Pozzi
+e-mail:      andres@PUNTONETINTERNET.COM
+address:     Urquiza, 1506, B° Terruño
+address:     5503 - Mendoza - 
+country:     AR
+phone:       +54 261 5612093 []
+created:     20160816
+changed:     20160901
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

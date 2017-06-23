@@ -1,0 +1,50 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-06 02:10:41 (BRST -02:00)
+
+inetnum:     200.61.248/22
+status:      assigned
+aut-num:     AS52424
+abuse-c:     UNR2
+owner:       Universidad Nacional de Entre Ríos
+ownerid:     AR-UNER2-LACNIC
+responsible: Ing. Qco. Jorge A. Gerard
+address:     Eva Perón, 24, 
+address:     3260 - Concepción del Uruguay - ER
+country:     AR
+phone:       +54 3442 421500 [1539]
+owner-c:     UNR2
+tech-c:      UNR2
+abuse-c:     UNR2
+inetrev:     200.61.248/22
+nserver:     NS1.UNER.EDU.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+created:     20110819
+changed:     20110819
+
+nic-hdl:     UNR2
+person:      DG TICs - Adm. de Redes (UNER)
+e-mail:      redes@UNER.EDU.AR
+address:     Eva Perón, 24, 
+address:     3260 - C. del Uguruay - ER
+country:     AR
+phone:       +54 3442 421539 []
+created:     20081218
+changed:     20150618
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

@@ -1,0 +1,53 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-06 01:33:31 (BRST -02:00)
+
+inetnum:     200.10.204/24
+status:      assigned
+aut-num:     AS27954
+abuse-c:     SET5
+owner:       FARMALINK S.A.
+ownerid:     AR-FASA15-LACNIC
+responsible: Sergio Toscano
+address:     Paraguay, 1178, Piso 4
+address:     C1057AAR - BUENOS AIRES - 
+country:     AR
+phone:       +54 11 48147958 []
+owner-c:     SET5
+tech-c:      SET5
+abuse-c:     SET5
+inetrev:     200.10.204/24
+nserver:     DNS1.IPLANISP.COM.AR  
+nsstat:      20161231 AA
+nslastaa:    20161231
+nserver:     DNS2.IPLANISP.COM.AR  
+nsstat:      20161231 AA
+nslastaa:    20161231
+created:     20080130
+changed:     20080130
+
+nic-hdl:     SET5
+person:      Sergio Toscano
+e-mail:      sergio.toscano@FARMALINK.COM.AR
+address:     Paraguay, 1178, Piso 4
+address:     C1057AAR - CF - BA
+country:     AR
+phone:       +54 11 48147958 []
+created:     20071204
+changed:     20140212
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

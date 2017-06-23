@@ -1,0 +1,49 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 23:38:23 (BRST -02:00)
+
+inetnum:     190.14.156/22
+status:      allocated
+aut-num:     N/A
+owner:       TELCOCOM
+ownerid:     AR-TELC4-LACNIC
+responsible: Javier Latini
+address:     SARMIENTO 151 ESQUINA DON BOSCO, , PLANTA BAJA
+address:     8336 - VILLA REGINA - RN
+country:     AR
+phone:       +54 298 4461099 []
+owner-c:     JAL9
+tech-c:      JAL9
+abuse-c:     JAL9
+inetrev:     190.14.156/22
+nserver:     NS1.TELCOCOM.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+created:     20110406
+changed:     20110406
+
+nic-hdl:     JAL9
+person:      JAVIER LATINI
+e-mail:      info@TELCOCOM.COM.AR
+address:     ITALIA, 190, OFICINA 5
+address:     8336 - VILLA REGINA - RN
+country:     AR
+phone:       +54 298 4461099 []
+created:     20110301
+changed:     20120110
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

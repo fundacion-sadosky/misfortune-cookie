@@ -1,0 +1,101 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-06 00:03:13 (BRST -02:00)
+
+inetnum:     190.105.200/21
+status:      allocated
+aut-num:     N/A
+owner:       X-Host SRL
+ownerid:     AR-XHSR-LACNIC
+responsible: Nicolas Chiarini
+address:     Av Maipu, 1028, 6A
+address:     1602 - Florida - BA
+country:     AR
+phone:       +54 11 47965966 []
+owner-c:     NIC2
+tech-c:      NIC2
+abuse-c:     NIC2
+inetrev:     190.105.200/24
+nserver:     NS1.OUTDNS.NET  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     NS2.OUTDNS.NET  
+nsstat:      20170105 AA
+nslastaa:    20170105
+inetrev:     190.105.201/24
+nserver:     NS1.OUTDNS.NET  
+nsstat:      20170102 AA
+nslastaa:    20170102
+nserver:     NS2.OUTDNS.NET  
+nsstat:      20170102 AA
+nslastaa:    20170102
+inetrev:     190.105.202/24
+nserver:     NS1.OUTDNS.NET  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     NS2.OUTDNS.NET  
+nsstat:      20170105 AA
+nslastaa:    20170105
+inetrev:     190.105.203/24
+nserver:     NS1.OUTDNS.NET  
+nsstat:      20170104 TIMEOUT
+nslastaa:    20161231
+nserver:     NS2.OUTDNS.NET  
+nsstat:      20170104 AA
+nslastaa:    20170104
+inetrev:     190.105.204/24
+nserver:     NS1.OUTDNS.NET  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     NS2.OUTDNS.NET  
+nsstat:      20170103 AA
+nslastaa:    20170103
+inetrev:     190.105.205/24
+nserver:     NS1.OUTDNS.NET  
+nsstat:      20170104 TIMEOUT
+nslastaa:    20161231
+nserver:     NS2.OUTDNS.NET  
+nsstat:      20170104 AA
+nslastaa:    20170104
+inetrev:     190.105.206/24
+nserver:     NS1.OUTDNS.NET  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     NS2.OUTDNS.NET  
+nsstat:      20170103 AA
+nslastaa:    20170103
+inetrev:     190.105.207/24
+nserver:     NS1.OUTDNS.NET  
+nsstat:      20170104 TIMEOUT
+nslastaa:    20170101
+nserver:     NS2.OUTDNS.NET  
+nsstat:      20170104 AA
+nslastaa:    20170104
+created:     20100727
+changed:     20120928
+
+nic-hdl:     NIC2
+person:      Nicolas Chiarini
+e-mail:      nicolas@WHSERVICES.NET
+address:     Echeverria, 2864, 2P
+address:     1605 - Munro - BA
+country:     AR
+phone:       +54 11 60912221 []
+created:     20100716
+changed:     20150511
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

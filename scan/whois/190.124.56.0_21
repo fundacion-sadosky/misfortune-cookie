@@ -1,0 +1,45 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-06 00:32:21 (BRST -02:00)
+
+inetnum:     190.124.56/21
+status:      allocated
+aut-num:     N/A
+owner:       MEYNET
+ownerid:     AR-MPAN-LACNIC
+responsible: MEYNET PATRICIO ANDRES
+address:     MARTIN DE LA PEÑA, 104, 
+address:     3023 - Progreso - SF
+country:     AR
+phone:       +54 3497 488714 []
+owner-c:     PAM14
+tech-c:      PAM14
+abuse-c:     PAM14
+created:     20100210
+changed:     20100210
+
+nic-hdl:     PAM14
+person:      Patricio Meynet
+e-mail:      mey.net@PROGRESODIGITAL.COM.AR
+address:     Martín de la Peña, 104, 
+address:     3023 - Progreso - SF
+country:     AR
+phone:       +54 3497 488714 [PAM14]
+created:     20090829
+changed:     20100205
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

@@ -1,0 +1,82 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 23:52:43 (BRST -02:00)
+
+inetnum:     190.98.128/19
+status:      allocated
+aut-num:     N/A
+owner:       Telefónica International Wholesale Services Argentina S.A.
+ownerid:     AR-TIWS-LACNIC
+responsible: Marco Antonio Otero Bernardo
+address:     Av. Corrientes, 330, Piso 1
+address:     1043 - Ciudad de Buenos Aires - CF
+country:     AR
+phone:       +34 91 4830527 []
+owner-c:     MAB20
+tech-c:      MAB20
+abuse-c:     MAB20
+inetrev:     190.98.130/24
+inetrev:     190.98.131/24
+nserver:     GSEMIATIC1.NET.TELEFONICAGLOBALSOLUTIONS.COM  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     GSEMADPE1.NET.TELEFONICAGLOBALSOLUTIONS.COM  
+nsstat:      20170105 AA
+nslastaa:    20170105
+inetrev:     190.98.141/24
+nserver:     GPLDNMIABR02.NET.TELEFONICAGLOBALSOLUTIONS.COM  
+nsstat:      20170101 AA
+nslastaa:    20170101
+nserver:     GPLDNMADPE02.NET.TELEFONICAGLOBALSOLUTIONS.COM  
+nsstat:      20170101 AA
+nslastaa:    20170101
+inetrev:     190.98.142/24
+inetrev:     190.98.143/24
+nserver:     GSEMADPE1.NET.TELEFONICAGLOBALSOLUTIONS.COM  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     GSEMIATIC1.NET.TELEFONICAGLOBALSOLUTIONS.COM  
+nsstat:      20170103 AA
+nslastaa:    20170103
+inetrev:     190.98.144/24
+nserver:     GSEMADPE1.NET.TELEFONICAGLOBALSOLUTIONS.COM  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     GSEMIATIC1.NET.TELEFONICAGLOBALSOLUTIONS.COM  
+nsstat:      20170104 AA
+nslastaa:    20170104
+inetrev:     190.98.156/24
+nserver:     GSEMADPE1.NET.TELEFONICAGLOBALSOLUTIONS.COM  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     GSEMIATIC1.NET.TELEFONICAGLOBALSOLUTIONS.COM  
+nsstat:      20170103 AA
+nslastaa:    20170103
+created:     20071127
+changed:     20071127
+
+nic-hdl:     MAB20
+person:      Marco Antonio Otero Bernardo
+e-mail:      ip_coord.businesssolutions@TELEFONICA.COM
+address:     Ronda de la Comunicación, s/n, Distrito C
+address:     28050 - Madrid - 
+country:     ES
+phone:       +34 91 4830527 []
+created:     20060606
+changed:     20160809
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

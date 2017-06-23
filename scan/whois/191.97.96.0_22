@@ -1,0 +1,55 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-06 00:58:05 (BRST -02:00)
+
+inetnum:     191.97.96/22
+status:      allocated
+aut-num:     N/A
+owner:       VISION NET
+ownerid:     AR-VINE1-LACNIC
+responsible: Claudio M. Bottini
+address:     ROCA 94, , 
+address:      - SIERRA DE LA VENTANA - BA
+country:     AR
+phone:       +054 2922 4915255 []
+owner-c:     CMB4
+tech-c:      CMB4
+abuse-c:     CMB4
+inetrev:     191.97.96/22
+nserver:     NS1.LOOPSUAREZ.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     NS2.LOOPSUAREZ.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     NS3.LOOPSUAREZ.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+created:     20140203
+changed:     20140203
+
+nic-hdl:     CMB4
+person:      Claudio M. Bottini
+e-mail:      dominios@PRINGLES.COM.AR
+address:     Colon, 845, 
+address:     7530 - Coronel Pringles - BA
+country:     AR
+phone:       +054 2922 465050 []
+created:     20100630
+changed:     20100630
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

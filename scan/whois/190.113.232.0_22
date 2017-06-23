@@ -1,0 +1,52 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-06 00:18:42 (BRST -02:00)
+
+inetnum:     190.113.232/22
+status:      allocated
+aut-num:     N/A
+owner:       Video Cable Color S.A.
+ownerid:     AR-VCCS1-LACNIC
+responsible: Video Cable Color S.A.
+address:     1º de mayo, 2070, 
+address:     3009 - Franck - SF
+country:     AR
+phone:       +54 342 4930622 []
+owner-c:     VCS
+tech-c:      VCS
+abuse-c:     VCS
+inetrev:     190.113.232/22
+nserver:     NSERVER1.CABLENET.NET.AR  
+nsstat:      20170105 UH
+nslastaa:    20170102
+nserver:     NSERVER2.CABLENET.NET.AR  
+nsstat:      20170105 UH
+nslastaa:    20170102
+created:     20120813
+changed:     20120813
+
+nic-hdl:     VCS
+person:      Eduardo Battaglia
+e-mail:      eduardobattaglia@VCCFRANCK.COM.AR
+address:     1º de mayo, 2070, 
+address:     3009 - Franck - SF
+country:     AR
+phone:       +54 342 4930622 []
+created:     20120528
+changed:     20150618
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

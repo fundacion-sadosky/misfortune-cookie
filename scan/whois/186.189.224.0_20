@@ -1,0 +1,45 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 23:15:19 (BRST -02:00)
+
+inetnum:     186.189.224/20
+status:      allocated
+aut-num:     N/A
+owner:       FastBee Argentina S.A.
+ownerid:     AR-FASA17-LACNIC
+responsible: FastBee Argentina
+address:     Maipu, 26, 
+address:     1084 - Buenos Aires - CF
+country:     AR
+phone:       +54 11 6328-1500 []
+owner-c:     FIS
+tech-c:      FIS
+abuse-c:     FIS
+created:     20111017
+changed:     20111017
+
+nic-hdl:     FIS
+person:      Julio Policarpo
+e-mail:      ipadmin@FASTBEE.NET.AR
+address:     Reconquista, 899, 
+address:     1003 - Buenos Aires - CF
+country:     AR
+phone:       +54 11 4393 [5600]
+created:     20070508
+changed:     20140523
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

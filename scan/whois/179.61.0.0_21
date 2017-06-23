@@ -1,0 +1,52 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 22:22:16 (BRST -02:00)
+
+inetnum:     179.61.0/21
+status:      allocated
+aut-num:     N/A
+owner:       Sistemas Latinos
+ownerid:     AR-SILA-LACNIC
+responsible: Gustavo Velasco
+address:     Buenos Aires, 60, 
+address:     5600 - San Rafael - MZ
+country:     AR
+phone:       +54 2627 513328 []
+owner-c:     GUV4
+tech-c:      GUV4
+abuse-c:     GUV4
+inetrev:     179.61.0/21
+nserver:     DNS1.SLATINOS.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     DNS2.SLATINOS.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+created:     20131206
+changed:     20131206
+
+nic-hdl:     GUV4
+person:      Gustavo Velasco
+e-mail:      gvelasco@SLATINOS.COM.AR
+address:     Buenos Aires, 60, 
+address:     5600 - San Rafael - MZ
+country:     AR
+phone:       +54 2627 433767 []
+created:     20050519
+changed:     20130620
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

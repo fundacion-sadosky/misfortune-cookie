@@ -1,0 +1,292 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-06 00:52:50 (BRST -02:00)
+
+inetnum:     190.220.0/17
+status:      allocated
+aut-num:     N/A
+owner:       Techtel LMDS Comunicaciones Interactivas S.A.
+ownerid:     AR-TLCI-LACNIC
+responsible: Administrador de Direcciones IP - CLARO
+address:     Garay, 34, 
+address:     C1063AB - Buenos Aires - 
+country:     AR
+phone:       +54 11 4000-3000 [3270]
+owner-c:     JPL3
+tech-c:      JPL3
+abuse-c:     JPL3
+inetrev:     190.220.36/22
+nserver:     NS1.TELMEX.NET.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NS2.TELMEX.NET.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+inetrev:     190.220.40/21
+inetrev:     190.220.48/21
+nserver:     NS1.TELMEX.NET.AR  
+nsstat:      20170102 AA
+nslastaa:    20170102
+nserver:     NS2.TELMEX.NET.AR  
+nsstat:      20170102 AA
+nslastaa:    20170102
+inetrev:     190.220.56/24
+nserver:     NS1.TELMEX.NET.AR  
+nsstat:      20170101 AA
+nslastaa:    20170101
+nserver:     NS2.TELMEX.NET.AR  
+nsstat:      20170101 AA
+nslastaa:    20170101
+inetrev:     190.220.57/24
+nserver:     NS1.TELMEX.NET.AR  
+nsstat:      20170105 TIMEOUT
+nslastaa:    20161231
+nserver:     NS2.TELMEX.NET.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+inetrev:     190.220.58/23
+nserver:     NS1.TELMEX.NET.AR  
+nsstat:      20170105 TIMEOUT
+nslastaa:    20170102
+nserver:     NS2.TELMEX.NET.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+inetrev:     190.220.60/23
+inetrev:     190.220.62/24
+nserver:     NS1.TELMEX.NET.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     NS2.TELMEX.NET.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+inetrev:     190.220.64/24
+nserver:     NS1.TELMEX.NET.AR  
+nsstat:      20170102 AA
+nslastaa:    20170102
+nserver:     NS2.TELMEX.NET.AR  
+nsstat:      20170102 AA
+nslastaa:    20170102
+inetrev:     190.220.65/24
+nserver:     NS1.TELMEX.NET.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NS2.TELMEX.NET.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+inetrev:     190.220.66/24
+nserver:     NS1.TELMEX.NET.AR  
+nsstat:      20170105 TIMEOUT
+nslastaa:    20170102
+nserver:     NS2.TELMEX.NET.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+inetrev:     190.220.67/24
+nserver:     NS1.TELMEX.NET.AR  
+nsstat:      20170105 TIMEOUT
+nslastaa:    20170103
+nserver:     NS2.TELMEX.NET.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+inetrev:     190.220.68/24
+nserver:     NS1.TELMEX.NET.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NS2.TELMEX.NET.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+inetrev:     190.220.69/24
+nserver:     NS1.TELMEX.NET.AR  
+nsstat:      20170101 AA
+nslastaa:    20170101
+nserver:     NS2.TELMEX.NET.AR  
+nsstat:      20170101 AA
+nslastaa:    20170101
+inetrev:     190.220.70/24
+nserver:     NS1.TELMEX.NET.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     NS2.TELMEX.NET.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+inetrev:     190.220.73/24
+nserver:     NS1.TELMEX.NET.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NS2.TELMEX.NET.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+inetrev:     190.220.74/24
+nserver:     NS1.TELMEX.NET.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     NS2.TELMEX.NET.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+inetrev:     190.220.75/24
+nserver:     NS1.TELMEX.NET.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NS2.TELMEX.NET.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+inetrev:     190.220.77/24
+nserver:     NS1.TELMEX.NET.AR  
+nsstat:      20170102 AA
+nslastaa:    20170102
+nserver:     NS2.TELMEX.NET.AR  
+nsstat:      20170102 AA
+nslastaa:    20170102
+inetrev:     190.220.78/23
+nserver:     NS1.TELMEX.NET.AR  
+nsstat:      20170105 TIMEOUT
+nslastaa:    20161231
+nserver:     NS2.TELMEX.NET.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+inetrev:     190.220.80/24
+nserver:     NS1.TELMEX.NET.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NS2.TELMEX.NET.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+inetrev:     190.220.81/24
+nserver:     NS1.TELMEX.NET.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     NS2.TELMEX.NET.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+inetrev:     190.220.82/24
+nserver:     NS1.TELMEX.NET.AR  
+nsstat:      20170101 AA
+nslastaa:    20170101
+nserver:     NS2.TELMEX.NET.AR  
+nsstat:      20170101 AA
+nslastaa:    20170101
+inetrev:     190.220.83/24
+nserver:     NS1.TELMEX.NET.AR  
+nsstat:      20170105 TIMEOUT
+nslastaa:    20170102
+nserver:     NS2.TELMEX.NET.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+inetrev:     190.220.85/24
+inetrev:     190.220.87/24
+nserver:     NS1.TELMEX.NET.AR  
+nsstat:      20170105 TIMEOUT
+nslastaa:    20170101
+nserver:     NS2.TELMEX.NET.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+inetrev:     190.220.88/24
+inetrev:     190.220.89/24
+nserver:     NS1.TELMEX.NET.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NS2.TELMEX.NET.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+inetrev:     190.220.90/23
+inetrev:     190.220.92/22
+nserver:     NS1.TELMEX.NET.AR  
+nsstat:      20170105 TIMEOUT
+nslastaa:    20170101
+nserver:     NS2.TELMEX.NET.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+inetrev:     190.220.96/24
+nserver:     NS1.TELMEX.NET.AR  
+nsstat:      20170105 TIMEOUT
+nslastaa:    20161230
+nserver:     NS2.TELMEX.NET.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+inetrev:     190.220.99/24
+nserver:     NS1.TELMEX.NET.AR  
+nsstat:      20170101 AA
+nslastaa:    20170101
+nserver:     NS2.TELMEX.NET.AR  
+nsstat:      20170101 AA
+nslastaa:    20170101
+inetrev:     190.220.101/24
+nserver:     NS1.TELMEX.NET.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     NS2.TELMEX.NET.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+inetrev:     190.220.102/23
+nserver:     NS1.TELMEX.NET.AR  
+nsstat:      20170102 AA
+nslastaa:    20170102
+nserver:     NS2.TELMEX.NET.AR  
+nsstat:      20170102 AA
+nslastaa:    20170102
+inetrev:     190.220.104/24
+inetrev:     190.220.105/24
+nserver:     NS1.TELMEX.NET.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     NS2.TELMEX.NET.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+inetrev:     190.220.106/23
+inetrev:     190.220.108/23
+inetrev:     190.220.111/24
+nserver:     NS1.TELMEX.NET.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NS2.TELMEX.NET.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+inetrev:     190.220.112/21
+nserver:     NS1.TELMEX.NET.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     NS2.TELMEX.NET.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+inetrev:     190.220.120/22
+nserver:     NS1.TELMEX.NET.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NS2.TELMEX.NET.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+inetrev:     190.220.124/23
+inetrev:     190.220.126/24
+nserver:     NS1.TELMEX.NET.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     NS2.TELMEX.NET.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+created:     20071030
+changed:     20071030
+
+nic-hdl:     JPL3
+person:      Administración Direcciones IP
+e-mail:      ipaddressing.ar@CLARO.COM.AR
+address:     Av. Juan de Garay, 34, 
+address:     C1063ABN - Buenos Aires - 
+country:     AR
+phone:       +54 11 4000 [3000]
+created:     20061121
+changed:     20150218
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

@@ -1,0 +1,45 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 20:13:36 (BRST -02:00)
+
+inetnum:     131.108.140/22
+status:      allocated
+aut-num:     N/A
+owner:       Cable Norte Tv SA
+ownerid:     AR-CNTS-LACNIC
+responsible: Carlos Sigfredo Lange
+address:     Entre Rios 41, , 
+address:     3315 - Leandro N Alem - MI
+country:     AR
+phone:       +54 3754 423590 []
+owner-c:     CSL56
+tech-c:      CSL56
+abuse-c:     CSL56
+created:     20140902
+changed:     20140902
+
+nic-hdl:     CSL56
+person:      Carlos Sigfredo Lange
+e-mail:      carlosslange@NODOALEM.COM.AR
+address:     Entre rios, 41, 
+address:     3315 - Leandro N Alem , Misiones - n
+country:     AR
+phone:       +54 3754 423590 []
+created:     20140422
+changed:     20140619
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

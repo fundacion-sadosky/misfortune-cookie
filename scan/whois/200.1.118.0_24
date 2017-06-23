@@ -1,0 +1,58 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-06 01:13:30 (BRST -02:00)
+
+inetnum:     200.1.118/24
+status:      assigned
+aut-num:     N/A
+owner:       YPF S.A.
+ownerid:     AR-YPSA1-LACNIC
+responsible: Andres R. Rodriguez
+address:     Macacha Guemes, 515, 
+address:     C1106BKK - Buenos Aires - 
+country:     AR
+phone:       +54 11 54412000 []
+owner-c:     ARR
+tech-c:      ARR
+abuse-c:     ARR
+inetrev:     200.1.118/24
+nserver:     NS4.YPF.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NS1.YPF.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NS2.YPF.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NS3.YPF.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+created:     20030812
+changed:     20030812
+
+nic-hdl:     ARR
+person:      Andrés R. Rodriguez
+e-mail:      arodriguez@YPF.COM
+address:     Macacha Guemes, 515, Cuarto Piso
+address:     C1106BKK - Buenos Aires - CF
+country:     AR
+phone:       +54 11 54412595 []
+created:     20021212
+changed:     20121203
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

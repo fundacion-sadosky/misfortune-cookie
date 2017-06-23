@@ -1,0 +1,45 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 22:44:16 (BRST -02:00)
+
+inetnum:     181.224.176/21
+status:      allocated
+aut-num:     N/A
+owner:       C.E.L.Da Cooperativa Electrica Darregueira
+ownerid:     AR-CCED1-LACNIC
+responsible: Marcelo Horacio Weinberger
+address:     Pueyrredón, 189, 
+address:     8183 - Darregueira - BA
+country:     AR
+phone:       +54 2924 420035 []
+owner-c:     LUV5
+tech-c:      LUV5
+abuse-c:     LUV5
+created:     20130308
+changed:     20130308
+
+nic-hdl:     LUV5
+person:      Marcelo Horacio Weinberger
+e-mail:      gerencia@CELDA.COM.AR
+address:     Pueyrredon, 189, 
+address:     8183 - DARREGUEIRA - BA
+country:     AR
+phone:       +54 2924 420035 []
+created:     20120320
+changed:     20161222
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

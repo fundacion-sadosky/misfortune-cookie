@@ -1,0 +1,49 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 23:10:05 (BRST -02:00)
+
+inetnum:     186.148.128/19
+status:      allocated
+aut-num:     N/A
+owner:       ETERNET S.R.L.
+ownerid:     AR-CGSA3-LACNIC
+responsible: DIEGO TORMES
+address:     Istilart, 255, -
+address:     7500 - TRES ARROYOS ( BS.AS.) - 
+country:     AR
+phone:       +54 2983 432332 []
+owner-c:     CIG
+tech-c:      CIG
+abuse-c:     CIG
+inetrev:     186.148.128/19
+nserver:     NS104.ETERNET.CC  
+nsstat:      20170104 AA
+nslastaa:    20170104
+created:     20110729
+changed:     20110729
+
+nic-hdl:     CIG
+person:      Diego Tormes
+e-mail:      diegotormes@ETERNET.CC
+address:     Istilart, 255, 
+address:     7500 - Tres Arroyos - BA
+country:     AR
+phone:       +54 2983 513040 []
+created:     20050502
+changed:     20131216
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

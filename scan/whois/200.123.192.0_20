@@ -1,0 +1,64 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-06 02:51:50 (BRST -02:00)
+
+inetnum:     200.123.192/20
+status:      allocated
+aut-num:     N/A
+owner:       Latin American Nautilus
+ownerid:     AR-LANA6-LACNIC
+responsible: Jesus Abrams
+address:     Av Madero, 900, Piso 25
+address:     1106 - Buenos Aires - 
+country:     AR
+phone:       +305 503 8026 []
+owner-c:     FER3
+tech-c:      FER3
+abuse-c:     FER3
+inetrev:     200.123.193/24
+nserver:     NS1.LANAUTILUS.NET  [lame - not published]
+nsstat:      20170104 TIMEOUT
+nslastaa:    20160414
+nserver:     NS2.LANAUTILUS.NET  [lame - not published]
+nsstat:      20170104 ERR
+nslastaa:    20080910
+inetrev:     200.123.194/24
+nserver:     NS1.LANAUTILUS.NET  [lame - not published]
+nsstat:      20170105 ERR
+nslastaa:    20160412
+inetrev:     200.123.195/24
+nserver:     NS1.LANAUTILUS.NET  [lame - not published]
+nsstat:      20170104 TIMEOUT
+nslastaa:    20160414
+inetrev:     200.123.198/24
+nserver:     NS1.LANAUTILUS.NET  [lame - not published]
+nsstat:      20170104 ERR
+nslastaa:    20160410
+created:     20040123
+changed:     20040123
+
+nic-hdl:     FER3
+person:      Jesus Abrams
+e-mail:      LANautilus-Hostmaster@TISPARKLE.COM
+address:     200 South Biscayne Blvd. suite 4400, 4400, 
+address:     33131 - Miami - FL
+country:     US
+phone:       +1 786 4252460 []
+created:     20031124
+changed:     20151104
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

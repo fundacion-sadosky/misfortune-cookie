@@ -1,0 +1,55 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 22:52:17 (BRST -02:00)
+
+inetnum:     186.5.224/22
+status:      allocated
+aut-num:     N/A
+owner:       COMPEL COMPUTACION ELECTRONICA S.R.L.
+ownerid:     AR-CCES-LACNIC
+responsible: Carlos Victor Bellavia
+address:     Rodriguez, 159, 
+address:     8000 - BAHIA BLANCA - 
+country:     AR
+phone:       +54 291 4554545 []
+owner-c:     CVB2
+tech-c:      CVB2
+abuse-c:     CVB2
+inetrev:     186.5.224/22
+nserver:     ELROND.BBLANCA.COM  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     SPOCK.BBLANCA.COM  
+nsstat:      20170105 FAIL
+nslastaa:    20161122
+nserver:     OASIS.BBLANCA.COM  
+nsstat:      20170105 AA
+nslastaa:    20170105
+created:     20120410
+changed:     20120410
+
+nic-hdl:     CVB2
+person:      Carlos Victor Bellavia
+e-mail:      cvictor@BBLANCA.COM.AR
+address:     Rodriguez, 159, 
+address:     8000 - Bahía Blanca - 
+country:     AR
+phone:       +54 291 4554545 []
+created:     20120306
+changed:     20120312
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

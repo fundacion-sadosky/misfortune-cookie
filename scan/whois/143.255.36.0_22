@@ -1,0 +1,53 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 21:00:15 (BRST -02:00)
+
+inetnum:     143.255.36/22
+status:      allocated
+aut-num:     AS264652
+abuse-c:     CTE5
+owner:       COOPERATIVA TELEFONICA VILLA ELOISA
+ownerid:     AR-CTVE-LACNIC
+responsible: Ventroni Ariel
+address:     Sarmiento, 570, 
+address:     2503 - Villa Eloisa - 
+country:     AR
+phone:       +54 0347 491059 []
+owner-c:     CTE5
+tech-c:      CTE5
+abuse-c:     CTE5
+inetrev:     143.255.36/22
+nserver:     DNS1.VELOISA.COM.AR  
+nsstat:      20170101 AA
+nslastaa:    20170101
+nserver:     DNS2.VELOISA.COM.AR  
+nsstat:      20170101 AA
+nslastaa:    20170101
+created:     20151222
+changed:     20151222
+
+nic-hdl:     CTE5
+person:      Cooperativa Telefonica de Villa Eloisa
+e-mail:      soporte@VELOISA.COM.AR
+address:     Sarmiento, 570, 
+address:     2503 - Villa Eloisa - 
+country:     AR
+phone:       +54 3471 491059 []
+created:     20121109
+changed:     20121109
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

@@ -1,0 +1,63 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-06 01:58:46 (BRST -02:00)
+
+inetnum:     200.49.112/21
+status:      allocated
+aut-num:     N/A
+owner:       Cooperativa Telefonica Benavidez Ltda
+ownerid:     AR-CTBL-LACNIC
+responsible: Gabriel Arredondo
+address:     Tucuman, 2979, 
+address:     B1621ASU - Benavidez - BA
+country:     AR
+phone:       +54 11 56495881 []
+owner-c:     GAA9
+tech-c:      ROR15
+abuse-c:     ROR15
+inetrev:     200.49.112/24
+nserver:     BEN0.NETBEN.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+inetrev:     200.49.113/24
+nserver:     BEN0.NETBEN.COM.AR  
+nsstat:      20170102 AA
+nslastaa:    20170102
+created:     20080116
+changed:     20080116
+
+nic-hdl:     GAA9
+person:      Gabriel Arredondo
+e-mail:      garredondo@NETBEN.COM.AR
+address:     Tucumán, 2979, 
+address:     1621 - Benavidez - BA
+country:     AR
+phone:       +54 3327 485893 []
+created:     20090129
+changed:     20090129
+
+nic-hdl:     ROR15
+person:      Rodrigo Royo
+e-mail:      royo.rodrigo@GMAIL.COM
+address:     Arcos, 2279, 4 B
+address:     C1428AFI - Capital Federal - BA
+country:     AR
+phone:       +54 11 56495881 []
+created:     20071018
+changed:     20071018
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

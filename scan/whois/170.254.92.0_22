@@ -1,0 +1,45 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 22:03:47 (BRST -02:00)
+
+inetnum:     170.254.92/22
+status:      allocated
+aut-num:     N/A
+owner:       Cooperativa Telefónica Santa Maria Limitada
+ownerid:     AR-CTSM7-LACNIC
+responsible: Roberto Boero Mansilla
+address:     Belgrano, 103, 
+address:      - Santa Maria - 
+country:     AR
+phone:       +54 3838 421561 []
+owner-c:     RBM
+tech-c:      RBM
+abuse-c:     RBM
+created:     20160726
+changed:     20160726
+
+nic-hdl:     RBM
+person:      Roberto Boero Mansilla
+e-mail:      rboero@SOMTIK.COM
+address:     Los nogales, 535, 1
+address:     1727 - Marcos Paz, Buenos Aires - BA
+country:     AR
+phone:       +54 11 6632 [9000]
+created:     20071127
+changed:     20161230
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

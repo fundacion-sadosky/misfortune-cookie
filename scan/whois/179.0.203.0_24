@@ -1,0 +1,61 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 22:11:27 (BRST -02:00)
+
+inetnum:     179.0.203/24
+status:      assigned
+aut-num:     N/A
+owner:       WORLDSYS SA
+ownerid:     AR-WOSA4-LACNIC
+responsible: Sebastian Piñeiro
+address:     RECONQUISTA, 559, 4 PISO
+address:     C1003ABK - Capital Federal - BA
+country:     AR
+phone:       +54 11 52778900 []
+owner-c:     SEP27
+tech-c:      SEP27
+abuse-c:     SEP27
+inetrev:     179.0.203/24
+nserver:     NS0.DNSMADEEASY.COM  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NS1.DNSMADEEASY.COM  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NS2.DNSMADEEASY.COM  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NS3.DNSMADEEASY.COM  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NS4.DNSMADEEASY.COM  
+nsstat:      20170104 AA
+nslastaa:    20170104
+created:     20140409
+changed:     20140409
+
+nic-hdl:     SEP27
+person:      Sebastian Piñeiro
+e-mail:      spineiro@WORLDSYS.COM.AR
+address:     Florida 141, , 
+address:     1005 - Capital Federal - AR
+country:     AR
+phone:       +54 11 43425221 []
+created:     20131217
+changed:     20160623
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

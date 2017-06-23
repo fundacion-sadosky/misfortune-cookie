@@ -1,0 +1,52 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-06 00:21:30 (BRST -02:00)
+
+inetnum:     190.114.232/21
+status:      allocated
+aut-num:     N/A
+owner:       Cooperativa Electrica de Colon (BA) LTDA
+ownerid:     AR-CPSV-LACNIC
+responsible: Ing. Mariano Reverberi
+address:     AVDA. 50 ESQ 9, 431, 
+address:     XXXX - COLON - BA
+country:     AR
+phone:       +54 2473 430342 []
+owner-c:     IMR2
+tech-c:      IMR2
+abuse-c:     IMR2
+inetrev:     190.114.232/21
+nserver:     DNS1.COOPENETCOLON.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     DNS2.COOPENETCOLON.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+created:     20130225
+changed:     20130225
+
+nic-hdl:     IMR2
+person:      Ing. Mariano Reverberi
+e-mail:      marianor@COOPENETCOLON.COM.AR
+address:     Bvd 50, 431, 
+address:     2720 - Colon - BA
+country:     AR
+phone:       +54 2473 430342 []
+created:     20080226
+changed:     20080226
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

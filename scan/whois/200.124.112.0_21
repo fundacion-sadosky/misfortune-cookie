@@ -1,0 +1,49 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-06 02:53:14 (BRST -02:00)
+
+inetnum:     200.124.112/21
+status:      assigned
+aut-num:     N/A
+owner:       UNIVERSIDAD NACIONAL DE VILLA MARIA
+ownerid:     AR-UNVM-LACNIC
+responsible: Mariano Javier Martin
+address:     ENTRE RIOS, 1431, -
+address:     5900 - VILLA MARIA (CORDOBA ) - 
+country:     AR
+phone:       +54 353 156559476 []
+owner-c:     MJM3
+tech-c:      MJM3
+abuse-c:     MJM3
+inetrev:     200.124.112/24
+nserver:     NS1.UNVM.EDU.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+created:     20111025
+changed:     20111025
+
+nic-hdl:     MJM3
+person:      Mariano Javier Martín
+e-mail:      marianojm@UNVM.EDU.AR
+address:     Entre Ríos, 1431, 
+address:     5900 - Villa María - 
+country:     AR
+phone:       +54 353 4539100 [2347]
+created:     20101025
+changed:     20101025
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

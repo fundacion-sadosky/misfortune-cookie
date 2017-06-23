@@ -1,0 +1,52 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 20:45:59 (BRST -02:00)
+
+inetnum:     138.204.160/22
+status:      allocated
+aut-num:     N/A
+owner:       COOPERATIVA UNION DEL SUD
+ownerid:     AR-CUSU-LACNIC
+responsible: Miguel Berta
+address:     MARTÍNEZ DE HOZ, 71, 
+address:     7600 - MAR EL PLATA - BA
+country:     AR
+phone:       +54 223 4674000 []
+owner-c:     UBC5
+tech-c:      UBC5
+abuse-c:     UBC5
+inetrev:     138.204.160/22
+nserver:     NS1.UNIONDELSUD.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     ARAUCANO.UNIONDELSUD.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+created:     20150803
+changed:     20150803
+
+nic-hdl:     UBC5
+person:      Ubici Carlos
+e-mail:      mberta@UNIONDELSUD.COM.AR
+address:     Av. Martinez de Hoz y Calle 71, Sin N, 
+address:     7600 - Mar del Plata - BA
+country:     AR
+phone:       +54 223 4671292 []
+created:     20130920
+changed:     20150813
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

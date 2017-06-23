@@ -1,0 +1,52 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-06 01:17:21 (BRST -02:00)
+
+inetnum:     200.3.184/21
+status:      allocated
+aut-num:     N/A
+owner:       Cooperativa de provicion de servicios telefonicos La Lonja Ltda
+ownerid:     AR-CPYS-LACNIC
+responsible: Elias Lazaro
+address:     Ruta 8, Km 47, 
+address:     1629 - Pilar - BS
+country:     AR
+phone:       +54 0232 2474537 []
+owner-c:     EOB
+tech-c:      EOB
+abuse-c:     EOB
+inetrev:     200.3.184/21
+nserver:     SERVER1.PILAR-CIUDAD.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     DNS.EOBSISTEMAS.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+created:     20060213
+changed:     20060213
+
+nic-hdl:     EOB
+person:      Ezequiel O Block
+e-mail:      ezequielb@PILAR-CIUDAD.COM.AR
+address:     Battaglia, 497, 
+address:     1924 - Pilar - BA
+country:     AR
+phone:       +54 2322 474537 []
+created:     20040224
+changed:     20040224
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

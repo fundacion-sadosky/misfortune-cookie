@@ -1,0 +1,49 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 22:06:34 (BRST -02:00)
+
+inetnum:     179.0.4/22
+status:      assigned
+aut-num:     N/A
+owner:       Instituto Social para Jubilados y Pensionados (I.N.S.S.J.P)
+ownerid:     AR-INSS1-LACNIC
+responsible: Iuorio Vicente Javier
+address:     PARANA, 555, -
+address:     -1017 - Buenos Aires - 
+country:     AR
+phone:       +54 11 43703141 []
+owner-c:     INR6
+tech-c:      INR6
+abuse-c:     INR6
+inetrev:     179.0.4/24
+nserver:     NS3.PAMI.ORG.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+created:     20130415
+changed:     20130415
+
+nic-hdl:     INR6
+person:      INSSJP REDES
+e-mail:      redesgitc@PAMI.ORG.AR
+address:     Parana, 555, 
+address:     1077 - Buenos Aires - 
+country:     AR
+phone:       +054 11 43703141 []
+created:     20120917
+changed:     20120917
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

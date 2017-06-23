@@ -1,0 +1,58 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-06 01:31:45 (BRST -02:00)
+
+inetnum:     200.10.191/24
+status:      assigned
+aut-num:     N/A
+owner:       UNIVERSIDAD TECNOLOGICA NACIONAL - FACULTAD REGIONAL CORDOBA
+ownerid:     AR-UTNF-LACNIC
+responsible: Daniel Forte
+address:     Maestro Marcelo Lopez esq Cruz Roja, S/N, 
+address:     5000 - Cordoba - 
+country:     AR
+phone:       +54 351 5986024 []
+owner-c:     DAF45
+tech-c:      DAF45
+abuse-c:     DAF45
+inetrev:     200.10.191/24
+nserver:     COLORADO2.FRC.UTN.EDU.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     COLORADO4.FRC.UTN.EDU.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     COLORADO.FRC.UTN.EDU.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     COLORADO3.FRC.UTN.EDU.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+created:     20151216
+changed:     20151216
+
+nic-hdl:     DAF45
+person:      Daniel Forte
+e-mail:      daniel@FRC.UTN.EDU.AR
+address:     Maestro Marcelo Lopez esq Cruz Roja, , 
+address:     5000 - Cordoba - Cb
+country:     AR
+phone:       +54 351 5986024 []
+created:     20151015
+changed:     20160920
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

@@ -1,0 +1,49 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-06 00:24:18 (BRST -02:00)
+
+inetnum:     190.120.176/20
+status:      allocated
+aut-num:     N/A
+owner:       COSEIDI S.A.
+ownerid:     AR-KALI-LACNIC
+responsible: Esteban Tocalini
+address:     H Yrigoyen, 572, EP oficina 2
+address:     1878 - QUILMES - 
+country:     AR
+phone:       +54 11 52588274 [546]
+owner-c:     EST4
+tech-c:      EST4
+abuse-c:     EST4
+inetrev:     190.120.184/21
+nserver:     NS.FIBER.NET.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+created:     20121011
+changed:     20121011
+
+nic-hdl:     EST4
+person:      Esteban Tocalini
+e-mail:      estebantocalini@KALISPERA.COM.AR
+address:     H. Yrigoyen, 572, EP2
+address:     1878 - Quilmes - Ba
+country:     AR
+phone:       +54 11 52588274 [546]
+created:     20120808
+changed:     20120808
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

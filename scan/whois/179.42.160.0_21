@@ -1,0 +1,59 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 22:12:51 (BRST -02:00)
+
+inetnum:     179.42.160/21
+status:      allocated
+aut-num:     N/A
+owner:       COOPERATIVA DE SERVICIOS MULTIPLES REG
+ownerid:     AR-CSMR-LACNIC
+responsible: Javier Zago
+address:     Primero de Mayo, 2025, 
+address:     2170 - Casilda - SF
+country:     AR
+phone:       +54 3464 427572 []
+owner-c:     CSR8
+tech-c:      CSR8
+abuse-c:     CSR8
+inetrev:     179.42.160/22
+nserver:     MAILCASILDA.DAT1.NET.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     FUEGO.SOPNET.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+inetrev:     179.42.164/22
+nserver:     MAILCASILDA.DAT1.NET.AR  
+nsstat:      20161230 AA
+nslastaa:    20161230
+nserver:     FUEGO.SOPNET.COM.AR  
+nsstat:      20161230 AA
+nslastaa:    20161230
+created:     20131114
+changed:     20131114
+
+nic-hdl:     CSR8
+person:      Cooperativa de Servicios Multiples Reg
+e-mail:      colsemur@SOPNET.COM.AR
+address:     Primero de Mayo, 2025, 
+address:     2170 - Casilda - SF
+country:     AR
+phone:       +0054 3464 427572 []
+created:     20130808
+changed:     20130808
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

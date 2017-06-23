@@ -1,0 +1,52 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 20:24:24 (BRST -02:00)
+
+inetnum:     138.59.0/22
+status:      allocated
+aut-num:     N/A
+owner:       NODONET S.A.
+ownerid:     AR-NOSA27-LACNIC
+responsible: Claudio M. Bottini
+address:     Moreno, 623, 
+address:     8000 - Bahia Blanca - BA
+country:     AR
+phone:       +54 4 536317 []
+owner-c:     CMB4
+tech-c:      CMB4
+abuse-c:     CMB4
+inetrev:     138.59.0/22
+nserver:     DNS1.NODONET.COM.AR  
+nsstat:      20170102 AA
+nslastaa:    20170102
+nserver:     DNS2.NODONET.COM.AR  
+nsstat:      20170102 AA
+nslastaa:    20170102
+created:     20150316
+changed:     20150316
+
+nic-hdl:     CMB4
+person:      Claudio M. Bottini
+e-mail:      dominios@PRINGLES.COM.AR
+address:     Colon, 845, 
+address:     7530 - Coronel Pringles - BA
+country:     AR
+phone:       +054 2922 465050 []
+created:     20100630
+changed:     20100630
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

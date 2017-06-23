@@ -1,0 +1,51 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-06 01:26:29 (BRST -02:00)
+
+inetnum:     200.9.236/24
+status:      assigned
+aut-num:     N/A
+owner:       Escuela Latinoamericana Superior de Informatica
+ownerid:     AR-ELSI-LACNIC
+address:     Secretaria de Ciencia y Tecnologia
+address:     Red Cientifica y Tecnologica Nacional
+address:     Cordoba 831 3er Piso
+address:     (1054) Buenos Aires
+country:     AR
+owner-c:     ALG15-ARIN
+inetrev:     200.9.236/24
+nserver:     PROTEUS.SECYT.GOV.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     THOR.SECYT.GOV.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+created:     19940222
+changed:     19971230
+source:      ARIN-HISTORIC
+
+nic-hdl:     ALG15-ARIN
+person:      Andres Luis Giacomelli
+e-mail:      postmaster@SECYT.GOV.AR
+address:     Redcyt - Secretaria de Ciencia yTecnologia
+address:     Cordoba 831 - 3er piso
+address:     Ciudad Autonoma de Bs, 1054
+country:     AR
+phone:       +54-1-312-8917
+source:      ARIN-HISTORIC
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

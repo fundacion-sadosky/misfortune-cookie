@@ -1,0 +1,50 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-06 01:08:57 (BRST -02:00)
+
+inetnum:     200.0.188/22
+status:      assigned
+aut-num:     N/A
+owner:       ESTADO MAYOR GENERAL DE LA ARMADA
+ownerid:     AR-EMGL-LACNIC
+address:     COMODORO PY 2055
+address:     Buenos Aires, 1104
+country:     AR
+owner-c:     EP76-ARIN
+inetrev:     200.0.188/22
+nserver:     NS1.ARA.MIL.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     DIBAS15.DIBA.ORG.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+created:     19950531
+changed:     20001219
+source:      ARIN-HISTORIC
+
+nic-hdl:     EP76-ARIN
+person:      Eduardo Pomies
+e-mail:      epomies@ARA.MIL.AR
+address:     ESTADO MAYOR GENERAL DE LA ARMADA
+address:     ESTADO MAYOR GENERAL DE LA ARMADA
+address:     Comodoro Py 2055
+address:     Buenos Aires, 1104
+country:     AR
+phone:       +54-11-4317-2002
+source:      ARIN-HISTORIC
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

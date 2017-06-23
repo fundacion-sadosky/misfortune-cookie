@@ -1,0 +1,55 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-06 01:36:40 (BRST -02:00)
+
+inetnum:     200.12.154/24
+status:      assigned
+aut-num:     N/A
+owner:       Pan American Health Organization
+ownerid:     AR-PAHO-LACNIC
+responsible: Fernando Lopez Guerra
+address:     Maipu, 812, 2E
+address:     1006 - Buenos Aires - 
+country:     AR
+phone:       +54 11 4314-1023 []
+owner-c:     LGF
+tech-c:      LGF
+abuse-c:     LGF
+inetrev:     200.12.154/24
+nserver:     OPSARG.OPS.ORG.AR  [lame - not published]
+nsstat:      20170105 TIMEOUT
+nslastaa:    20100424
+nserver:     OPSARG2.OPS.ORG.AR  [lame - not published]
+nsstat:      20170105 UH
+nslastaa:    20020830
+nserver:     OPSARG1.OPS.ORG.AR  [lame - not published]
+nsstat:      20170105 UH
+nslastaa:    20080528
+created:     19940826
+changed:     20001103
+
+nic-hdl:     LGF
+person:      Lopez Guerra, Fernando
+e-mail:      nic@NETCOMPANY.COM.AR
+address:     Maipu, 812, 2E
+address:     1006 - Buenos Aires - 
+country:     AR
+phone:       +54 11 43141023 []
+created:     20041119
+changed:     20050128
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

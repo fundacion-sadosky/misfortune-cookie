@@ -1,0 +1,52 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-06 00:34:27 (BRST -02:00)
+
+inetnum:     190.124.224/20
+status:      assigned
+aut-num:     N/A
+owner:       UNIVERSIDAD NACIONAL DE SAN JUAN
+ownerid:     AR-UNSJ-LACNIC
+responsible: Miguel Angel Morandi
+address:     Mitre Este, 396, 
+address:     J5402CWH - San Juan - SJ
+country:     AR
+phone:       +54 264 4230532 []
+owner-c:     MAM44
+tech-c:      MAM44
+abuse-c:     MAM44
+inetrev:     190.124.224/20
+nserver:     NS1.UNSJ.EDU.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NS2.UNSJ.EDU.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+created:     20091215
+changed:     20091215
+
+nic-hdl:     MAM44
+person:      Miguel Angel Morandi
+e-mail:      morandi@UNSJ.EDU.AR
+address:     Dr. Sabín Norte Barrio San Raúl, 80, 
+address:     5400 - San Juan - 
+country:     AR
+phone:       +54 264 4230532 [4002]
+created:     20080718
+changed:     20150907
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

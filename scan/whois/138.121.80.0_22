@@ -1,0 +1,52 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 20:35:11 (BRST -02:00)
+
+inetnum:     138.121.80/22
+status:      allocated
+aut-num:     N/A
+owner:       Blueberry SRL
+ownerid:     AR-BLSR3-LACNIC
+responsible: Fabio De Luca
+address:     Av. Cordoba, 1513, 
+address:     1055 - CABA - BA
+country:     AR
+phone:       +54 011 48150367 []
+owner-c:     FAL54
+tech-c:      FAL54
+abuse-c:     FAL54
+inetrev:     138.121.80/22
+nserver:     NS0.CAPILLANET.COM  
+nsstat:      20170102 AA
+nslastaa:    20170102
+nserver:     NS1.CAPILLANET.COM  
+nsstat:      20170102 AA
+nslastaa:    20170102
+created:     20150604
+changed:     20150604
+
+nic-hdl:     FAL54
+person:      Fabio de Luca
+e-mail:      fabio@CAPILLANET.COM
+address:     cordoba 1513, 54, 
+address:     1425 - Buenos Aires - 
+country:     AR
+phone:       +54 11 48150367 [210]
+created:     20150414
+changed:     20150604
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

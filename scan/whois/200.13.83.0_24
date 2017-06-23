@@ -1,0 +1,45 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-06 01:39:08 (BRST -02:00)
+
+inetnum:     200.13.83/24
+status:      assigned
+aut-num:     N/A
+owner:       CABASE Camara Arg de Base de Datos y Serv en Linea
+ownerid:     AR-CCAB-LACNIC
+responsible: Operador NOC
+address:     Suipacha, 128, 3 F
+address:     C1008AAD - Buenos Aires - 
+country:     AR
+phone:       +54 11 43260777 []
+owner-c:     JUP20
+tech-c:      JUP20
+abuse-c:     JUP20
+created:     20101109
+changed:     20141029
+
+nic-hdl:     JUP20
+person:      Julio A .Policarpo
+e-mail:      noc.julio@CABASE.ORG.AR
+address:     Suipacha, 128, 3 F
+address:     1008 - CABA - BA
+country:     AR
+phone:       +54 11 43260777 [113]
+created:     20121129
+changed:     20140506
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

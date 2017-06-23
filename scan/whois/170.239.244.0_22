@@ -1,0 +1,45 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 22:03:05 (BRST -02:00)
+
+inetnum:     170.239.244/22
+status:      allocated
+aut-num:     N/A
+owner:       PUNTA INDIO DIGITAL S.A.
+ownerid:     AR-PIDS-LACNIC
+responsible: Fernando Javier Silva
+address:     32 esquina 33, , 
+address:     1917 - Veronica - 
+country:     AR
+phone:       +54 2221 5863861 []
+owner-c:     FJS31
+tech-c:      FJS31
+abuse-c:     FJS31
+created:     20161110
+changed:     20161110
+
+nic-hdl:     FJS31
+person:      Fernando Javier Silva
+e-mail:      fernandojs@SOON.COM.AR
+address:     Circunvalacion 12 entre 21 y 23, sn, 
+address:     1917 - Veronica - ba
+country:     AR
+phone:       +54 0221 5863861 []
+created:     20160912
+changed:     20160912
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

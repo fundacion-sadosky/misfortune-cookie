@@ -1,0 +1,45 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 21:15:55 (BRST -02:00)
+
+inetnum:     168.181.176/22
+status:      allocated
+aut-num:     N/A
+owner:       COOPERATIVA ARBOLITO
+ownerid:     AR-COAR15-LACNIC
+responsible: Marcelo Alvarez
+address:     Alvear, 201, 
+address:     7174 - Coronel Vidal - 
+country:     AR
+phone:       +54 4 32285 []
+owner-c:     MAA191
+tech-c:      MAA191
+abuse-c:     MAA191
+created:     20160223
+changed:     20160223
+
+nic-hdl:     MAA191
+person:      Marcelo Alvarez
+e-mail:      malvarez@ARBOLITO.ORG.AR
+address:     Alvear, 201, 
+address:     7174 - Coronel Vidal - Bs
+country:     AR
+phone:       +54 223 4561748 []
+created:     20140830
+changed:     20140830
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

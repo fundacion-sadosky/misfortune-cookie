@@ -1,0 +1,52 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 21:14:52 (BRST -02:00)
+
+inetnum:     168.181.24/22
+status:      allocated
+aut-num:     N/A
+owner:       FUTURNET S.A.
+ownerid:     AR-FUSA7-LACNIC
+responsible: Javier Zago
+address:     9 DE JULIO, 512, 
+address:      - CHAÑAR LADEADO - 
+country:     AR
+phone:       +54 0346 481499 []
+owner-c:     FUS7
+tech-c:      FUS7
+abuse-c:     FUS7
+inetrev:     168.181.27/24
+nserver:     CL.FUTURNET.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     FROZEN.SOPNET.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+created:     20160215
+changed:     20160215
+
+nic-hdl:     FUS7
+person:      FUTURNET S.A.
+e-mail:      futurnetips@SOPNET.COM.AR
+address:     9 DE JULIO, 512, 0
+address:     2643 - CHAÑAR LADEADO - AR
+country:     AR
+phone:       +54 54 3468481499 [0]
+created:     20151216
+changed:     20151216
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

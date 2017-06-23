@@ -1,0 +1,52 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-06 00:20:06 (BRST -02:00)
+
+inetnum:     190.114.96/19
+status:      allocated
+aut-num:     N/A
+owner:       Interlink S.R.L.
+ownerid:     AR-INSR5-LACNIC
+responsible: Interlink S.R.L.
+address:     Corrientes, 161, 
+address:     2000 - Rosario - SF
+country:     AR
+phone:       +54 341 4248123 [131]
+owner-c:     INS3
+tech-c:      INS3
+abuse-c:     INS3
+inetrev:     190.114.96/20
+nserver:     NSERVER1.CABLENET.NET.AR  
+nsstat:      20170105 UH
+nslastaa:    20161229
+nserver:     NSERVER2.CABLENET.NET.AR  
+nsstat:      20170105 UH
+nslastaa:    20161229
+created:     20100804
+changed:     20100804
+
+nic-hdl:     INS3
+person:      Interlink S.R.L.
+e-mail:      netmanager@INTERLINK.COM.AR
+address:     Lamadrid, 468, Ed2 P1
+address:     2000 - Rosario - SF
+country:     AR
+phone:       +54 341 5276650 [111]
+created:     20021209
+changed:     20161011
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

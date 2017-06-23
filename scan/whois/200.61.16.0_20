@@ -1,0 +1,45 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-06 02:08:35 (BRST -02:00)
+
+inetnum:     200.61.16/20
+status:      allocated
+aut-num:     N/A
+owner:       COMNET S.A.
+ownerid:     AR-COSA3-LACNIC
+responsible: Ezequiel García
+address:     San Martin, 638, 
+address:     C1004AAN - Buenos Aires - 
+country:     AR
+phone:       +54 11 41031400 []
+owner-c:     DAR3
+tech-c:      DAR3
+abuse-c:     DAR3
+created:     20060904
+changed:     20060904
+
+nic-hdl:     DAR3
+person:      Departamento Operaciones DASO
+e-mail:      dar3@DATCOSOLUCIONES.COM.AR
+address:     San Martin, 638, 
+address:     C1004AAN - Buenos Aires - 
+country:     AR
+phone:       +54 11 4103-1400 []
+created:     20030224
+changed:     20091005
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

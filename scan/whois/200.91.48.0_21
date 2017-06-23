@@ -1,0 +1,49 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-06 02:31:09 (BRST -02:00)
+
+inetnum:     200.91.48/21
+status:      allocated
+aut-num:     N/A
+owner:       COOPERATIVA DE OBRAS, SERV. PUBL. Y SOCIALES DE HERNANDO LTDA.
+ownerid:     AR-COSP3-LACNIC
+responsible: Marcelo Ramondelli
+address:     9 DE JULIO 505 ESQ. LAVALLE, --, 
+address:     5929 - Hernando - CO
+country:     AR
+phone:       +54  0353 4846 [241]
+owner-c:     MAR32
+tech-c:      MAR32
+abuse-c:     MAR32
+inetrev:     200.91.48/21
+nserver:     NS3.COOP-HER.COM.AR  [lame - not published]
+nsstat:      20170105 QREFUSED
+nslastaa:    20161004
+created:     20081211
+changed:     20081211
+
+nic-hdl:     MAR32
+person:      Marcelo Ramondelli
+e-mail:      mramondelli@COOP-HER.COM.AR
+address:     Nicaragua, 34, 
+address:     5929 - Hernando - Co
+country:     AR
+phone:       +54 0353 4846 [241]
+created:     20080919
+changed:     20160916
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

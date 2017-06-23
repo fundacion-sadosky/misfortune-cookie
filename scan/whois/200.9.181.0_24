@@ -1,0 +1,45 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-06 01:23:40 (BRST -02:00)
+
+inetnum:     200.9.181/24
+status:      assigned
+aut-num:     N/A
+owner:       CRUCERO DEL NORTE SRL
+ownerid:     AR-CNSR-LACNIC
+responsible: Baez Sebastian E.
+address:     Ruta 12 Km 8/5 0, --, -
+address:     3304 - Posadas - MI
+country:     AR
+phone:       +54 376 4488423 []
+owner-c:     CNS17
+tech-c:      CNS17
+abuse-c:     CNS17
+created:     20151019
+changed:     20151019
+
+nic-hdl:     CNS17
+person:      Crucero del Norte SRL
+e-mail:      gestion.soporte@CRUCERODELNORTE.COM.AR
+address:     Ruta 12 Km 8/5, 00, 00
+address:     3304 - Posadas - Mi
+country:     AR
+phone:       +3304 0376 4488423 [131]
+created:     20150826
+changed:     20151029
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

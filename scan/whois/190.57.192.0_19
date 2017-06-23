@@ -1,0 +1,50 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 23:46:46 (BRST -02:00)
+
+inetnum:     190.57.192/19
+status:      allocated
+aut-num:     AS19889
+abuse-c:     AGG9
+owner:       Cooperativa Telefonica Del Viso
+ownerid:     AR-CTVI1-LACNIC
+responsible: Agustin Gamboa
+address:     Beruti, 1381, 
+address:     1669 - Del Viso - BA
+country:     AR
+phone:       +54 2320 470300 [124]
+owner-c:     AGG9
+tech-c:      AGG9
+abuse-c:     AGG9
+inetrev:     190.57.192/19
+nserver:     NS0.TELVISO.NET.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+created:     20110315
+changed:     20150210
+
+nic-hdl:     AGG9
+person:      Agustin Gamboa
+e-mail:      agamboa@TELVISO.COM.AR
+address:     Beriti, 1381, 
+address:     1669 - Del Viso - AR
+country:     AR
+phone:       +54 2320 409195 []
+created:     20120706
+changed:     20160215
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

@@ -1,0 +1,45 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 21:35:09 (BRST -02:00)
+
+inetnum:     170.0.8/22
+status:      assigned
+aut-num:     N/A
+owner:       IMAGEN SATELITAL S.A
+ownerid:     AR-ISSA36-LACNIC
+responsible: Leo Yen
+address:     Defensa, 599, 
+address:     1065 - Ciudad de Buenos Aires - 
+country:     AR
+phone:       +54 11 48947000 []
+owner-c:     LEY4
+tech-c:      LEY4
+abuse-c:     LEY4
+created:     20160503
+changed:     20160503
+
+nic-hdl:     LEY4
+person:      Leo Yen
+e-mail:      leo.yen@TURNER.COM
+address:     Defensa, 599, -
+address:     C1065AAI - Ciudad de BUenos Aires - BA
+country:     AR
+phone:       +54 011 48947000 [7638]
+created:     20160404
+changed:     20160404
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

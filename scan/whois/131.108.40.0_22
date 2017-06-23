@@ -1,0 +1,58 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 20:12:55 (BRST -02:00)
+
+inetnum:     131.108.40/22
+status:      allocated
+aut-num:     N/A
+owner:       PLANISYS S.A.
+ownerid:     AR-PLSA10-LACNIC
+responsible: Carlos Horowicz
+address:     Alvarez Thomas, 198, 3ero L
+address:     1427 - Buenos Aires - 
+country:     AR
+phone:       +54 911 59601211 []
+owner-c:     CAH11
+tech-c:      CAH11
+abuse-c:     CAH11
+inetrev:     131.108.40/22
+nserver:     DNS1.PLANISYS.NET  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     DNS2.PLANISYS.NET  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     DNS3.PLANISYS.NET  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     DNS4.PLANISYS.NET  
+nsstat:      20170104 AA
+nslastaa:    20170104
+created:     20140828
+changed:     20140828
+
+nic-hdl:     CAH11
+person:      Carlos Alberto Horowicz
+e-mail:      carlos@PLANISYS.COM
+address:     Alvarez Thomas, 198, 3-L
+address:     C1427CCO - Buenos Aires - BA
+country:     AR
+phone:       +54 11 59601211 []
+created:     20120425
+changed:     20130318
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

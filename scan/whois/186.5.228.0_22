@@ -1,0 +1,45 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 22:52:38 (BRST -02:00)
+
+inetnum:     186.5.228/22
+status:      allocated
+aut-num:     N/A
+owner:       COOPERATIVA ELECTRICA DE GENERAL DEHEZA LTDA.
+ownerid:     AR-CEGD-LACNIC
+responsible: Oscar Barbero
+address:     GENERAL PAZ, 430, -
+address:     5923 - GENERAL DEHEZA - CB
+country:     AR
+phone:       +54 358 4057000 []
+owner-c:     CEL5
+tech-c:      CEL5
+abuse-c:     CEL5
+created:     20120411
+changed:     20120411
+
+nic-hdl:     CEL5
+person:      Oscar Alfredo Barbero
+e-mail:      obarbero@COOPDEHEZA.COM.AR
+address:     General Paz, 430, 
+address:     5923 - General Deheza - 
+country:     AR
+phone:       +054 0358 4057000 []
+created:     20040528
+changed:     20120323
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

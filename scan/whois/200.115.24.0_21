@@ -1,0 +1,49 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-06 02:43:47 (BRST -02:00)
+
+inetnum:     200.115.24/21
+status:      allocated
+aut-num:     N/A
+owner:       Internet Services S.A.
+ownerid:     AR-ISSA9-LACNIC
+responsible: Graglia Christian Javier
+address:     Echeverria, 2578, of 108
+address:     1428 - Buenos Aires - CF
+country:     AR
+phone:       +54 11 47817604 []
+owner-c:     CJG
+tech-c:      CJG
+abuse-c:     CJG
+inetrev:     200.115.24/21
+nserver:     NS.IS.NET.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+created:     20121114
+changed:     20121114
+
+nic-hdl:     CJG
+person:      Christian Javier Graglia
+e-mail:      chris@IS.COM.AR
+address:     Echeverria, 2578, of 108
+address:     1428 - Buenos Aires - 
+country:     AR
+phone:       +54 11 47817604 [202]
+created:     20040413
+changed:     20120223
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

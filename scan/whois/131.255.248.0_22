@@ -1,0 +1,52 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 20:18:08 (BRST -02:00)
+
+inetnum:     131.255.248/22
+status:      allocated
+aut-num:     N/A
+owner:       Infodocta Internet Banda Ancha de Eliana Andrea Brustolín
+ownerid:     AR-IIBA1-LACNIC
+responsible: Cristian Eduardo Terreno
+address:     Rivadavia, 150, 
+address:     5000 - Cordoba - CO
+country:     AR
+phone:       +54 1 55306345 [5684753]
+owner-c:     CET15
+tech-c:      CET15
+abuse-c:     CET15
+inetrev:     131.255.248/22
+nserver:     NS2.INFODOCTACBA.COM.AR  [lame - not published]
+nsstat:      20170104 TIMEOUT
+nslastaa:    20151207
+nserver:     DNS-ISP.INFODOCTAHOST.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+created:     20141204
+changed:     20141204
+
+nic-hdl:     CET15
+person:      Cristian Eduardo Terreno
+e-mail:      asn-lacnic@INFODOCTA.COM.AR
+address:     Rivadavia, 150, local 147
+address:     5000 - Cordoba - CO
+country:     AR
+phone:       +54 0351 155306345 []
+created:     20140905
+changed:     20161108
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

@@ -1,0 +1,45 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 21:22:53 (BRST -02:00)
+
+inetnum:     168.196.112/22
+status:      allocated
+aut-num:     N/A
+owner:       SAN GABRIEL VIDEO CABLE COLOR S.A.
+ownerid:     AR-SGVC-LACNIC
+responsible: Andres Michelazzo
+address:     Darwin, 371, 
+address:     5900 - Villa María - 
+country:     AR
+phone:       +54 353 4523673 []
+owner-c:     ANM112
+tech-c:      ANM112
+abuse-c:     ANM112
+created:     20160907
+changed:     20160907
+
+nic-hdl:     ANM112
+person:      ANDRES MICHELAZZO
+e-mail:      am12357@GMAIL.COM
+address:     El Yunque, 1293, 
+address:     5105 - Villa Allende - 
+country:     AR
+phone:       +54 11 34466016 []
+created:     20160630
+changed:     20160630
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

@@ -1,0 +1,52 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 20:15:21 (BRST -02:00)
+
+inetnum:     131.161.236/22
+status:      allocated
+aut-num:     N/A
+owner:       Tucuman BBS S.R.L.
+ownerid:     AR-TBSR2-LACNIC
+responsible: Augusto Parra
+address:     Catamarca, 185, 
+address:     --- - San Miguel de Tucuman - TU
+country:     AR
+phone:       +54 381 4530950 []
+owner-c:     AUP4
+tech-c:      AUP4
+abuse-c:     AUP4
+inetrev:     131.161.236/22
+nserver:     DNS1.TUCBBS.COM.AR  [lame - not published]
+nsstat:      20170104 NOT SYNC ZONE
+nslastaa:    20160831
+nserver:     DNS2.TUCBBS.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+created:     20140930
+changed:     20140930
+
+nic-hdl:     AUP4
+person:      Augusto Parra
+e-mail:      parra@TUCBBS.COM.AR
+address:     Catamarca, 185, 
+address:     4000 - San Miguel de Tucuman - Tu
+country:     AR
+phone:       +54 381 4530950 []
+created:     20140728
+changed:     20161108
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

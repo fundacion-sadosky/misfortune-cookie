@@ -1,0 +1,137 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 22:38:18 (BRST -02:00)
+
+inetnum:     181.174.192/20
+status:      allocated
+aut-num:     N/A
+owner:       Skycorp S.A.
+ownerid:     AR-ALMA4-LACNIC
+responsible: Juan Pablo Campanera
+address:     Reconquista, 715, 4 piso detp E
+address:     C1003ABO - Ciudad Autonoma de Buenos Aires - BA
+country:     AR
+phone:       +54 11 51290124 []
+owner-c:     ALM36
+tech-c:      ALM36
+abuse-c:     ALM36
+inetrev:     181.174.192/24
+nserver:     NS1.KMMNET.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NS2.KMMNET.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NS1.SKYCORP.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NS2.SKYCORP.COM.AR  
+nsstat:      20170104 UDN
+nslastaa:    20161115
+inetrev:     181.174.193/24
+inetrev:     181.174.194/24
+nserver:     NS1.KMMNET.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NS2.KMMNET.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NS1.SKYCORP.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NS2.SKYCORP.COM.AR  
+nsstat:      20170104 UDN
+nslastaa:    20161113
+inetrev:     181.174.196/24
+nserver:     NS1.KMMNET.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     NS2.KMMNET.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     NS1.SKYCORP.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     NS2.SKYCORP.COM.AR  
+nsstat:      20170103 UDN
+nslastaa:    20161112
+inetrev:     181.174.198/24
+nserver:     NS1.KMMNET.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NS2.KMMNET.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NS1.SKYCORP.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NS2.SKYCORP.COM.AR  
+nsstat:      20170104 UDN
+nslastaa:    20161113
+inetrev:     181.174.201/24
+nserver:     NS1.KMMNET.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NS2.KMMNET.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NS1.SKYCORP.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NS2.SKYCORP.COM.AR  
+nsstat:      20170104 UDN
+nslastaa:    20161114
+inetrev:     181.174.202/24
+nserver:     NS1.KMMNET.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NS2.KMMNET.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NS1.SKYCORP.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NS2.SKYCORP.COM.AR  
+nsstat:      20170104 UDN
+nslastaa:    20161112
+inetrev:     181.174.204/22
+nserver:     NS1.KMMNET.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NS2.KMMNET.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NS1.SKYCORP.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NS2.SKYCORP.COM.AR  
+nsstat:      20170104 UDN
+nslastaa:    20161113
+created:     20131105
+changed:     20131105
+
+nic-hdl:     ALM36
+person:      Alberdi Martin
+e-mail:      martin@SKYCORP.COM.AR
+address:     Reconquista 715, 715, 4 piso depto E
+address:     1003 - Ciudad Autonoma de Buenos Aires - 
+country:     AR
+phone:       +054 011 51290124 []
+created:     20110601
+changed:     20110601
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

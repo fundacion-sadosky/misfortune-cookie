@@ -1,0 +1,59 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-06 02:06:50 (BRST -02:00)
+
+inetnum:     200.59.176/21
+status:      allocated
+aut-num:     N/A
+owner:       Servicios para el Transporte de Información S.A.
+ownerid:     AR-SPET-LACNIC
+responsible: Gonzalo Llanos
+address:     Aristóbulo del Valle, 1257, Piso 2
+address:     C1295ADA - Buenos Aires - CF
+country:     AR
+phone:       +54 11 43095476 [5476]
+owner-c:     GOL
+tech-c:      GOL
+abuse-c:     GOL
+inetrev:     200.59.177/24
+nserver:     DEEPBLUE.BOLDT.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     TERMINATOR.BOLDT.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+inetrev:     200.59.179/24
+nserver:     DEEPBLUE.BOLDT.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     TERMINATOR.BOLDT.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+created:     20080826
+changed:     20080826
+
+nic-hdl:     GOL
+person:      Gonzalo Llanos
+e-mail:      gllanos@BOLDT.COM.AR
+address:     Aristobulo del Valle, 1257, 
+address:     C1295ADA - Ciudad Autonoma - BA
+country:     AR
+phone:       +54 11 43095476 [5476]
+created:     20080717
+changed:     20091222
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

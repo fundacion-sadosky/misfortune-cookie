@@ -1,0 +1,8 @@
+# PyCharm project files
+.idea
+
+# Temporary scan files to perform tests
+scan/archive/*
+
+# Compiled python files
+*.pyc

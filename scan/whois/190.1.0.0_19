@@ -1,0 +1,52 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 23:20:33 (BRST -02:00)
+
+inetnum:     190.1.0/19
+status:      allocated
+aut-num:     N/A
+owner:       BVNET S.A.
+ownerid:     AR-BVSA1-LACNIC
+responsible: Fernandez Marcelo
+address:     Paraná 326 P.2, -, 
+address:     1017 - Buenos Aires - BA
+country:     AR
+phone:       +54 291 456 0656 []
+owner-c:     ROA10
+tech-c:      ROA10
+abuse-c:     ROA10
+inetrev:     190.1.0/19
+nserver:     NS1.BVCONLINE.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     NS2.BVCONLINE.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+created:     20060210
+changed:     20060210
+
+nic-hdl:     ROA10
+person:      Rostagno Adrian
+e-mail:      noc@BVCONLINE.COM.AR
+address:     San Martin, 279, 
+address:     8000 - Bahia Blanca - BA
+country:     AR
+phone:       +54 291 456 0656 []
+created:     20051130
+changed:     20051130
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

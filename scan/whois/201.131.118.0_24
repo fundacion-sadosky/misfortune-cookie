@@ -1,0 +1,53 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-06 02:59:54 (BRST -02:00)
+
+inetnum:     201.131.118/24
+status:      assigned
+aut-num:     AS263810
+abuse-c:     MAS305
+owner:       VOLKSWAGEN ARGENTINA
+ownerid:     AR-VOAR2-LACNIC
+responsible: Martin Silcher
+address:     Av. de las Industrias, 3101, GENERAL PACHECO
+address:     1617 - Buenos Aires - 
+country:     AR
+phone:       +54 11 43179000 []
+owner-c:     MAS305
+tech-c:      MAS305
+abuse-c:     MAS305
+inetrev:     201.131.118/24
+nserver:     NS1.VW.COM.AR  
+nsstat:      20170102 AA
+nslastaa:    20170102
+nserver:     NS2.VW.COM.AR  
+nsstat:      20170102 AA
+nslastaa:    20170102
+created:     20150803
+changed:     20150803
+
+nic-hdl:     MAS305
+person:      Martin Silcher
+e-mail:      hostmaster@VW.COM.AR
+address:     Av. de las Industrias, 3101, --
+address:     1617 - Pacheco - BA
+country:     AR
+phone:       +54 11 43179000 [9333]
+created:     20140117
+changed:     20160506
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

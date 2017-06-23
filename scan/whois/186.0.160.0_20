@@ -1,0 +1,65 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 22:48:27 (BRST -02:00)
+
+inetnum:     186.0.160/20
+status:      allocated
+aut-num:     N/A
+owner:       Grupo Servicios Junin S.A.
+ownerid:     AR-GSJU-LACNIC
+responsible: ALBERTO PEDRO DAMIANI
+address:     Coronel Suarez, 27, 
+address:     6000 - Junin - BA
+country:     AR
+phone:       +54 0236 4630057 []
+owner-c:     APD
+tech-c:      APD
+abuse-c:     APD
+inetrev:     186.0.160/21
+nserver:     FUEGO.SOPNET.COM.AR  
+nsstat:      20170102 AA
+nslastaa:    20170102
+inetrev:     186.0.168/22
+nserver:     FUEGO.SOPNET.COM.AR  
+nsstat:      20161231 AA
+nslastaa:    20161231
+inetrev:     186.0.172/23
+nserver:     FUEGO.SOPNET.COM.AR  
+nsstat:      20170102 AA
+nslastaa:    20170102
+inetrev:     186.0.174/24
+nserver:     FUEGO.SOPNET.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+inetrev:     186.0.175/24
+nserver:     FUEGO.SOPNET.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+created:     20100607
+changed:     20100607
+
+nic-hdl:     APD
+person:      ALBERTO PEDRO DAMIANI
+e-mail:      juan.aparicio@GRUPOJUNIN.COM.AR
+address:     CORONEL SUAREZ, 27, 
+address:     6000 - JUNIN - BA
+country:     AR
+phone:       +54 236 4630057 []
+created:     20081023
+changed:     20150916
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

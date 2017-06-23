@@ -1,0 +1,52 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-06 00:05:40 (BRST -02:00)
+
+inetnum:     190.106.120/21
+status:      allocated
+aut-num:     N/A
+owner:       Cooperativa Telefonica de V.G.G. Ltda.
+ownerid:     AR-CTVL-LACNIC
+responsible: Conrado Osvaldo Molina
+address:     Avenida Mitre, 1028, 
+address:     2124 - Villa Gobernador Galvez - SF
+country:     AR
+phone:       +54 341 4921299 []
+owner-c:     EFB
+tech-c:      EFB
+abuse-c:     EFB
+inetrev:     190.106.120/21
+nserver:     DNS-1.COOPVGG.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     DNS-2.COOPVGG.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+created:     20120419
+changed:     20120419
+
+nic-hdl:     EFB
+person:      Edgar Fernando Balbastro
+e-mail:      sistemas@TELVGG.COOP
+address:     Avenida Mitre, 1028, 
+address:     2124 - Villa Gobernador Galvez - SF
+country:     AR
+phone:       +54 341 4921299 [24]
+created:     20040810
+changed:     20050929
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

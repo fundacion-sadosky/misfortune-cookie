@@ -1,0 +1,45 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 21:20:06 (BRST -02:00)
+
+inetnum:     168.195.52/22
+status:      allocated
+aut-num:     N/A
+owner:       Convergia Argentina S.A.
+ownerid:     AR-CASA149-LACNIC
+responsible: Diego Costa
+address:     Av. Alicia Moreau de Justo, 2050, piso 3º - 310
+address:     C1107AFP - Ciudad Autónoma de Buenos Aires - 
+country:     AR
+phone:       +54 11 68413000 []
+owner-c:     DCC16
+tech-c:      DCC16
+abuse-c:     DCC16
+created:     20160809
+changed:     20160809
+
+nic-hdl:     DCC16
+person:      Diego Costa CNV
+e-mail:      diego.costa@CONVERGIA.NET
+address:     Av. Alicia Moreau de Justo, 2050, --
+address:     -- - Buenos Aires - -
+country:     AR
+phone:       +54 11 68413000 []
+created:     20150604
+changed:     20150604
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

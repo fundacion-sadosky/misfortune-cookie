@@ -1,0 +1,52 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 20:35:32 (BRST -02:00)
+
+inetnum:     138.121.84/22
+status:      allocated
+aut-num:     N/A
+owner:       CORTUC S.A.
+ownerid:     AR-COSA91-LACNIC
+responsible: Gabriel Cortes
+address:     AVENIDA CABILDO, 2720, 00
+address:     1428 - Buenos Aires - 
+country:     AR
+phone:       +54 11 47889555 [00]
+owner-c:     IGC10
+tech-c:      IGC10
+abuse-c:     IGC10
+inetrev:     138.121.84/22
+nserver:     NS1.FONOGLOBAL.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     NS2.FONOGLOBAL.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+created:     20150624
+changed:     20150624
+
+nic-hdl:     IGC10
+person:      Imer Gabriel Cortes
+e-mail:      gcortes@FONOGLOBAL.COM.AR
+address:     Avenida Cabildo, 2720, PISO 7 OF. E
+address:     1428 - CABA - 
+country:     AR
+phone:       +54 11 47889555 []
+created:     20150517
+changed:     20150517
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

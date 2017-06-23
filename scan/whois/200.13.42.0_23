@@ -1,0 +1,55 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-06 01:38:26 (BRST -02:00)
+
+inetnum:     200.13.42/23
+status:      assigned
+aut-num:     N/A
+owner:       Anura S.A.
+ownerid:     AR-ANSA9-LACNIC
+responsible: Ricardo Barroetaveña
+address:     Esmeralda, 770, 12 A
+address:     C1007ABH - Buenos Aires - BA
+country:     AR
+phone:       +54 11 52630005 []
+owner-c:     ADA8
+tech-c:      ADA8
+abuse-c:     ADA8
+inetrev:     200.13.42/23
+nserver:     DNS1.VOIPI.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     DNS3.VOIPI.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     DNS2.VOIPI.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+created:     20100820
+changed:     20100820
+
+nic-hdl:     ADA8
+person:      Administrator Anura
+e-mail:      adminanura@ANURA.COM.AR
+address:     Esmeralda, 770, 12 A
+address:     1007 - Buenos Aires - CF
+country:     AR
+phone:       +54 11 52630000 []
+created:     20100820
+changed:     20100820
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

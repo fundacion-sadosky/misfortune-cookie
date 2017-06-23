@@ -1,0 +1,52 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 21:39:41 (BRST -02:00)
+
+inetnum:     170.78.220/22
+status:      allocated
+aut-num:     N/A
+owner:       Coop. Popular de Elec., Obras y Servicios Pub. de Santa Rosa LTDA
+ownerid:     AR-CPEO3-LACNIC
+responsible: Pablo Regunaga
+address:     Raul B. Diaz, 218, 
+address:     6300 - Santa Rosa - LP
+country:     AR
+phone:       +54 2954 412275 []
+owner-c:     PAR4
+tech-c:      PAR4
+abuse-c:     PAR4
+inetrev:     170.78.220/22
+nserver:     NS1.CPESR.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     NS2.CPESR.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+created:     20161003
+changed:     20161003
+
+nic-hdl:     PAR4
+person:      Pablo Regunaga
+e-mail:      pregunaga@CPENET.COM.AR
+address:     1ro. de Mayo, 530, 
+address:     6300 - Santa Rosa - 
+country:     AR
+phone:       +54 2954 15697414 []
+created:     20070607
+changed:     20161027
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

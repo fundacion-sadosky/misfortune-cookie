@@ -1,0 +1,137 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-06 02:32:13 (BRST -02:00)
+
+inetnum:     200.105.64/19
+status:      allocated
+aut-num:     N/A
+owner:       SkyOnline de Argentina S.A.
+ownerid:     AR-SKSA-LACNIC
+responsible: Nicolas Martin Vuga
+address:     Av. Roque Saenz Pena, 1155, 
+address:     C1035AAG - Capital Federal - BA
+country:     AR
+phone:       +54 11 50935200 [5488]
+owner-c:     SNA
+tech-c:      SNA
+abuse-c:     SNA
+inetrev:     200.105.65/24
+nserver:     NS.NETIZEN.COM.AR  
+nsstat:      20161231 AA
+nslastaa:    20161231
+nserver:     NS1.NETIZEN.COM.AR  
+nsstat:      20161231 AA
+nslastaa:    20161231
+inetrev:     200.105.66/24
+nserver:     NS.NETIZEN.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     NS1.NETIZEN.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+inetrev:     200.105.67/24
+nserver:     NS.NETIZEN.COM.AR  
+nsstat:      20170101 AA
+nslastaa:    20170101
+nserver:     NS1.NETIZEN.COM.AR  
+nsstat:      20170101 AA
+nslastaa:    20170101
+inetrev:     200.105.68/24
+nserver:     NS.NETIZEN.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NS1.NETIZEN.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+inetrev:     200.105.69/24
+nserver:     NS.NETIZEN.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     NS1.NETIZEN.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+inetrev:     200.105.72/23
+nserver:     NS.NETIZEN.COM.AR  
+nsstat:      20170101 AA
+nslastaa:    20170101
+nserver:     NS1.NETIZEN.COM.AR  
+nsstat:      20170101 AA
+nslastaa:    20170101
+inetrev:     200.105.74/23
+inetrev:     200.105.76/24
+nserver:     NS.NETIZEN.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     NS1.NETIZEN.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+inetrev:     200.105.77/24
+nserver:     NS.NETIZEN.COM.AR  
+nsstat:      20170101 AA
+nslastaa:    20170101
+nserver:     NS1.NETIZEN.COM.AR  
+nsstat:      20170101 AA
+nslastaa:    20170101
+inetrev:     200.105.90/24
+nserver:     NS.NETIZEN.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NS1.NETIZEN.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+inetrev:     200.105.91/24
+nserver:     NS.NETIZEN.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     NS1.NETIZEN.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+inetrev:     200.105.92/24
+nserver:     NS.NETIZEN.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NS1.NETIZEN.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+inetrev:     200.105.93/24
+nserver:     NS.NETIZEN.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     NS1.NETIZEN.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+inetrev:     200.105.94/24
+nserver:     NS.NETIZEN.COM.AR  
+nsstat:      20170101 AA
+nslastaa:    20170101
+nserver:     NS1.NETIZEN.COM.AR  
+nsstat:      20170101 AA
+nslastaa:    20170101
+created:     20030205
+changed:     20040310
+
+nic-hdl:     SNA
+person:      SkyOnline Network Administration
+e-mail:      ipadmin@SKYONLINE.NET.AR
+address:     Av. Roque Saenz Peña, 1155, 2º Piso
+address:     C1035AAG - Buenos Aires - 
+country:     AR
+phone:       +54 11 50935200 [5488]
+created:     20040310
+changed:     20111228
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

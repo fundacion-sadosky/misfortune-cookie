@@ -1,0 +1,45 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 22:01:21 (BRST -02:00)
+
+inetnum:     170.239.88/22
+status:      allocated
+aut-num:     N/A
+owner:       COOP DE LUZ Y FUERZA DE LIB.GRAL.SAN MARTIN LTDA
+ownerid:     AR-CLYF3-LACNIC
+responsible: Guido Weber
+address:     Av Carlos Culmey, 90, -
+address:     3334 - Pto Rico Misiones - 
+country:     AR
+phone:       +54 3743 420000 []
+owner-c:     CLL
+tech-c:      CLL
+abuse-c:     CLL
+created:     20161103
+changed:     20161103
+
+nic-hdl:     CLL
+person:      Coop. Luz y Fuerza L.G.S.M. Ltda
+e-mail:      mhahn@PRICO.COM.AR
+address:     Avda. Carlos Culmey, 90, 
+address:     3334 - Puerto Rico - Ms
+country:     AR
+phone:       +54 3743 420000 []
+created:     20031013
+changed:     20031013
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

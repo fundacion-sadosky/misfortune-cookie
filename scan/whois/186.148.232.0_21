@@ -1,0 +1,52 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 23:10:47 (BRST -02:00)
+
+inetnum:     186.148.232/21
+status:      allocated
+aut-num:     N/A
+owner:       LOS AMORES S.A.
+ownerid:     AR-TCSR2-LACNIC
+responsible: Alfio Jose Muchut
+address:     Calle 14 Nro. 344, , 
+address:     3561 - Avellaneda - SF
+country:     AR
+phone:       +54 0341 5302230 []
+owner-c:     AJM
+tech-c:      AJM
+abuse-c:     AJM
+inetrev:     186.148.232/21
+nserver:     SRV1.TRCNET.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     SRV2.TRCNET.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+created:     20110801
+changed:     20110801
+
+nic-hdl:     AJM
+person:      Alfio Jose Muchut
+e-mail:      hostmaster@TRCNET.COM.AR
+address:     Habegger, 645, Local 15
+address:     3560 - Reconquista - SF
+country:     AR
+phone:       +54 3482 421919 []
+created:     20031025
+changed:     20160713
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

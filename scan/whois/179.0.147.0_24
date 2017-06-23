@@ -1,0 +1,45 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 22:09:42 (BRST -02:00)
+
+inetnum:     179.0.147/24
+status:      assigned
+aut-num:     N/A
+owner:       Edenor S.A.
+ownerid:     AR-EDSA7-LACNIC
+responsible: Fernando Pascual
+address:     Estomba, 530, 
+address:     1427 - Buenos Aires - 
+country:     AR
+phone:       +54 11 45558100 []
+owner-c:     FEP34
+tech-c:      FEP34
+abuse-c:     FEP34
+created:     20131223
+changed:     20131223
+
+nic-hdl:     FEP34
+person:      Fernando Pascual
+e-mail:      fpascual@EDENOR.COM
+address:     Estomba, 530, 
+address:     1427 - CABA - BA
+country:     AR
+phone:       +54 11 45558100 [6026]
+created:     20130516
+changed:     20130516
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

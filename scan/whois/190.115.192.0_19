@@ -1,0 +1,45 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-06 00:22:33 (BRST -02:00)
+
+inetnum:     190.115.192/19
+status:      allocated
+aut-num:     N/A
+owner:       World Class Internet DC
+ownerid:     AR-WCID-LACNIC
+responsible: Sebastian P. Rossi
+address:     Oro, 2730, 4 piso
+address:     1426 - Buenos Aires - BA
+country:     AR
+phone:       +54 11 4776655 []
+owner-c:     WCD2
+tech-c:      WCD2
+abuse-c:     WCD2
+created:     20101029
+changed:     20101029
+
+nic-hdl:     WCD2
+person:      Sebastian P. Rossi
+e-mail:      noc@WORLDCLASSIDC.NET
+address:     Av. La Plata, 1540, 1 Piso
+address:     1250 - Buenos Aires - BA
+country:     AR
+phone:       +54 11 50935656 []
+created:     20090604
+changed:     20140605
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

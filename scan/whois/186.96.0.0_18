@@ -1,0 +1,302 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 23:02:03 (BRST -02:00)
+
+inetnum:     186.96.0/18
+status:      allocated
+aut-num:     N/A
+owner:       Interdotnet Argentina S.A.
+ownerid:     AR-IASA5-LACNIC
+responsible: Enzo Fusaro
+address:     Maipú, 24, -
+address:     1084 - Capital Federal - 
+country:     AR
+phone:       +54 11 6328-1500 []
+owner-c:     RUB2
+tech-c:      RUB2
+abuse-c:     RUB2
+inetrev:     186.96.2/23
+nserver:     NS8.AR.INTER.NET  [lame - not published]
+nsstat:      20170103 TIMEOUT
+nslastaa:    20150211
+nserver:     NS9.AR.INTER.NET  [lame - not published]
+nsstat:      20170103 TIMEOUT
+nslastaa:    20150211
+nserver:     NS10.AR.INTER.NET  [lame - not published]
+nsstat:      20170103 TIMEOUT
+nslastaa:    20120619
+inetrev:     186.96.4/23
+nserver:     NS8.AR.INTER.NET  [lame - not published]
+nsstat:      20170103 TIMEOUT
+nslastaa:    20120523
+nserver:     NS9.AR.INTER.NET  [lame - not published]
+nsstat:      20170103 TIMEOUT
+nslastaa:    20120701
+nserver:     NS10.AR.INTER.NET  [lame - not published]
+nsstat:      20170103 TIMEOUT
+nslastaa:    20120620
+inetrev:     186.96.6/24
+nserver:     NS8.AR.INTER.NET  [lame - not published]
+nsstat:      20170104 TIMEOUT
+nslastaa:    20150210
+nserver:     NS9.AR.INTER.NET  [lame - not published]
+nsstat:      20170104 TIMEOUT
+nslastaa:    20150210
+nserver:     NS10.AR.INTER.NET  [lame - not published]
+nsstat:      20170104 TIMEOUT
+nslastaa:    20120619
+inetrev:     186.96.7/24
+nserver:     NS8.AR.INTER.NET  [lame - not published]
+nsstat:      20170105 TIMEOUT
+nslastaa:    20150210
+nserver:     NS9.AR.INTER.NET  [lame - not published]
+nsstat:      20170105 TIMEOUT
+nslastaa:    20150210
+nserver:     NS10.AR.INTER.NET  [lame - not published]
+nsstat:      20170105 TIMEOUT
+nslastaa:    20120618
+inetrev:     186.96.8/22
+nserver:     NS8.AR.INTER.NET  [lame - not published]
+nsstat:      20170104 ERR
+nslastaa:    20150211
+nserver:     NS9.AR.INTER.NET  [lame - not published]
+nsstat:      20170104 ERR
+nslastaa:    20150211
+nserver:     NS10.AR.INTER.NET  [lame - not published]
+nsstat:      20170104 TIMEOUT
+nslastaa:    20120618
+inetrev:     186.96.12/23
+nserver:     NS8.AR.INTER.NET  [lame - not published]
+nsstat:      20170105 TIMEOUT
+nslastaa:    20150209
+nserver:     NS9.AR.INTER.NET  [lame - not published]
+nsstat:      20170105 TIMEOUT
+nslastaa:    20150209
+nserver:     NS10.AR.INTER.NET  [lame - not published]
+nsstat:      20170105 TIMEOUT
+nslastaa:    20120618
+inetrev:     186.96.14/24
+nserver:     NS8.AR.INTER.NET  [lame - not published]
+nsstat:      20170104 ERR
+nslastaa:    20150211
+nserver:     NS9.AR.INTER.NET  [lame - not published]
+nsstat:      20170104 ERR
+nslastaa:    20150211
+nserver:     NS10.AR.INTER.NET  [lame - not published]
+nsstat:      20170104 TIMEOUT
+nslastaa:    20120620
+inetrev:     186.96.15/24
+nserver:     NS8.AR.INTER.NET  [lame - not published]
+nsstat:      20170104 ERR
+nslastaa:    20150211
+nserver:     NS9.AR.INTER.NET  [lame - not published]
+nsstat:      20170104 ERR
+nslastaa:    20150211
+nserver:     NS10.AR.INTER.NET  [lame - not published]
+nsstat:      20170104 ERR
+nslastaa:    20120618
+inetrev:     186.96.16/22
+nserver:     NS8.AR.INTER.NET  [lame - not published]
+nsstat:      20170105 TIMEOUT
+nslastaa:    20150210
+nserver:     NS9.AR.INTER.NET  [lame - not published]
+nsstat:      20170105 TIMEOUT
+nslastaa:    20150210
+nserver:     NS10.AR.INTER.NET  [lame - not published]
+nsstat:      20170105 TIMEOUT
+nslastaa:    20120618
+inetrev:     186.96.20/23
+nserver:     NS8.AR.INTER.NET  [lame - not published]
+nsstat:      20170103 TIMEOUT
+nslastaa:    20150211
+nserver:     NS9.AR.INTER.NET  [lame - not published]
+nsstat:      20170103 TIMEOUT
+nslastaa:    20150211
+nserver:     NS10.AR.INTER.NET  [lame - not published]
+nsstat:      20170103 TIMEOUT
+nslastaa:    20120619
+inetrev:     186.96.22/24
+nserver:     NS8.AR.INTER.NET  [lame - not published]
+nsstat:      20170105 TIMEOUT
+nslastaa:    20150210
+nserver:     NS9.AR.INTER.NET  [lame - not published]
+nsstat:      20170105 TIMEOUT
+nslastaa:    20150210
+nserver:     NS10.AR.INTER.NET  [lame - not published]
+nsstat:      20170105 TIMEOUT
+nslastaa:    20120619
+inetrev:     186.96.23/24
+nserver:     NS8.AR.INTER.NET  [lame - not published]
+nsstat:      20170104 TIMEOUT
+nslastaa:    20150210
+nserver:     NS9.AR.INTER.NET  [lame - not published]
+nsstat:      20170104 TIMEOUT
+nslastaa:    20150210
+nserver:     NS10.AR.INTER.NET  [lame - not published]
+nsstat:      20170104 TIMEOUT
+nslastaa:    20120619
+inetrev:     186.96.24/22
+nserver:     NS8.AR.INTER.NET  [lame - not published]
+nsstat:      20170104 TIMEOUT
+nslastaa:    20150210
+nserver:     NS9.AR.INTER.NET  [lame - not published]
+nsstat:      20170104 TIMEOUT
+nslastaa:    20150210
+nserver:     NS10.AR.INTER.NET  [lame - not published]
+nsstat:      20170104 TIMEOUT
+nslastaa:    20120618
+inetrev:     186.96.28/23
+nserver:     NS8.AR.INTER.NET  [lame - not published]
+nsstat:      20170105 TIMEOUT
+nslastaa:    20150210
+nserver:     NS9.AR.INTER.NET  [lame - not published]
+nsstat:      20170105 TIMEOUT
+nslastaa:    20150210
+nserver:     NS10.AR.INTER.NET  [lame - not published]
+nsstat:      20170105 TIMEOUT
+nslastaa:    20120619
+inetrev:     186.96.30/24
+nserver:     NS8.AR.INTER.NET  [lame - not published]
+nsstat:      20170104 TIMEOUT
+nslastaa:    20150211
+nserver:     NS9.AR.INTER.NET  [lame - not published]
+nsstat:      20170104 TIMEOUT
+nslastaa:    20150211
+nserver:     NS10.AR.INTER.NET  [lame - not published]
+nsstat:      20170104 TIMEOUT
+nslastaa:    20120620
+inetrev:     186.96.31/24
+nserver:     NS8.AR.INTER.NET  [lame - not published]
+nsstat:      20170105 TIMEOUT
+nslastaa:    20150210
+nserver:     NS9.AR.INTER.NET  [lame - not published]
+nsstat:      20170105 TIMEOUT
+nslastaa:    20150210
+nserver:     NS10.AR.INTER.NET  [lame - not published]
+nsstat:      20170105 TIMEOUT
+nslastaa:    20120620
+inetrev:     186.96.32/24
+nserver:     NS8.AR.INTER.NET  [lame - not published]
+nsstat:      20170103 TIMEOUT
+nslastaa:    20150211
+nserver:     NS9.AR.INTER.NET  [lame - not published]
+nsstat:      20170103 TIMEOUT
+nslastaa:    20150211
+nserver:     NS10.AR.INTER.NET  [lame - not published]
+nsstat:      20170103 TIMEOUT
+nslastaa:    20120618
+inetrev:     186.96.33/24
+nserver:     NS8.AR.INTER.NET  [lame - not published]
+nsstat:      20170104 ERR
+nslastaa:    20150211
+nserver:     NS9.AR.INTER.NET  [lame - not published]
+nsstat:      20170104 ERR
+nslastaa:    20150211
+nserver:     NS10.AR.INTER.NET  [lame - not published]
+nsstat:      20170104 ERR
+nslastaa:    20120620
+inetrev:     186.96.34/24
+nserver:     NS8.AR.INTER.NET  [lame - not published]
+nsstat:      20170105 ERR
+nslastaa:    20150211
+nserver:     NS9.AR.INTER.NET  [lame - not published]
+nsstat:      20170105 ERR
+nslastaa:    20150211
+nserver:     NS10.AR.INTER.NET  [lame - not published]
+nsstat:      20170105 TIMEOUT
+nslastaa:    20120618
+inetrev:     186.96.35/24
+nserver:     NS8.AR.INTER.NET  [lame - not published]
+nsstat:      20170104 ERR
+nslastaa:    20150209
+nserver:     NS9.AR.INTER.NET  [lame - not published]
+nsstat:      20170104 ERR
+nslastaa:    20150209
+nserver:     NS10.AR.INTER.NET  [lame - not published]
+nsstat:      20170104 ERR
+nslastaa:    20120620
+inetrev:     186.96.36/24
+nserver:     NS8.AR.INTER.NET  [lame - not published]
+nsstat:      20170105 ERR
+nslastaa:    20150209
+nserver:     NS9.AR.INTER.NET  [lame - not published]
+nsstat:      20170105 ERR
+nslastaa:    20150209
+nserver:     NS10.AR.INTER.NET  [lame - not published]
+nsstat:      20170105 TIMEOUT
+nslastaa:    20120620
+inetrev:     186.96.37/24
+nserver:     NS8.AR.INTER.NET  [lame - not published]
+nsstat:      20170105 ERR
+nslastaa:    20150209
+nserver:     NS9.AR.INTER.NET  [lame - not published]
+nsstat:      20170105 ERR
+nslastaa:    20150209
+nserver:     NS10.AR.INTER.NET  [lame - not published]
+nsstat:      20170105 TIMEOUT
+nslastaa:    20120618
+inetrev:     186.96.38/24
+nserver:     NS8.AR.INTER.NET  [lame - not published]
+nsstat:      20170105 TIMEOUT
+nslastaa:    20150211
+nserver:     NS9.AR.INTER.NET  [lame - not published]
+nsstat:      20170105 TIMEOUT
+nslastaa:    20150211
+nserver:     NS10.AR.INTER.NET  [lame - not published]
+nsstat:      20170105 TIMEOUT
+nslastaa:    20120620
+inetrev:     186.96.39/24
+nserver:     NS8.AR.INTER.NET  [lame - not published]
+nsstat:      20170103 ERR
+nslastaa:    20150211
+nserver:     NS9.AR.INTER.NET  [lame - not published]
+nsstat:      20170103 ERR
+nslastaa:    20150211
+nserver:     NS10.AR.INTER.NET  [lame - not published]
+nsstat:      20170103 ERR
+nslastaa:    20120619
+inetrev:     186.96.40/24
+nserver:     NS8.AR.INTER.NET  [lame - not published]
+nsstat:      20170103 ERR
+nslastaa:    20120522
+nserver:     NS9.AR.INTER.NET  [lame - not published]
+nsstat:      20170103 ERR
+nslastaa:    20120702
+nserver:     NS10.AR.INTER.NET  [lame - not published]
+nsstat:      20170103 ERR
+nslastaa:    20120620
+inetrev:     186.96.50/24
+nserver:     NS5.AR.INTER.NET  [lame - not published]
+nsstat:      20170103 ERR
+nslastaa:    20150209
+nserver:     NS6.AR.INTER.NET  [lame - not published]
+nsstat:      20170103 ERR
+nslastaa:    20150209
+created:     20081126
+changed:     20081126
+
+nic-hdl:     RUB2
+person:      Juan Jose Sarasola
+e-mail:      lacnic@AR.INTER.NET
+address:     Maipu, 24, 
+address:     C1084ABB - Capital Federal - BA
+country:     AR
+phone:       +54 11 63281500 []
+created:     20030428
+changed:     20160512
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

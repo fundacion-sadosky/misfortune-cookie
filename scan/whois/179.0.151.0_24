@@ -1,0 +1,52 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 22:10:46 (BRST -02:00)
+
+inetnum:     179.0.151/24
+status:      assigned
+aut-num:     N/A
+owner:       PROVINCIA NET
+ownerid:     AR-PRNE-LACNIC
+responsible: Diego Carmody
+address:     Reconquista 46, , 
+address:     1003 - Buenos Aires - BA
+country:     AR
+phone:       +54 11 48192727 [2506]
+owner-c:     MAJ57
+tech-c:      MAJ57
+abuse-c:     MAJ57
+inetrev:     179.0.151/24
+nserver:     DNS1.PROVINCIANET.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     DNS2.PROVINCIANET.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+created:     20140130
+changed:     20140130
+
+nic-hdl:     MAJ57
+person:      Diego Carmody
+e-mail:      webmaster@PROVINCIANET.COM.AR
+address:     Carlos Pellegrini, 46, floor 6
+address:     1009 - Buenos Aires - BS
+country:     AR
+phone:       +54 11 48192727 [2707]
+created:     20131202
+changed:     20151109
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

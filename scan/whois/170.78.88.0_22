@@ -1,0 +1,45 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 21:37:14 (BRST -02:00)
+
+inetnum:     170.78.88/22
+status:      allocated
+aut-num:     N/A
+owner:       COOP. ELECTRICA DE CHACABUCO LTDA.
+ownerid:     AR-CECL1-LACNIC
+responsible: Anl. Sist. Alexis Giammarino
+address:     Laprida, 277, 
+address:     6740 - Chacabuco - BA
+country:     AR
+phone:       +54 2352 470000 []
+owner-c:     ALV66
+tech-c:      ALV66
+abuse-c:     ALV66
+created:     20160919
+changed:     20160919
+
+nic-hdl:     ALV66
+person:      Alberto Velarde
+e-mail:      alegiammarino@CECH.COM.AR
+address:     Laprida, 277, 
+address:     6740 - Chacabuco - Bs
+country:     AR
+phone:       +54 2352 470000 []
+created:     20150423
+changed:     20160729
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

@@ -1,0 +1,61 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 21:08:16 (BRST -02:00)
+
+inetnum:     168.0.56/22
+status:      assigned
+aut-num:     N/A
+owner:       Securitas Argentina S.A
+ownerid:     AR-SEAR1-LACNIC
+responsible: Lucas Rinaudo
+address:     Catamarca, 962, 
+address:     C1231AAJ - Ciudad de Buenos Aires - 
+country:     AR
+phone:       +54 11 40143250 []
+owner-c:     SAS15
+tech-c:      SAS15
+abuse-c:     SAS15
+inetrev:     168.0.56/22
+nserver:     NS1.MAITEN.COM  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     B.NS.BUDDYNS.COM  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     C.NS.BUDDYNS.COM  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     D.NS.BUDDYNS.COM  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     E.NS.BUDDYNS.COM  
+nsstat:      20170103 AA
+nslastaa:    20170103
+created:     20151222
+changed:     20151222
+
+nic-hdl:     SAS15
+person:      Securitas Argentina S.A.
+e-mail:      nic@SECURITASARGENTINA.COM
+address:     Esteban Echeverría, 4270, 
+address:     B1605DTT - Munro - BA
+country:     AR
+phone:       +54 11 4014 [3250]
+created:     20130222
+changed:     20150510
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

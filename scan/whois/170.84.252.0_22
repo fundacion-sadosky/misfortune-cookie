@@ -1,0 +1,45 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 21:48:02 (BRST -02:00)
+
+inetnum:     170.84.252/22
+status:      allocated
+aut-num:     N/A
+owner:       PHONECALL SRL
+ownerid:     AR-PHSR4-LACNIC
+responsible: Nicolas Paleari
+address:     Ciudad de la Paz, 3135, 
+address:      - Capital Federal - 
+country:     AR
+phone:       +54 11 45471096 []
+owner-c:     PHS14
+tech-c:      PHS14
+abuse-c:     PHS14
+created:     20160531
+changed:     20160531
+
+nic-hdl:     PHS14
+person:      PhoneCall SRL
+e-mail:      npaleari@PHONECALLSRL.COM.AR
+address:     Av. Cabildo, 4769, 2A
+address:     1429 - Buenos Aires - BA
+country:     AR
+phone:       +54 11 51995330 []
+created:     20150916
+changed:     20160407
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

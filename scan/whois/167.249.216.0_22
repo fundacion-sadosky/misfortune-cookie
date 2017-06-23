@@ -1,0 +1,45 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 21:06:10 (BRST -02:00)
+
+inetnum:     167.249.216/22
+status:      allocated
+aut-num:     N/A
+owner:       MM Comunicaciones S.A
+ownerid:     AR-MCSA21-LACNIC
+responsible: Vietto Nicolas
+address:     San Luis, 59, 
+address:     CLUCELLAS - Santa Fe - 
+country:     AR
+phone:       +54 3492 499118 []
+owner-c:     VIN2
+tech-c:      VIN2
+abuse-c:     VIN2
+created:     20151202
+changed:     20151202
+
+nic-hdl:     VIN2
+person:      Vietto Nicolas
+e-mail:      soporte@MMELECTRONICA.COM
+address:     8 de Septiembre, 259, 
+address:     2407 - Clucellas - SF
+country:     AR
+phone:       +54 3492 499184 []
+created:     20120116
+changed:     20120124
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

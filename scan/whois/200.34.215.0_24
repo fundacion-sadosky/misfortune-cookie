@@ -1,0 +1,45 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-06 01:54:12 (BRST -02:00)
+
+inetnum:     200.34.215/24
+status:      assigned
+aut-num:     N/A
+owner:       CARTELLONE ENERGIA Y CONCESIONES S.A.
+ownerid:     AR-CEYC-LACNIC
+responsible: GONZALO VERDAGUER
+address:     Carril Rodriguez Peña, 4447, 
+address:     M5522CKW - Maipú - 
+country:     AR
+phone:       +54 261 4819000 []
+owner-c:     GOV3
+tech-c:      GOV3
+abuse-c:     GOV3
+created:     20150114
+changed:     20150114
+
+nic-hdl:     GOV3
+person:      GONZALO VERDAGUER
+e-mail:      nic.ar@CARTELLONE.COM.AR
+address:     CARRIL RODRIGUEZ PEÑA, 4447, MAIPU
+address:     M5522CKW - MENDOZA - MZ
+country:     AR
+phone:       +54 261 4819000 [4403]
+created:     20140717
+changed:     20160502
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

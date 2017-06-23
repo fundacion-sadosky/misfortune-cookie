@@ -1,0 +1,77 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 23:47:28 (BRST -02:00)
+
+inetnum:     190.92.96/21
+status:      allocated
+aut-num:     N/A
+owner:       COOP. ELECTRICA DE TODD LTDA
+ownerid:     AR-CETL-LACNIC
+responsible: Carlos R. Garcia Lorenzo
+address:     Ruta 8 Km y Sarmiento - Todd, s/n, 
+address:     2754 - Todd - BA
+country:     AR
+phone:       +54 3488 444147 []
+owner-c:     CRL5
+tech-c:      CRL5
+abuse-c:     CRL5
+inetrev:     190.92.96/24
+nserver:     NS1.TODD.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+inetrev:     190.92.97/24
+nserver:     NS1.TODD.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+inetrev:     190.92.98/24
+nserver:     NS1.TODD.COM.AR  
+nsstat:      20170102 AA
+nslastaa:    20170102
+inetrev:     190.92.99/24
+nserver:     NS1.TODD.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+inetrev:     190.92.100/24
+nserver:     NS1.TODD.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+inetrev:     190.92.101/24
+nserver:     NS1.TODD.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+inetrev:     190.92.102/24
+nserver:     NS1.TODD.COM.AR  
+nsstat:      20170101 AA
+nslastaa:    20170101
+inetrev:     190.92.103/24
+nserver:     NS1.TODD.COM.AR  
+nsstat:      20170102 AA
+nslastaa:    20170102
+created:     20120918
+changed:     20120918
+
+nic-hdl:     CRL5
+person:      Carlos R. Garcia Lorenzo
+e-mail:      carlos@CRGL.COM.AR
+address:     Tucuman 550, , 
+address:     1623 - Ing. Maschwitz - BA
+country:     AR
+phone:       +54 348 4444147 []
+created:     20120329
+changed:     20130808
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

@@ -1,0 +1,61 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 22:20:52 (BRST -02:00)
+
+inetnum:     179.60.228/22
+status:      allocated
+aut-num:     N/A
+owner:       VELONET
+ownerid:     AR-VELO4-LACNIC
+responsible: Marcelo De Ambrosio
+address:     20 770, , 
+address:     6360 - General Pico - LP
+country:     AR
+phone:       +54 2302 436605 [6024]
+owner-c:     MAA169
+tech-c:      MAA169
+abuse-c:     MAA169
+inetrev:     179.60.228/24
+nserver:     NNS1.VELONET.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+inetrev:     179.60.229/24
+nserver:     NNS1.VELONET.COM.AR  
+nsstat:      20170102 AA
+nslastaa:    20170102
+inetrev:     179.60.230/24
+nserver:     NNS1.VELONET.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+inetrev:     179.60.231/24
+nserver:     NNS1.VELONET.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+created:     20131016
+changed:     20131016
+
+nic-hdl:     MAA169
+person:      Marcelo De Ambrosio
+e-mail:      marcelo@VELONET.COM.AR
+address:     calle 20, 770, 
+address:     6360 - General Pico - 
+country:     AR
+phone:       +54 2302 436605 [6024]
+created:     20130820
+changed:     20130820
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

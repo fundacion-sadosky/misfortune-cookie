@@ -1,0 +1,65 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 20:11:10 (BRST -02:00)
+
+inetnum:     131.100.88/22
+status:      allocated
+aut-num:     N/A
+owner:       COOPERATIVA DE O. S. P. S. V. EL BOLSON
+ownerid:     AR-COSP1-LACNIC
+responsible: Gonzalo A. Perez
+address:     JUEZ FERNÁNDEZ, 429, 
+address:     8430 - EL BOLSÓN - RN
+country:     AR
+phone:       +54 2944 492208 []
+owner-c:     GAP8
+tech-c:      GAP8
+abuse-c:     SCB17
+inetrev:     131.100.88/22
+nserver:     DNS1.ELBOLSON.COM  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     DNS2.ELBOLSON.COM  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     DNS3.CGMI.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+created:     20140812
+changed:     20160302
+
+nic-hdl:     GAP8
+person:      Gonzalo A. Perez
+e-mail:      gperez@COOPETEL.ORG
+address:     Juez Fernandez, 429, 
+address:     8430 - El Bolson - 
+country:     AR
+phone:       +54 2944 492208 [226]
+created:     20100301
+changed:     20100301
+
+nic-hdl:     SCB17
+person:      Soporte Coopetel El Bolson
+e-mail:      abuse@COOPETEL.ORG
+address:     Juez Fernandez, 429, 
+address:     8430 - el bolson - RN
+country:     AR
+phone:       +54 294 4491099 []
+created:     20160302
+changed:     20160302
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

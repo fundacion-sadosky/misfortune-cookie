@@ -1,0 +1,45 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 20:07:42 (BRST -02:00)
+
+inetnum:     131.0.196/22
+status:      allocated
+aut-num:     AS60029
+owner:       SOFTBCN OUTSOURCING S.L.
+ownerid:     AR-SOSL-LACNIC
+responsible: Rodrigo Ariel
+address:     Rodriguez Peña, 2542, 
+address:     7600 - Mar del Plata - MP
+country:     AR
+phone:       +54  4946855 []
+owner-c:     ROA80
+tech-c:      ROA80
+abuse-c:     ROA80
+created:     20140716
+changed:     20140716
+
+nic-hdl:     ROA80
+person:      Rodrigo Ariel
+e-mail:      rodrigo@SEVENTY.ES
+address:     C/ Acero, 30, B34
+address:     08038 - Barcelona - 
+country:     ES
+phone:       +34 93 4883389 []
+created:     20140205
+changed:     20160710
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

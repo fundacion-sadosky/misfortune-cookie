@@ -1,0 +1,62 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-06 00:30:57 (BRST -02:00)
+
+inetnum:     190.123.120/22
+status:      allocated
+aut-num:     N/A
+owner:       Fideicomiso de Administración Datacenter Capitalinas
+ownerid:     AR-FADC-LACNIC
+responsible: Hector Ruben Abdala
+address:     Av. Humberto Primo, 670, Piso: 6 Of. F66
+address:     -- - Córdoba - 
+country:     AR
+phone:       +54 351 5544150 []
+owner-c:     HEA8
+tech-c:      FRC9
+abuse-c:     FRC9
+inetrev:     190.123.120/22
+nserver:     NS1.CAPITALINASDC.COM  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NS2.CAPITALINASDC.COM  
+nsstat:      20170104 AA
+nslastaa:    20170104
+created:     20110415
+changed:     20110415
+
+nic-hdl:     FRC9
+person:      Francisco Castello
+e-mail:      fcastello@CAPITALINASDC.COM
+address:     Humberto Primo, 670, F66
+address:     5000 - Cordoba - CA
+country:     AR
+phone:       +54 351 5544150 []
+created:     20101008
+changed:     20101020
+
+nic-hdl:     HEA8
+person:      Hector Abdala
+e-mail:      habdala@CAPITALINASDC.COM
+address:     Humberto Primo, 670, Of. F66
+address:     5000 - Córdoba - 
+country:     AR
+phone:       +54 351 5544150 [155]
+created:     20100928
+changed:     20101021
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

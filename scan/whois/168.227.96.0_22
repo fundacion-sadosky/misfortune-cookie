@@ -1,0 +1,45 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 21:30:17 (BRST -02:00)
+
+inetnum:     168.227.96/22
+status:      allocated
+aut-num:     N/A
+owner:       REDES DEL OESTE S.A
+ownerid:     AR-ROSA14-LACNIC
+responsible: Mauricio Puerta
+address:     9 de Julio, 1257, 
+address:     5500 - 5500 - 
+country:     AR
+phone:       +54 0261 4200997 []
+owner-c:     MAP41
+tech-c:      MAP41
+abuse-c:     MAP41
+created:     20160315
+changed:     20160315
+
+nic-hdl:     MAP41
+person:      Mauricio Puerta
+e-mail:      maurip@WESTNET.COM.AR
+address:     9 de Julio, 1257, Piso 10 Ofic. 108
+address:     5500 - Mendoza - 
+country:     AR
+phone:       +0054 261 4200997 []
+created:     20120312
+changed:     20120312
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

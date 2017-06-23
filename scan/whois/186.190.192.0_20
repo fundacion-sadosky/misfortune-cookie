@@ -1,0 +1,49 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 23:17:45 (BRST -02:00)
+
+inetnum:     186.190.192/20
+status:      allocated
+aut-num:     N/A
+owner:       COOP.DE OB.Y SERVICIOS PUB. DE MARCOS JUAREZ
+ownerid:     AR-COSP4-LACNIC
+responsible: PASCUTTI,PABLO CÉSAR
+address:     9 DE JULIO, 118, MARCOS JUAREZ
+address:     - - CORDOBA - -
+country:     AR
+phone:       +54 3472 455555 [211]
+owner-c:     PCP
+tech-c:      PCP
+abuse-c:     PCP
+inetrev:     186.190.192/20
+nserver:     NS5.COYSPU.COM.AR  
+nsstat:      20170101 AA
+nslastaa:    20170101
+created:     20101223
+changed:     20101223
+
+nic-hdl:     PCP
+person:      Pablo C. Pascutti
+e-mail:      ppascutti@COYSPU.COM.AR
+address:     champagnat, 778, 
+address:     2580 - marcos juarez - 
+country:     AR
+phone:       +54 3472 455555 [211]
+created:     20081205
+changed:     20120821
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

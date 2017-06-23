@@ -1,0 +1,69 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 22:49:29 (BRST -02:00)
+
+inetnum:     186.0.184/22
+status:      allocated
+aut-num:     AS263776
+abuse-c:     CMM
+owner:       Vito Hugo Gonzalez
+ownerid:     AR-VHGO-LACNIC
+responsible: Vito Hugo Gonzalez
+address:     Berón de Astrada, 593, -
+address:     3460 - Curuzú Cuatia (Corrientes) - 
+country:     AR
+phone:       +54 3774 424618 []
+owner-c:     VHG
+tech-c:      CMM
+abuse-c:     CMM
+inetrev:     186.0.186/23
+nserver:     DNS1.CURUZU.NET  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     DNS2.CURUZU.NET  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     DNS1.FEDERACIONNET.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     DNS1.HORUSNET.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+created:     20100628
+changed:     20150608
+
+nic-hdl:     CMM
+person:      Claudio Miguel Godoy Martín
+e-mail:      soporte@CGMI.COM.AR
+address:     Calle 78 bis, 933, 
+address:     B1912AMY - La Plata - BA
+country:     AR
+phone:       +54 221 4535264 []
+created:     20040302
+changed:     20130225
+
+nic-hdl:     VHG
+person:      Vito Hugo Gonzalez
+e-mail:      vhg@CURUZU.NET
+address:     Beron de Astrada, 593, 
+address:     3460 - Curuzu Cuatia - 
+country:     AR
+phone:       +54 3774 424618 []
+created:     20040123
+changed:     20100503
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

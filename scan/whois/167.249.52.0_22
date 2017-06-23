@@ -1,0 +1,94 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 21:05:08 (BRST -02:00)
+
+inetnum:     167.249.52/22
+status:      allocated
+aut-num:     AS263793
+abuse-c:     AGS33
+owner:       TECNET ARGENTINA S.A.
+ownerid:     AR-TASA58-LACNIC
+responsible: AGUSTIN SANCHEZ
+address:     BUSTAMANTE, 380, 00
+address:     5507 - Lujan de Cuyo - 
+country:     AR
+phone:       +00 54 5620300 [00]
+owner-c:     AGS33
+tech-c:      AGS33
+abuse-c:     AGS33
+inetrev:     167.249.52/23
+nserver:     NS0.DNSMADEEASY.COM  
+nsstat:      20170102 AA
+nslastaa:    20170102
+nserver:     NS1.DNSMADEEASY.COM  
+nsstat:      20170102 AA
+nslastaa:    20170102
+nserver:     NS2.DNSMADEEASY.COM  
+nsstat:      20170102 AA
+nslastaa:    20170102
+nserver:     NS3.DNSMADEEASY.COM  
+nsstat:      20170102 AA
+nslastaa:    20170102
+nserver:     NS4.DNSMADEEASY.COM  
+nsstat:      20170102 AA
+nslastaa:    20170102
+inetrev:     167.249.54/24
+nserver:     NS0.DNSMADEEASY.COM  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NS1.DNSMADEEASY.COM  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NS2.DNSMADEEASY.COM  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NS3.DNSMADEEASY.COM  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NS4.DNSMADEEASY.COM  
+nsstat:      20170104 AA
+nslastaa:    20170104
+inetrev:     167.249.55/24
+nserver:     NS0.DNSMADEEASY.COM  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     NS1.DNSMADEEASY.COM  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     NS2.DNSMADEEASY.COM  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     NS3.DNSMADEEASY.COM  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     NS4.DNSMADEEASY.COM  
+nsstat:      20170105 AA
+nslastaa:    20170105
+created:     20151229
+changed:     20151229
+
+nic-hdl:     AGS33
+person:      AGUSTIN SANCHEZ
+e-mail:      agustin@TECNETMZA.COM.AR
+address:     BUSTAMANTE, 380, 
+address:     5507 - LUJAN DE CUYO - MZ
+country:     AR
+phone:       +0054 0261 2615771960 []
+created:     20150211
+changed:     20150211
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

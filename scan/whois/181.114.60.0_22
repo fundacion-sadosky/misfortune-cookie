@@ -1,0 +1,45 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 22:31:41 (BRST -02:00)
+
+inetnum:     181.114.60/22
+status:      allocated
+aut-num:     N/A
+owner:       INTERAIR
+ownerid:     AR-INTE28-LACNIC
+responsible: Angel F Baez
+address:     Av. Jorge Newbery, 843, 
+address:     2914 - Villa Ramallo - BA
+country:     AR
+phone:       +54 911 50203901 []
+owner-c:     AFB15
+tech-c:      AFB15
+abuse-c:     AFB15
+created:     20130812
+changed:     20130812
+
+nic-hdl:     AFB15
+person:      Angel F Baez
+e-mail:      angel@INTERAIR.NET.AR
+address:     Av . Jorge Newbery, 843, 
+address:     2914 - Villa Ramallo - BA
+country:     AR
+phone:       +54 911 50203901 []
+created:     20130521
+changed:     20130521
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

@@ -1,0 +1,45 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 23:02:45 (BRST -02:00)
+
+inetnum:     186.96.192/21
+status:      allocated
+aut-num:     N/A
+owner:       COOPERATIVA DE ELECTRICIDAD DE PEDRO LURO
+ownerid:     AR-CEPL2-LACNIC
+responsible: Jose Verazza
+address:     Calle 101, 1076, 
+address:     8148 - Pedro Luro - 
+country:     AR
+phone:       +054 2928 410059 [30]
+owner-c:     CEL14
+tech-c:      CEL14
+abuse-c:     CEL14
+created:     20120131
+changed:     20120131
+
+nic-hdl:     CEL14
+person:      Mauricio Felipe Odo
+e-mail:      modo@LURONET.COM.AR
+address:     Calle 101, 1076, 
+address:     8148 - PEDRO LURO - BA
+country:     AR
+phone:       +54 2928 410059 []
+created:     20110428
+changed:     20110823
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

@@ -1,0 +1,52 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 21:51:10 (BRST -02:00)
+
+inetnum:     170.155/16
+status:      assigned
+aut-num:     N/A
+owner:       Gobernacion de la Provincia de Buenos Aires
+ownerid:     AR-GLPB-LACNIC
+responsible: Diego Alejandro Del Roio
+address:     Calle 6 entre 51 y 53, 1 pis, 
+address:     1900 - La Plata - AR
+country:     AR
+phone:       +54 221 4294355 []
+owner-c:     DAR9
+tech-c:      DAR9
+abuse-c:     DAR9
+inetrev:     170.155/16
+nserver:     DNS1.GBA.GOV.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     DNS2.GBA.GOV.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+created:     19940603
+changed:     19960401
+
+nic-hdl:     DAR9
+person:      Diego Alejandro Del Roio
+e-mail:      ddelroio@GBA.GOV.AR
+address:     calle 50 esquina diagonal 80, 1 pis, 
+address:     1900 - La Plata - BA
+country:     AR
+phone:       +54 221 4294141 []
+created:     20050506
+changed:     20060918
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

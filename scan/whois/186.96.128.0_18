@@ -1,0 +1,45 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 23:02:24 (BRST -02:00)
+
+inetnum:     186.96.128/18
+status:      allocated
+aut-num:     N/A
+owner:       Interdotnet Argentina S.A.
+ownerid:     AR-IASA5-LACNIC
+responsible: Enzo Fusaro
+address:     Maipú, 24, -
+address:     1084 - Capital Federal - 
+country:     AR
+phone:       +54 11 6328-1500 []
+owner-c:     RUB2
+tech-c:      RUB2
+abuse-c:     RUB2
+created:     20101022
+changed:     20101022
+
+nic-hdl:     RUB2
+person:      Juan Jose Sarasola
+e-mail:      lacnic@AR.INTER.NET
+address:     Maipu, 24, 
+address:     C1084ABB - Capital Federal - BA
+country:     AR
+phone:       +54 11 63281500 []
+created:     20030428
+changed:     20160512
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

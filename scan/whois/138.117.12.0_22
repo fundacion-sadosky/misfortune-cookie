@@ -1,0 +1,52 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 20:29:16 (BRST -02:00)
+
+inetnum:     138.117.12/22
+status:      allocated
+aut-num:     N/A
+owner:       Angeletti Alfredo Jose
+ownerid:     AR-MEJO1-LACNIC
+responsible: Fabricio Angeletti
+address:     Artigas, 253, 
+address:     2000 - Rosario - SF
+country:     AR
+phone:       +54 341 4554827 []
+owner-c:     FAA43
+tech-c:      FAA43
+abuse-c:     FAA43
+inetrev:     138.117.12/22
+nserver:     NS1.MEJORSERVER.COM  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     NS2.MEJORSERVER.COM  
+nsstat:      20170103 AA
+nslastaa:    20170103
+created:     20150417
+changed:     20150417
+
+nic-hdl:     FAA43
+person:      Fabricio Angeletti
+e-mail:      fabricio@INGANGELETTI.COM
+address:     Artigas 253, , 
+address:     S2013ALA - Rosario - SF
+country:     AR
+phone:       +54 341 4554827 []
+created:     20131018
+changed:     20131018
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

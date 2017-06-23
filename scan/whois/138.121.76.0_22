@@ -1,0 +1,73 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 20:34:50 (BRST -02:00)
+
+inetnum:     138.121.76/22
+status:      assigned
+aut-num:     N/A
+owner:       Visa Argentina S.A.
+ownerid:     AR-VASA18-LACNIC
+responsible: Carlos Teodori
+address:     Avenida Corrientes, 1437, Piso 6
+address:     1042 - Cap Fed - BA
+country:     AR
+phone:       +054 011 43792677 []
+owner-c:     ESC11
+tech-c:      ESC11
+abuse-c:     ESC11
+inetrev:     138.121.76/24
+nserver:     NS1.PRISMAMP.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NS2.PRISMAMP.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+inetrev:     138.121.77/24
+nserver:     NS1.PRISMAMP.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     NS2.PRISMAMP.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+inetrev:     138.121.78/24
+nserver:     NS1.PRISMAMP.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NS2.PRISMAMP.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+inetrev:     138.121.79/24
+nserver:     NS1.PRISMAMP.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     NS2.PRISMAMP.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+created:     20150603
+changed:     20150603
+
+nic-hdl:     ESC11
+person:      Diego Avila
+e-mail:      davila@PRISMAMP.COM
+address:     Av. Corrientes, 1437, 6
+address:     1042 - Capital Federal - BA
+country:     AR
+phone:       +54 11 43792677 []
+created:     20110810
+changed:     20150424
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

@@ -1,0 +1,80 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-06 02:12:26 (BRST -02:00)
+
+inetnum:     200.63.64/19
+status:      allocated
+aut-num:     N/A
+owner:       Netverk S.A.
+ownerid:     AR-NESA7-LACNIC
+responsible: Sistemas Netverk
+address:     Calle 38, 11, 
+address:     1900 - la plata - 
+country:     AR
+phone:       +054 0221 4241049 []
+owner-c:     NEI
+tech-c:      NEI
+abuse-c:     NEI
+inetrev:     200.63.74/23
+nserver:     NS1.NETVERK.COM.AR  [lame - not published]
+nsstat:      20170104 UDN
+nslastaa:    20160730
+nserver:     NS2.NETVERK.COM.AR  [lame - not published]
+nsstat:      20170104 UDN
+nslastaa:    20160803
+inetrev:     200.63.76/22
+nserver:     NS1.NETVERK.COM.AR  [lame - not published]
+nsstat:      20170104 UDN
+nslastaa:    20160802
+nserver:     NS2.NETVERK.COM.AR  [lame - not published]
+nsstat:      20170104 UDN
+nslastaa:    20160802
+inetrev:     200.63.80/22
+nserver:     NS1.NETVERK.COM.AR  [lame - not published]
+nsstat:      20170103 UDN
+nslastaa:    20160731
+nserver:     NS2.NETVERK.COM.AR  [lame - not published]
+nsstat:      20170103 UDN
+nslastaa:    20160803
+inetrev:     200.63.84/24
+nserver:     NS1.NETVERK.COM.AR  [lame - not published]
+nsstat:      20170105 UDN
+nslastaa:    20020830
+nserver:     NS2.NETVERK.COM.AR  [lame - not published]
+nsstat:      20170105 UDN
+nslastaa:    20020830
+inetrev:     200.63.87/24
+nserver:     NS1.NETVERK.COM.AR  [lame - not published]
+nsstat:      20170104 UDN
+nslastaa:    20160731
+nserver:     NS2.NETVERK.COM.AR  [lame - not published]
+nsstat:      20170104 UDN
+nslastaa:    20160803
+created:     20010124
+changed:     20011206
+
+nic-hdl:     NEI
+person:      Netverk IP
+e-mail:      netverk_ip@NETVERK.COM
+address:     Plaza Olazabal (calle 38 entre 6 y la plaza), 11, 
+address:     1900 - La Plata - 
+country:     AR
+phone:       +54 221 4241049 []
+created:     20020930
+changed:     20130104
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

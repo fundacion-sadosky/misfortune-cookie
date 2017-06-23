@@ -1,0 +1,52 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-06 00:29:54 (BRST -02:00)
+
+inetnum:     190.123.80/20
+status:      allocated
+aut-num:     N/A
+owner:       Pogliotti & Pogliotti Construcciones S.A.
+ownerid:     AR-PAPC-LACNIC
+responsible: Franco E. Lazos
+address:     Chile, 253, PA
+address:     5900 - Villa María - Córdoba - 
+country:     AR
+phone:       +54 353 4532330 []
+owner-c:     FRL7
+tech-c:      FRL7
+abuse-c:     FRL7
+inetrev:     190.123.80/20
+nserver:     NS1.LZSNET.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NS2.LZSNET.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+created:     20130403
+changed:     20130403
+
+nic-hdl:     FRL7
+person:      Franco E. Lazos
+e-mail:      franco.lazos@SITSA.COM.AR
+address:     Chile, 253, PA
+address:     5900 - Villa Maria - CB
+country:     AR
+phone:       +54 353 4532330 []
+created:     20100715
+changed:     20151223
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

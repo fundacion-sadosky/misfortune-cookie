@@ -1,0 +1,52 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 22:18:47 (BRST -02:00)
+
+inetnum:     179.60.184/21
+status:      allocated
+aut-num:     N/A
+owner:       Fleetmailer
+ownerid:     AR-AJRO-LACNIC
+responsible: Alejandro Rodriguez
+address:     Montes de Oca, 1280, 
+address:     1270 - Buenos Aires - CF
+country:     AR
+phone:       +54 11 43036901 [11]
+owner-c:     AJR2
+tech-c:      AJR2
+abuse-c:     AJR2
+inetrev:     179.60.184/21
+nserver:     N1.OS-NS.COM  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     N2.OS-NS.COM  
+nsstat:      20170104 AA
+nslastaa:    20170104
+created:     20130819
+changed:     20130819
+
+nic-hdl:     AJR2
+person:      Alejandro Rodriguez
+e-mail:      abuse@OUTSERVICES.NET
+address:     Montes de Oca, 1280, 
+address:     1270 - Buenos Aires - CF
+country:     AR
+phone:       +54 11 52782004 []
+created:     20090108
+changed:     20151223
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

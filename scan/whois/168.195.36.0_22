@@ -1,0 +1,45 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 21:19:45 (BRST -02:00)
+
+inetnum:     168.195.36/22
+status:      allocated
+aut-num:     N/A
+owner:       TECNOVISIÓN SA CANAL 2 PERICO
+ownerid:     AR-TSCP-LACNIC
+responsible: Horacio De Luca
+address:     Av. San Martín, 47, 
+address:     4610 - Perico - 
+country:     AR
+phone:       +54 0388 4911452 []
+owner-c:     HOL7
+tech-c:      HOL7
+abuse-c:     HOL7
+created:     20160809
+changed:     20160809
+
+nic-hdl:     HOL7
+person:      Horacio De Luca
+e-mail:      adm@CANAL2PERICO.COM.AR
+address:     Av San Martin, 47, 
+address:     4608 - Perico - JU
+country:     AR
+phone:       +54 0388 4911452 []
+created:     20160310
+changed:     20160521
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

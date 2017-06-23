@@ -1,0 +1,45 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 20:08:44 (BRST -02:00)
+
+inetnum:     131.72.28/22
+status:      allocated
+aut-num:     N/A
+owner:       Lima Video Cable S.A. (Cabletel)
+ownerid:     AR-LVCS-LACNIC
+responsible: Hector Hugo Mosconi
+address:     Quirno, 37, 
+address:     2800 - Zárate - BA
+country:     AR
+phone:       +54 11 3487430928 []
+owner-c:     LVS
+tech-c:      LVS
+abuse-c:     LVS
+created:     20140725
+changed:     20140725
+
+nic-hdl:     LVS
+person:      Lucas Matias Salamandri
+e-mail:      lsalamandri@LVCSA.COM.AR
+address:     QUIRNO, 35, 
+address:     2800 - ZARATE - AR
+country:     AR
+phone:       +5411 3487 430928 []
+created:     20110421
+changed:     20110721
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

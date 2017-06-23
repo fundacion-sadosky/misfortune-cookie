@@ -1,0 +1,112 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-06 02:04:44 (BRST -02:00)
+
+inetnum:     200.59.32/19
+status:      allocated
+aut-num:     N/A
+owner:       VELOCOM
+ownerid:     AR-VELO-LACNIC
+responsible: Ignacio Lopez
+address:     San Martin, 638, 
+address:     C1004AAN - Buenos Aires - 
+country:     AR
+phone:       +54 11 4316-1400 []
+owner-c:     DAR59
+tech-c:      SNC2
+abuse-c:     SNC2
+inetrev:     200.59.32/21
+nserver:     NS1.VELOCOM.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     NS2.VELOCOM.COM.AR  [lame - not published]
+nsstat:      20170103 TIMEOUT
+nslastaa:    20141013
+inetrev:     200.59.40/22
+nserver:     NS1.VELOCOM.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     NS2.VELOCOM.COM.AR  [lame - not published]
+nsstat:      20170103 TIMEOUT
+nslastaa:    20141011
+inetrev:     200.59.44/24
+nserver:     NS1.VELOCOM.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NS2.VELOCOM.COM.AR  [lame - not published]
+nsstat:      20170104 TIMEOUT
+nslastaa:    20141012
+inetrev:     200.59.45/24
+nserver:     NS1.VELOCOM.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NS2.VELOCOM.COM.AR  [lame - not published]
+nsstat:      20170104 TIMEOUT
+nslastaa:    20141013
+inetrev:     200.59.46/23
+nserver:     NS1.VELOCOM.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     NS2.VELOCOM.COM.AR  [lame - not published]
+nsstat:      20170105 TIMEOUT
+nslastaa:    20141013
+inetrev:     200.59.48/22
+nserver:     NS1.VELOCOM.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     NS2.VELOCOM.COM.AR  [lame - not published]
+nsstat:      20170105 TIMEOUT
+nslastaa:    20141012
+inetrev:     200.59.52/24
+inetrev:     200.59.53/24
+nserver:     NS1.VELOCOM.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     NS2.VELOCOM.COM.AR  [lame - not published]
+nsstat:      20170103 TIMEOUT
+nslastaa:    20141013
+inetrev:     200.59.54/23
+nserver:     NS1.VELOCOM.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     NS2.VELOCOM.COM.AR  [lame - not published]
+nsstat:      20170105 TIMEOUT
+nslastaa:    20141013
+created:     20000810
+changed:     20061004
+
+nic-hdl:     DAR59
+person:      Dario Riggio
+e-mail:      abuse@VELOCOM.COM.AR
+address:     San Martín, 638, 
+address:     C1004AAN - Buenos Aires - 
+country:     AR
+phone:       +54 11 41031400 [1452]
+created:     20140521
+changed:     20160513
+
+nic-hdl:     SNC2
+person:      Javier Ignacio Rodriguez Sotelo
+e-mail:      abuse-silica@DATCO.NET
+address:     San Martin, 638, 
+address:     C1004AAN - Ciudad Autonoma de Buenos Aire - 
+country:     AR
+phone:       +54 11 43233360 []
+created:     20060818
+changed:     20140929
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

@@ -1,0 +1,52 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-06 00:42:35 (BRST -02:00)
+
+inetnum:     190.184.220/22
+status:      allocated
+aut-num:     N/A
+owner:       CORPICO LTDA
+ownerid:     AR-COLT6-LACNIC
+responsible: CLAUDIO DELACOSTE
+address:     Calle 11, 341, 
+address:     6360 - General Pico - LP
+country:     AR
+phone:       +54 2302 15457902 []
+owner-c:     CLD3
+tech-c:      CLD3
+abuse-c:     CLD3
+inetrev:     190.184.220/22
+nserver:     NS1.CORPICONET.COM.AR  
+nsstat:      20161229 AA
+nslastaa:    20161229
+nserver:     NS2.CORPICONET.COM.AR  
+nsstat:      20161229 AA
+nslastaa:    20161229
+created:     20120126
+changed:     20120126
+
+nic-hdl:     CLD3
+person:      Claudio Delacoste
+e-mail:      abuse@CORPICONET.COM.AR
+address:     Calle 11, 341, 
+address:     L6360AQG - General Pico - LP
+country:     AR
+phone:       +54 2302 15457902 []
+created:     20100705
+changed:     20160531
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

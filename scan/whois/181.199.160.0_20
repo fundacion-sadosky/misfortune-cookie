@@ -1,0 +1,74 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 22:42:52 (BRST -02:00)
+
+inetnum:     181.199.160/20
+status:      allocated
+aut-num:     N/A
+owner:       INFRACOM DE INFRAESTRUCTURAS S .A.
+ownerid:     AR-IISA8-LACNIC
+responsible: DANIEL DI GIROLAMO
+address:     Tte. Gral. Juán D. Perón, 1509, piso 7
+address:     - - Buenos Aires - -
+country:     AR
+phone:       +054 011 53525200 [00000000]
+owner-c:     DAG23
+tech-c:      DAG23
+abuse-c:     DAG23
+inetrev:     181.199.160/24
+inetrev:     181.199.161/24
+nserver:     NS1.CELPINF.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NS2.CELPINF.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+inetrev:     181.199.162/23
+nserver:     NS1.CELPINF.COM.AR  
+nsstat:      20161231 AA
+nslastaa:    20161231
+nserver:     NS2.CELPINF.COM.AR  
+nsstat:      20161231 AA
+nslastaa:    20161231
+inetrev:     181.199.164/22
+nserver:     NS1.CELPINF.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     NS2.CELPINF.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+inetrev:     181.199.168/21
+nserver:     NS1.CELPINF.COM.AR  
+nsstat:      20161231 AA
+nslastaa:    20161231
+nserver:     NS2.CELPINF.COM.AR  
+nsstat:      20161231 AA
+nslastaa:    20161231
+created:     20130722
+changed:     20130722
+
+nic-hdl:     DAG23
+person:      Daniel Di Girolamo
+e-mail:      digirolamod@INFRACOM.COM.AR
+address:     Tte. Gral: Juan Domingo Perón, 1509, 7°
+address:     C1037ACC - Ciudad de Bs. As. - 
+country:     AR
+phone:       +54 11 53525200 [121]
+created:     20121119
+changed:     20121119
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

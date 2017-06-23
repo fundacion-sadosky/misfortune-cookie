@@ -1,0 +1,49 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-06 03:08:01 (BRST -02:00)
+
+inetnum:     201.220.28/24
+status:      assigned
+aut-num:     N/A
+owner:       Cubika Consulting SA
+ownerid:     AR-CCSA22-LACNIC
+responsible: Cristian Rojas
+address:     Corrientes, 485, 6to. Piso
+address:     C1043AAE - Buenos Aires - --
+country:     AR
+phone:       +54 11 43943121 [112]
+owner-c:     CRR10
+tech-c:      CRR10
+abuse-c:     CRR10
+inetrev:     201.220.28/24
+nserver:     NS1.GLOBALLOGIC.COM  [lame - not published]
+nsstat:      20170104 ERR
+nslastaa:    20160827
+created:     20130320
+changed:     20130320
+
+nic-hdl:     CRR10
+person:      Arturo Di Bernardo
+e-mail:      arturo.dibernardo@GLOBALLOGIC.COM
+address:     Corrientes Avenue, 485, 6th
+address:     C1043AAE - Buenos Aires - BA
+country:     AR
+phone:       +54 011 55338300 [1054]
+created:     20110914
+changed:     20151021
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

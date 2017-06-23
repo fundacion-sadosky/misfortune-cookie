@@ -1,0 +1,60 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-06 03:06:36 (BRST -02:00)
+
+inetnum:     201.219.96/20
+status:      allocated
+aut-num:     AS14232
+abuse-c:     JPB2
+owner:       Cooperativa Telefónica Pinamar Ltda.
+ownerid:     AR-CTPL5-LACNIC
+responsible: Juan Pablo Bianucci
+address:     Jasón, 1026, 
+address:     7167 - Pinamar (Buenos Aires) - 
+country:     AR
+phone:       +54 2254 492134 []
+owner-c:     JPB2
+tech-c:      JPB2
+abuse-c:     JPB2
+inetrev:     201.219.96/21
+nserver:     NS1.TELPIN.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NS2.TELPIN.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+inetrev:     201.219.104/21
+nserver:     NS1.TELPIN.COM.AR  
+nsstat:      20170101 AA
+nslastaa:    20170101
+nserver:     NS2.TELPIN.COM.AR  
+nsstat:      20170101 AA
+nslastaa:    20170101
+created:     20111114
+changed:     20111114
+
+nic-hdl:     JPB2
+person:      Juan Pablo Bianucci
+e-mail:      juan.bianucci@TELPIN.COM.AR
+address:     Jason, 1026, 
+address:     7167 - Pinamar - ba
+country:     AR
+phone:       +54 2254 492113 []
+created:     20030815
+changed:     20080408
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

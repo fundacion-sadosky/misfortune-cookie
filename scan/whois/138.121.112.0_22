@@ -1,0 +1,45 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 20:36:56 (BRST -02:00)
+
+inetnum:     138.121.112/22
+status:      allocated
+aut-num:     N/A
+owner:       REFSA TELECOMUNICACIONES
+ownerid:     AR-RETE-LACNIC
+responsible: Lucas Vicente
+address:     AV. GONZALEZ LELONG, 1345, 
+address:     3600 - Formosa - 
+country:     AR
+phone:       +54 0370 4439800 []
+owner-c:     LUV15
+tech-c:      LUV15
+abuse-c:     LUV15
+created:     20150626
+changed:     20150626
+
+nic-hdl:     LUV15
+person:      Lucas Vicente
+e-mail:      santos@TWKO.COM.AR
+address:     Av. Gonzalez Lelong, 1345, 
+address:     3600 - Formosa - 
+country:     AR
+phone:       +54 0370 4439800 []
+created:     20150320
+changed:     20150320
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

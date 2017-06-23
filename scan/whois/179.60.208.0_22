@@ -1,0 +1,45 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 22:19:49 (BRST -02:00)
+
+inetnum:     179.60.208/22
+status:      allocated
+aut-num:     N/A
+owner:       Cooperativa de Servicios Públicos de Fatima Ltda.
+ownerid:     AR-CSPF-LACNIC
+responsible: Pablo Severini
+address:     Isla Belgrano, 596, 
+address:     2322 - Fatima - 
+country:     AR
+phone:       +54 2322 490100 []
+owner-c:     CSF3
+tech-c:      CSF3
+abuse-c:     CSF3
+created:     20130904
+changed:     20130904
+
+nic-hdl:     CSF3
+person:      Cooperativa Servicios Publicos Fatima
+e-mail:      pseverini@COSEFACORP.COM.AR
+address:     Isla Belgrano, 596, 
+address:     1633 - Fatima - BA
+country:     AR
+phone:       +54  490900 []
+created:     20070326
+changed:     20161229
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

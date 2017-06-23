@@ -1,0 +1,41 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-06 01:24:01 (BRST -02:00)
+
+inetnum:     200.9.194/24
+status:      assigned
+aut-num:     N/A
+owner:       Kalmar S.A.
+ownerid:     AR-KASA-LACNIC
+address:     Av. Colon 536
+address:     5000 Cordoba
+country:     AR
+owner-c:     CN7-ARIN
+created:     19931207
+changed:     19931207
+source:      ARIN-HISTORIC
+
+nic-hdl:     CN7-ARIN
+person:      Carlos Navarro
+e-mail:      charlie@HEINZ.COM
+address:     Benigno Acosta 4528
+address:     5009 Cordoba
+country:     AR
+phone:       (+54 51) 81 75 97
+source:      ARIN-HISTORIC
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

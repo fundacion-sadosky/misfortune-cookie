@@ -1,0 +1,62 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 23:28:56 (BRST -02:00)
+
+inetnum:     190.8.0/20
+status:      allocated
+aut-num:     N/A
+owner:       Velconet SA
+ownerid:     AR-VESA2-LACNIC
+responsible: Walter Rupo
+address:     Avenida Jujuy, 1956, 
+address:     1247 - Buenos Aires - 
+country:     AR
+phone:       +54 11 52170412 []
+owner-c:     ENF11
+tech-c:      WAR
+abuse-c:     WAR
+inetrev:     190.8.0/20
+nserver:     NS1.LINKSAT.COM.AR  
+nsstat:      20170105 ERR
+nslastaa:    20170102
+nserver:     NS2.LINKSAT.COM.AR  
+nsstat:      20170105 FAIL
+nslastaa:    20170102
+created:     20070205
+changed:     20070205
+
+nic-hdl:     ENF11
+person:      Enrique Frumento
+e-mail:      noc@ANYLINK.COM.AR
+address:     Constitución, 3968, 
+address:     C1254ABR - Buenos Aires - 
+country:     AR
+phone:       +54 911 54637222 [12]
+created:     20131122
+changed:     20140404
+
+nic-hdl:     WAR
+person:      Enrique Frumento
+e-mail:      noc@ANYLINK.COM.AR
+address:     Constitucion, 3968, 
+address:     1254 - Capital Federal - CF
+country:     AR
+phone:       +54 11 60912601 []
+created:     20030926
+changed:     20161107
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

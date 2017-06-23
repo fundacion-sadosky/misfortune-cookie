@@ -1,0 +1,55 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-06 03:17:07 (BRST -02:00)
+
+inetnum:     207.248.85/24
+status:      assigned
+aut-num:     N/A
+owner:       AUTOTRANSPORTES ANDESMAR S.A.
+ownerid:     AR-AASA10-LACNIC
+responsible: Pablo S. Dagfal
+address:     CARRIL RODRIGUEZ PEÑA, 2831, -
+address:     5501 - GODOY CRUZ - ME
+country:     AR
+phone:       +54 261 4136000 []
+owner-c:     AAS69
+tech-c:      AAS69
+abuse-c:     AAS69
+inetrev:     207.248.85/24
+nserver:     NS1.ANDESMAR.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NS2.ANDESMAR.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NS3.ANDESMAR.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+created:     20140527
+changed:     20140527
+
+nic-hdl:     AAS69
+person:      Autotransportes Andesmar S.A.
+e-mail:      hostmaster@ANDINASOFTWARE.COM.AR
+address:     Carril Rodriguez Peña, 2831, 
+address:     5501 - Godoy Cruz - 
+country:     AR
+phone:       +54 261 4136000 [591]
+created:     20140305
+changed:     20150506
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

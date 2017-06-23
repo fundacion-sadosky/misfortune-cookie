@@ -1,0 +1,56 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-06 02:25:11 (BRST -02:00)
+
+inetnum:     200.81.152/21
+status:      allocated
+aut-num:     AS27851
+abuse-c:     PMF
+owner:       Coop. Eléctrica y de Servicios Públicos Luján
+ownerid:     AR-CEYS3-LACNIC
+responsible: Pablo Mariano Fernández
+address:     Humberto I, 863, 
+address:     6700 - Luján - BA
+country:     AR
+phone:       +54 2323 441144 []
+owner-c:     PMF
+tech-c:      PMF
+abuse-c:     PMF
+inetrev:     200.81.152/21
+nserver:     NS1.COOPENETLUJAN.COM.AR  
+nsstat:      20170102 AA
+nslastaa:    20170102
+nserver:     NS2.COOPENETLUJAN.COM.AR  
+nsstat:      20170102 AA
+nslastaa:    20170102
+nserver:     NS3.COOPENETLUJAN.COM.AR  
+nsstat:      20170102 AA
+nslastaa:    20170102
+created:     20140430
+changed:     20140430
+
+nic-hdl:     PMF
+person:      Pablo Mariano Fernández
+e-mail:      pablof@COOPERATIVADELUJAN.COM.AR
+address:     Humberto Iº, 863, 
+address:     6700 - Luján - BA
+country:     AR
+phone:       +54 2323 441117 []
+created:     20021010
+changed:     20121016
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

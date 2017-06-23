@@ -1,0 +1,45 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 20:59:54 (BRST -02:00)
+
+inetnum:     143.208.48/22
+status:      allocated
+aut-num:     N/A
+owner:       Tecnopan S.R.L.
+ownerid:     AR-TESR-LACNIC
+responsible: Michaut Rodolfo
+address:     Av. 25 de Julio, 320, 
+address:     --- - Santiago del Estero - 
+country:     AR
+phone:       +54 0385 4390013 []
+owner-c:     TES2
+tech-c:      TES2
+abuse-c:     TES2
+created:     20151030
+changed:     20151030
+
+nic-hdl:     TES2
+person:      TECNOPAN SRL
+e-mail:      rmichaut@GMAIL.COM
+address:     Av. 25 de Julio, 320, 
+address:     G4200NBH - Santiago del Estero - 
+country:     AR
+phone:       +54 385 4390013 []
+created:     20031009
+changed:     20151008
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

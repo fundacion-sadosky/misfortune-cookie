@@ -1,0 +1,52 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-06 01:43:41 (BRST -02:00)
+
+inetnum:     200.16.80/22
+status:      assigned
+aut-num:     N/A
+owner:       Comision Nacional de Actividades Espaciales
+ownerid:     AR-CNAE-LACNIC
+responsible: Patricia Alvarez
+address:     Paseo Colon, 751, 
+address:     C1063ACH - Buenos Aires - 
+country:     AR
+phone:       +54 11 4331-0074 [5298]
+owner-c:     HUM
+tech-c:      HUM
+abuse-c:     HUM
+inetrev:     200.16.80/22
+nserver:     STORNI.CONAE.GOV.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     AIRA.CONAE.GOV.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+created:     19950228
+changed:     19961108
+
+nic-hdl:     HUM
+person:      Patricia Alvarez
+e-mail:      si@CONAE.GOV.AR
+address:     Paseo Colon, 751, 
+address:     C1063ACH - Buenos Aires - 
+country:     AR
+phone:       +54 11 4331-0074 [5298]
+created:     20021031
+changed:     20100407
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

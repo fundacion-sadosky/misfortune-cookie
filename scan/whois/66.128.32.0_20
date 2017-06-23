@@ -1,0 +1,52 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 20:06:03 (BRST -02:00)
+
+inetnum:     66.128.32/20
+status:      allocated
+aut-num:     N/A
+owner:       Itelsa
+ownerid:     AR-ITEL-LACNIC
+responsible: Gustavo Martino
+address:     Entre Ríos 2710, , 
+address:     3228 - Chajarí - ER
+country:     AR
+phone:       +54 3456 424141 []
+owner-c:     ITS6
+tech-c:      ITS6
+abuse-c:     ITS6
+inetrev:     66.128.32/20
+nserver:     NS1.BAICOM.NET  
+nsstat:      20170101 AA
+nslastaa:    20170101
+nserver:     NS2.BAICOM.NET  
+nsstat:      20170101 AA
+nslastaa:    20170101
+created:     20140424
+changed:     20140424
+
+nic-hdl:     ITS6
+person:      ITEL s.a.
+e-mail:      info@ITELSA.COM.AR
+address:     Entre Ríos, 2710, 
+address:     3228 - Chajarí - ER
+country:     AR
+phone:       +54 3456 424141 []
+created:     20130215
+changed:     20160407
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

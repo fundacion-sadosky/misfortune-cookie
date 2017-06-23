@@ -1,0 +1,66 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 20:35:53 (BRST -02:00)
+
+inetnum:     138.121.88/22
+status:      allocated
+aut-num:     AS263834
+abuse-c:     SEH16
+owner:       VILLA GESELL TELEVISIÒN COMUNITARIA S.A.
+ownerid:     AR-VGTC-LACNIC
+responsible: Sergio Horbik
+address:     paseo 113 entre avenidas 14 y 15, , 
+address:     7165 - Villa gesell - BA
+country:     AR
+phone:       +54 2255 463397 []
+owner-c:     SEH16
+tech-c:      RLP21
+abuse-c:     SEH16
+inetrev:     138.121.88/22
+nserver:     NS1.GESATEL.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NS2.GESATEL.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NS3.GESATEL.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+created:     20150904
+changed:     20160928
+
+nic-hdl:     RLP21
+person:      Rodrigo de la Palenque
+e-mail:      rdelapalenque@GESATEL.COM
+address:     PAseo 113 e/ Avenidas 14 y 15, S/Nro, 
+address:     7165 - Villa Gesell - BA
+country:     AR
+phone:       +54 2255 463397 [147]
+created:     20160920
+changed:     20160920
+
+nic-hdl:     SEH16
+person:      Sergio Horbik
+e-mail:      shorbik@GESATEL.COM
+address:     Paseo 113 entre avenidas 14 y 15, S/N, 
+address:     7165 - Villa Gesell - BA
+country:     AR
+phone:       +54 2255 463397 [193]
+created:     20150226
+changed:     20150309
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

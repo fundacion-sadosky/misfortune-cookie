@@ -1,0 +1,733 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 22:56:07 (BRST -02:00)
+
+inetnum:     186.33.0/18
+status:      allocated
+aut-num:     N/A
+owner:       IFX Networks Argentina S.R.L.
+ownerid:     AR-INAS-LACNIC
+responsible: Julian Parada
+address:     Av. Belgrano, 1586, Piso 11
+address:     C1093AAQ - Buenos Aires - 
+country:     AR
+phone:       +54 11 41042400 []
+owner-c:     AND9
+tech-c:      AND9
+abuse-c:     AND9
+inetrev:     186.33.0/24
+nserver:     NS0.IFXNETWORKS.COM  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NS1.IFXNETWORKS.COM  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NS0.IFXNETWORKS.CO  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NS1.IFXNETWORKS.CO  
+nsstat:      20170104 AA
+nslastaa:    20170104
+inetrev:     186.33.1/24
+nserver:     NS0.IFXNETWORKS.COM  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     NS1.IFXNETWORKS.COM  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     NS0.IFXNETWORKS.CO  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     NS1.IFXNETWORKS.CO  
+nsstat:      20170103 AA
+nslastaa:    20170103
+inetrev:     186.33.2/24
+nserver:     NS0.IFXNETWORKS.COM  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     NS1.IFXNETWORKS.COM  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     NS0.IFXNETWORKS.CO  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     NS1.IFXNETWORKS.CO  
+nsstat:      20170105 AA
+nslastaa:    20170105
+inetrev:     186.33.3/24
+nserver:     NS0.IFXNETWORKS.COM  
+nsstat:      20161231 AA
+nslastaa:    20161231
+nserver:     NS1.IFXNETWORKS.COM  
+nsstat:      20161231 AA
+nslastaa:    20161231
+nserver:     NS0.IFXNETWORKS.CO  
+nsstat:      20161231 AA
+nslastaa:    20161231
+nserver:     NS1.IFXNETWORKS.CO  
+nsstat:      20161231 AA
+nslastaa:    20161231
+inetrev:     186.33.4/24
+nserver:     NS0.IFXNETWORKS.COM  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     NS1.IFXNETWORKS.COM  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     NS0.IFXNETWORKS.CO  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     NS1.IFXNETWORKS.CO  
+nsstat:      20170103 AA
+nslastaa:    20170103
+inetrev:     186.33.5/24
+nserver:     NS0.IFXNETWORKS.COM  
+nsstat:      20170101 AA
+nslastaa:    20170101
+nserver:     NS1.IFXNETWORKS.COM  
+nsstat:      20170101 AA
+nslastaa:    20170101
+nserver:     NS0.IFXNETWORKS.CO  
+nsstat:      20170101 AA
+nslastaa:    20170101
+nserver:     NS1.IFXNETWORKS.CO  
+nsstat:      20170101 AA
+nslastaa:    20170101
+inetrev:     186.33.6/24
+nserver:     NS0.IFXNETWORKS.COM  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     NS1.IFXNETWORKS.COM  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     NS0.IFXNETWORKS.CO  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     NS1.IFXNETWORKS.CO  
+nsstat:      20170103 AA
+nslastaa:    20170103
+inetrev:     186.33.7/24
+nserver:     NS0.IFXNETWORKS.COM  
+nsstat:      20170102 AA
+nslastaa:    20170102
+nserver:     NS1.IFXNETWORKS.COM  
+nsstat:      20170102 AA
+nslastaa:    20170102
+nserver:     NS0.IFXNETWORKS.CO  
+nsstat:      20170102 AA
+nslastaa:    20170102
+nserver:     NS1.IFXNETWORKS.CO  
+nsstat:      20170102 AA
+nslastaa:    20170102
+inetrev:     186.33.8/24
+nserver:     NS0.IFXNETWORKS.COM  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NS1.IFXNETWORKS.COM  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NS0.IFXNETWORKS.CO  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NS1.IFXNETWORKS.CO  
+nsstat:      20170104 AA
+nslastaa:    20170104
+inetrev:     186.33.9/24
+nserver:     NS0.IFXNETWORKS.COM  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     NS1.IFXNETWORKS.COM  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     NS0.IFXNETWORKS.CO  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     NS1.IFXNETWORKS.CO  
+nsstat:      20170103 AA
+nslastaa:    20170103
+inetrev:     186.33.10/24
+nserver:     NS0.IFXNETWORKS.COM  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     NS1.IFXNETWORKS.COM  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     NS0.IFXNETWORKS.CO  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     NS1.IFXNETWORKS.CO  
+nsstat:      20170105 AA
+nslastaa:    20170105
+inetrev:     186.33.11/24
+nserver:     NS0.IFXNETWORKS.COM  
+nsstat:      20161231 AA
+nslastaa:    20161231
+nserver:     NS1.IFXNETWORKS.COM  
+nsstat:      20161231 AA
+nslastaa:    20161231
+nserver:     NS0.IFXNETWORKS.CO  
+nsstat:      20161231 AA
+nslastaa:    20161231
+nserver:     NS1.IFXNETWORKS.CO  
+nsstat:      20161231 AA
+nslastaa:    20161231
+inetrev:     186.33.12/24
+inetrev:     186.33.13/24
+inetrev:     186.33.14/24
+nserver:     NS0.IFXNETWORKS.COM  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     NS1.IFXNETWORKS.COM  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     NS0.IFXNETWORKS.CO  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     NS1.IFXNETWORKS.CO  
+nsstat:      20170103 AA
+nslastaa:    20170103
+inetrev:     186.33.15/24
+nserver:     NS0.IFXNETWORKS.COM  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NS1.IFXNETWORKS.COM  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NS0.IFXNETWORKS.CO  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NS1.IFXNETWORKS.CO  
+nsstat:      20170104 AA
+nslastaa:    20170104
+inetrev:     186.33.16/24
+nserver:     NS0.IFXNETWORKS.COM  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     NS1.IFXNETWORKS.COM  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     NS0.IFXNETWORKS.CO  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     NS1.IFXNETWORKS.CO  
+nsstat:      20170103 AA
+nslastaa:    20170103
+inetrev:     186.33.17/24
+nserver:     NS0.IFXNETWORKS.COM  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NS1.IFXNETWORKS.COM  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NS0.IFXNETWORKS.CO  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NS1.IFXNETWORKS.CO  
+nsstat:      20170104 AA
+nslastaa:    20170104
+inetrev:     186.33.18/24
+nserver:     NS0.IFXNETWORKS.COM  
+nsstat:      20170102 AA
+nslastaa:    20170102
+nserver:     NS1.IFXNETWORKS.COM  
+nsstat:      20170102 AA
+nslastaa:    20170102
+nserver:     NS0.IFXNETWORKS.CO  
+nsstat:      20170102 AA
+nslastaa:    20170102
+nserver:     NS1.IFXNETWORKS.CO  
+nsstat:      20170102 AA
+nslastaa:    20170102
+inetrev:     186.33.19/24
+inetrev:     186.33.20/24
+nserver:     NS0.IFXNETWORKS.COM  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NS1.IFXNETWORKS.COM  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NS0.IFXNETWORKS.CO  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NS1.IFXNETWORKS.CO  
+nsstat:      20170104 AA
+nslastaa:    20170104
+inetrev:     186.33.21/24
+inetrev:     186.33.22/24
+nserver:     NS0.IFXNETWORKS.COM  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     NS1.IFXNETWORKS.COM  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     NS0.IFXNETWORKS.CO  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     NS1.IFXNETWORKS.CO  
+nsstat:      20170105 AA
+nslastaa:    20170105
+inetrev:     186.33.23/24
+nserver:     NS0.IFXNETWORKS.COM  
+nsstat:      20170102 AA
+nslastaa:    20170102
+nserver:     NS1.IFXNETWORKS.COM  
+nsstat:      20170102 AA
+nslastaa:    20170102
+nserver:     NS0.IFXNETWORKS.CO  
+nsstat:      20170102 AA
+nslastaa:    20170102
+nserver:     NS1.IFXNETWORKS.CO  
+nsstat:      20170102 AA
+nslastaa:    20170102
+inetrev:     186.33.24/24
+nserver:     NS0.IFXNETWORKS.COM  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     NS1.IFXNETWORKS.COM  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     NS0.IFXNETWORKS.CO  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     NS1.IFXNETWORKS.CO  
+nsstat:      20170103 AA
+nslastaa:    20170103
+inetrev:     186.33.25/24
+nserver:     NS0.IFXNETWORKS.COM  
+nsstat:      20170102 AA
+nslastaa:    20170102
+nserver:     NS1.IFXNETWORKS.COM  
+nsstat:      20170102 AA
+nslastaa:    20170102
+nserver:     NS0.IFXNETWORKS.CO  
+nsstat:      20170102 AA
+nslastaa:    20170102
+nserver:     NS1.IFXNETWORKS.CO  
+nsstat:      20170102 AA
+nslastaa:    20170102
+inetrev:     186.33.26/24
+nserver:     NS0.IFXNETWORKS.COM  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     NS1.IFXNETWORKS.COM  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     NS0.IFXNETWORKS.CO  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     NS1.IFXNETWORKS.CO  
+nsstat:      20170105 AA
+nslastaa:    20170105
+inetrev:     186.33.27/24
+inetrev:     186.33.28/24
+nserver:     NS0.IFXNETWORKS.COM  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NS1.IFXNETWORKS.COM  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NS0.IFXNETWORKS.CO  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NS1.IFXNETWORKS.CO  
+nsstat:      20170104 AA
+nslastaa:    20170104
+inetrev:     186.33.29/24
+nserver:     NS0.IFXNETWORKS.COM  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     NS1.IFXNETWORKS.COM  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     NS0.IFXNETWORKS.CO  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     NS1.IFXNETWORKS.CO  
+nsstat:      20170105 AA
+nslastaa:    20170105
+inetrev:     186.33.30/24
+nserver:     NS0.IFXNETWORKS.COM  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     NS1.IFXNETWORKS.COM  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     NS0.IFXNETWORKS.CO  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     NS1.IFXNETWORKS.CO  
+nsstat:      20170103 AA
+nslastaa:    20170103
+inetrev:     186.33.31/24
+nserver:     NS0.IFXNETWORKS.COM  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NS1.IFXNETWORKS.COM  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NS0.IFXNETWORKS.CO  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NS1.IFXNETWORKS.CO  
+nsstat:      20170104 AA
+nslastaa:    20170104
+inetrev:     186.33.32/24
+nserver:     NS0.IFXNETWORKS.COM  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     NS1.IFXNETWORKS.COM  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     NS0.IFXNETWORKS.CO  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     NS1.IFXNETWORKS.CO  
+nsstat:      20170105 AA
+nslastaa:    20170105
+inetrev:     186.33.33/24
+nserver:     NS0.IFXNETWORKS.COM  
+nsstat:      20170102 AA
+nslastaa:    20170102
+nserver:     NS1.IFXNETWORKS.COM  
+nsstat:      20170102 AA
+nslastaa:    20170102
+nserver:     NS0.IFXNETWORKS.CO  
+nsstat:      20170102 AA
+nslastaa:    20170102
+nserver:     NS1.IFXNETWORKS.CO  
+nsstat:      20170102 AA
+nslastaa:    20170102
+inetrev:     186.33.34/24
+inetrev:     186.33.35/24
+nserver:     NS0.IFXNETWORKS.COM  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NS1.IFXNETWORKS.COM  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NS0.IFXNETWORKS.CO  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NS1.IFXNETWORKS.CO  
+nsstat:      20170104 AA
+nslastaa:    20170104
+inetrev:     186.33.36/24
+nserver:     NS0.IFXNETWORKS.COM  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     NS1.IFXNETWORKS.COM  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     NS0.IFXNETWORKS.CO  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     NS1.IFXNETWORKS.CO  
+nsstat:      20170105 AA
+nslastaa:    20170105
+inetrev:     186.33.37/24
+nserver:     NS0.IFXNETWORKS.COM  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     NS1.IFXNETWORKS.COM  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     NS0.IFXNETWORKS.CO  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     NS1.IFXNETWORKS.CO  
+nsstat:      20170103 AA
+nslastaa:    20170103
+inetrev:     186.33.38/24
+nserver:     NS0.IFXNETWORKS.COM  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     NS1.IFXNETWORKS.COM  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     NS0.IFXNETWORKS.CO  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     NS1.IFXNETWORKS.CO  
+nsstat:      20170105 AA
+nslastaa:    20170105
+inetrev:     186.33.39/24
+nserver:     NS0.IFXNETWORKS.COM  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NS1.IFXNETWORKS.COM  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NS0.IFXNETWORKS.CO  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NS1.IFXNETWORKS.CO  
+nsstat:      20170104 AA
+nslastaa:    20170104
+inetrev:     186.33.40/24
+nserver:     NS0.IFXNETWORKS.COM  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     NS1.IFXNETWORKS.COM  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     NS0.IFXNETWORKS.CO  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     NS1.IFXNETWORKS.CO  
+nsstat:      20170103 AA
+nslastaa:    20170103
+inetrev:     186.33.41/24
+inetrev:     186.33.42/24
+nserver:     NS0.IFXNETWORKS.COM  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     NS1.IFXNETWORKS.COM  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     NS0.IFXNETWORKS.CO  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     NS1.IFXNETWORKS.CO  
+nsstat:      20170105 AA
+nslastaa:    20170105
+inetrev:     186.33.43/24
+nserver:     NS0.IFXNETWORKS.COM  
+nsstat:      20170102 AA
+nslastaa:    20170102
+nserver:     NS1.IFXNETWORKS.COM  
+nsstat:      20170102 AA
+nslastaa:    20170102
+nserver:     NS0.IFXNETWORKS.CO  
+nsstat:      20170102 AA
+nslastaa:    20170102
+nserver:     NS1.IFXNETWORKS.CO  
+nsstat:      20170102 AA
+nslastaa:    20170102
+inetrev:     186.33.44/24
+nserver:     NS0.IFXNETWORKS.COM  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     NS1.IFXNETWORKS.COM  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     NS0.IFXNETWORKS.CO  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     NS1.IFXNETWORKS.CO  
+nsstat:      20170105 AA
+nslastaa:    20170105
+inetrev:     186.33.45/24
+nserver:     NS0.IFXNETWORKS.COM  
+nsstat:      20170102 AA
+nslastaa:    20170102
+nserver:     NS1.IFXNETWORKS.COM  
+nsstat:      20170102 AA
+nslastaa:    20170102
+nserver:     NS0.IFXNETWORKS.CO  
+nsstat:      20170102 AA
+nslastaa:    20170102
+nserver:     NS1.IFXNETWORKS.CO  
+nsstat:      20170102 AA
+nslastaa:    20170102
+inetrev:     186.33.46/24
+nserver:     NS0.IFXNETWORKS.COM  
+nsstat:      20170101 AA
+nslastaa:    20170101
+nserver:     NS1.IFXNETWORKS.COM  
+nsstat:      20170101 AA
+nslastaa:    20170101
+nserver:     NS0.IFXNETWORKS.CO  
+nsstat:      20170101 AA
+nslastaa:    20170101
+nserver:     NS1.IFXNETWORKS.CO  
+nsstat:      20170101 AA
+nslastaa:    20170101
+inetrev:     186.33.47/24
+inetrev:     186.33.48/24
+nserver:     NS0.IFXNETWORKS.COM  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     NS1.IFXNETWORKS.COM  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     NS0.IFXNETWORKS.CO  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     NS1.IFXNETWORKS.CO  
+nsstat:      20170105 AA
+nslastaa:    20170105
+inetrev:     186.33.49/24
+nserver:     NS0.IFXNETWORKS.COM  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     NS1.IFXNETWORKS.COM  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     NS0.IFXNETWORKS.CO  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     NS1.IFXNETWORKS.CO  
+nsstat:      20170103 AA
+nslastaa:    20170103
+inetrev:     186.33.50/24
+inetrev:     186.33.51/24
+nserver:     NS0.IFXNETWORKS.COM  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NS1.IFXNETWORKS.COM  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NS0.IFXNETWORKS.CO  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NS1.IFXNETWORKS.CO  
+nsstat:      20170104 AA
+nslastaa:    20170104
+inetrev:     186.33.52/24
+nserver:     NS0.IFXNETWORKS.COM  
+nsstat:      20170102 AA
+nslastaa:    20170102
+nserver:     NS1.IFXNETWORKS.COM  
+nsstat:      20170102 AA
+nslastaa:    20170102
+nserver:     NS0.IFXNETWORKS.CO  
+nsstat:      20170102 AA
+nslastaa:    20170102
+nserver:     NS1.IFXNETWORKS.CO  
+nsstat:      20170102 AA
+nslastaa:    20170102
+inetrev:     186.33.53/24
+inetrev:     186.33.54/24
+nserver:     NS0.IFXNETWORKS.COM  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     NS1.IFXNETWORKS.COM  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     NS0.IFXNETWORKS.CO  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     NS1.IFXNETWORKS.CO  
+nsstat:      20170103 AA
+nslastaa:    20170103
+inetrev:     186.33.55/24
+nserver:     NS0.IFXNETWORKS.COM  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NS1.IFXNETWORKS.COM  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NS0.IFXNETWORKS.CO  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NS1.IFXNETWORKS.CO  
+nsstat:      20170104 AA
+nslastaa:    20170104
+inetrev:     186.33.56/24
+nserver:     NS0.IFXNETWORKS.COM  
+nsstat:      20170102 AA
+nslastaa:    20170102
+nserver:     NS1.IFXNETWORKS.COM  
+nsstat:      20170102 AA
+nslastaa:    20170102
+nserver:     NS0.IFXNETWORKS.CO  
+nsstat:      20170102 AA
+nslastaa:    20170102
+nserver:     NS1.IFXNETWORKS.CO  
+nsstat:      20170102 AA
+nslastaa:    20170102
+inetrev:     186.33.57/24
+nserver:     NS0.IFXNETWORKS.COM  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NS1.IFXNETWORKS.COM  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NS0.IFXNETWORKS.CO  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NS1.IFXNETWORKS.CO  
+nsstat:      20170104 AA
+nslastaa:    20170104
+inetrev:     186.33.58/24
+nserver:     NS0.IFXNETWORKS.COM  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     NS1.IFXNETWORKS.COM  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     NS0.IFXNETWORKS.CO  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     NS1.IFXNETWORKS.CO  
+nsstat:      20170105 AA
+nslastaa:    20170105
+inetrev:     186.33.59/24
+nserver:     NS0.IFXNETWORKS.COM  
+nsstat:      20170102 AA
+nslastaa:    20170102
+nserver:     NS1.IFXNETWORKS.COM  
+nsstat:      20170102 AA
+nslastaa:    20170102
+nserver:     NS0.IFXNETWORKS.CO  
+nsstat:      20170102 AA
+nslastaa:    20170102
+nserver:     NS1.IFXNETWORKS.CO  
+nsstat:      20170102 AA
+nslastaa:    20170102
+inetrev:     186.33.60/24
+inetrev:     186.33.61/24
+nserver:     NS0.IFXNETWORKS.COM  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NS1.IFXNETWORKS.COM  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NS0.IFXNETWORKS.CO  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NS1.IFXNETWORKS.CO  
+nsstat:      20170104 AA
+nslastaa:    20170104
+inetrev:     186.33.62/24
+inetrev:     186.33.63/24
+nserver:     NS0.IFXNETWORKS.COM  
+nsstat:      20170101 AA
+nslastaa:    20170101
+nserver:     NS1.IFXNETWORKS.COM  
+nsstat:      20170101 AA
+nslastaa:    20170101
+nserver:     NS0.IFXNETWORKS.CO  
+nsstat:      20170101 AA
+nslastaa:    20170101
+nserver:     NS1.IFXNETWORKS.CO  
+nsstat:      20170101 AA
+nslastaa:    20170101
+created:     20111207
+changed:     20160607
+
+nic-hdl:     AND9
+person:      Andres Diaz
+e-mail:      soc@IFXCORP.COM
+address:     Av. Del Libertador, 498, Piso 26 Torre Prourban
+address:     CBAJ1480 - Buenos Aires - BA
+country:     AR
+phone:       +54 11 50312400 []
+created:     20111128
+changed:     20161214
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

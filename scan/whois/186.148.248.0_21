@@ -1,0 +1,52 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 23:11:28 (BRST -02:00)
+
+inetnum:     186.148.248/21
+status:      allocated
+aut-num:     N/A
+owner:       Young S.A.
+ownerid:     AR-YOSA-LACNIC
+responsible: Mario Fabian Pizzolo
+address:     Juncal, 4484, Piso Nº 5
+address:     1425 - Ciudad Autónoma de Buenos Aires - BA
+country:     AR
+phone:       +54 291 4560656 []
+owner-c:     ROA10
+tech-c:      ROA10
+abuse-c:     ROA10
+inetrev:     186.148.248/21
+nserver:     NS1.BVCONLINE.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NS2.BVCONLINE.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+created:     20110901
+changed:     20110901
+
+nic-hdl:     ROA10
+person:      Rostagno Adrian
+e-mail:      noc@BVCONLINE.COM.AR
+address:     San Martin, 279, 
+address:     8000 - Bahia Blanca - BA
+country:     AR
+phone:       +54 291 456 0656 []
+created:     20051130
+changed:     20051130
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

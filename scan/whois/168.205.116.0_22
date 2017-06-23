@@ -1,0 +1,45 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 21:28:11 (BRST -02:00)
+
+inetnum:     168.205.116/22
+status:      allocated
+aut-num:     N/A
+owner:       NETLABS SRL
+ownerid:     AR-NESR26-LACNIC
+responsible: Nicolas Fazio
+address:     Viamonte, 352, 
+address:     1053 - Buenos Aires - 
+country:     AR
+phone:       +54 11 51992266 []
+owner-c:     NIF13
+tech-c:      NIF13
+abuse-c:     NIF13
+created:     20160303
+changed:     20160303
+
+nic-hdl:     NIF13
+person:      Nicolas Fazio
+e-mail:      nicolasf@NETLABS.COM.AR
+address:     Viamonte, 352, 4to
+address:     1053 - C.A.B.A - BA
+country:     AR
+phone:       +54 11 51992266 []
+created:     20151223
+changed:     20151223
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

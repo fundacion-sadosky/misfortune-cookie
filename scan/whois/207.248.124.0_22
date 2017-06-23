@@ -1,0 +1,52 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-06 03:17:49 (BRST -02:00)
+
+inetnum:     207.248.124/22
+status:      allocated
+aut-num:     N/A
+owner:       Cable Televisora Color
+ownerid:     AR-CTCO1-LACNIC
+responsible: Pablo Eduardo Camardelli
+address:     Comandante Salas, 200, 
+address:     5600 - San Rafael - ME
+country:     AR
+phone:       +54 260 4403511 []
+owner-c:     PAC27
+tech-c:      PAC27
+abuse-c:     PAC27
+inetrev:     207.248.124/22
+nserver:     NS1.CTNETONLINE.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     NS2.CTNETONLINE.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+created:     20140522
+changed:     20140522
+
+nic-hdl:     PAC27
+person:      Pablo Camardelli
+e-mail:      pcamardelli@CABLETELEVISORACOLOR.COM
+address:     Comandate Salas, 200, 
+address:     5600 - San Rafael - Mz
+country:     AR
+phone:       +54 260 4436060 []
+created:     20120611
+changed:     20150430
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

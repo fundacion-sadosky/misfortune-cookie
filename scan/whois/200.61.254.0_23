@@ -1,0 +1,49 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-06 02:11:02 (BRST -02:00)
+
+inetnum:     200.61.254/23
+status:      assigned
+aut-num:     N/A
+owner:       NEURALSOFT S.R.L.
+ownerid:     AR-NESR9-LACNIC
+responsible: Gustavo Javier Cayetano Viceconti
+address:     Presidente Roca, 1626, 
+address:     2000 - Rosario - SF
+country:     AR
+phone:       +54 341 4090555 []
+owner-c:     TOC6
+tech-c:      TOC6
+abuse-c:     TOC6
+inetrev:     200.61.254/23
+nserver:     REVERSE.NEURALSOFT.COM  
+nsstat:      20161231 AA
+nslastaa:    20161231
+created:     20110913
+changed:     20110913
+
+nic-hdl:     TOC6
+person:      Tomas Cribb
+e-mail:      tomas.cribb@NEURALSOFT.COM
+address:     Pte. Roca, 1626, 
+address:     2000 - Rosario - SF
+country:     AR
+phone:       +54 341 4090555 []
+created:     20110430
+changed:     20110430
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

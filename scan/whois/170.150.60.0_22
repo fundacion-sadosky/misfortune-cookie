@@ -1,0 +1,45 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 21:49:26 (BRST -02:00)
+
+inetnum:     170.150.60/22
+status:      allocated
+aut-num:     N/A
+owner:       María Eugenia Spagnuolo
+ownerid:     AR-MESP-LACNIC
+responsible: Gustavo Wyszynski
+address:     Darwin, 160, 
+address:     8170 - Pigue - 
+country:     AR
+phone:       +54 2923 530596 []
+owner-c:     LUV16
+tech-c:      LUV16
+abuse-c:     LUV16
+created:     20160621
+changed:     20160621
+
+nic-hdl:     LUV16
+person:      Luciano Villoria
+e-mail:      luciano@AIRPOINT.COM.AR
+address:     Darwin, 160, 
+address:     8170 - Pigue - BA
+country:     AR
+phone:       +54 291 4227122 []
+created:     20160329
+changed:     20160329
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

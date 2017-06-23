@@ -1,0 +1,45 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 22:02:44 (BRST -02:00)
+
+inetnum:     170.239.180/22
+status:      allocated
+aut-num:     N/A
+owner:       Escobar Arnez Marcelino
+ownerid:     AR-EAMA-LACNIC
+responsible: Escobar Arnez Marcelino
+address:     Juan Pablo Primero, 908, 
+address:     1768 - buenos aires - 
+country:     AR
+phone:       +54 11 44621469 []
+owner-c:     MEA15
+tech-c:      MEA15
+abuse-c:     MEA15
+created:     20161107
+changed:     20161107
+
+nic-hdl:     MEA15
+person:      marcelino escobar arnez
+e-mail:      webcel067@GMAIL.COM
+address:     juan pablo 1, 908, 
+address:     1768 - madero - 
+country:     AR
+phone:       +549 011 44621469 [32619385]
+created:     20160919
+changed:     20160919
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

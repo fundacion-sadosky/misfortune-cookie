@@ -1,0 +1,45 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 20:31:01 (BRST -02:00)
+
+inetnum:     138.117.112/22
+status:      allocated
+aut-num:     N/A
+owner:       Coop Telefonica Villa Gesell Ltda
+ownerid:     AR-CTVG6-LACNIC
+responsible: Gallo Andres, agallo@cotel.com.ar
+address:     Paseo 113 y Av. 3, S/N, 
+address:     XXXX - Villa Gesell - BA
+country:     AR
+phone:       +54 2255 461600 [641]
+owner-c:     ANG3
+tech-c:      ANG3
+abuse-c:     ANG3
+created:     20150504
+changed:     20150504
+
+nic-hdl:     ANG3
+person:      Andres Gallo
+e-mail:      agallo@COTEL.COM.AR
+address:     Paseo 113 y Av. 3, sn, 
+address:     B7165 - Villa Gesell - BA
+country:     AR
+phone:       +54 2255 461600 [641]
+created:     20031114
+changed:     20031114
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

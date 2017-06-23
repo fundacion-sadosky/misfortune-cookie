@@ -1,0 +1,73 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-06 00:49:56 (BRST -02:00)
+
+inetnum:     190.211.88/22
+status:      allocated
+aut-num:     N/A
+owner:       Patagonia Green S.A.
+ownerid:     AR-PGSA2-LACNIC
+responsible: Jorge L. Antich
+address:     CENTRO COMERCIAL PASAJE 6, --, LOCAL 60
+address:     5570 - San Martin - MZ
+country:     AR
+phone:       +54 261 4138600 []
+owner-c:     PGS3
+tech-c:      PGS3
+abuse-c:     PGS3
+inetrev:     190.211.88/24
+nserver:     NS01.PATAGONIAGREEN.COM  
+nsstat:      20161231 AA
+nslastaa:    20161231
+nserver:     NS02.PATAGONIAGREEN.COM  
+nsstat:      20161231 AA
+nslastaa:    20161231
+inetrev:     190.211.89/24
+nserver:     NS02.PATAGONIAGREEN.COM  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     NS01.PATAGONIAGREEN.COM  
+nsstat:      20170103 AA
+nslastaa:    20170103
+inetrev:     190.211.90/24
+nserver:     NS02.PATAGONIAGREEN.COM  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NS01.PATAGONIAGREEN.COM  
+nsstat:      20170104 AA
+nslastaa:    20170104
+inetrev:     190.211.91/24
+nserver:     NS01.PATAGONIAGREEN.COM  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     NS02.PATAGONIAGREEN.COM  
+nsstat:      20170105 AA
+nslastaa:    20170105
+created:     20110922
+changed:     20110922
+
+nic-hdl:     PGS3
+person:      Patagonia Green SA
+e-mail:      soporte@PATAGONIAGREEN.COM
+address:     Centro Comercial Pasaje 6 Local 60, , San Martín
+address:     5570 - Mendoza - MZ
+country:     AR
+phone:       +54 261 4138600 []
+created:     20100223
+changed:     20131120
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

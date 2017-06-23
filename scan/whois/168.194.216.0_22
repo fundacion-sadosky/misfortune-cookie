@@ -1,0 +1,45 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 21:19:03 (BRST -02:00)
+
+inetnum:     168.194.216/22
+status:      allocated
+aut-num:     N/A
+owner:       Allocati Santiago Mario
+ownerid:     AR-ASMA4-LACNIC
+responsible: Allocati Santiago Mario
+address:     Av. marquez, 2521, 
+address:     1657 - Pablo Podestá - 
+country:     AR
+phone:       +54 11 60917878 []
+owner-c:     ASM53
+tech-c:      ASM53
+abuse-c:     ASM53
+created:     20160826
+changed:     20160826
+
+nic-hdl:     ASM53
+person:      ALLOCATI SANTIAGO MARIO
+e-mail:      ventas@IMPULSARINTERNET.COM.AR
+address:     Av. marquez Mz 78 C04, 2521, Pablo podesta
+address:     1657 - Loma Hermosa - Bu
+country:     AR
+phone:       +54 11 60917878 [2]
+created:     20160527
+changed:     20160527
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

@@ -1,0 +1,62 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 23:49:55 (BRST -02:00)
+
+inetnum:     190.93.192/20
+status:      allocated
+aut-num:     N/A
+owner:       Davitel S.A.
+ownerid:     AR-DASA33-LACNIC
+responsible: Mario Carranza
+address:     Avenida Argentina, 341, -
+address:     8300 - Neuquen - Nq
+country:     AR
+phone:       +54 299 4461088 []
+owner-c:     MAC38
+tech-c:      ROD32
+abuse-c:     ROD32
+inetrev:     190.93.192/20
+nserver:     NS1.NQNTV.COM.AR  [lame - not published]
+nsstat:      20170105 NOT SYNC ZONE
+nslastaa:    20151117
+nserver:     NS2.NQNTV.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+created:     20091119
+changed:     20140307
+
+nic-hdl:     MAC38
+person:      Mario Carranza
+e-mail:      mariocarranza@DAVITEL.COM.AR
+address:     Avenida Argentina, 341, 
+address:     8300 - Neuquen - NQ
+country:     AR
+phone:       +54 299 4262911 []
+created:     20080911
+changed:     20141015
+
+nic-hdl:     ROD32
+person:      Rodrigo Duran
+e-mail:      rduran@DAVITEL.COM.AR
+address:     Avenida Argentina, 341, 
+address:     8300 - Neuquen - NQ
+country:     AR
+phone:       +54 299 4461088 []
+created:     20140307
+changed:     20150720
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

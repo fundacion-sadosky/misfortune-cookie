@@ -1,0 +1,52 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 22:06:55 (BRST -02:00)
+
+inetnum:     179.0.11/24
+status:      assigned
+aut-num:     N/A
+owner:       IMPSA IND.METALUR.PESCARMONA SAICYF
+ownerid:     AR-IISA5-LACNIC
+responsible: ENRIQUE ARNUT
+address:     Carril Rodriguez Peña 2451, , 
+address:     5503 - Mendoza - 
+country:     AR
+phone:       +54 261 4131349 []
+owner-c:     ENA6
+tech-c:      ENA6
+abuse-c:     ENA6
+inetrev:     179.0.11/24
+nserver:     NS1.JAZWER.UY  
+nsstat:      20170104 UH
+nslastaa:    20161227
+nserver:     NS2.JAZWER.UY  
+nsstat:      20170104 UH
+nslastaa:    20161227
+created:     20130530
+changed:     20130530
+
+nic-hdl:     ENA6
+person:      ENRIQUE ARNUT
+e-mail:      it@IMPSA.COM
+address:     Carril Rodriguez Peña, 2451, San Francisco del Monte
+address:     M5503 - Godoy Cruz - MZ
+country:     AR
+phone:       +54 261 4131300 []
+created:     20130315
+changed:     20150417
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

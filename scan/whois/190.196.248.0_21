@@ -1,0 +1,52 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-06 00:46:46 (BRST -02:00)
+
+inetnum:     190.196.248/21
+status:      allocated
+aut-num:     N/A
+owner:       CIUDAD GLOBAL S.A.
+ownerid:     AR-CGSA8-LACNIC
+responsible: Mauro Bolognini
+address:     ING. LUIGGI, 87, 
+address:     B8000JUA - BAHIA BLANCA - BA
+country:     AR
+phone:       +054 0291 4558448 []
+owner-c:     CGS
+tech-c:      CGS
+abuse-c:     CGS
+inetrev:     190.196.248/21
+nserver:     NS1.CIUDADGLOBAL.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     NS2.CIUDADGLOBAL.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+created:     20130625
+changed:     20130625
+
+nic-hdl:     CGS
+person:      CIUDAD GLOBAL SA
+e-mail:      noc@CIUDADGLOBAL.COM.AR
+address:     ING. LUIGGI, 87, 
+address:     B8000JUA - Bahia Blanca - BA
+country:     AR
+phone:       +54 291 4558448 []
+created:     20050516
+changed:     20150515
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

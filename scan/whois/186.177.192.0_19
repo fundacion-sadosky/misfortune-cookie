@@ -1,0 +1,78 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 23:13:13 (BRST -02:00)
+
+inetnum:     186.177.192/19
+status:      allocated
+aut-num:     N/A
+owner:       Cooperativa Telefónica de Grand Bourg
+ownerid:     AR-CTGB-LACNIC
+responsible: CACERES EDUARDO
+address:     Av. El callao, 1331, -
+address:     - - Grand Bourg (Bs.As.) - 
+country:     AR
+phone:       +54 2320 483000 []
+owner-c:     ESC
+tech-c:      ESC
+abuse-c:     ESC
+inetrev:     186.177.192/24
+nserver:     NBCMFLOT.INTERBOURG.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+inetrev:     186.177.193/24
+nserver:     NBCMFLOT.INTERBOURG.COM.AR  
+nsstat:      20170104 NOT SYNC ZONE
+nslastaa:    20161225
+nserver:     DNS2.INTERBOURG.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+inetrev:     186.177.194/23
+nserver:     NBCMFLOT.INTERBOURG.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     DNS2.INTERBOURG.COM.AR  
+nsstat:      20170105 NOT SYNC ZONE
+nslastaa:    20170103
+inetrev:     186.177.196/22
+inetrev:     186.177.200/21
+nserver:     NBCMFLOT.INTERBOURG.COM.AR  
+nsstat:      20170104 NOT SYNC ZONE
+nslastaa:    20161225
+nserver:     DNS2.INTERBOURG.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+inetrev:     186.177.208/20
+nserver:     NBCMFLOT.INTERBOURG.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     DNS2.INTERBOURG.COM.AR  
+nsstat:      20170105 NOT SYNC ZONE
+nslastaa:    20170103
+created:     20131121
+changed:     20131121
+
+nic-hdl:     ESC
+person:      Eduardo S. Cáceres
+e-mail:      educaceres@INTERBOURG.COM.AR
+address:     El callao, 1331, 
+address:     1615 - grand bourg - 
+country:     AR
+phone:       +54 0232 483000 []
+created:     20051024
+changed:     20131009
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

@@ -1,0 +1,52 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 20:10:08 (BRST -02:00)
+
+inetnum:     131.72.204/22
+status:      allocated
+aut-num:     N/A
+owner:       Empresa Provincial de Energia de Cordoba
+ownerid:     AR-EPEC2-LACNIC
+responsible: Rodrigo Ruiz
+address:     Tablada, 350, 
+address:     X5000FEJ - Cordoba - CB
+country:     AR
+phone:       +54 351 4296000 []
+owner-c:     MAA34
+tech-c:      MAA34
+abuse-c:     MAA34
+inetrev:     131.72.204/22
+nserver:     DNSEA01.EPECTELCO.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     DNSEA02.EPECTELCO.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+created:     20140820
+changed:     20140820
+
+nic-hdl:     MAA34
+person:      Martín Aguilera
+e-mail:      maguilera@EPEC.COM.AR
+address:     Av. Richeri, 3850, B° Jardín
+address:     X5000FEJ - Córdoba - 
+country:     AR
+phone:       +0054 351 4296500 [6493]
+created:     20090126
+changed:     20110105
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

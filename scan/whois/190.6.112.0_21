@@ -1,0 +1,68 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 23:26:30 (BRST -02:00)
+
+inetnum:     190.6.112/21
+status:      allocated
+aut-num:     N/A
+owner:       Wiltel Comunicaciones SA
+ownerid:     AR-WCSA3-LACNIC
+responsible: Juan Pablo Albrecht
+address:     Av. Mitre, 442, 
+address:     2300 - Rafaela - 
+country:     AR
+phone:       +54 3492 501000 []
+owner-c:     JPA2
+tech-c:      JPA2
+abuse-c:     JPA2
+inetrev:     190.6.112/24
+inetrev:     190.6.113/24
+nserver:     DNS1.WILNET.COM.AR  
+nsstat:      20170102 AA
+nslastaa:    20170102
+nserver:     DNS2.WILNET.COM.AR  
+nsstat:      20170102 AA
+nslastaa:    20170102
+inetrev:     190.6.114/24
+inetrev:     190.6.115/24
+nserver:     DNS1.WILNET.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     DNS2.WILNET.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+inetrev:     190.6.116/22
+nserver:     DNS1.WILNET.COM.AR  
+nsstat:      20170101 AA
+nslastaa:    20170101
+nserver:     DNS2.WILNET.COM.AR  
+nsstat:      20170101 AA
+nslastaa:    20170101
+created:     20100428
+changed:     20100428
+
+nic-hdl:     JPA2
+person:      Juan Pablo Albrecht
+e-mail:      root@WILNET.COM.AR
+address:     Av. Mitre, 442, 
+address:     2300 - Rafaela - 
+country:     AR
+phone:       +54 3492 501000 []
+created:     20050822
+changed:     20100518
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

@@ -1,0 +1,45 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 20:30:19 (BRST -02:00)
+
+inetnum:     138.117.48/22
+status:      allocated
+aut-num:     N/A
+owner:       Quasar Informática S.A.
+ownerid:     AR-QISA-LACNIC
+responsible: Andres Eric Rahn
+address:     Emilio Frey, 568, 
+address:     8400 - San Carlos de Bariloche - RN
+country:     AR
+phone:       +54 294 4456767 []
+owner-c:     AER11
+tech-c:      AER11
+abuse-c:     AER11
+created:     20150423
+changed:     20150423
+
+nic-hdl:     AER11
+person:      Andres Eric Rahn
+e-mail:      andres@QUASARBARILOCHE.COM.AR
+address:     Frey, 568, 
+address:     8400 - San Carlos de Bariloche - Ri
+country:     AR
+phone:       +54 294 4524080 []
+created:     20150311
+changed:     20150312
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

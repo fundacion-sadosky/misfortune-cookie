@@ -1,0 +1,63 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 22:18:26 (BRST -02:00)
+
+inetnum:     179.60.168/21
+status:      allocated
+aut-num:     AS11014
+abuse-c:     ADG3
+owner:       RACKVM ARGENTINA
+ownerid:     AR-RAAR-LACNIC
+responsible: Nicolás Genen
+address:     AV. JOSE MARIA MORENO, 3B, 707, 
+address:     C1424AAH - Buenos Aires - BA
+country:     AR
+phone:       +54 11 49242812 []
+owner-c:     NAG5
+tech-c:      NAG5
+abuse-c:     NAG5
+inetrev:     179.60.168/21
+nserver:     NS1.NATDNS.NET  
+nsstat:      20170101 AA
+nslastaa:    20170101
+nserver:     NS2.NATDNS.NET  
+nsstat:      20170101 AA
+nslastaa:    20170101
+created:     20130916
+changed:     20130916
+
+nic-hdl:     ADG3
+person:      Adrian Gaido 1
+e-mail:      abuse@METROTEL.COM.AR
+address:     Tacuari, 351, P 1
+address:     1067 - Capital Federal - 
+country:     AR
+phone:       +54 11 60911030 []
+created:     20060908
+changed:     20121127
+
+nic-hdl:     NAG5
+person:      Nicolas Genen
+e-mail:      ngenen@EXISCONSULTING.COM.AR
+address:     Av Jose Maria Moreno, 707, 
+address:     C1424AAH - Ciudad Autonoma de Buenos Aires - CF
+country:     AR
+phone:       +54 911 36061489 []
+created:     20121016
+changed:     20161005
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

@@ -1,0 +1,45 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 20:25:26 (BRST -02:00)
+
+inetnum:     138.59.172/22
+status:      allocated
+aut-num:     N/A
+owner:       Mauro Daniel Fortini (2F INFORMATICA)
+ownerid:     AR-FFIN-LACNIC
+responsible: Mauro Fortini
+address:     SARMIENTO 436, , 
+address:     5870 - Villa Dolores - Co
+country:     AR
+phone:       +54 3544 15469883 []
+owner-c:     MAF179
+tech-c:      MAF179
+abuse-c:     MAF179
+created:     20150323
+changed:     20150323
+
+nic-hdl:     MAF179
+person:      Mauro Fortini
+e-mail:      mauro@2FINTERNET.COM
+address:     Sarmiento, 436, 
+address:     5870 - Villa Dolores - 
+country:     AR
+phone:       +54 3544 15469883 []
+created:     20150209
+changed:     20150225
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

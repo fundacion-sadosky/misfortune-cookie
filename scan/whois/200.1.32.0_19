@@ -1,0 +1,62 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-06 01:12:06 (BRST -02:00)
+
+inetnum:     200.1.32/19
+status:      assigned
+aut-num:     N/A
+owner:       Ministerio de Justicia de la Nacion Argentina
+ownerid:     AR-MJLN-LACNIC
+responsible: Eduardo A.Thill
+address:     Sarmiento, 329, 4to anexo
+address:     C1041AAG - Buenos Aires - 
+country:     AR
+phone:       +54 11 4328-4023 []
+owner-c:     DSA2
+tech-c:      DSA2
+abuse-c:     EDA9
+inetrev:     200.1.32/19
+nserver:     NS2.JUS.GOV.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     NS1.JUS.GOV.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+created:     19950410
+changed:     20090821
+
+nic-hdl:     DSA2
+person:      Diego Sebastian Alonso
+e-mail:      dalonso@JUS.GOV.AR
+address:     Sarmiento, 329, 4to anexo
+address:     C1041AAG - Buenos Aires - 
+country:     AR
+phone:       +54 11 53004010 []
+created:     20090821
+changed:     20120223
+
+nic-hdl:     EDA9
+person:      Eduardo A.Thill
+e-mail:      ethill@JUS.GOV.AR
+address:     Sarmiento, 329, 
+address:     C1041AAG - C.A.B.A. - BA
+country:     AR
+phone:       +54 11 4328-4023 []
+created:     20080528
+changed:     20080528
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

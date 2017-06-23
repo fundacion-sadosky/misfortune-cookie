@@ -1,0 +1,45 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 23:16:43 (BRST -02:00)
+
+inetnum:     186.190.128/19
+status:      allocated
+aut-num:     N/A
+owner:       TELESISTEMA S.R.L.
+ownerid:     AR-TESR8-LACNIC
+responsible: Juan Alberto Rodriguez
+address:     Hipolito Irigoyen, 1274, 
+address:     4600 - San Salvador - 
+country:     AR
+phone:       +11 0388 4235200 []
+owner-c:     JAR18
+tech-c:      JAR18
+abuse-c:     JAR18
+created:     20101130
+changed:     20101130
+
+nic-hdl:     JAR18
+person:      Juan Alberto Rodriguez
+e-mail:      juan@FIBERWAY.COM.AR
+address:     Sarmiento, 132, 
+address:     4600 - San Salvador de Jujuy - 
+country:     AR
+phone:       +54 0388 4248990 []
+created:     20100831
+changed:     20161103
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

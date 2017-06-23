@@ -1,0 +1,73 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-06 01:48:57 (BRST -02:00)
+
+inetnum:     200.26.184/21
+status:      allocated
+aut-num:     N/A
+owner:       Viafacil.com
+ownerid:     AR-VIAF-LACNIC
+responsible: Martin Zanlongo
+address:     Tte. Gral. JD. Perón, 1615, 6º "63"
+address:     C1037ACE - Buenos Aires - BA
+country:     AR
+phone:       +54 11 4383-9917 []
+owner-c:     MAZ
+tech-c:      MAZ
+abuse-c:     ABD2
+inetrev:     200.26.185/24
+nserver:     HADES.VISUALHOSTING.NET  [lame - not published]
+nsstat:      20170104 QREFUSED
+nslastaa:    20160308
+nserver:     AQUEOS.VISUALHOSTING.NET  
+nsstat:      20170104 AA
+nslastaa:    20170104
+inetrev:     200.26.187/24
+nserver:     NS1.MANAGERHARDWARE.COM  [lame - not published]
+nsstat:      20170104 UH
+nslastaa:    20160622
+nserver:     NS2.MANAGERHARDWARE.COM  [lame - not published]
+nsstat:      20170104 UH
+nslastaa:    20160622
+inetrev:     200.26.189/24
+nserver:     NSL14.VIAFACIL.COM  
+nsstat:      20170103 AA
+nslastaa:    20170103
+created:     20070117
+changed:     20090106
+
+nic-hdl:     ABD2
+person:      Abuse Desk
+e-mail:      abuse@VIAFACIL.COM
+address:     Tte. Gral. Peron, 1615, 6
+address:     1037 - CABA - 
+country:     AR
+phone:       +54 11 52393089 []
+created:     20090106
+changed:     20090106
+
+nic-hdl:     MAZ
+person:      Martin Zanlongo
+e-mail:      albamo.nic@GMAIL.COM
+address:     Tte. Gral. J.D. Peron., 1615, P6. Of. 63
+address:     C1037ACE - BA - 
+country:     AR
+phone:       +54 11 5031.3915 []
+created:     20031226
+changed:     20080801
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

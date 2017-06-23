@@ -1,0 +1,49 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 21:47:41 (BRST -02:00)
+
+inetnum:     170.84.232/22
+status:      allocated
+aut-num:     N/A
+owner:       PRIVATEL S.R.L.
+ownerid:     AR-PRSR24-LACNIC
+responsible: Nicolas Korten
+address:     Rivadavia, 571, 
+address:      - San Carlos de Bariloche - 
+country:     AR
+phone:       +54 294 4421793 []
+owner-c:     NIK10
+tech-c:      NIK10
+abuse-c:     NIK10
+inetrev:     170.84.232/22
+nserver:     PRIVATEL.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+created:     20160608
+changed:     20160608
+
+nic-hdl:     NIK10
+person:      Nicolas Korten
+e-mail:      nicolas.korten@PRIVATEL.COM.AR
+address:     Rivadavia, 571, 
+address:     8400 - San Carlos de Bariloche - RN
+country:     AR
+phone:       +54 294 4421793 []
+created:     20160511
+changed:     20160511
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

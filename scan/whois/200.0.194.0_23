@@ -1,0 +1,55 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-06 01:09:39 (BRST -02:00)
+
+inetnum:     200.0.194/23
+status:      allocated
+aut-num:     N/A
+owner:       IMPSAT FIBER NETWORKS INC
+ownerid:     AR-IMCO13-LACNIC
+responsible: Sebastian Arias
+address:     Elvira Rawson de Dellepiane, 150, Piso 8
+address:     C1107BCA - Buenos Aires - BA
+country:     AR
+phone:       +54 11 51700000 []
+owner-c:     NEA5
+tech-c:      NEA5
+abuse-c:     GCA2
+created:     19950817
+changed:     20100914
+
+nic-hdl:     GCA2
+person:      Global Crossing Abuse
+e-mail:      abuse@GBLX.NET
+address:     14605 S 50th St, , 
+address:     85044 - Phoenix - AZ
+country:     US
+phone:       +1 800 4047714 []
+created:     20100914
+changed:     20100914
+
+nic-hdl:     NEA5
+person:      Jorge Lam
+e-mail:      DL-NP&I-IP-Latam@LEVEL3.COM
+address:     Alferez Pareja, 256, 
+address:     1107 - Capital Federal - BA
+country:     AR
+phone:       +54 11 51706000 []
+created:     20030710
+changed:     20130423
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

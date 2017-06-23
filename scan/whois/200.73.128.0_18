@@ -1,0 +1,343 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-06 02:19:29 (BRST -02:00)
+
+inetnum:     200.73.128/18
+status:      allocated
+aut-num:     N/A
+owner:       SkyOnline de Argentina S.A.
+ownerid:     AR-SKSA-LACNIC
+responsible: Nicolas Martin Vuga
+address:     Av. Roque Saenz Pena, 1155, 
+address:     C1035AAG - Capital Federal - BA
+country:     AR
+phone:       +54 11 50935200 [5488]
+owner-c:     SNA
+tech-c:      SNA
+abuse-c:     SNA
+inetrev:     200.73.128/24
+nserver:     NS.NETIZEN.COM.AR  
+nsstat:      20170101 AA
+nslastaa:    20170101
+nserver:     NS1.NETIZEN.COM.AR  
+nsstat:      20170101 AA
+nslastaa:    20170101
+inetrev:     200.73.130/23
+nserver:     NS.NETIZEN.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NS1.NETIZEN.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+inetrev:     200.73.132/24
+nserver:     NS.NETIZEN.COM.AR  
+nsstat:      20170101 AA
+nslastaa:    20170101
+nserver:     NS1.NETIZEN.COM.AR  
+nsstat:      20170101 AA
+nslastaa:    20170101
+inetrev:     200.73.133/24
+inetrev:     200.73.134/23
+nserver:     NS.NETIZEN.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     NS1.NETIZEN.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+inetrev:     200.73.136/22
+nserver:     SERVER1.IPBUSINESS.NET.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     SERVER2.IPBUSINESS.NET.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+inetrev:     200.73.140/23
+nserver:     NS.NETIZEN.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NS1.NETIZEN.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+inetrev:     200.73.142/24
+inetrev:     200.73.143/24
+inetrev:     200.73.144/24
+nserver:     NS.NETIZEN.COM.AR  
+nsstat:      20170102 AA
+nslastaa:    20170102
+nserver:     NS1.NETIZEN.COM.AR  
+nsstat:      20170102 AA
+nslastaa:    20170102
+inetrev:     200.73.145/24
+nserver:     NS.NETIZEN.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NS1.NETIZEN.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+inetrev:     200.73.146/23
+nserver:     NS.NETIZEN.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     NS1.NETIZEN.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+inetrev:     200.73.148/24
+nserver:     NS.NETIZEN.COM.AR  
+nsstat:      20170102 AA
+nslastaa:    20170102
+nserver:     NS1.NETIZEN.COM.AR  
+nsstat:      20170102 AA
+nslastaa:    20170102
+inetrev:     200.73.149/24
+inetrev:     200.73.150/24
+nserver:     NS.NETIZEN.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     NS1.NETIZEN.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+inetrev:     200.73.151/24
+nserver:     NS.NETIZEN.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NS1.NETIZEN.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+inetrev:     200.73.152/24
+inetrev:     200.73.153/24
+nserver:     NS.NETIZEN.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     NS1.NETIZEN.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+inetrev:     200.73.154/24
+nserver:     NS.NETIZEN.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NS1.NETIZEN.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+inetrev:     200.73.155/24
+nserver:     NS.NETIZEN.COM.AR  
+nsstat:      20161231 AA
+nslastaa:    20161231
+nserver:     NS1.NETIZEN.COM.AR  
+nsstat:      20161231 AA
+nslastaa:    20161231
+inetrev:     200.73.156/24
+nserver:     NS.NETIZEN.COM.AR  
+nsstat:      20170102 AA
+nslastaa:    20170102
+nserver:     NS1.NETIZEN.COM.AR  
+nsstat:      20170102 AA
+nslastaa:    20170102
+inetrev:     200.73.157/24
+nserver:     NS.NETIZEN.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NS1.NETIZEN.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+inetrev:     200.73.158/24
+nserver:     NS.NETIZEN.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     NS1.NETIZEN.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+inetrev:     200.73.159/24
+nserver:     NS.NETIZEN.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NS1.NETIZEN.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+inetrev:     200.73.160/24
+nserver:     NS.NETIZEN.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     NS1.NETIZEN.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+inetrev:     200.73.161/24
+nserver:     NS.NETIZEN.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NS1.NETIZEN.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+inetrev:     200.73.162/24
+nserver:     NS.NETIZEN.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     NS1.NETIZEN.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+inetrev:     200.73.163/24
+nserver:     NS.NETIZEN.COM.AR  
+nsstat:      20170101 AA
+nslastaa:    20170101
+nserver:     NS1.NETIZEN.COM.AR  
+nsstat:      20170101 AA
+nslastaa:    20170101
+inetrev:     200.73.164/24
+inetrev:     200.73.165/24
+nserver:     NS.NETIZEN.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     NS1.NETIZEN.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+inetrev:     200.73.166/24
+nserver:     NS.NETIZEN.COM.AR  
+nsstat:      20170101 AA
+nslastaa:    20170101
+nserver:     NS1.NETIZEN.COM.AR  
+nsstat:      20170101 AA
+nslastaa:    20170101
+inetrev:     200.73.167/24
+inetrev:     200.73.168/24
+nserver:     NS.NETIZEN.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     NS1.NETIZEN.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+inetrev:     200.73.169/24
+nserver:     NS.NETIZEN.COM.AR  
+nsstat:      20170101 AA
+nslastaa:    20170101
+nserver:     NS1.NETIZEN.COM.AR  
+nsstat:      20170101 AA
+nslastaa:    20170101
+inetrev:     200.73.170/24
+nserver:     NS.NETIZEN.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     NS1.NETIZEN.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+inetrev:     200.73.171/24
+nserver:     NS.NETIZEN.COM.AR  
+nsstat:      20170102 AA
+nslastaa:    20170102
+nserver:     NS1.NETIZEN.COM.AR  
+nsstat:      20170102 AA
+nslastaa:    20170102
+inetrev:     200.73.172/24
+nserver:     NS.NETIZEN.COM.AR  
+nsstat:      20170101 AA
+nslastaa:    20170101
+nserver:     NS1.NETIZEN.COM.AR  
+nsstat:      20170101 AA
+nslastaa:    20170101
+inetrev:     200.73.173/24
+nserver:     NS.NETIZEN.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     NS1.NETIZEN.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+inetrev:     200.73.174/24
+nserver:     NS.NETIZEN.COM.AR  
+nsstat:      20170102 AA
+nslastaa:    20170102
+nserver:     NS1.NETIZEN.COM.AR  
+nsstat:      20170102 AA
+nslastaa:    20170102
+inetrev:     200.73.175/24
+nserver:     NS.NETIZEN.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NS1.NETIZEN.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+inetrev:     200.73.176/24
+nserver:     NS.NETIZEN.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     NS1.NETIZEN.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+inetrev:     200.73.177/24
+inetrev:     200.73.178/24
+nserver:     NS.NETIZEN.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     NS1.NETIZEN.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+inetrev:     200.73.179/24
+inetrev:     200.73.180/24
+nserver:     NS.NETIZEN.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     NS1.NETIZEN.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+inetrev:     200.73.181/24
+inetrev:     200.73.182/24
+inetrev:     200.73.183/24
+nserver:     NS.NETIZEN.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NS1.NETIZEN.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+inetrev:     200.73.184/23
+nserver:     NS.NETIZEN.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     NS1.NETIZEN.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+inetrev:     200.73.187/24
+nserver:     NS.NETIZEN.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     NS1.NETIZEN.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+inetrev:     200.73.189/24
+nserver:     NS.NETIZEN.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NS1.NETIZEN.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+inetrev:     200.73.190/23
+nserver:     NS.NETIZEN.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     NS1.NETIZEN.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+created:     20010710
+changed:     20040701
+
+nic-hdl:     SNA
+person:      SkyOnline Network Administration
+e-mail:      ipadmin@SKYONLINE.NET.AR
+address:     Av. Roque Saenz Peña, 1155, 2º Piso
+address:     C1035AAG - Buenos Aires - 
+country:     AR
+phone:       +54 11 50935200 [5488]
+created:     20040310
+changed:     20111228
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

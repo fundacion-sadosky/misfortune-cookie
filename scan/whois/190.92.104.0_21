@@ -1,0 +1,52 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 23:47:49 (BRST -02:00)
+
+inetnum:     190.92.104/21
+status:      allocated
+aut-num:     N/A
+owner:       RELTID CV S.A.
+ownerid:     AR-RCSA13-LACNIC
+responsible: Claudio M. Bottini
+address:     Colon, 845, 
+address:     7530 - Coronel Pringles - BA
+country:     AR
+phone:       +54 2922 465050 []
+owner-c:     CMB4
+tech-c:      CMB4
+abuse-c:     CMB4
+inetrev:     190.92.104/21
+nserver:     DNS1.RELTID.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     DNS2.RELTID.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+created:     20120918
+changed:     20120918
+
+nic-hdl:     CMB4
+person:      Claudio M. Bottini
+e-mail:      dominios@PRINGLES.COM.AR
+address:     Colon, 845, 
+address:     7530 - Coronel Pringles - BA
+country:     AR
+phone:       +054 2922 465050 []
+created:     20100630
+changed:     20100630
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

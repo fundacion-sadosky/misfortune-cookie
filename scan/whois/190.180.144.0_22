@@ -1,0 +1,73 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-06 00:38:44 (BRST -02:00)
+
+inetnum:     190.180.144/22
+status:      allocated
+aut-num:     N/A
+owner:       Interdotnet Argentina S.A.
+ownerid:     AR-IASA5-LACNIC
+responsible: Enzo Fusaro
+address:     Maipú, 24, -
+address:     1084 - Capital Federal - 
+country:     AR
+phone:       +54 11 6328-1500 []
+owner-c:     RUB2
+tech-c:      RUB2
+abuse-c:     RUB2
+inetrev:     190.180.144/24
+nserver:     DNS1.LC-2.LA.INTER.NET  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     DNS1.LC-3.LA.INTER.NET  [lame - not published]
+nsstat:      20170104 UH
+nslastaa:    20130730
+inetrev:     190.180.145/24
+nserver:     DNS1.LC-2.LA.INTER.NET  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     DNS1.LC-3.LA.INTER.NET  [lame - not published]
+nsstat:      20170103 UH
+nslastaa:    20130728
+inetrev:     190.180.146/24
+nserver:     DNS1.LC-2.LA.INTER.NET  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     DNS1.LC-3.LA.INTER.NET  [lame - not published]
+nsstat:      20170105 UH
+nslastaa:    20130730
+inetrev:     190.180.147/24
+nserver:     DNS1.LC-2.LA.INTER.NET  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     DNS1.LC-3.LA.INTER.NET  [lame - not published]
+nsstat:      20170105 UH
+nslastaa:    20130728
+created:     20101012
+changed:     20101012
+
+nic-hdl:     RUB2
+person:      Juan Jose Sarasola
+e-mail:      lacnic@AR.INTER.NET
+address:     Maipu, 24, 
+address:     C1084ABB - Capital Federal - BA
+country:     AR
+phone:       +54 11 63281500 []
+created:     20030428
+changed:     20160512
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

@@ -1,0 +1,45 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 21:21:29 (BRST -02:00)
+
+inetnum:     168.195.184/22
+status:      allocated
+aut-num:     N/A
+owner:       ERGON CABLE S.R.L
+ownerid:     AR-ECSR3-LACNIC
+responsible: Yanina Ileana Martinez
+address:     SARMIENTO, 346, 
+address:      - CHACO - 
+country:     AR
+phone:       +054 3722 15601825 []
+owner-c:     YAM7
+tech-c:      YAM7
+abuse-c:     YAM7
+created:     20160829
+changed:     20160829
+
+nic-hdl:     YAM7
+person:      yanina martinez
+e-mail:      yanina@ERGONCABLE.COM.AR
+address:     sarmiento, 350, 
+address:     3703 - tres isletas - ch
+country:     AR
+phone:       +54 0364 4461001 []
+created:     20160520
+changed:     20160614
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

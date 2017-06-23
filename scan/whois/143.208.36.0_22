@@ -1,0 +1,45 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 20:59:12 (BRST -02:00)
+
+inetnum:     143.208.36/22
+status:      allocated
+aut-num:     N/A
+owner:       SANTA CRUZ AUGUSTO JULIAN (SONYTEL)
+ownerid:     AR-SCAJ-LACNIC
+responsible: Augusto Julian Santa Cruz
+address:     CALLE 56, 689, 
+address:      - La Plata - 
+country:     AR
+phone:       +54 221 4414000 []
+owner-c:     SCJ5
+tech-c:      SCJ5
+abuse-c:     SCJ5
+created:     20151023
+changed:     20151023
+
+nic-hdl:     SCJ5
+person:      Santa Cruz Augusto Julian
+e-mail:      jsantacruz@SONYTEL.COM.AR
+address:     calle 56, 689, -
+address:     1900 - La Plata - BA
+country:     AR
+phone:       +54 221 4414000 [6900]
+created:     20150916
+changed:     20150916
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

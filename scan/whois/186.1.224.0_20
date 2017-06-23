@@ -1,0 +1,88 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 22:50:32 (BRST -02:00)
+
+inetnum:     186.1.224/20
+status:      allocated
+aut-num:     N/A
+owner:       NORTECH
+ownerid:     AR-NORT2-LACNIC
+responsible: Leandro Piccini
+address:     Av mosconi, 2925, OF 4
+address:     1419 - Buenos Aires - CF
+country:     AR
+phone:       +54 11 66329000 []
+owner-c:     LEP8
+tech-c:      LEP8
+abuse-c:     LEP8
+inetrev:     186.1.226/24
+nserver:     NS1.NORTECH.COM.AR  
+nsstat:      20161231 AA
+nslastaa:    20161231
+nserver:     NS2.NORTECH.COM.AR  
+nsstat:      20161231 AA
+nslastaa:    20161231
+inetrev:     186.1.227/24
+nserver:     NS1.NORTECH.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     NS2.NORTECH.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+inetrev:     186.1.228/22
+nserver:     NS1.NORTECH.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     NS2.NORTECH.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+inetrev:     186.1.232/23
+inetrev:     186.1.236/24
+nserver:     NS1.NORTECH.COM.AR  
+nsstat:      20170102 AA
+nslastaa:    20170102
+nserver:     NS2.NORTECH.COM.AR  
+nsstat:      20170102 AA
+nslastaa:    20170102
+inetrev:     186.1.237/24
+nserver:     NS1.NORTECH.COM.AR  
+nsstat:      20170101 AA
+nslastaa:    20170101
+nserver:     NS2.NORTECH.COM.AR  
+nsstat:      20170101 AA
+nslastaa:    20170101
+inetrev:     186.1.238/23
+nserver:     NS1.NORTECH.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     NS2.NORTECH.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+created:     20100831
+changed:     20100924
+
+nic-hdl:     LEP8
+person:      Leandro Piccini
+e-mail:      lpiccini@NORTECH.COM.AR
+address:     Mosconi, 2925, 3
+address:     1419 - Buenos Aires - BS
+country:     AR
+phone:       +54 11 4574 [1942]
+created:     20100610
+changed:     20110928
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

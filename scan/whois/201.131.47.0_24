@@ -1,0 +1,52 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-06 02:58:30 (BRST -02:00)
+
+inetnum:     201.131.47/24
+status:      assigned
+aut-num:     N/A
+owner:       Asociación Civil de Estudios Superiores
+ownerid:     AR-ACES2-LACNIC
+responsible: Diego Ezequiel Beola
+address:     Mariano Acosta s/n y Ruta Nacional 8 0 Pilar AR, , Buenos Aires
+address:     B1629WWA - Pilar - BA
+country:     AR
+phone:       +54 4 4481133 []
+owner-c:     DIB17
+tech-c:      DIB17
+abuse-c:     DIB17
+inetrev:     201.131.47/24
+nserver:     DNS1.IAE.EDU.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     DNS2.IAE.EDU.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+created:     20141117
+changed:     20141117
+
+nic-hdl:     DIB17
+person:      Diego Beola
+e-mail:      dbeola@IAE.EDU.AR
+address:     Mariano Acosta y Ruta Nacional 8, s/n, 
+address:     B1629WWA - Pilar - BA
+country:     AR
+phone:       +54 230 4481133 []
+created:     20140519
+changed:     20140519
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

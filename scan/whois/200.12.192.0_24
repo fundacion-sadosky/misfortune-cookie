@@ -1,0 +1,55 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-06 01:37:01 (BRST -02:00)
+
+inetnum:     200.12.192/24
+status:      assigned
+aut-num:     N/A
+owner:       Gobierno de Santa Fe
+ownerid:     AR-GSFE-LACNIC
+responsible: Juan Moragues
+address:     San Martin, 2466, 
+address:     S3000FSB - Santa Fe - 
+country:     AR
+phone:       +54 342 4574887 [5119]
+owner-c:     JUM12
+tech-c:      JUM12
+abuse-c:     JUM12
+inetrev:     200.12.192/24
+nserver:     NS1.SANTAFE.GOV.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     NS2.SANTAFE.GOV.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     NS3.SANTAFE.GOV.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+created:     20100902
+changed:     20100902
+
+nic-hdl:     JUM12
+person:      Juan Moragues
+e-mail:      jmoragues@SANTAFE.GOV.AR
+address:     San Martin, 2466, 
+address:     3000 - Santa Fe - 
+country:     AR
+phone:       +54 342 4574887 [5119]
+created:     20100121
+changed:     20120420
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

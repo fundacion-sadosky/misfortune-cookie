@@ -1,0 +1,52 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-06 01:25:26 (BRST -02:00)
+
+inetnum:     200.9.227/24
+status:      assigned
+aut-num:     N/A
+owner:       Neoris Argentina S.A
+ownerid:     AR-NASA9-LACNIC
+responsible: Sebastian Manzanares
+address:     Dorrego, 1042, 
+address:     S2000DHV - Rosario - SF
+country:     AR
+phone:       +54 341 5127400 [7433]
+owner-c:     MAL18
+tech-c:      MAL18
+abuse-c:     MAL18
+inetrev:     200.9.227/24
+nserver:     NS2.AR.NEORIS.COM  [lame - not published]
+nsstat:      20170105 CNAME
+nslastaa:    20160306
+nserver:     NS1.NEORIS.COM  
+nsstat:      20170105 AA
+nslastaa:    20170105
+created:     20070531
+changed:     20070531
+
+nic-hdl:     MAL18
+person:      Sebastian Manzanares
+e-mail:      sebastian.manzanares@AR.NEORIS.COM
+address:     Av. Madres de Plaza 25 de Mayo, 3020, piso 4
+address:     S2013SWJ - Rosario - SF
+country:     AR
+phone:       +54 341 5127400 [7407]
+created:     20070125
+changed:     20130618
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

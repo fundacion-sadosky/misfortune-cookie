@@ -1,0 +1,204 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-06 02:21:40 (BRST -02:00)
+
+inetnum:     200.80.192/19
+status:      allocated
+aut-num:     N/A
+owner:       Techtel LMDS Comunicaciones Interactivas S.A.
+ownerid:     AR-TLCI-LACNIC
+responsible: Administrador de Direcciones IP - CLARO
+address:     Garay, 34, 
+address:     C1063AB - Buenos Aires - 
+country:     AR
+phone:       +54 11 4000-3000 [3270]
+owner-c:     JPL3
+tech-c:      JPL3
+abuse-c:     JPL3
+inetrev:     200.80.192/24
+nserver:     NS1.TELMEX.NET.AR  
+nsstat:      20170101 AA
+nslastaa:    20170101
+nserver:     NS2.TELMEX.NET.AR  
+nsstat:      20170101 AA
+nslastaa:    20170101
+inetrev:     200.80.193/24
+nserver:     NS1.TELMEX.NET.AR  
+nsstat:      20170105 TIMEOUT
+nslastaa:    20170102
+nserver:     NS2.TELMEX.NET.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+inetrev:     200.80.194/23
+inetrev:     200.80.196/24
+nserver:     NS1.TELMEX.NET.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     NS2.TELMEX.NET.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+inetrev:     200.80.197/24
+nserver:     NS1.TECHTEL.COM.AR  
+nsstat:      20170102 AA
+nslastaa:    20170102
+nserver:     NS2.TECHTEL.COM.AR  
+nsstat:      20170102 AA
+nslastaa:    20170102
+inetrev:     200.80.198/23
+nserver:     NS1.TECHTEL.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     NS2.TECHTEL.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+inetrev:     200.80.200/24
+nserver:     NS1.TECHTEL.COM.AR  
+nsstat:      20170102 AA
+nslastaa:    20170102
+nserver:     NS2.TECHTEL.COM.AR  
+nsstat:      20170102 AA
+nslastaa:    20170102
+inetrev:     200.80.201/24
+nserver:     NS1.TECHTEL.COM.AR  
+nsstat:      20170105 TIMEOUT
+nslastaa:    20161231
+nserver:     NS2.TECHTEL.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+inetrev:     200.80.202/23
+inetrev:     200.80.204/24
+nserver:     NS1.TECHTEL.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NS2.TECHTEL.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+inetrev:     200.80.205/24
+nserver:     NS1.TGN.COM.AR  [lame - not published]
+nsstat:      20170104 FAIL
+nslastaa:    20111230
+nserver:     NS2.TGN.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+inetrev:     200.80.206/24
+nserver:     NS1.TELMEX.NET.AR  
+nsstat:      20170105 TIMEOUT
+nslastaa:    20170101
+nserver:     NS2.TELMEX.NET.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+inetrev:     200.80.208/24
+nserver:     NS1.TELMEX.NET.AR  
+nsstat:      20170105 TIMEOUT
+nslastaa:    20170102
+nserver:     NS2.TELMEX.NET.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+inetrev:     200.80.210/24
+nserver:     NS1.TECHTEL.COM.AR  
+nsstat:      20170101 AA
+nslastaa:    20170101
+nserver:     NS2.TECHTEL.COM.AR  
+nsstat:      20170101 AA
+nslastaa:    20170101
+inetrev:     200.80.211/24
+nserver:     NS1.TECHTEL.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     NS2.TECHTEL.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+inetrev:     200.80.213/24
+nserver:     NS1.TECHTEL.COM.AR  
+nsstat:      20170105 TIMEOUT
+nslastaa:    20170102
+nserver:     NS2.TECHTEL.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+inetrev:     200.80.214/24
+nserver:     NS1.TECHTEL.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NS2.TECHTEL.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+inetrev:     200.80.215/24
+nserver:     NS1.TECHTEL.COM.AR  
+nsstat:      20170105 TIMEOUT
+nslastaa:    20161231
+nserver:     NS2.TECHTEL.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+inetrev:     200.80.216/24
+nserver:     NS1.TECHTEL.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NS2.TECHTEL.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+inetrev:     200.80.217/24
+nserver:     NS2.KPMG.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     NS1.GO.KPMG.COM  [lame - not published]
+nsstat:      20170105 FAIL
+nslastaa:    20160128
+nserver:     NS2.GO.KPMG.COM  [lame - not published]
+nsstat:      20170105 FAIL
+nslastaa:    20131115
+inetrev:     200.80.218/24
+nserver:     NS1.TECHTEL.COM.AR  
+nsstat:      20170101 AA
+nslastaa:    20170101
+nserver:     NS2.TECHTEL.COM.AR  
+nsstat:      20170101 AA
+nslastaa:    20170101
+inetrev:     200.80.219/24
+nserver:     NS1.TECHTEL.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     NS2.TECHTEL.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+inetrev:     200.80.220/24
+nserver:     NS1.TELMEX.NET.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NS2.TELMEX.NET.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+inetrev:     200.80.223/24
+nserver:     NS1.TECHTEL.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     NS2.TECHTEL.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+created:     20010823
+changed:     20061215
+
+nic-hdl:     JPL3
+person:      Administración Direcciones IP
+e-mail:      ipaddressing.ar@CLARO.COM.AR
+address:     Av. Juan de Garay, 34, 
+address:     C1063ABN - Buenos Aires - 
+country:     AR
+phone:       +54 11 4000 [3000]
+created:     20061121
+changed:     20150218
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

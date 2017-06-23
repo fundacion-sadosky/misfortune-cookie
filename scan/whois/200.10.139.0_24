@@ -1,0 +1,52 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-06 01:29:59 (BRST -02:00)
+
+inetnum:     200.10.139/24
+status:      assigned
+aut-num:     N/A
+owner:       Get Info
+ownerid:     AR-GEIN1-LACNIC
+responsible: Pablo Fritz
+address:     Jose Cubas, 2555, 
+address:     1419 - CABA - DF
+country:     AR
+phone:       +54 11 61889802 []
+owner-c:     PAF7
+tech-c:      PAF7
+abuse-c:     PAF7
+inetrev:     200.10.139/24
+nserver:     NS1.FRITZWARE.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     NS2.FRITZWARE.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+created:     19940315
+changed:     20160119
+
+nic-hdl:     PAF7
+person:      Pablo Fritz
+e-mail:      pfritz-lacnic-061030@FRITZWARE.COM.AR
+address:     Jose Cubas, 2555, 
+address:     1419 - CABA - 
+country:     AR
+phone:       +54 911 61889802 []
+created:     20061030
+changed:     20160119
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

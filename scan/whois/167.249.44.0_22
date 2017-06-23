@@ -1,0 +1,45 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 21:04:47 (BRST -02:00)
+
+inetnum:     167.249.44/22
+status:      allocated
+aut-num:     N/A
+owner:       I-SUR WISP S.R.L.
+ownerid:     AR-FAPU-LACNIC
+responsible: Fernando Andres Pugelj
+address:     San Martin, 1625, 
+address:     1838 - Luis Guillon - 
+country:     AR
+phone:       +54 011 42817634 []
+owner-c:     FEP12
+tech-c:      FEP12
+abuse-c:     FEP12
+created:     20151209
+changed:     20151209
+
+nic-hdl:     FEP12
+person:      I-Sur Wisp S.R.L.
+e-mail:      fernandopugelj@I-SUR.COM.AR
+address:     San Martin, 1625, -
+address:     1838 - Luis Guillon - BA
+country:     AR
+phone:       +54 011 59171733 []
+created:     20120828
+changed:     20160714
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

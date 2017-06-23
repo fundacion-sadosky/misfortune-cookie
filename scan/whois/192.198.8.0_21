@@ -1,0 +1,45 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-06 01:02:59 (BRST -02:00)
+
+inetnum:     192.198.8/21
+status:      allocated
+aut-num:     N/A
+owner:       KNET SRL
+ownerid:     AR-KNET1-LACNIC
+responsible: FRANCISCO ANDRES GARBARINO
+address:     CORTADA FALUCHO, 2159, P.B
+address:      - Casilda (Santa Fe) - SF
+country:     AR
+phone:       +54 3464 426868 []
+owner-c:     FAG32
+tech-c:      FAG32
+abuse-c:     FAG32
+created:     20140509
+changed:     20140509
+
+nic-hdl:     FAG32
+person:      FRANCISCO ANDRES GARBARINO
+e-mail:      FRANCISCOAGARBARINO@KNETT.COM.AR
+address:     ESPAÑA, 2041, 
+address:     2170 - CASILDA - SF
+country:     AR
+phone:       +54 0346 426868 []
+created:     20130806
+changed:     20140722
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

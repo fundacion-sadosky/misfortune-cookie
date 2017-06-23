@@ -1,0 +1,52 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-06 01:52:06 (BRST -02:00)
+
+inetnum:     200.32.128/19
+status:      allocated
+aut-num:     N/A
+owner:       STARTEL S.A.
+ownerid:     AR-STSA1-LACNIC
+responsible: ip master
+address:     Alem, 628, piso9
+address:     1001 - buenos aires - 
+country:     AR
+phone:       +54 11 4433 [4117]
+owner-c:     MAC5
+tech-c:      MAC5
+abuse-c:     MAC5
+inetrev:     200.32.128/19
+nserver:     NS1.STARNET.NET.AR  [lame - not published]
+nsstat:      20170103 UH
+nslastaa:    20020830
+nserver:     NS2.STARNET.NET.AR  [lame - not published]
+nsstat:      20170103 UH
+nslastaa:    20020830
+created:     19960313
+changed:     20010622
+
+nic-hdl:     MAC5
+person:      mario caro
+e-mail:      mcaro@STARTEL.COM.AR
+address:     corriente, 700, piso 8
+address:     1043 - buenos aires - 
+country:     AR
+phone:       +54 11 4433 [4447]
+created:     20031021
+changed:     20031021
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

@@ -1,0 +1,52 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-06 02:30:48 (BRST -02:00)
+
+inetnum:     200.91.32/21
+status:      allocated
+aut-num:     N/A
+owner:       Internet Para Todos - Gobierno de La Rioja
+ownerid:     AR-IPTG-LACNIC
+responsible: Javier Cobresi
+address:     Av. Facundo Quiroga, 947, 
+address:     5300 - La Rioja - 
+country:     AR
+phone:       +54 3822 15660919 []
+owner-c:     GJW
+tech-c:      GJW
+abuse-c:     GJW
+inetrev:     200.91.32/21
+nserver:     DNS1.IPARATODOS.COM.AR  [lame - not published]
+nsstat:      20170104 FAIL
+nslastaa:    20150809
+nserver:     DNS2.IPARATODOS.COM.AR  [lame - not published]
+nsstat:      20170104 FAIL
+nslastaa:    20150801
+created:     20081209
+changed:     20081209
+
+nic-hdl:     GJW
+person:      Gaitan Jose Walter
+e-mail:      joseg@IPARATODOS.COM.AR
+address:     Calle Mayas, Barrio Juan F. Quiroga, 40, 
+address:     5300 - La Rioja - 
+country:     AR
+phone:       +54 3822 423146 []
+created:     20080908
+changed:     20150305
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

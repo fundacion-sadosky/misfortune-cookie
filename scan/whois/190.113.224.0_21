@@ -1,0 +1,53 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-06 00:18:21 (BRST -02:00)
+
+inetnum:     190.113.224/21
+status:      allocated
+aut-num:     AS262216
+abuse-c:     URP2
+owner:       TELCONET S A
+ownerid:     AR-TSAT2-LACNIC
+responsible: Benjamín Haymes.
+address:     MAIPU, 267, Piso 10
+address:     C1084ABE - CIUDAD AUTONOMA BUENOS AIRES - AR
+country:     AR
+phone:       +54 11 43287800 [107]
+owner-c:     URP2
+tech-c:      URP2
+abuse-c:     URP2
+inetrev:     190.113.224/21
+nserver:     NS1.EQUAL.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     NS2.EQUAL.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+created:     20120723
+changed:     20120723
+
+nic-hdl:     URP2
+person:      URIEL PALATNIK
+e-mail:      UPALATNIK@EQUAL.COM.AR
+address:     MAIPU, 267, PISO 10
+address:     C1084ABE - CAPITAL FEDERAL - BA
+country:     AR
+phone:       +54 11 43287800 [107]
+created:     20110720
+changed:     20170103
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

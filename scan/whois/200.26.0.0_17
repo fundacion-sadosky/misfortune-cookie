@@ -1,0 +1,464 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-06 01:48:36 (BRST -02:00)
+
+inetnum:     200.26.0/17
+status:      allocated
+aut-num:     N/A
+owner:       STARTEL S.A.
+ownerid:     AR-STSA1-LACNIC
+responsible: ip master
+address:     Alem, 628, piso9
+address:     1001 - buenos aires - 
+country:     AR
+phone:       +54 11 4433 [4117]
+owner-c:     MAC5
+tech-c:      MAC5
+abuse-c:     MAC5
+inetrev:     200.26.48/24
+inetrev:     200.26.49/24
+nserver:     NUSTAL05.ADVANCE.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NUSTAL08.ADVANCE.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+inetrev:     200.26.50/24
+nserver:     NUSTAL05.ADVANCE.COM.AR  
+nsstat:      20170102 AA
+nslastaa:    20170102
+nserver:     NUSTAL08.ADVANCE.COM.AR  
+nsstat:      20170102 AA
+nslastaa:    20170102
+inetrev:     200.26.51/24
+nserver:     NUSTAL05.ADVANCE.COM.AR  
+nsstat:      20161231 AA
+nslastaa:    20161231
+nserver:     NUSTAL08.ADVANCE.COM.AR  
+nsstat:      20161231 AA
+nslastaa:    20161231
+inetrev:     200.26.52/22
+nserver:     NUSTAL05.ADVANCE.COM.AR  
+nsstat:      20170101 AA
+nslastaa:    20170101
+nserver:     NUSTAL08.ADVANCE.COM.AR  
+nsstat:      20170101 AA
+nslastaa:    20170101
+inetrev:     200.26.56/22
+nserver:     NUSTAL05.ADVANCE.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     NUSTAL08.ADVANCE.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+inetrev:     200.26.60/23
+nserver:     NUSTAL05.ADVANCE.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NUSTAL08.ADVANCE.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+inetrev:     200.26.64/24
+nserver:     NUSTAL08.ADVANCE.COM.AR  
+nsstat:      20170101 AA
+nslastaa:    20170101
+nserver:     NUSTAL05.ADVANCE.COM.AR  
+nsstat:      20170101 AA
+nslastaa:    20170101
+inetrev:     200.26.65/24
+nserver:     NUSTAL05.ADVANCE.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NUSTAL08.ADVANCE.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+inetrev:     200.26.66/24
+nserver:     NUSTAL05.ADVANCE.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     NUSTAL08.ADVANCE.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+inetrev:     200.26.67/24
+nserver:     NUSTAL05.ADVANCE.COM.AR  
+nsstat:      20170101 AA
+nslastaa:    20170101
+nserver:     NUSTAL08.ADVANCE.COM.AR  
+nsstat:      20170101 AA
+nslastaa:    20170101
+inetrev:     200.26.68/24
+nserver:     NUSTAL05.ADVANCE.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NUSTAL08.ADVANCE.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+inetrev:     200.26.69/24
+nserver:     NUSTAL05.ADVANCE.COM.AR  
+nsstat:      20170102 AA
+nslastaa:    20170102
+nserver:     NUSTAL08.ADVANCE.COM.AR  
+nsstat:      20170102 AA
+nslastaa:    20170102
+inetrev:     200.26.70/24
+nserver:     NUSTAL05.ADVANCE.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     NUSTAL08.ADVANCE.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+inetrev:     200.26.71/24
+nserver:     NUSTAL05.ADVANCE.COM.AR  
+nsstat:      20170102 AA
+nslastaa:    20170102
+nserver:     NUSTAL08.ADVANCE.COM.AR  
+nsstat:      20170102 AA
+nslastaa:    20170102
+inetrev:     200.26.72/24
+nserver:     NUSTAL05.ADVANCE.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NUSTAL08.ADVANCE.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+inetrev:     200.26.73/24
+nserver:     NUSTAL05.ADVANCE.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     NUSTAL08.ADVANCE.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+inetrev:     200.26.74/24
+nserver:     NUSTAL05.ADVANCE.COM.AR  
+nsstat:      20161230 AA
+nslastaa:    20161230
+nserver:     NUSTAL08.ADVANCE.COM.AR  
+nsstat:      20161230 AA
+nslastaa:    20161230
+inetrev:     200.26.75/24
+nserver:     NUSTAL05.ADVANCE.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     NUSTAL08.ADVANCE.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+inetrev:     200.26.76/24
+nserver:     NUSTAL05.ADVANCE.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     NUSTAL08.ADVANCE.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+inetrev:     200.26.77/24
+nserver:     NUSTAL05.ADVANCE.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     NUSTAL08.ADVANCE.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+inetrev:     200.26.78/24
+nserver:     NUSTAL05.ADVANCE.COM.AR  
+nsstat:      20170101 AA
+nslastaa:    20170101
+nserver:     NUSTAL08.ADVANCE.COM.AR  
+nsstat:      20170101 AA
+nslastaa:    20170101
+inetrev:     200.26.79/24
+nserver:     NUSTAL05.ADVANCE.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NUSTAL08.ADVANCE.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+inetrev:     200.26.80/24
+nserver:     NUSTAL05.ADVANCE.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     NUSTAL08.ADVANCE.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+inetrev:     200.26.81/24
+nserver:     NUSTAL05.ADVANCE.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NUSTAL08.ADVANCE.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+inetrev:     200.26.82/24
+nserver:     NUSTAL05.ADVANCE.COM.AR  
+nsstat:      20170102 AA
+nslastaa:    20170102
+nserver:     NUSTAL08.ADVANCE.COM.AR  
+nsstat:      20170102 AA
+nslastaa:    20170102
+inetrev:     200.26.83/24
+inetrev:     200.26.84/24
+nserver:     NUSTAL05.ADVANCE.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     NUSTAL08.ADVANCE.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+inetrev:     200.26.85/24
+nserver:     NUSTAL05.ADVANCE.COM.AR  
+nsstat:      20170102 AA
+nslastaa:    20170102
+nserver:     NUSTAL08.ADVANCE.COM.AR  
+nsstat:      20170102 AA
+nslastaa:    20170102
+inetrev:     200.26.86/24
+nserver:     NUSTAL05.ADVANCE.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NUSTAL08.ADVANCE.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+inetrev:     200.26.87/24
+nserver:     NUSTAL05.ADVANCE.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     NUSTAL08.ADVANCE.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+inetrev:     200.26.88/24
+nserver:     NUSTAL05.ADVANCE.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     NUSTAL08.ADVANCE.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+inetrev:     200.26.89/24
+nserver:     NUSTAL05.ADVANCE.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     NUSTAL08.ADVANCE.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+inetrev:     200.26.90/24
+nserver:     NUSTAL05.ADVANCE.COM.AR  
+nsstat:      20170102 AA
+nslastaa:    20170102
+nserver:     NUSTAL08.ADVANCE.COM.AR  
+nsstat:      20170102 AA
+nslastaa:    20170102
+inetrev:     200.26.91/24
+nserver:     NUSTAL05.ADVANCE.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NUSTAL08.ADVANCE.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+inetrev:     200.26.92/24
+nserver:     NUSTAL05.ADVANCE.COM.AR  
+nsstat:      20161230 AA
+nslastaa:    20161230
+nserver:     NUSTAL08.ADVANCE.COM.AR  
+nsstat:      20161230 AA
+nslastaa:    20161230
+inetrev:     200.26.93/24
+nserver:     NUSTAL05.ADVANCE.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     NUSTAL08.ADVANCE.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+inetrev:     200.26.94/24
+nserver:     NUSTAL05.ADVANCE.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NUSTAL08.ADVANCE.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+inetrev:     200.26.95/24
+nserver:     NUSTAL05.ADVANCE.COM.AR  
+nsstat:      20170101 AA
+nslastaa:    20170101
+nserver:     NUSTAL08.ADVANCE.COM.AR  
+nsstat:      20170101 AA
+nslastaa:    20170101
+inetrev:     200.26.96/23
+nserver:     NUSTAL05.ADVANCE.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     NUSTAL08.ADVANCE.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+inetrev:     200.26.98/24
+nserver:     NUSTAL05.ADVANCE.COM.AR  
+nsstat:      20170101 AA
+nslastaa:    20170101
+nserver:     NUSTAL08.ADVANCE.COM.AR  
+nsstat:      20170101 AA
+nslastaa:    20170101
+inetrev:     200.26.99/24
+nserver:     NUSTAL05.ADVANCE.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NUSTAL08.ADVANCE.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+inetrev:     200.26.100/24
+nserver:     NUSTAL05.ADVANCE.COM.AR  
+nsstat:      20170101 AA
+nslastaa:    20170101
+nserver:     NUSTAL08.ADVANCE.COM.AR  
+nsstat:      20170101 AA
+nslastaa:    20170101
+inetrev:     200.26.101/24
+inetrev:     200.26.102/24
+nserver:     NUSTAL05.ADVANCE.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     NUSTAL08.ADVANCE.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+inetrev:     200.26.103/24
+nserver:     NUSTAL05.ADVANCE.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NUSTAL08.ADVANCE.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+inetrev:     200.26.104/24
+nserver:     NUSTAL05.ADVANCE.COM.AR  
+nsstat:      20170101 AA
+nslastaa:    20170101
+nserver:     NUSTAL08.ADVANCE.COM.AR  
+nsstat:      20170101 AA
+nslastaa:    20170101
+inetrev:     200.26.105/24
+nserver:     NUSTAL05.ADVANCE.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NUSTAL08.ADVANCE.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+inetrev:     200.26.106/24
+nserver:     NUSTAL05.ADVANCE.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     NUSTAL08.ADVANCE.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+inetrev:     200.26.107/24
+nserver:     NUSTAL05.ADVANCE.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NUSTAL08.ADVANCE.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+inetrev:     200.26.108/24
+nserver:     NUSTAL05.ADVANCE.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     NUSTAL08.ADVANCE.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+inetrev:     200.26.109/24
+nserver:     NUSTAL05.ADVANCE.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     NUSTAL08.ADVANCE.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+inetrev:     200.26.110/24
+inetrev:     200.26.111/24
+nserver:     NUSTAL05.ADVANCE.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NUSTAL08.ADVANCE.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+inetrev:     200.26.112/24
+nserver:     NUSTAL05.ADVANCE.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     NUSTAL08.ADVANCE.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+inetrev:     200.26.113/24
+inetrev:     200.26.114/24
+nserver:     NUSTAL05.ADVANCE.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NUSTAL08.ADVANCE.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+inetrev:     200.26.115/24
+nserver:     NUSTAL05.ADVANCE.COM.AR  
+nsstat:      20170102 AA
+nslastaa:    20170102
+nserver:     NUSTAL08.ADVANCE.COM.AR  
+nsstat:      20170102 AA
+nslastaa:    20170102
+inetrev:     200.26.116/24
+inetrev:     200.26.117/24
+nserver:     NUSTAL05.ADVANCE.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NUSTAL08.ADVANCE.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+inetrev:     200.26.118/23
+nserver:     NUSTAL05.ADVANCE.COM.AR  
+nsstat:      20170102 AA
+nslastaa:    20170102
+nserver:     NUSTAL08.ADVANCE.COM.AR  
+nsstat:      20170102 AA
+nslastaa:    20170102
+inetrev:     200.26.120/22
+nserver:     NUSTAL05.ADVANCE.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NUSTAL08.ADVANCE.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+inetrev:     200.26.124/23
+nserver:     NUSTAL05.ADVANCE.COM.AR  
+nsstat:      20170101 AA
+nslastaa:    20170101
+nserver:     NUSTAL08.ADVANCE.COM.AR  
+nsstat:      20170101 AA
+nslastaa:    20170101
+inetrev:     200.26.126/24
+nserver:     NUSTAL05.ADVANCE.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NUSTAL08.ADVANCE.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+inetrev:     200.26.127/24
+nserver:     NUSTAL05.ADVANCE.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     NUSTAL08.ADVANCE.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+created:     19950407
+changed:     20010622
+
+nic-hdl:     MAC5
+person:      mario caro
+e-mail:      mcaro@STARTEL.COM.AR
+address:     corriente, 700, piso 8
+address:     1043 - buenos aires - 
+country:     AR
+phone:       +54 11 4433 [4447]
+created:     20031021
+changed:     20031021
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

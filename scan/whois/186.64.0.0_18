@@ -1,0 +1,62 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 22:59:16 (BRST -02:00)
+
+inetnum:     186.64.0/18
+status:      allocated
+aut-num:     N/A
+owner:       Verizon Business
+ownerid:     AR-VEBU-LACNIC
+responsible: Stephen Middleton
+address:     Maipú, 1300, Piso 20º
+address:     C1006ACT - Buenos Aires - BA
+country:     AR
+phone:       +011 703 8866093 []
+owner-c:     SRM13
+tech-c:      JOH4
+abuse-c:     JOH4
+inetrev:     186.64.0/18
+nserver:     AUTH00.NS.UU.NET  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     AUTH100.NS.UU.NET  
+nsstat:      20170103 AA
+nslastaa:    20170103
+created:     20080805
+changed:     20101025
+
+nic-hdl:     JOH4
+person:      Jody Huffines
+e-mail:      Jody.Huffines@VERIZONBUSINESS.COM
+address:     22001 LOUDOUN COUNTY PKWY, , 
+address:     20147 - ASHBURN - VA
+country:     US
+phone:       +001 806 886 [6093]
+created:     20101014
+changed:     20111114
+
+nic-hdl:     SRM13
+person:      Stephen R. Middleton
+e-mail:      stephen.r.middleton@VERIZON.COM
+address:     22001 Loudoun County Parkway, , 
+address:     20147 - Ashburn - VA
+country:     US
+phone:       +011 703 8866093 []
+created:     20130927
+changed:     20130927
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

@@ -1,0 +1,52 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-06 02:05:05 (BRST -02:00)
+
+inetnum:     200.59.64/19
+status:      allocated
+aut-num:     N/A
+owner:       Sinectis S.A.
+ownerid:     AR-SISA7-LACNIC
+responsible: UOL Sinectis S.A.
+address:     Av. Cabildo, 2677, Piso 7
+address:     1428 - BuenosAires - AR
+country:     AR
+phone:       +54 11 39602517 [00]
+owner-c:     EMM
+tech-c:      EMM
+abuse-c:     EMM
+inetrev:     200.59.64/19
+nserver:     NS1.SINECTIS.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     NS2.SINECTIS.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+created:     20000825
+changed:     20030926
+
+nic-hdl:     EMM
+person:      UOL Sinectis S.A.
+e-mail:      nets@UOLSINECTIS.COM.AR
+address:     Cabildo, 2677, piso 7
+address:     C1428AAI - BuenosAires - 
+country:     AR
+phone:       +54 11 39602517 []
+created:     20030624
+changed:     20150316
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

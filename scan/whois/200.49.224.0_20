@@ -1,0 +1,62 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-06 02:00:10 (BRST -02:00)
+
+inetnum:     200.49.224/20
+status:      assigned
+aut-num:     N/A
+owner:       Universidad Nacional del Sur
+ownerid:     AR-UNSU-LACNIC
+responsible: Fernando Caba
+address:     Avda. Alem 1253, , 
+address:     8000 - Bahia Blanca - 
+country:     AR
+phone:       +54 291 4595166 [2050]
+owner-c:     FEC
+tech-c:      PRA
+abuse-c:     PRA
+inetrev:     200.49.224/20
+nserver:     NS1.UNS.EDU.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     NS2.UNS.EDU.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+created:     20000215
+changed:     20080610
+
+nic-hdl:     FEC
+person:      Fernando Caba
+e-mail:      fcaba@UNS.EDU.AR
+address:     Avda. Alem, 1253, 
+address:     B8000CPB - Bahia Blanca - BA
+country:     AR
+phone:       +54 291 4595166 [2050]
+created:     20030320
+changed:     20060328
+
+nic-hdl:     PRA
+person:      Pablo Roberto Amaya
+e-mail:      pramaya@UNS.EDU.AR
+address:     Av. Alem, 1253, 
+address:     8000 - Bahia Blanca - BA
+country:     AR
+phone:       +011 291 4595166 [2050]
+created:     20080610
+changed:     20080610
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

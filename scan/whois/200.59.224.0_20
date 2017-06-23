@@ -1,0 +1,95 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-06 02:07:32 (BRST -02:00)
+
+inetnum:     200.59.224/20
+status:      allocated
+aut-num:     N/A
+owner:       Neunet S.A.
+ownerid:     AR-NESA19-LACNIC
+responsible: Alcaraz Luis
+address:     Bolivia, 132, .
+address:     8309 - Centenario (Neuquen) - 
+country:     AR
+phone:       +54 299 4898000 []
+owner-c:     CTC
+tech-c:      CTC
+abuse-c:     CTC
+inetrev:     200.59.224/23
+nserver:     CENTENARIO.NEUNET.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     CENTENARIO1.NEUNET.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+inetrev:     200.59.226/24
+nserver:     CENTENARIO.NEUNET.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     CENTENARIO1.NEUNET.COM.AR  
+nsstat:      20170104 TIMEOUT
+nslastaa:    20161127
+inetrev:     200.59.227/24
+nserver:     CENTENARIO.NEUNET.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     CENTENARIO1.NEUNET.COM.AR  
+nsstat:      20170104 TIMEOUT
+nslastaa:    20161201
+inetrev:     200.59.228/24
+nserver:     CENTENARIO.NEUNET.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     CENTENARIO1.NEUNET.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+inetrev:     200.59.229/24
+nserver:     CENTENARIO.NEUNET.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     CENTENARIO1.NEUNET.COM.AR  
+nsstat:      20170104 TIMEOUT
+nslastaa:    20161128
+inetrev:     200.59.230/24
+inetrev:     200.59.231/24
+nserver:     CENTENARIO.NEUNET.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     CENTENARIO1.NEUNET.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+inetrev:     200.59.232/21
+nserver:     CENTENARIO.NEUNET.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     CENTENARIO1.NEUNET.COM.AR  
+nsstat:      20170104 TIMEOUT
+nslastaa:    20161128
+created:     20041117
+changed:     20041117
+
+nic-hdl:     CTC
+person:      Luis Alcaraz
+e-mail:      lalcaraz@NEUNET.COM.AR
+address:     San Martin, 275, 
+address:     8309 - Centenario - nq
+country:     AR
+phone:       +54 299 4891218 []
+created:     20031118
+changed:     20161219
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

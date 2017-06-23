@@ -1,0 +1,45 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-06 01:47:33 (BRST -02:00)
+
+inetnum:     200.23.207/24
+status:      assigned
+aut-num:     N/A
+owner:       Fuerza Aerea Argentina
+ownerid:     AR-FAAR-LACNIC
+responsible: Hector Alejandro Rusticcini
+address:     Pedro Zanni 250 BUENOS AIRES AR, , -
+address:     1104 - BUENOS AIRES - BA
+country:     AR
+phone:       +54 11 431760 []
+owner-c:     HAR9
+tech-c:      HAR9
+abuse-c:     HAR9
+created:     20161006
+changed:     20161006
+
+nic-hdl:     HAR9
+person:      Hector Alejandro Rusticcini
+e-mail:      hrusti@FAA.MIL.AR
+address:     Pedro Zanni, 250, 094 Amarillo
+address:     1104 - Buenos Aires - DF
+country:     AR
+phone:       +54 11 43176000 [16777]
+created:     20160516
+changed:     20160516
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

@@ -1,0 +1,52 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 21:11:44 (BRST -02:00)
+
+inetnum:     168.90.252/22
+status:      allocated
+aut-num:     N/A
+owner:       TECNOCOMP S.R.L.
+ownerid:     AR-TESR30-LACNIC
+responsible: Jorge Mestre
+address:     Rivadavia 818 Zárate, , 
+address:      - Zárate - 
+country:     AR
+phone:       +54 11 21505401 []
+owner-c:     SHD8
+tech-c:      SHD8
+abuse-c:     SHD8
+inetrev:     168.90.252/22
+nserver:     APOLO.TECNO-COMP.NET  [lame - not published]
+nsstat:      20170104 TIMEOUT
+nslastaa:    20160704
+nserver:     GOLIAT.TECNO-COMP.NET  [lame - not published]
+nsstat:      20170104 TIMEOUT
+nslastaa:    20160831
+created:     20160122
+changed:     20160623
+
+nic-hdl:     SHD8
+person:      Silvio Hernan Deandrea
+e-mail:      silvio@TECNO-COMP.NET
+address:     Alfonsina Storni, 3670, 
+address:     1619 - Garin - BS
+country:     AR
+phone:       +54 11 21505401 [1010]
+created:     20160309
+changed:     20160309
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

@@ -1,0 +1,46 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 21:43:51 (BRST -02:00)
+
+inetnum:     170.81.139/24
+status:      assigned
+aut-num:     AS264834
+abuse-c:     NIC13
+owner:       ATENTO ARGENTINA S.A
+ownerid:     AR-ATAR1-LACNIC
+responsible: Nicolas Coimbra; ncoimbra@atento.com.ar
+address:     Mexico, 2051, 1er piso
+address:     1640 - Martinez - BA
+country:     AR
+phone:       +54 11 57893445 []
+owner-c:     NIC13
+tech-c:      NIC13
+abuse-c:     NIC13
+created:     20161215
+changed:     20161215
+
+nic-hdl:     NIC13
+person:      Nicolas Coimbra
+e-mail:      ncoimbra@ATENTO.COM.AR
+address:     Mexico, 2051, 1
+address:     1640 - Martinez - BA
+country:     AR
+phone:       +54 11 5789 [3445]
+created:     20151002
+changed:     20151002
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

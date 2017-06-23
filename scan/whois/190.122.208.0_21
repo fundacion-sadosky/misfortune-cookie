@@ -1,0 +1,52 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-06 00:28:51 (BRST -02:00)
+
+inetnum:     190.122.208/21
+status:      allocated
+aut-num:     N/A
+owner:       COOP. MARIANO ACOSTA
+ownerid:     AR-CMAC-LACNIC
+responsible: Eduardo Tealdi Saad eduardots@amc.com.ar
+address:     Superí, 660, 
+address:     1723 - Mariano Acosta - Merlo - BA
+country:     AR
+phone:       +54 220 499-8100 [120]
+owner-c:     ETS2
+tech-c:      ETS2
+abuse-c:     ETS2
+inetrev:     190.122.208/21
+nserver:     NSR1.AMC.COM.AR  
+nsstat:      20161229 AA
+nslastaa:    20161229
+nserver:     NSR2.AMC.COM.AR  
+nsstat:      20161229 AA
+nslastaa:    20161229
+created:     20110916
+changed:     20110916
+
+nic-hdl:     ETS2
+person:      Eduardo Tealdi Saad
+e-mail:      eduardots@AMC.COM.AR
+address:     Superi, 660, 
+address:     1723 - Mariano Acosta - BA
+country:     AR
+phone:       +54 220 4998100 [120]
+created:     20090505
+changed:     20110803
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

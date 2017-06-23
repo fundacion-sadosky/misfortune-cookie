@@ -1,0 +1,85 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-06 00:10:34 (BRST -02:00)
+
+inetnum:     190.109.32/19
+status:      allocated
+aut-num:     N/A
+owner:       Dese Technologies Argentina S.A.
+ownerid:     AR-DTAS-LACNIC
+responsible: Julio Pertusio
+address:     San Martín, 133, 
+address:     8000 - Bahía Blanca - BA
+country:     AR
+phone:       +54 291 4306000 []
+owner-c:     LEC17
+tech-c:      LEC17
+abuse-c:     LEC17
+inetrev:     190.109.32/24
+nserver:     NS2.HE.NET  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     NS3.HE.NET  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     NS4.HE.NET  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     NS5.HE.NET  
+nsstat:      20170103 AA
+nslastaa:    20170103
+inetrev:     190.109.33/24
+inetrev:     190.109.34/24
+nserver:     NS2.HE.NET  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NS3.HE.NET  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NS4.HE.NET  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NS5.HE.NET  
+nsstat:      20170104 AA
+nslastaa:    20170104
+inetrev:     190.109.35/24
+nserver:     NS2.HE.NET  
+nsstat:      20170102 AA
+nslastaa:    20170102
+nserver:     NS3.HE.NET  
+nsstat:      20170102 AA
+nslastaa:    20170102
+nserver:     NS4.HE.NET  
+nsstat:      20170102 AA
+nslastaa:    20170102
+nserver:     NS5.HE.NET  
+nsstat:      20170102 AA
+nslastaa:    20170102
+created:     20120207
+changed:     20120207
+
+nic-hdl:     LEC17
+person:      Leonardo Combes
+e-mail:      lcombes@DESETECH.COM.AR
+address:     19 de mayo, 540, 
+address:     B8000FIC - Bahia Blanca - 
+country:     AR
+phone:       +54 291 4306000 []
+created:     20111014
+changed:     20111104
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

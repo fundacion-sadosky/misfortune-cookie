@@ -1,0 +1,52 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 21:55:00 (BRST -02:00)
+
+inetnum:     170.233.68/22
+status:      allocated
+aut-num:     AS17023
+owner:       BERBERIAN JORDAN LUIS
+ownerid:     AR-BJLU3-LACNIC
+responsible: BERBERIAN JORDAN LUIS (NETLATIN)
+address:     Av Ricardo Balbin, 3142, 
+address:     1748 - General Rodriguez - 
+country:     AR
+phone:       +54 11 53880009 []
+owner-c:     JLB28
+tech-c:      JLB28
+abuse-c:     JLB28
+inetrev:     170.233.68/22
+nserver:     NS1.GRSAT.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NS2.GRSAT.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+created:     20160705
+changed:     20160705
+
+nic-hdl:     JLB28
+person:      Jordan Luis Berberian
+e-mail:      jordan.berberian@NETLATIN.COM.AR
+address:     Av Ricardo Balbin, 3142, 
+address:     1748 - General Rodriguez - BA
+country:     AR
+phone:       +54 11 53880009 []
+created:     20160527
+changed:     20160603
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

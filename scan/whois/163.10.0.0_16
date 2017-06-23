@@ -1,0 +1,62 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 21:04:26 (BRST -02:00)
+
+inetnum:     163.10/16
+status:      assigned
+aut-num:     N/A
+owner:       Universidad Nacional de La Plata
+ownerid:     AR-UNLP-LACNIC
+responsible: Javier Diaz
+address:     1900, 50, 115
+address:     1900 - La Plata - BA
+country:     AR
+phone:       +54 221 4236609 [115]
+owner-c:     ANB10
+tech-c:      ANB10
+abuse-c:     CEU
+inetrev:     163.10/16
+nserver:     UNLP.UNLP.EDU.AR  
+nsstat:      20170102 AA
+nslastaa:    20170102
+nserver:     ANUBIS.UNLP.EDU.AR  
+nsstat:      20170102 AA
+nslastaa:    20170102
+created:     19920701
+changed:     20100319
+
+nic-hdl:     ANB10
+person:      CeSPI UNLP
+e-mail:      noc@CESPI.UNLP.EDU.AR
+address:     Calle 50 y 115, S/N, 3er. piso
+address:     1900 - La Plata - BA
+country:     AR
+phone:       +54 221 4236609 [1101]
+created:     20081104
+changed:     20150422
+
+nic-hdl:     CEU
+person:      Cert Unlp
+e-mail:      abuse@UNLP.EDU.AR
+address:     50 y 115, , 
+address:     1900 - La Plata - BA
+country:     AR
+phone:       +54 0221 4236609 [315]
+created:     20100319
+changed:     20100319
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

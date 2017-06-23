@@ -1,0 +1,429 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-06 00:47:49 (BRST -02:00)
+
+inetnum:     190.210.0/18
+status:      allocated
+aut-num:     N/A
+owner:       NSS S.A.
+ownerid:     AR-NSSA-LACNIC
+responsible: Administrador de Ips
+address:     Reconquista, 865, 2
+address:     C1003ABQ - Buenos Aires - CF
+country:     AR
+phone:       +54 11 50316400 [6420]
+owner-c:     MAC2
+tech-c:      MAC2
+abuse-c:     MAC2
+inetrev:     190.210.0/24
+nserver:     DNS1.IPLANISP.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     DNS2.IPLANISP.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+inetrev:     190.210.1/24
+inetrev:     190.210.2/24
+nserver:     DNS1.IPLANISP.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     DNS2.IPLANISP.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+inetrev:     190.210.3/24
+nserver:     DNS1.IPLANISP.COM.AR  
+nsstat:      20161230 AA
+nslastaa:    20161230
+nserver:     DNS2.IPLANISP.COM.AR  
+nsstat:      20161230 AA
+nslastaa:    20161230
+inetrev:     190.210.4/24
+nserver:     DNS1.IPLANISP.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     DNS2.IPLANISP.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+inetrev:     190.210.5/24
+nserver:     DNS1.IPLANISP.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     DNS2.IPLANISP.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+inetrev:     190.210.6/24
+nserver:     DNS1.IPLANISP.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     DNS2.IPLANISP.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+inetrev:     190.210.7/24
+nserver:     DNS1.IPLANISP.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     DNS2.IPLANISP.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+inetrev:     190.210.8/24
+nserver:     DNS1.IPLANISP.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     DNS2.IPLANISP.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+inetrev:     190.210.9/24
+nserver:     DNS1.IPLANISP.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     DNS2.IPLANISP.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+inetrev:     190.210.10/24
+nserver:     DNS1.IPLANISP.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     DNS2.IPLANISP.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+inetrev:     190.210.11/24
+nserver:     DNS1.IPLANISP.COM.AR  
+nsstat:      20170101 AA
+nslastaa:    20170101
+nserver:     DNS2.IPLANISP.COM.AR  
+nsstat:      20170101 AA
+nslastaa:    20170101
+inetrev:     190.210.12/24
+nserver:     DNS1.IPLANISP.COM.AR  
+nsstat:      20170102 AA
+nslastaa:    20170102
+nserver:     DNS2.IPLANISP.COM.AR  
+nsstat:      20170102 AA
+nslastaa:    20170102
+inetrev:     190.210.13/24
+nserver:     DNS1.IPLANISP.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     DNS2.IPLANISP.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+inetrev:     190.210.14/24
+nserver:     DNS1.IPLANISP.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     DNS2.IPLANISP.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+inetrev:     190.210.15/24
+nserver:     DNS1.IPLANISP.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     DNS2.IPLANISP.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+inetrev:     190.210.16/24
+nserver:     DNS1.IPLANISP.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     DNS2.IPLANISP.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+inetrev:     190.210.17/24
+nserver:     DNS1.IPLANISP.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     DNS2.IPLANISP.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+inetrev:     190.210.18/24
+nserver:     DNS1.IPLANISP.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     DNS2.IPLANISP.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+inetrev:     190.210.19/24
+nserver:     DNS1.IPLANISP.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     DNS2.IPLANISP.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+inetrev:     190.210.20/24
+nserver:     DNS1.IPLANISP.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     DNS2.IPLANISP.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+inetrev:     190.210.21/24
+nserver:     DNS1.IPLANISP.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     DNS2.IPLANISP.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+inetrev:     190.210.22/24
+nserver:     DNS1.IPLANISP.COM.AR  
+nsstat:      20170102 AA
+nslastaa:    20170102
+nserver:     DNS2.IPLANISP.COM.AR  
+nsstat:      20170102 AA
+nslastaa:    20170102
+inetrev:     190.210.23/24
+nserver:     DNS1.IPLANISP.COM.AR  
+nsstat:      20170101 AA
+nslastaa:    20170101
+nserver:     DNS2.IPLANISP.COM.AR  
+nsstat:      20170101 AA
+nslastaa:    20170101
+inetrev:     190.210.24/24
+nserver:     DNS1.IPLANISP.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     DNS2.IPLANISP.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+inetrev:     190.210.25/24
+nserver:     DNS1.IPLANISP.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     DNS2.IPLANISP.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+inetrev:     190.210.26/24
+nserver:     DNS1.IPLANISP.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     DNS2.IPLANISP.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+inetrev:     190.210.27/24
+nserver:     DNS1.IPLANISP.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     DNS2.IPLANISP.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+inetrev:     190.210.28/24
+nserver:     DNS1.IPLANISP.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     DNS2.IPLANISP.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+inetrev:     190.210.29/24
+nserver:     DNS1.IPLANISP.COM.AR  
+nsstat:      20170102 AA
+nslastaa:    20170102
+nserver:     DNS2.IPLANISP.COM.AR  
+nsstat:      20170102 AA
+nslastaa:    20170102
+inetrev:     190.210.30/24
+inetrev:     190.210.31/24
+inetrev:     190.210.33/24
+nserver:     DNS1.IPLANISP.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     DNS2.IPLANISP.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+inetrev:     190.210.34/24
+nserver:     DNS1.IPLANISP.COM.AR  
+nsstat:      20170102 AA
+nslastaa:    20170102
+nserver:     DNS2.IPLANISP.COM.AR  
+nsstat:      20170102 AA
+nslastaa:    20170102
+inetrev:     190.210.35/24
+nserver:     DNS1.IPLANISP.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     DNS2.IPLANISP.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+inetrev:     190.210.36/24
+nserver:     DNS1.IPLANISP.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     DNS2.IPLANISP.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+inetrev:     190.210.38/24
+nserver:     DNS1.IPLANISP.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     DNS2.IPLANISP.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+inetrev:     190.210.39/24
+nserver:     DNS1.IPLANISP.COM.AR  
+nsstat:      20170102 AA
+nslastaa:    20170102
+nserver:     DNS2.IPLANISP.COM.AR  
+nsstat:      20170102 AA
+nslastaa:    20170102
+inetrev:     190.210.40/24
+nserver:     DNS1.IPLANISP.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     DNS2.IPLANISP.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+inetrev:     190.210.42/24
+nserver:     DNS1.IPLANISP.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     DNS2.IPLANISP.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+inetrev:     190.210.43/24
+nserver:     DNS1.IPLANISP.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     DNS2.IPLANISP.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+inetrev:     190.210.44/24
+nserver:     DNS1.IPLANISP.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     DNS2.IPLANISP.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+inetrev:     190.210.45/24
+nserver:     DNS1.IPLANISP.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     DNS2.IPLANISP.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+inetrev:     190.210.46/24
+inetrev:     190.210.47/24
+inetrev:     190.210.48/24
+nserver:     DNS1.IPLANISP.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     DNS2.IPLANISP.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+inetrev:     190.210.49/24
+nserver:     DNS1.IPLANISP.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     DNS2.IPLANISP.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+inetrev:     190.210.50/24
+nserver:     DNS1.IPLANISP.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     DNS2.IPLANISP.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+inetrev:     190.210.51/24
+nserver:     DNS1.IPLANISP.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     DNS2.IPLANISP.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+inetrev:     190.210.52/24
+nserver:     DNS1.IPLANISP.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     DNS2.IPLANISP.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+inetrev:     190.210.53/24
+inetrev:     190.210.54/24
+nserver:     DNS1.IPLANISP.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     DNS2.IPLANISP.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+inetrev:     190.210.55/24
+nserver:     DNS1.IPLANISP.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     DNS2.IPLANISP.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+inetrev:     190.210.56/24
+nserver:     DNS1.IPLANISP.COM.AR  
+nsstat:      20170102 AA
+nslastaa:    20170102
+nserver:     DNS2.IPLANISP.COM.AR  
+nsstat:      20170102 AA
+nslastaa:    20170102
+inetrev:     190.210.57/24
+nserver:     DNS1.IPLANISP.COM.AR  
+nsstat:      20170101 AA
+nslastaa:    20170101
+nserver:     DNS2.IPLANISP.COM.AR  
+nsstat:      20170101 AA
+nslastaa:    20170101
+inetrev:     190.210.58/24
+nserver:     DNS1.IPLANISP.COM.AR  
+nsstat:      20170102 AA
+nslastaa:    20170102
+nserver:     DNS2.IPLANISP.COM.AR  
+nsstat:      20170102 AA
+nslastaa:    20170102
+inetrev:     190.210.59/24
+nserver:     DNS1.IPLANISP.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     DNS2.IPLANISP.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+inetrev:     190.210.60/24
+nserver:     DNS1.IPLANISP.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     DNS2.IPLANISP.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+inetrev:     190.210.61/24
+nserver:     DNS1.IPLANISP.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     DNS2.IPLANISP.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+inetrev:     190.210.62/23
+nserver:     DNS1.IPLANISP.COM.AR  
+nsstat:      20161231 AA
+nslastaa:    20161231
+nserver:     DNS2.IPLANISP.COM.AR  
+nsstat:      20161231 AA
+nslastaa:    20161231
+created:     20070803
+changed:     20070803
+
+nic-hdl:     MAC2
+person:      Administrador de Ips
+e-mail:      abuse-iplan@IPLAN.COM.AR
+address:     Reconquista, 865, 5to piso
+address:     1003 - Buenos Aires - 
+country:     AR
+phone:       +54 11 50320000 []
+created:     20021226
+changed:     20111108
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

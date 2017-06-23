@@ -1,0 +1,45 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 20:13:57 (BRST -02:00)
+
+inetnum:     131.161.88/22
+status:      assigned
+aut-num:     N/A
+owner:       UNIVERSIDAD NACIONAL DE LA PATAGONIA AUSTRAL
+ownerid:     AR-UNLP2-LACNIC
+responsible: Daniel Andres Gonzalez
+address:     Lisandro de la Torre, 860, 
+address:     9400 - Rio Gallegos - SC
+country:     AR
+phone:       +54 2966 442376 [149]
+owner-c:     DAG51
+tech-c:      DAG51
+abuse-c:     DAG51
+created:     20140912
+changed:     20140912
+
+nic-hdl:     DAG51
+person:      Daniel Andres Gonzalez
+e-mail:      dgonzalez@UNPA.EDU.AR
+address:     Lisandro de la Torre, 860, 
+address:     9400 - Rio Gallegos - SC
+country:     AR
+phone:       +54 2966 442376 [149]
+created:     20140520
+changed:     20160803
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

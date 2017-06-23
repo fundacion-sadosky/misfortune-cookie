@@ -1,0 +1,45 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 22:51:56 (BRST -02:00)
+
+inetnum:     186.5.192/19
+status:      allocated
+aut-num:     N/A
+owner:       Coop. Ltda de Electricidad y Servicios Anexos de Huinca Renancó
+ownerid:     AR-CLEY1-LACNIC
+responsible: Eduardo Rivero Singh
+address:     Suipacha, 272, 
+address:     6270 - Huinca Renancó - CO
+country:     AR
+phone:       +54 23 3649-4445 []
+owner-c:     ERS5
+tech-c:      ERS5
+abuse-c:     ERS5
+created:     20111206
+changed:     20111206
+
+nic-hdl:     ERS5
+person:      Eduardo Rivero Singh
+e-mail:      edrivero@HUINCACOOP.COM.AR
+address:     Guemes, 445, 
+address:     6270 - Huinca Renancó - Co
+country:     AR
+phone:       +0054 2336 494445 []
+created:     20070412
+changed:     20070412
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

@@ -1,0 +1,90 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 23:53:46 (BRST -02:00)
+
+inetnum:     190.99.80/21
+status:      allocated
+aut-num:     N/A
+owner:       Desarrollos Digitales de Pulsar Consulting
+ownerid:     AR-DDPC1-LACNIC
+responsible: Soporte Redes
+address:     Tacuari, 1018, 
+address:     1643 - Lomas de San Isidro - BA
+country:     AR
+phone:       +54 11 45192538 []
+owner-c:     JOO7
+tech-c:      EMC6
+abuse-c:     EMC6
+inetrev:     190.99.80/24
+nserver:     NS1.MOVEDTOOLS.COM  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     NS2.MOVEDTOOLS.COM  
+nsstat:      20170103 AA
+nslastaa:    20170103
+inetrev:     190.99.81/24
+nserver:     NS2.JAZZRAIN.COM  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NS1.JAZZRAIN.COM  
+nsstat:      20170104 AA
+nslastaa:    20170104
+inetrev:     190.99.83/24
+nserver:     NS1.LISTBALL.COM  
+nsstat:      20170102 AA
+nslastaa:    20170102
+nserver:     NS2.LISTBALL.COM  
+nsstat:      20170102 AA
+nslastaa:    20170102
+inetrev:     190.99.85/24
+nserver:     NS1.GOODMILHISEFUE.COM  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     NS2.GOODMILHISEFUE.COM  
+nsstat:      20170103 AA
+nslastaa:    20170103
+inetrev:     190.99.86/24
+nserver:     NS1.MAPCRY.COM  
+nsstat:      20170102 AA
+nslastaa:    20170102
+nserver:     NS2.MAPCRY.COM  
+nsstat:      20170102 AA
+nslastaa:    20170102
+created:     20100428
+changed:     20100428
+
+nic-hdl:     EMC6
+person:      Depto. Sistemas Desarrollos Digitales
+e-mail:      ipadmin@DD.COM.AR
+address:     Jose Ingenieros, 3030, oficina 14
+address:     1643 - Lomas de San Isidro - BA
+country:     AR
+phone:       +54 11 45192538 []
+created:     20100104
+changed:     20160105
+
+nic-hdl:     JOO7
+person:      Soporte Redes
+e-mail:      lacnic@PULSARCONSULTING.NET
+address:     José Ingenieros, 3030, oficina 15
+address:     1643 - Lomas de San Isidro - BA
+country:     AR
+phone:       +54 11 45192538 []
+created:     20100104
+changed:     20140328
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

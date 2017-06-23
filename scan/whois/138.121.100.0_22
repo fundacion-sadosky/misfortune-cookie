@@ -1,0 +1,52 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 20:36:14 (BRST -02:00)
+
+inetnum:     138.121.100/22
+status:      allocated
+aut-num:     N/A
+owner:       Intelisis S.A.
+ownerid:     AR-INSA78-LACNIC
+responsible: Octavio Bosio
+address:     Roque Saenz Peña, 1390, 
+address:     5507 - Lujan de Cuyo, Mendoza - 
+country:     AR
+phone:       +54 261 4877006 []
+owner-c:     OCB4
+tech-c:      OCB4
+abuse-c:     OCB4
+inetrev:     138.121.100/22
+nserver:     NS1.AERO.COM.AR  
+nsstat:      20170101 AA
+nslastaa:    20170101
+nserver:     NS2.AERO.COM.AR  
+nsstat:      20170101 AA
+nslastaa:    20170101
+created:     20150605
+changed:     20150605
+
+nic-hdl:     OCB4
+person:      Octavio Bosio
+e-mail:      webmaster@INTELISIS.COM.AR
+address:     Roque Saenz Peña, 1390, 
+address:     5507 - Lujan de Cuyo, Mendoza - 
+country:     AR
+phone:       +54 261 4877006 []
+created:     20150201
+changed:     20150505
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

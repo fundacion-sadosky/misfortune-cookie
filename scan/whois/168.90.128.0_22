@@ -1,0 +1,80 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 21:11:03 (BRST -02:00)
+
+inetnum:     168.90.128/22
+status:      allocated
+aut-num:     AS263769
+abuse-c:     BSS13
+owner:       ByteSolution S.A. (WispSolution Internet)
+ownerid:     AR-WISA5-LACNIC
+responsible: Emanuel Fondevila
+address:     Tuyuti, 1774, 
+address:     1824 - Lanus Oeste - BA
+country:     AR
+phone:       +54 11 50312081 []
+owner-c:     BSS13
+tech-c:      BSS13
+abuse-c:     BSS13
+inetrev:     168.90.128/24
+nserver:     NS0.DNSMADEEASY.COM  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     NS1.DNSMADEEASY.COM  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     NS2.DNSMADEEASY.COM  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     NS3.DNSMADEEASY.COM  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     NS4.DNSMADEEASY.COM  
+nsstat:      20170105 AA
+nslastaa:    20170105
+inetrev:     168.90.129/24
+inetrev:     168.90.130/24
+inetrev:     168.90.131/24
+nserver:     NS0.DNSMADEEASY.COM  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NS1.DNSMADEEASY.COM  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NS2.DNSMADEEASY.COM  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NS3.DNSMADEEASY.COM  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NS4.DNSMADEEASY.COM  
+nsstat:      20170104 AA
+nslastaa:    20170104
+created:     20160114
+changed:     20160114
+
+nic-hdl:     BSS13
+person:      Emanuel Fondevila
+e-mail:      abuse@WISPSOLUTION.COM.AR
+address:     Tuyuti, 1774, 
+address:     1824 - Buenos Aires - 
+country:     AR
+phone:       +054 11 1561564800 []
+created:     20130509
+changed:     20131116
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

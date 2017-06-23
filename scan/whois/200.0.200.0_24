@@ -1,0 +1,43 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-06 01:10:42 (BRST -02:00)
+
+inetnum:     200.0.200/24
+status:      assigned
+aut-num:     N/A
+owner:       Instituto Nacional de Investigacion yDesarrollo Pe
+ownerid:     AR-INIY-LACNIC
+address:     Paseo Victoria Ocampo s/n
+address:     Escollera Norte
+address:     (7600) Mar del Plata
+country:     AR
+owner-c:     JEC5-ARIN
+created:     19951031
+changed:     19951031
+source:      ARIN-HISTORIC
+
+nic-hdl:     JEC5-ARIN
+person:      Jorge Felipe Ee Churio
+e-mail:      jchurio@CORREO.TELINTAR.COM.AR
+address:     Talcahuano 185 6 Piso
+address:     (1013) Buenos
+address:     Aires
+country:     AR
+phone:       +54-1-318-0542
+source:      ARIN-HISTORIC
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

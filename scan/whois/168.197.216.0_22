@@ -1,0 +1,52 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 21:26:48 (BRST -02:00)
+
+inetnum:     168.197.216/22
+status:      allocated
+aut-num:     N/A
+owner:       JORGE DAMIAN ALVEZ
+ownerid:     AR-JDAA-LACNIC
+responsible: JORGE DAMIAN ALVEZ
+address:     AV. LAS ARAUCARIAS, , 
+address:      - SAN PEDRO - 
+country:     AR
+phone:       +54 3751 557784 []
+owner-c:     JOD44
+tech-c:      JOD44
+abuse-c:     JOD44
+inetrev:     168.197.219/24
+nserver:     NS1.CLICRAPIDO.COM.BR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     NS2.CLICRAPIDO.COM.BR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+created:     20160913
+changed:     20160913
+
+nic-hdl:     JOD44
+person:      JORGE DAMIAN
+e-mail:      asdajoal@INFORMATICOS.COM
+address:     B| LAS ROSAS MZ D CASA 20, 20, 0
+address:     3352 - SAN PEDRO - 0
+country:     AR
+phone:       +3352 3352 3751557784 [0]
+created:     20160805
+changed:     20160805
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

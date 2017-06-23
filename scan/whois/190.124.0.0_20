@@ -1,0 +1,52 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-06 00:32:00 (BRST -02:00)
+
+inetnum:     190.124.0/20
+status:      allocated
+aut-num:     N/A
+owner:       Coop. Telefónica y de obras y serv. públicos de Villa Flandria
+ownerid:     AR-CVFL-LACNIC
+responsible: Huertas, Mariano
+address:     Los Tilos, 885, 
+address:     6706 - Lujan – Jáuregui - BA
+country:     AR
+phone:       +54 2323 494200 []
+owner-c:     CTF
+tech-c:      CTF
+abuse-c:     CTF
+inetrev:     190.124.0/20
+nserver:     NS1.COTEFLAN.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     NS2.COTEFLAN.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+created:     20091009
+changed:     20091009
+
+nic-hdl:     CTF
+person:      Coop. Telefonica de Villa Flandria
+e-mail:      coopflan@COOPFLAN.COM.AR
+address:     Los tilos, 885, 
+address:     6712 - Lujan - BA
+country:     AR
+phone:       +54 2323 494200 []
+created:     20061227
+changed:     20151027
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

@@ -1,0 +1,45 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 20:43:54 (BRST -02:00)
+
+inetnum:     138.186.252/22
+status:      allocated
+aut-num:     N/A
+owner:       Cooperativa Eléctrica y Servicios Anexos de San Manuel Ltda.
+ownerid:     AR-CEYS9-LACNIC
+responsible: Andrés L. Parra; Dominios@ceysa.com.ar
+address:     Hipolito Yrigoyen, 258, 
+address:     7007 - San Manuel - BA
+country:     AR
+phone:       +54 2261 498113 []
+owner-c:     CEM71
+tech-c:      CEM71
+abuse-c:     CEM71
+created:     20150826
+changed:     20150826
+
+nic-hdl:     CEM71
+person:      COOPERATIVA ELECTRICA Y SERV. SAN MANUEL
+e-mail:      gustavo.esperon@CEYSA.COM.AR
+address:     Yrigoyen, 258, 
+address:     7007 - San Manuel - Bu
+country:     AR
+phone:       +0054 2261 498813 []
+created:     20150717
+changed:     20150717
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

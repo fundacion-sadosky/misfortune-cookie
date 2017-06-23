@@ -1,0 +1,55 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-06 03:07:18 (BRST -02:00)
+
+inetnum:     201.220.16/21
+status:      allocated
+aut-num:     N/A
+owner:       MADACOM SRL
+ownerid:     AR-MASR15-LACNIC
+responsible: Sergio Barrientos
+address:     San Martin, 412, 
+address:     1913 - Magdalena - BA
+country:     AR
+phone:       +54 221 453233 []
+owner-c:     SEB12
+tech-c:      SEB12
+abuse-c:     SEB12
+inetrev:     201.220.16/24
+nserver:     DNS1.NET-FLY.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     NS1.NET-FLY.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     NS2.NET-FLY.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+created:     20121022
+changed:     20121022
+
+nic-hdl:     SEB12
+person:      Sergio Barrientos
+e-mail:      soportetecnico@MDISOLUCIONES.COM.AR
+address:     Teodoro Garcia, 3509, 1C
+address:     1427 - Ciudad Autonoma de Buenos Aires - BA
+country:     AR
+phone:       +54 011 45538961 []
+created:     20120723
+changed:     20151014
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

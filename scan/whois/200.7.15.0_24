@@ -1,0 +1,52 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-06 01:20:31 (BRST -02:00)
+
+inetnum:     200.7.15/24
+status:      assigned
+aut-num:     N/A
+owner:       Toyota Argentina S.A.
+ownerid:     AR-TASA27-LACNIC
+responsible: Manuel Tomas Fernandez
+address:     Ruta 12 Km 81, -, 
+address:     2800 - Zarate - BA
+country:     AR
+phone:       +54 3487 443000 [3309]
+owner-c:     MTF
+tech-c:      MTF
+abuse-c:     MTF
+inetrev:     200.7.15/24
+nserver:     ZADNS1PRDZ1.TOYOTA.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     ZADNS2PRDZ1.TOYOTA.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+created:     20090319
+changed:     20090319
+
+nic-hdl:     MTF
+person:      Manuel Tomas Fernandez
+e-mail:      mfernandez@TOYOTA.COM.AR
+address:     Ruta 12 Km 81, -, -
+address:     2800 - Zarate - BA
+country:     AR
+phone:       +54 3487 443000 [3309]
+created:     20081007
+changed:     20081007
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

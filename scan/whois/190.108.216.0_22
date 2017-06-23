@@ -1,0 +1,53 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-06 00:09:31 (BRST -02:00)
+
+inetnum:     190.108.216/22
+status:      allocated
+aut-num:     N/A
+owner:       Cooperativa de Provisión de Obras y Servicios Públicos de Balnearia Ltda.
+ownerid:     AR-CPOY9-LACNIC
+responsible: Osvaldo Castellino
+address:     Mar Chiquita, 460, 
+address:     5141 - Balnearia - 
+country:     AR
+phone:       +54 3563 420212 []
+owner-c:     OSC12
+tech-c:      OSC12
+abuse-c:     OSC12
+inetrev:     190.108.216/23
+nserver:     NS1.REDCOOP.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+inetrev:     190.108.218/23
+nserver:     NS1.REDCOOP.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+created:     20120903
+changed:     20120903
+
+nic-hdl:     OSC12
+person:      Lagos Alejo Julian
+e-mail:      coopbal@REDCOOP.COM.AR
+address:     Mar Chiquita, 460, 
+address:     5141 - Balnearia - 
+country:     AR
+phone:       +54 3563 420212 []
+created:     20120419
+changed:     20160808
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

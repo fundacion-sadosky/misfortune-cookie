@@ -1,0 +1,45 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 21:38:38 (BRST -02:00)
+
+inetnum:     170.78.184/24
+status:      assigned
+aut-num:     N/A
+owner:       UNIVERSIDAD NACIONAL DE LANUS
+ownerid:     AR-UNLA2-LACNIC
+responsible: Eduardo Fernandez
+address:     29 de Septiembre, 3901, 
+address:      - Remedios de Escalada - 
+country:     AR
+phone:       +54 11 55335600 []
+owner-c:     EDF47
+tech-c:      EDF47
+abuse-c:     EDF47
+created:     20160923
+changed:     20160923
+
+nic-hdl:     EDF47
+person:      Eduardo Fernandez
+e-mail:      efernandez@UNLA.EDU.AR
+address:     29 de Septiembre, 3901, 
+address:     1826 - Remedios de Escalada - 
+country:     AR
+phone:       +54 11 55335600 [5223]
+created:     20160219
+changed:     20160219
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

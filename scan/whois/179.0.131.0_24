@@ -1,0 +1,52 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 22:08:19 (BRST -02:00)
+
+inetnum:     179.0.131/24
+status:      assigned
+aut-num:     N/A
+owner:       PODER JUDICIAL DE MENDOZA
+ownerid:     AR-PJME-LACNIC
+responsible: Pablo Linares
+address:     AV. ESPAÑA, 480, primer sub.
+address:     - - MENDOZA - 
+country:     AR
+phone:       +54 261 4495483 []
+owner-c:     PSD3
+tech-c:      PSD3
+abuse-c:     PSD3
+inetrev:     179.0.131/24
+nserver:     NS1.JUS.MENDOZA.GOV.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NS2.JUS.MENDOZA.GOV.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+created:     20130704
+changed:     20130704
+
+nic-hdl:     PSD3
+person:      Carlos Doffo
+e-mail:      salaredes@JUS.MENDOZA.GOV.AR
+address:     Av. Espana, 480, 
+address:     5500 - Mendoza - 
+country:     AR
+phone:       +54 261 4495440 []
+created:     20081119
+changed:     20160601
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

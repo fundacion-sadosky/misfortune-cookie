@@ -1,0 +1,52 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-06 01:46:09 (BRST -02:00)
+
+inetnum:     200.16.116/24
+status:      assigned
+aut-num:     N/A
+owner:       SERVICIO METEOROLOGICO NACIONAL
+ownerid:     AR-SMNA-LACNIC
+responsible: Julian Dunayevich
+address:     25 de Mayo, 658, 
+address:     1002 - Buenos Aires - 
+country:     AR
+phone:       +54 11 51676767 [18211]
+owner-c:     GRB
+tech-c:      GRB
+abuse-c:     GRB
+inetrev:     200.16.116/24
+nserver:     NS1.SMN.GOV.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     NS2.SMN.GOV.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+created:     19961025
+changed:     19961025
+
+nic-hdl:     GRB
+person:      Julian Dunayevich
+e-mail:      jdunayevich@SMN.GOV.AR
+address:     25 de mayo, 658, 
+address:     1002 - Buenos Aires - 
+country:     AR
+phone:       +54 011 51676767 []
+created:     20040310
+changed:     20141211
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

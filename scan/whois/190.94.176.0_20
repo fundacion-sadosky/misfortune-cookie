@@ -1,0 +1,100 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 23:50:58 (BRST -02:00)
+
+inetnum:     190.94.176/20
+status:      allocated
+aut-num:     N/A
+owner:       Transamerican Telecomunication S.A.
+ownerid:     AR-TTSA7-LACNIC
+responsible: Pedro Haliska
+address:     Calle Suipacha, 268, Piso 12
+address:     -- - Buenos Aires - CF
+country:     AR
+phone:       +57 4 3252270 [7334]
+owner-c:     HEJ
+tech-c:      HEJ
+abuse-c:     HEJ
+inetrev:     190.94.176/24
+nserver:     MALPELO.INTERNEXA.NET  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     NUQUI.INTERNEXA.NET.CO  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     CHAVIN.INTERNEXA.NET  
+nsstat:      20170103 AA
+nslastaa:    20170103
+inetrev:     190.94.177/24
+nserver:     MALPELO.INTERNEXA.NET  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     NUQUI.INTERNEXA.NET.CO  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     CHAVIN.INTERNEXA.NET  
+nsstat:      20170105 AA
+nslastaa:    20170105
+inetrev:     190.94.178/24
+nserver:     MALPELO.INTERNEXA.NET  
+nsstat:      20161231 AA
+nslastaa:    20161231
+nserver:     NUQUI.INTERNEXA.NET.CO  
+nsstat:      20161231 AA
+nslastaa:    20161231
+nserver:     CHAVIN.INTERNEXA.NET  
+nsstat:      20161231 AA
+nslastaa:    20161231
+inetrev:     190.94.179/24
+nserver:     MALPELO.INTERNEXA.NET  
+nsstat:      20170101 AA
+nslastaa:    20170101
+nserver:     NUQUI.INTERNEXA.NET.CO  
+nsstat:      20170101 AA
+nslastaa:    20170101
+nserver:     CHAVIN.INTERNEXA.NET  
+nsstat:      20170101 AA
+nslastaa:    20170101
+inetrev:     190.94.180/24
+nserver:     NS1.ITELSA.COM.AR  [lame - not published]
+nsstat:      20170103 ERR
+nslastaa:    20151202
+inetrev:     190.94.181/24
+nserver:     NS1.ITELSA.COM.AR  [lame - not published]
+nsstat:      20170103 ERR
+nslastaa:    20151127
+inetrev:     190.94.182/24
+nserver:     MALPELO.INTERNEXA.NET  
+nsstat:      20161231 AA
+nslastaa:    20161231
+nserver:     NUQUI.INTERNEXA.NET.CO  
+nsstat:      20161231 AA
+nslastaa:    20161231
+created:     20111014
+changed:     20111014
+
+nic-hdl:     HEJ
+person:      Administrador IP-ITX
+e-mail:      adminred@INTERNEXA.COM
+address:     Cl 12 sur # 18 - 168 bloque 5 Piso 2, 00, 00000
+address:     00000 - Medellin - CO
+country:     CO
+phone:       +57 4 3171111 [73341]
+created:     20090515
+changed:     20130920
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

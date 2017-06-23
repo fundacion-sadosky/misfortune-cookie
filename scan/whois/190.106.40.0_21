@@ -1,0 +1,69 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-06 00:04:37 (BRST -02:00)
+
+inetnum:     190.106.40/21
+status:      allocated
+aut-num:     AS262230
+abuse-c:     CMM
+owner:       HORUS SISTEMAS INFORMATICOS SRL
+ownerid:     AR-HSIS-LACNIC
+responsible: Jorge Lucci
+address:     Montevideo esquina 2, --, Torre 110 - 1er. piso
+address:     1923 - Berisso - 
+country:     AR
+phone:       +54 221 4100800 []
+owner-c:     JAL15
+tech-c:      CMM
+abuse-c:     CMM
+inetrev:     190.106.40/21
+nserver:     DNS1.HORUSNET.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     DNS1.REDHORUS.NET  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     DNS1.CGMI.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     DNS1.FEDERACIONNET.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+created:     20120418
+changed:     20120420
+
+nic-hdl:     CMM
+person:      Claudio Miguel Godoy Martín
+e-mail:      soporte@CGMI.COM.AR
+address:     Calle 78 bis, 933, 
+address:     B1912AMY - La Plata - BA
+country:     AR
+phone:       +54 221 4535264 []
+created:     20040302
+changed:     20130225
+
+nic-hdl:     JAL15
+person:      Jorge Adrian Lucci
+e-mail:      jlucci@HORUSNET.COM.AR
+address:     calle 12, 836, 1ro A
+address:     1900 - La Plata - AR
+country:     AR
+phone:       +54 221 4453300 [6]
+created:     20120313
+changed:     20160329
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

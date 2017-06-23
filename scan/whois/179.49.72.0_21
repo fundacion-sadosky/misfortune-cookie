@@ -1,0 +1,52 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 22:15:17 (BRST -02:00)
+
+inetnum:     179.49.72/21
+status:      allocated
+aut-num:     N/A
+owner:       Cooperativa de Obras y Servicios Públicos de Eduardo Castex Ltda.
+ownerid:     AR-CLEC-LACNIC
+responsible: Sergio Scherger
+address:     E.ZEBALLOS, 1061, 
+address:     6380 - EDUARDO CASTEX - LP
+country:     AR
+phone:       +54 2334 452260 []
+owner-c:     SES21
+tech-c:      SES21
+abuse-c:     SES21
+inetrev:     179.49.72/21
+nserver:     RUTTINI.COSPEC.COM.AR  
+nsstat:      20170101 AA
+nslastaa:    20170101
+nserver:     SKARRDE.COSPEC.COM.AR  
+nsstat:      20170101 AA
+nslastaa:    20170101
+created:     20130514
+changed:     20130514
+
+nic-hdl:     SES21
+person:      Sergio Emanuel Scherger
+e-mail:      lacnic@COSPEC.COM.AR
+address:     E. Zeballos, 1061, 
+address:     6380 - Eduardo Castex - LP
+country:     AR
+phone:       +54 2334 445007 []
+created:     20130108
+changed:     20130108
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

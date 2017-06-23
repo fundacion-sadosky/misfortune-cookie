@@ -1,0 +1,53 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-06 01:41:14 (BRST -02:00)
+
+inetnum:     200.14.116/24
+status:      assigned
+aut-num:     AS52314
+abuse-c:     JAC26
+owner:       Universidad Nacional del Noroeste de Buenos Aires (UNNOBA)
+ownerid:     AR-UNNB-LACNIC
+responsible: Javier Charne
+address:     Sarmiento 1169, , -
+address:     B6002CJI - Junín - BA
+country:     AR
+phone:       +54 236 4407750 [11712]
+owner-c:     JAC26
+tech-c:      JAC26
+abuse-c:     JAC26
+inetrev:     200.14.116/24
+nserver:     NS1.UNNOBA.EDU.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     NS2.UNNOBA.EDU.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+created:     20110207
+changed:     20110207
+
+nic-hdl:     JAC26
+person:      Javier Charne
+e-mail:      javier@UNNOBA.EDU.AR
+address:     Sarmiento, 1169, 
+address:     B6002CJI - Junín - BA
+country:     AR
+phone:       +54 236 4407750 [11712]
+created:     20090430
+changed:     20150909
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

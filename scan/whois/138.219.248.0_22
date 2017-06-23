@@ -1,0 +1,45 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 20:51:12 (BRST -02:00)
+
+inetnum:     138.219.248/22
+status:      allocated
+aut-num:     N/A
+owner:       Coop de Prov.Serv.Telef.Obras y Serv Púb y Soc Virrey del Pino Ltda
+ownerid:     AR-CPYS3-LACNIC
+responsible: Strack Rodrigo rodrigo@covidelpi.com.ar
+address:     Maximo Herrera, 6043, 
+address:     1763 - virrey del pino - BA
+country:     AR
+phone:       +54 2202 494249 []
+owner-c:     MAG210
+tech-c:      MAG210
+abuse-c:     MAG210
+created:     20150818
+changed:     20150818
+
+nic-hdl:     MAG210
+person:      MARCELO DI GIOVANNI
+e-mail:      mp.digiovanni@LIVE.COM
+address:     Corrales, 306, 
+address:     1763 - Virrey del Pino - Bu
+country:     AR
+phone:       +54 011 36820074 []
+created:     20150518
+changed:     20151106
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

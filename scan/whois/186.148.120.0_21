@@ -1,0 +1,95 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 23:09:44 (BRST -02:00)
+
+inetnum:     186.148.120/21
+status:      allocated
+aut-num:     N/A
+owner:       Cooperativa Telefónica de Abasto
+ownerid:     AR-CTAB1-LACNIC
+responsible: Morales Gonzalo Hernán
+address:     Calle 208 y 516, -, -
+address:     -1903 - Abasto - BA
+country:     AR
+phone:       +54 221 4913000 [134]
+owner-c:     CTA5
+tech-c:      CTA5
+abuse-c:     CTA5
+inetrev:     186.148.120/24
+nserver:     DNS3.COTEA.COM.AR  
+nsstat:      20170101 AA
+nslastaa:    20170101
+nserver:     DNS4.COTEA.COM.AR  
+nsstat:      20170101 AA
+nslastaa:    20170101
+inetrev:     186.148.121/24
+nserver:     DNS3.COTEA.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     DNS4.COTEA.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+inetrev:     186.148.122/24
+nserver:     DNS3.COTEA.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     DNS4.COTEA.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+inetrev:     186.148.123/24
+inetrev:     186.148.124/24
+nserver:     DNS3.COTEA.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     DNS4.COTEA.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+inetrev:     186.148.125/24
+nserver:     DNS3.COTEA.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     DNS4.COTEA.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+inetrev:     186.148.126/24
+nserver:     DNS3.COTEA.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     DNS4.COTEA.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+inetrev:     186.148.127/24
+nserver:     DNS3.COTEA.COM.AR  
+nsstat:      20161231 AA
+nslastaa:    20161231
+nserver:     DNS4.COTEA.COM.AR  
+nsstat:      20161231 AA
+nslastaa:    20161231
+created:     20130514
+changed:     20130514
+
+nic-hdl:     CTA5
+person:      Morales Gonzalo Hernán
+e-mail:      administrador@COTEA.COM.AR
+address:     208 y 516, s/n, 
+address:     1903 - La Plata - 
+country:     AR
+phone:       +54 221 4913000 [134]
+created:     20110527
+changed:     20110602
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

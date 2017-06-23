@@ -1,0 +1,74 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-06 03:18:31 (BRST -02:00)
+
+inetnum:     209.99.224/20
+status:      allocated
+aut-num:     N/A
+owner:       ERTACH S.A.
+ownerid:     AR-MASA5-LACNIC
+responsible: Administrador de Direcciones IP - CLARO
+address:     Av. Juan de Garay, 34, 
+address:     C1063ABN - Buenos Aires - CF
+country:     AR
+phone:       +54 11 4000-3000 [3270]
+owner-c:     JPL3
+tech-c:      JPL3
+abuse-c:     JPL3
+inetrev:     209.99.224/22
+nserver:     DNS1.MILLIC.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     DNS2.MILLIC.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+inetrev:     209.99.228/23
+inetrev:     209.99.230/24
+nserver:     DNS1.MILLIC.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     DNS2.MILLIC.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+inetrev:     209.99.231/24
+nserver:     DNS1.IPNEXT.NET.AR  [lame - not published]
+nsstat:      20170104 QREFUSED
+nslastaa:    20080617
+nserver:     DNS2.IPNEXT.NET.AR  [lame - not published]
+nsstat:      20170104 QREFUSED
+nslastaa:    20080617
+inetrev:     209.99.232/21
+nserver:     DNS1.MILLIC.COM.AR  
+nsstat:      20170101 AA
+nslastaa:    20170101
+nserver:     DNS2.MILLIC.COM.AR  
+nsstat:      20170101 AA
+nslastaa:    20170101
+created:     20010502
+changed:     20150304
+
+nic-hdl:     JPL3
+person:      Administración Direcciones IP
+e-mail:      ipaddressing.ar@CLARO.COM.AR
+address:     Av. Juan de Garay, 34, 
+address:     C1063ABN - Buenos Aires - 
+country:     AR
+phone:       +54 11 4000 [3000]
+created:     20061121
+changed:     20150218
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

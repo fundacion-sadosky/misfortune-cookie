@@ -1,0 +1,62 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-06 03:16:04 (BRST -02:00)
+
+inetnum:     206.221.80/20
+status:      allocated
+aut-num:     N/A
+owner:       SAN VICENTE CABLE Y TELECOMUNICACIONES SRL
+ownerid:     AR-SVCY-LACNIC
+responsible: SAN VICENTE CABLE Y TELECOMUNICACIONES S
+address:     Bv. San Martín, 312, 
+address:     2447 - San Vicente - SF
+country:     AR
+phone:       +54 3492 470301 []
+owner-c:     MAG245
+tech-c:      SVS7
+abuse-c:     SVS7
+inetrev:     206.221.80/20
+nserver:     NSERVER1.CABLENET.NET.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NSERVER2.CABLENET.NET.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+created:     20140519
+changed:     20140519
+
+nic-hdl:     MAG245
+person:      Mauro Gasparini
+e-mail:      mauro@INTERLINK.COM.AR
+address:     Lamadrid, 468, Ed2 P1
+address:     2000 - Roasrio - SF
+country:     AR
+phone:       +54 11 5276650 [111]
+created:     20161012
+changed:     20161012
+
+nic-hdl:     SVS7
+person:      San Vicente Cable y Telecomunicaciones S
+e-mail:      netmanager@CABLENETTV.COM.AR
+address:     San Martin, 312, 
+address:     2447 - San Vicente - SF
+country:     AR
+phone:       +54 3492 470301 []
+created:     20140319
+changed:     20140319
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

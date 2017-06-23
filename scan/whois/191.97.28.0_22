@@ -1,0 +1,45 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-06 00:56:41 (BRST -02:00)
+
+inetnum:     191.97.28/22
+status:      allocated
+aut-num:     N/A
+owner:       La Cordillerana SA
+ownerid:     AR-LCSA8-LACNIC
+responsible: Ariel Bonzi
+address:     Cerro Bayo, 527, Neuquén
+address:      - Villa La Angostura - Ne
+country:     AR
+phone:       +54 294 4488406 []
+owner-c:     GUL19
+tech-c:      GUL19
+abuse-c:     GUL19
+created:     20140114
+changed:     20140114
+
+nic-hdl:     GUL19
+person:      Ariel Bonzi
+e-mail:      noc@TREX-VLA.COM.AR
+address:     Cerro Bayo, 572, 0
+address:     Q8407ANK - Villa La angostura - Ne
+country:     AR
+phone:       +54 294 4488406 [0]
+created:     20131010
+changed:     20160226
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

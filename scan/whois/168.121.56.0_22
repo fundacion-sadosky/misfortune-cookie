@@ -1,0 +1,45 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 21:13:29 (BRST -02:00)
+
+inetnum:     168.121.56/22
+status:      allocated
+aut-num:     N/A
+owner:       GRAMAGLIA VIVIANA MONICA (PC-Online Wireless Solutions)
+ownerid:     AR-POSC-LACNIC
+responsible: PC ONLINE
+address:     Francia, 1109, 
+address:     6700 - Lujan - BA
+country:     AR
+phone:       +54 11 2323437716 []
+owner-c:     PCO7
+tech-c:      PCO7
+abuse-c:     PCO7
+created:     20160215
+changed:     20160215
+
+nic-hdl:     PCO7
+person:      PC Online
+e-mail:      federico@PCONLINE.COM.AR
+address:     Francia, 1109, 
+address:     6700 - Lujan - BA
+country:     AR
+phone:       +54 11 54135895 []
+created:     20151112
+changed:     20151112
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

@@ -1,0 +1,45 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 23:37:20 (BRST -02:00)
+
+inetnum:     190.14.32/22
+status:      allocated
+aut-num:     N/A
+owner:       Atlantica Video Cable S.A.
+ownerid:     AR-AVCS-LACNIC
+responsible: Sr. Celso Brignardello
+address:     Calle 4, 596, 
+address:     7107 - Santa Teresita - BA
+country:     AR
+phone:       +54 2246 420282 []
+owner-c:     FRR9
+tech-c:      FRR9
+abuse-c:     FRR9
+created:     20110216
+changed:     20110216
+
+nic-hdl:     FRR9
+person:      ROQUE, Francisco E.
+e-mail:      froque@AVCDIGITAL.COM.AR
+address:     Calle 4, 596, 
+address:     B7107CG - Santa Teresita - BA
+country:     AR
+phone:       +54 2246 420282 []
+created:     20100913
+changed:     20150507
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

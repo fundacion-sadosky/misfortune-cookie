@@ -1,0 +1,62 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-06 01:32:49 (BRST -02:00)
+
+inetnum:     200.10.201/24
+status:      assigned
+aut-num:     N/A
+owner:       Instituto Nacional de Tecnologia Agropecuaria
+ownerid:     AR-INTA-LACNIC
+responsible: INTA - Gerencia de Informática
+address:     Rivadavia, 1439, 
+address:     C1033AAE - Buenos Aires - 
+country:     AR
+phone:       +054 11 43384634 []
+owner-c:     FEA51
+tech-c:      ALN2
+abuse-c:     ALN2
+inetrev:     200.10.201/24
+nserver:     NS1.INTA.GOV.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     NS2.INTA.GOV.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+created:     19940909
+changed:     19940909
+
+nic-hdl:     ALN2
+person:      Federico Tomasczik
+e-mail:      federico@CORREO.INTA.GOV.AR
+address:     Rivadavia, 1439, 
+address:     C1033AAE - Capital Federal - 
+country:     AR
+phone:       +54 11 43390600 [5206]
+created:     20021212
+changed:     20150527
+
+nic-hdl:     FEA51
+person:      Federico Arostegui
+e-mail:      arostegui.federico@INTA.GOB.AR
+address:     Chile, 460, 
+address:     C1033AAE - Buenos Aires - AR
+country:     AR
+phone:       +54 011 43390600 [5161]
+created:     20151105
+changed:     20151105
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

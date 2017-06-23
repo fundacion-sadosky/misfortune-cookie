@@ -1,0 +1,52 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-06 02:40:16 (BRST -02:00)
+
+inetnum:     200.112.160/19
+status:      allocated
+aut-num:     N/A
+owner:       Broadbandtech S. A.
+ownerid:     AR-BSAB-LACNIC
+responsible: Fernando R. Soto
+address:     Junín, 1596, Piso 6
+address:     C1113AAP - Buenos Aires - 
+country:     AR
+phone:       +54 11 63859100 [108]
+owner-c:     FRS10
+tech-c:      FRS10
+abuse-c:     FRS10
+inetrev:     200.112.160/19
+nserver:     DNS1.BBT.NET.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     DNS2.BBT.NET.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+created:     20050914
+changed:     20100730
+
+nic-hdl:     FRS10
+person:      Fernando Roman Soto
+e-mail:      soto.fernando@BBT.COM.AR
+address:     Junín, 1596, 6
+address:     1113 - Buenos Aires - 1
+country:     AR
+phone:       +54 11 63859100 [128]
+created:     20100712
+changed:     20150318
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

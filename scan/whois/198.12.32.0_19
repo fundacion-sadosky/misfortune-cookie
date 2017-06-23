@@ -1,0 +1,45 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-06 01:04:03 (BRST -02:00)
+
+inetnum:     198.12.32/19
+status:      allocated
+aut-num:     N/A
+owner:       Restel S.A.
+ownerid:     AR-RESA16-LACNIC
+responsible: Jorge Daniel Filippo
+address:     Entre Rios, 575, --
+address:     1879 - Quilmes - BA
+country:     AR
+phone:       +54 11 46340451 []
+owner-c:     JAL54
+tech-c:      JAL54
+abuse-c:     JAL54
+created:     20140430
+changed:     20140430
+
+nic-hdl:     JAL54
+person:      Javier Anibal Lemiña
+e-mail:      javier@HFNET.COM.AR
+address:     Entre Rios, 575, 
+address:     1879 - Quilmes - 
+country:     AR
+phone:       +54 11 50328682 []
+created:     20131108
+changed:     20131108
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

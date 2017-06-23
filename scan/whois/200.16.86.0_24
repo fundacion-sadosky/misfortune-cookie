@@ -1,0 +1,49 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-06 01:44:44 (BRST -02:00)
+
+inetnum:     200.16.86/24
+status:      assigned
+aut-num:     N/A
+owner:       Universidad Catolica Argentina
+ownerid:     AR-UCAR-LACNIC
+responsible: José Aboy
+address:     Av. Alicia Moreau de Justo, 1300, 
+address:     1107 - Buenos Aires - 
+country:     AR
+phone:       +54 11 43490200 [243]
+owner-c:     JOA11
+tech-c:      JOA11
+abuse-c:     JOA11
+inetrev:     200.16.86/24
+nserver:     UL1.SATLINK.COM  
+nsstat:      20170105 AA
+nslastaa:    20170105
+created:     19950321
+changed:     19950321
+
+nic-hdl:     JOA11
+person:      José Aboy
+e-mail:      jose_aboy@UCA.EDU.AR
+address:     Av. Alicia Moreau de Justo, 1300, 
+address:     1107 - Buenos Aires - 
+country:     AR
+phone:       +054 11 43490200 [243]
+created:     20070621
+changed:     20070629
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

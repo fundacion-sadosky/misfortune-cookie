@@ -1,0 +1,56 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 20:33:06 (BRST -02:00)
+
+inetnum:     138.118.112/22
+status:      allocated
+aut-num:     AS20207
+abuse-c:     FER
+owner:       Cable Video Cerrito SRL
+ownerid:     AR-CVCS6-LACNIC
+responsible: Guillermo Sanguinetti
+address:     San Martin, 167, 
+address:     E3122BLC - Entre Rios - 
+country:     AR
+phone:       +54 0343 4890444 []
+owner-c:     GUS45
+tech-c:      GUS45
+abuse-c:     GUS45
+created:     20150520
+changed:     20150520
+
+nic-hdl:     FER
+person:      Feijoo Roberto
+e-mail:      rfeijoo@GIGARED.COM.AR
+address:     Donado, 840, 
+address:     C1427CZB - Capital Federal - BA
+country:     AR
+phone:       +54 11 604006000 [6030]
+created:     20030110
+changed:     20150303
+
+nic-hdl:     GUS45
+person:      Guillermo Sanguinetti
+e-mail:      guillermo.sanguinetti@CERRITODIGITAL.COM.AR
+address:     Avenida 9 de Julio, 347, 
+address:     E3122AED - Cerrito - ER
+country:     AR
+phone:       +54 0343 155161384 []
+created:     20140702
+changed:     20150331
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

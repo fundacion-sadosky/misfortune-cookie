@@ -1,0 +1,52 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-06 01:32:28 (BRST -02:00)
+
+inetnum:     200.10.199/24
+status:      assigned
+aut-num:     N/A
+owner:       ANSES - Administración Nacional de la Seguridad Social
+ownerid:     AR-ANSE1-LACNIC
+responsible: Gabriel Reyna
+address:     Córdoba, 720, 
+address:     C1054AAT - Buenos Aires - 
+country:     AR
+phone:       +54 11 4015-2000 []
+owner-c:     GAR4
+tech-c:      GAR4
+abuse-c:     GAR4
+inetrev:     200.10.199/24
+nserver:     NS01.ANSES.GOB.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     NS02.ANSES.GOB.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+created:     20080114
+changed:     20080114
+
+nic-hdl:     GAR4
+person:      Gabriel Reyna
+e-mail:      ASNTecnico@ANSES.GOV.AR
+address:     Defensa, 192, Piso 1
+address:     C1065AAB - Buenos Aires - 
+country:     AR
+phone:       +54 11 4015-2262 []
+created:     20070627
+changed:     20070627
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

@@ -1,0 +1,52 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-06 02:53:35 (BRST -02:00)
+
+inetnum:     200.124.122/24
+status:      assigned
+aut-num:     N/A
+owner:       AXION ENERGY ARGENTINA S.A.
+ownerid:     AR-AEAS2-LACNIC
+responsible: JOSE ANTONIO ROPERTO
+address:     CARLOS DELLA PAOLERA, 265, 18
+address:     1001 - RETIRO - CABA - BA
+country:     AR
+phone:       +54 11 47057117 []
+owner-c:     LUF9
+tech-c:      LUF9
+abuse-c:     LUF9
+inetrev:     200.124.122/24
+nserver:     NS1.AXIONENERGY.COM  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     NS2.AXIONENERGY.COM  
+nsstat:      20170103 AA
+nslastaa:    20170103
+created:     20111229
+changed:     20131008
+
+nic-hdl:     LUF9
+person:      Lucas Frazzetto
+e-mail:      lucas.g.frazzetto@AXIONENERGY.COM
+address:     Della Paolera, 265, 17
+address:     1001 - buenos aires - BU
+country:     AR
+phone:       +54 11 47057027 []
+created:     20110923
+changed:     20121109
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

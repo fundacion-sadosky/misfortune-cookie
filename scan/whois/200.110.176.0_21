@@ -1,0 +1,45 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-06 02:37:49 (BRST -02:00)
+
+inetnum:     200.110.176/21
+status:      allocated
+aut-num:     N/A
+owner:       IPNEXT S.A.
+ownerid:     AR-IPSA6-LACNIC
+responsible: Augusto Heiderscheid
+address:     Velez Sarsfield, 285, 
+address:     1788 - Avellaneda - BA
+country:     AR
+phone:       +54 11 53684000 []
+owner-c:     AUH
+tech-c:      AUH
+abuse-c:     AUH
+created:     20061215
+changed:     20061215
+
+nic-hdl:     AUH
+person:      Augusto Heiderscheid
+e-mail:      augusto@IPNEXT.NET.AR
+address:     Velez Sarfield, 285, 
+address:     1788 - Avellaneda - 
+country:     AR
+phone:       +54 11 53684000 []
+created:     20060918
+changed:     20110112
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

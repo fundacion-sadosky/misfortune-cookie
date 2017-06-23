@@ -1,0 +1,52 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 22:37:57 (BRST -02:00)
+
+inetnum:     181.174.176/21
+status:      allocated
+aut-num:     N/A
+owner:       GOYA VISIÓN SRL
+ownerid:     AR-GVSR-LACNIC
+responsible: Flores Paulo Sebastian
+address:     José Gómez, 561, 
+address:     3450 - Goya - CO
+country:     AR
+phone:       +54 3777 432500 []
+owner-c:     GVS6
+tech-c:      GVS6
+abuse-c:     GVS6
+inetrev:     181.174.176/21
+nserver:     DNS1.GOYAVISION.COM  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     DNS2.GOYAVISION.COM  
+nsstat:      20170104 AA
+nslastaa:    20170104
+created:     20131126
+changed:     20131126
+
+nic-hdl:     GVS6
+person:      Goya Vision SRL
+e-mail:      goyavision@GOYAVISION.COM
+address:     José Gómez, 561, 
+address:     3450 - Goya - CO
+country:     AR
+phone:       +54 3777 432500 []
+created:     20130906
+changed:     20130906
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

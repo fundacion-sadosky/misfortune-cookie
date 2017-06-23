@@ -1,0 +1,45 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 21:40:22 (BRST -02:00)
+
+inetnum:     170.79.180/22
+status:      allocated
+aut-num:     N/A
+owner:       TECHTRON ARGENTINA S.A.
+ownerid:     AR-TASA66-LACNIC
+responsible: Jesus Morales
+address:     25 de mayo, 485, 
+address:     5570 - San Martin - 
+country:     AR
+phone:       +54 263 4433805 []
+owner-c:     JEM65
+tech-c:      JEM65
+abuse-c:     JEM65
+created:     20161025
+changed:     20161025
+
+nic-hdl:     JEM65
+person:      Jesus Morales
+e-mail:      jesus.morales@CELERARGENTINA.COM.AR
+address:     Nueva cereceto s/n alto salvador, 0, 0
+address:     0 - San Martin - M
+country:     AR
+phone:       +5570 263 154378759 []
+created:     20160813
+changed:     20160813
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

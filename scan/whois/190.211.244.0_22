@@ -1,0 +1,52 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-06 00:51:42 (BRST -02:00)
+
+inetnum:     190.211.244/22
+status:      allocated
+aut-num:     N/A
+owner:       Coop Eléctrica, Serv Publicos, Vivienda Juan Fernandez
+ownerid:     AR-CESP1-LACNIC
+responsible: Minassian Jorge
+address:     Carlos Pellegrini, 315, 
+address:     7011 - Juan N. Fernandez - BS
+country:     AR
+phone:       +54 911 54002244 []
+owner-c:     JOM8
+tech-c:      JOM8
+abuse-c:     JOM8
+inetrev:     190.211.244/22
+nserver:     NS1.JNFNET.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NS3.COMINTECH.US  
+nsstat:      20170104 AA
+nslastaa:    20170104
+created:     20101111
+changed:     20101111
+
+nic-hdl:     JOM8
+person:      Jorge Minassian
+e-mail:      jorge@MINASSIAN.NET
+address:     Carrasco, 750, 
+address:     C1407AVN - Buenos Aires - 
+country:     AR
+phone:       +54 911 6359 [5346]
+created:     20030612
+changed:     20130328
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

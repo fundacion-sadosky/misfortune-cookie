@@ -1,0 +1,45 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 23:01:42 (BRST -02:00)
+
+inetnum:     186.65.108/22
+status:      allocated
+aut-num:     N/A
+owner:       Cooperativa Telefonica OYIKIL LTDA
+ownerid:     AR-CRTU-LACNIC
+responsible: Raúl Roude
+address:     ROQUE SAENZ PEÑA, 16, 
+address:     9407 - Río Turbio - SC
+country:     AR
+phone:       +54 2966 15471866 []
+owner-c:     JLF2
+tech-c:      JLF2
+abuse-c:     JLF2
+created:     20120502
+changed:     20150210
+
+nic-hdl:     JLF2
+person:      Jose Luis Fernandez
+e-mail:      luis.jfernandez@GMAIL.COM
+address:     Roque Saenz Peña, 16, 
+address:     9407 - Rio Turbio - SC
+country:     AR
+phone:       +54 2902 422730 []
+created:     20110613
+changed:     20150314
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

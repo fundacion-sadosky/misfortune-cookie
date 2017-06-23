@@ -1,0 +1,62 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-06 00:47:07 (BRST -02:00)
+
+inetnum:     190.197.128/18
+status:      allocated
+aut-num:     N/A
+owner:       Telefónica Móviles Argentina S.A. (Movistar Argentina)
+ownerid:     AR-MOBE-LACNIC
+responsible: José Luis Pérez Elias
+address:     Ingeniero Huergo, 723, Planta Baja
+address:     C1107AOH - Buenos Aires - 
+country:     AR
+phone:       +54 11 53212593 []
+owner-c:     MBC
+tech-c:      MBC
+abuse-c:     TEA
+inetrev:     190.197.128/18
+nserver:     ANS1.MOVISTAR.NET.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     ANS2.MOVISTAR.NET.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+created:     20080916
+changed:     20140425
+
+nic-hdl:     MBC
+person:      Telefonica Moviles Argentina
+e-mail:      ddr-pii.ar@TELEFONICA.COM
+address:     Cruz del Sur, 2943, 
+address:     C1285AAT - Buenos Aires - CF
+country:     AR
+phone:       +54 11 53210000 []
+created:     20020924
+changed:     20140619
+
+nic-hdl:     TEA
+person:      Telefonica de Argentina
+e-mail:      tasamail.ar@TELEFONICA.COM
+address:     AV. ING. HUERGO, 723, 
+address:     1065 - Capital Federal - BA
+country:     AR
+phone:       +54 11 43335000 []
+created:     20030618
+changed:     20110603
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

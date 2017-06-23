@@ -1,0 +1,90 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-06 01:46:30 (BRST -02:00)
+
+inetnum:     200.16.120/21
+status:      allocated
+aut-num:     AS27826
+abuse-c:     LED18
+owner:       Omnivision Argentina
+ownerid:     AR-OMAR-LACNIC
+responsible: Leandro Ditamo
+address:     Av. Figueroa Alcorta, 7640, 
+address:     C1428BCZ - Buenos Aires - CF
+country:     AR
+phone:       +54 11 53670000 []
+owner-c:     LED18
+tech-c:      LED18
+abuse-c:     LED18
+inetrev:     200.16.120/24
+nserver:     DNS1.PHONEVISION.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     DNS2.PHONEVISION.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+inetrev:     200.16.121/24
+inetrev:     200.16.122/24
+nserver:     DNS1.PHONEVISION.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     DNS2.PHONEVISION.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+inetrev:     200.16.123/24
+inetrev:     200.16.124/24
+nserver:     DNS1.PHONEVISION.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     DNS2.PHONEVISION.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+inetrev:     200.16.125/24
+nserver:     DNS1.PHONEVISION.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     DNS2.PHONEVISION.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+inetrev:     200.16.126/24
+nserver:     DNS1.PHONEVISION.COM.AR  
+nsstat:      20170101 AA
+nslastaa:    20170101
+nserver:     DNS2.PHONEVISION.COM.AR  
+nsstat:      20170101 AA
+nslastaa:    20170101
+inetrev:     200.16.127/24
+nserver:     DNS1.PHONEVISION.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     DNS2.PHONEVISION.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+created:     20060529
+changed:     20160518
+
+nic-hdl:     LED18
+person:      Leandro Ditamo
+e-mail:      leandrod@PHONEVISION.COM.AR
+address:     Av. Pres Figueroa Alcorta, 7640, 
+address:     1428 - CABA - 
+country:     AR
+phone:       +54 911 66176033 []
+created:     20160518
+changed:     20160518
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

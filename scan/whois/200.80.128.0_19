@@ -1,0 +1,140 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-06 02:20:32 (BRST -02:00)
+
+inetnum:     200.80.128/19
+status:      allocated
+aut-num:     N/A
+owner:       Techtel LMDS Comunicaciones Interactivas S.A.
+ownerid:     AR-TLCI-LACNIC
+responsible: Administrador de Direcciones IP - CLARO
+address:     Garay, 34, 
+address:     C1063AB - Buenos Aires - 
+country:     AR
+phone:       +54 11 4000-3000 [3270]
+owner-c:     JPL3
+tech-c:      JPL3
+abuse-c:     JPL3
+inetrev:     200.80.129/24
+nserver:     NS1.TELMEX.NET.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     NS2.TELMEX.NET.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+inetrev:     200.80.132/22
+nserver:     NS1.TELMEX.NET.AR  
+nsstat:      20170105 TIMEOUT
+nslastaa:    20161229
+nserver:     NS2.TELMEX.NET.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+inetrev:     200.80.136/23
+nserver:     NS1.TELMEX.NET.AR  
+nsstat:      20170105 TIMEOUT
+nslastaa:    20170103
+nserver:     NS2.TELMEX.NET.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+inetrev:     200.80.138/24
+nserver:     NS1.TELMEX.NET.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NS2.TELMEX.NET.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+inetrev:     200.80.140/23
+inetrev:     200.80.142/24
+nserver:     NS1.TELMEX.NET.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     NS2.TELMEX.NET.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+inetrev:     200.80.143/24
+inetrev:     200.80.144/23
+nserver:     NS1.TELMEX.NET.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NS2.TELMEX.NET.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+inetrev:     200.80.146/24
+nserver:     NS1.TELMEX.NET.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     NS2.TELMEX.NET.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+inetrev:     200.80.147/24
+nserver:     NS1.TELMEX.NET.AR  
+nsstat:      20170101 AA
+nslastaa:    20170101
+nserver:     NS2.TELMEX.NET.AR  
+nsstat:      20170101 AA
+nslastaa:    20170101
+inetrev:     200.80.149/24
+nserver:     NS1.TELMEX.NET.AR  
+nsstat:      20170102 AA
+nslastaa:    20170102
+nserver:     NS2.TELMEX.NET.AR  
+nsstat:      20170102 AA
+nslastaa:    20170102
+inetrev:     200.80.151/24
+nserver:     DNS1NOC.BBT.NET.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     DNS2NOC.BBT.NET.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+inetrev:     200.80.152/24
+nserver:     NS1.TELMEX.NET.AR  
+nsstat:      20170102 AA
+nslastaa:    20170102
+nserver:     NS2.TELMEX.NET.AR  
+nsstat:      20170102 AA
+nslastaa:    20170102
+inetrev:     200.80.153/24
+nserver:     NS1.TELMEX.NET.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     NS2.TELMEX.NET.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+inetrev:     200.80.155/24
+inetrev:     200.80.156/24
+inetrev:     200.80.158/24
+nserver:     NS1.TELMEX.NET.AR  
+nsstat:      20170102 AA
+nslastaa:    20170102
+nserver:     NS2.TELMEX.NET.AR  
+nsstat:      20170102 AA
+nslastaa:    20170102
+created:     20010814
+changed:     20090316
+
+nic-hdl:     JPL3
+person:      Administración Direcciones IP
+e-mail:      ipaddressing.ar@CLARO.COM.AR
+address:     Av. Juan de Garay, 34, 
+address:     C1063ABN - Buenos Aires - 
+country:     AR
+phone:       +54 11 4000 [3000]
+created:     20061121
+changed:     20150218
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

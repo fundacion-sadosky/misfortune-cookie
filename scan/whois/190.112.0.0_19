@@ -1,0 +1,71 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-06 00:14:04 (BRST -02:00)
+
+inetnum:     190.112.0/19
+status:      allocated
+aut-num:     AS28111
+abuse-c:     DAD8
+owner:       Grupo Solunet SRL
+ownerid:     AR-GSSR-LACNIC
+responsible: Daniel Dianese
+address:     Scalabrini Ortiz, 2498, 
+address:     B1704ERX - Ramos Mejia - 
+country:     AR
+phone:       +54 11 4656-6327 []
+owner-c:     DAD8
+tech-c:      DAD8
+abuse-c:     GUA10
+inetrev:     190.112.4/22
+nserver:     DNS1.SOLUNET.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     DNS2.SOLUNET.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+inetrev:     190.112.8/21
+inetrev:     190.112.16/20
+nserver:     DNS1.SOLUNET.COM.AR  
+nsstat:      20170102 AA
+nslastaa:    20170102
+nserver:     DNS2.SOLUNET.COM.AR  
+nsstat:      20170102 AA
+nslastaa:    20170102
+created:     20140515
+changed:     20141121
+
+nic-hdl:     DAD8
+person:      Daniel Dianese
+e-mail:      ddianese@SOLUNET.COM.AR
+address:     Scalabrini Ortiz, 2498, 
+address:     B1704ERX - Ramos Mejia - 
+country:     AR
+phone:       +054 11 46566327 []
+created:     20080612
+changed:     20130808
+
+nic-hdl:     GUA10
+person:      Gustavo Alonso
+e-mail:      galonso@SOLUNET.COM.AR
+address:     Scalabrini Ortiz, 2498, 3B
+address:     1704 - Ramos Mejia - BA
+country:     AR
+phone:       +054 011 44645314 [35]
+created:     20060719
+changed:     20150514
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

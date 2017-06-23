@@ -1,0 +1,45 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 23:36:59 (BRST -02:00)
+
+inetnum:     190.14.0/19
+status:      allocated
+aut-num:     N/A
+owner:       Desarrollos Digitales S. A.
+ownerid:     AR-DDSA3-LACNIC
+responsible: Fernando Peisajovich
+address:     Lavalle, 1394, 5º piso
+address:     C1048AAH - Capital Federal - BA
+country:     AR
+phone:       +054 11 5811-1787 []
+owner-c:     DED
+tech-c:      DED
+abuse-c:     DED
+created:     20060203
+changed:     20060203
+
+nic-hdl:     DED
+person:      CHT S.A.
+e-mail:      fernando@PEISAJOVICH.COM
+address:     Lavalle, 1394, 5
+address:     C1048AAH - Capital federal - BA
+country:     AR
+phone:       +0054 11 58111787 []
+created:     20050629
+changed:     20140215
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

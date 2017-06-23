@@ -1,0 +1,52 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-06 01:00:11 (BRST -02:00)
+
+inetnum:     191.102.40/21
+status:      allocated
+aut-num:     N/A
+owner:       COOP DE TELECOM.,DE SERVICIOS MULTIPLES,VIVIENDA,PROVISION Y CONSUMO DE FUNES LTDA.
+ownerid:     AR-CTFU-LACNIC
+responsible: Alejandro Alberto Luna
+address:     Juan Elorza, 1776, -
+address:     2132 - Funes - SF
+country:     AR
+phone:       +54 341 4933240 []
+owner-c:     AAL
+tech-c:      AAL
+abuse-c:     AAL
+inetrev:     191.102.40/21
+nserver:     DNS-01.FUNESCOOP.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     DNS-02.FUNESCOOP.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+created:     20140307
+changed:     20140307
+
+nic-hdl:     AAL
+person:      Alejandro Alberto Luna
+e-mail:      aluna@FUNESCOOP.COM.AR
+address:     Angelomé, 1864, 
+address:     2132 - Funes - 
+country:     AR
+phone:       +54 341 4931102 []
+created:     20040211
+changed:     20040211
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

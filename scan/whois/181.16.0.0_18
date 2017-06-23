@@ -1,0 +1,52 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 22:26:48 (BRST -02:00)
+
+inetnum:     181.16.0/18
+status:      allocated
+aut-num:     N/A
+owner:       Ver Tv S.A.
+ownerid:     AR-VTSA8-LACNIC
+responsible: Ariel Hernán Cuadrado
+address:     Pte. Peron, 1783, 
+address:     1663 - San Miguel - BA
+country:     AR
+phone:       +54 11 44697490 []
+owner-c:     JCN
+tech-c:      JCN
+abuse-c:     JCN
+inetrev:     181.16.0/18
+nserver:     DNS1.VERTV.NET.AR  
+nsstat:      20170101 AA
+nslastaa:    20170101
+nserver:     DNS2.VERTV.NET.AR  
+nsstat:      20170101 AA
+nslastaa:    20170101
+created:     20110104
+changed:     20110104
+
+nic-hdl:     JCN
+person:      Ariel Roberto Maldonado
+e-mail:      lacnic@TELERED.COM.AR
+address:     Pte Perón, 1783, 
+address:     B1663GHG - San Miguel - BA
+country:     AR
+phone:       +54 11 4469 [7491]
+created:     20090127
+changed:     20150410
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

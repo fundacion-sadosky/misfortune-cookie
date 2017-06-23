@@ -1,0 +1,55 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-06 15:17:20 (BRST -02:00)
+
+inetnum:     201.254/16
+status:      allocated
+aut-num:     N/A
+owner:       Telefonica de Argentina
+ownerid:     AR-TEAR7-LACNIC
+responsible: José Luis Pérez Elias
+address:     AV. ING. HUERGO, 723, GERENCIA DE REQUERIMIENTOS JUDICIALES
+address:     1065 - Buenos Aires - CF
+country:     AR
+phone:       +54  8102220102 []
+owner-c:     TEA
+tech-c:      TEA
+abuse-c:     TEA
+inetrev:     201.254/16
+nserver:     DNS1.MRSE.COM.AR  
+nsstat:      20170106 AA
+nslastaa:    20170106
+nserver:     DNS2.MRSE.COM.AR  
+nsstat:      20170106 AA
+nslastaa:    20170106
+nserver:     DNS3.MRSE.COM.AR  
+nsstat:      20170106 AA
+nslastaa:    20170106
+created:     20040317
+changed:     20040317
+
+nic-hdl:     TEA
+person:      Telefonica de Argentina
+e-mail:      tasamail.ar@TELEFONICA.COM
+address:     AV. ING. HUERGO, 723, 
+address:     1065 - Capital Federal - BA
+country:     AR
+phone:       +54 11 43335000 []
+created:     20030618
+changed:     20110603
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

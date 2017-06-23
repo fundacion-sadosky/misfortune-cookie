@@ -1,0 +1,50 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-06 01:11:03 (BRST -02:00)
+
+inetnum:     200.0.208/21
+status:      allocated
+aut-num:     N/A
+owner:       InterServer SA
+ownerid:     AR-INSA2-LACNIC
+address:     Av. de Mayo 881 - Piso 3
+address:     Buenos Aires
+country:     AR
+owner-c:     MJD3-ARIN
+inetrev:     200.0.211/24
+nserver:     NS1.ISOL.NET.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NS1.ISOL.NET  [lame - not published]
+nsstat:      20170104 UDN
+nslastaa:    20030825
+created:     19960620
+changed:     19971125
+source:      ARIN-HISTORIC
+
+nic-hdl:     MJD3-ARIN
+person:      Mario Dominguez
+e-mail:      mariojd@ISOL.NET
+address:     InterServer Inc.
+address:     Genesis Yachts Corp.
+address:     6538 Collins Ave. Suite 203
+address:     Miami Beach, FL 33141
+country:     US
+phone:       +1 305 495 7675
+source:      ARIN-HISTORIC
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

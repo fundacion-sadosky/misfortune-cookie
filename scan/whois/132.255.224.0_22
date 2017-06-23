@@ -1,0 +1,46 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 20:19:52 (BRST -02:00)
+
+inetnum:     132.255.224/22
+status:      allocated
+aut-num:     AS263716
+abuse-c:     SIS36
+owner:       SIDECOM SRL
+ownerid:     AR-SISR21-LACNIC
+responsible: Luciano Olivier
+address:     Belgrano, 346, 
+address:     5730 - Villa Mercedes - SL
+country:     AR
+phone:       +54 2657 440404 []
+owner-c:     SIS36
+tech-c:      SIS36
+abuse-c:     SIS36
+created:     20141212
+changed:     20141212
+
+nic-hdl:     SIS36
+person:      SIDECOM SRL
+e-mail:      luciano@SIDECOM.COM.AR
+address:     Belgrano 346, 346, 0
+address:     5730 - Villa Mercedes - SL
+country:     AR
+phone:       +54 2657 440400 []
+created:     20130731
+changed:     20150401
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

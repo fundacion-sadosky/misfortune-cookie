@@ -1,0 +1,52 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 22:41:27 (BRST -02:00)
+
+inetnum:     181.192.64/20
+status:      allocated
+aut-num:     N/A
+owner:       CESOP
+ownerid:     AR-CTSB1-LACNIC
+responsible: Patricio Martinez
+address:     Mitre, 2660, -
+address:     7111 - San Bernardo - BA
+country:     AR
+phone:       +54 2255 570210 []
+owner-c:     NEB2
+tech-c:      NEB2
+abuse-c:     NEB2
+inetrev:     181.192.64/20
+nserver:     NS1.CESOP.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NS2.CESOP.COM.AR  [lame - not published]
+nsstat:      20170104 TIMEOUT
+nslastaa:    20161001
+created:     20130606
+changed:     20130606
+
+nic-hdl:     NEB2
+person:      Nestor Barros
+e-mail:      nbarros@COTEL.COM.AR
+address:     Paseo 113 y Av. 3, , 
+address:     7165 - Villa Gesell - Bu
+country:     AR
+phone:       +54 2255 570210 []
+created:     20120723
+changed:     20120808
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

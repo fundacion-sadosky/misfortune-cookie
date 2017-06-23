@@ -1,0 +1,78 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 20:25:47 (BRST -02:00)
+
+inetnum:     138.59.244/22
+status:      allocated
+aut-num:     AS28100
+abuse-c:     CVC
+owner:       Coop. de Serv. Pub. y Sociales Villa Santa Rosa Ltda.
+ownerid:     AR-CSPY-LACNIC
+responsible: Bravo Matias Saul
+address:     9 de Julio, 458, 
+address:     X5133ABJ - Villa Santa Rosa - CB
+country:     AR
+phone:       +54 3574 480259 []
+owner-c:     CSR7
+tech-c:      CSR7
+abuse-c:     CSR7
+inetrev:     138.59.244/24
+nserver:     NS1.DAT32.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+nserver:     NS1.COOPINET.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+inetrev:     138.59.245/24
+inetrev:     138.59.246/24
+nserver:     NS1.DAT32.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NS1.COOPINET.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+inetrev:     138.59.247/24
+nserver:     NS1.DAT32.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     NS1.COOPINET.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+created:     20150406
+changed:     20150406
+
+nic-hdl:     CSR7
+person:      Coop. Serv. Pub. y Soc. Villa Santa Rosa
+e-mail:      computos@COOP-SA.COM.AR
+address:     9 de Julio, 458, 
+address:     X5133ABJ - Villa Santa Rosa - AR
+country:     AR
+phone:       +0054 3574 480259 []
+created:     20130715
+changed:     20150424
+
+nic-hdl:     CVC
+person:      Cooperativa Villa del Rosario Coovilros
+e-mail:      covinter@COVINTER.COM.AR
+address:     Jose Mateo Luque, 1006, 
+address:     X5963DMV - Villa del Rosario - CB
+country:     AR
+phone:       +54 3573 453000 [111]
+created:     20080915
+changed:     20111216
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

@@ -1,0 +1,45 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 21:06:52 (BRST -02:00)
+
+inetnum:     167.250.116/22
+status:      allocated
+aut-num:     N/A
+owner:       Coop. LTDA. de Cons. Pop. de Electricidad y Serv.Anexos de Bustinza
+ownerid:     AR-CLCP1-LACNIC
+responsible: Sala Osvaldo
+address:     Av. Camino de la posta, 633, 
+address:     2501 - Bustinza - SF
+country:     AR
+phone:       +54 3471 497014 []
+owner-c:     CLY2
+tech-c:      CLY2
+abuse-c:     CLY2
+created:     20151214
+changed:     20151214
+
+nic-hdl:     CLY2
+person:      Grisleda Magnano
+e-mail:      coopbust@STEELCDG.COM.AR
+address:     Av. Camino de la Posta, 633, 
+address:     2501 - Bustinza - 
+country:     AR
+phone:       +54 0347 497014 [497243]
+created:     20151014
+changed:     20151014
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

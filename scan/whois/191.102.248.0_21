@@ -1,0 +1,70 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-06 01:00:53 (BRST -02:00)
+
+inetnum:     191.102.248/21
+status:      allocated
+aut-num:     AS262934
+abuse-c:     GJN3
+owner:       IP·RED
+ownerid:     AR-IPRE-LACNIC
+responsible: Guillermo Javier Nardoni
+address:     Maipú 245, , 
+address:     2127 - General Lagos - SF
+country:     AR
+phone:       +54 341 4760459 []
+owner-c:     GJN3
+tech-c:      GJN3
+abuse-c:     GJN3
+inetrev:     191.102.248/24
+nserver:     DNS1.BUNARSRL.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     DNS2.BUNARSRL.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+inetrev:     191.102.249/24
+nserver:     DNS1.BUNARSRL.COM.AR  
+nsstat:      20161231 AA
+nslastaa:    20161231
+nserver:     DNS2.BUNARSRL.COM.AR  
+nsstat:      20161231 AA
+nslastaa:    20161231
+inetrev:     191.102.250/24
+inetrev:     191.102.251/24
+inetrev:     191.102.252/24
+inetrev:     191.102.253/24
+nserver:     DNS1.BUNARSRL.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     DNS2.BUNARSRL.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+created:     20140328
+changed:     20140328
+
+nic-hdl:     GJN3
+person:      Guillermo Javier Nardoni
+e-mail:      gnardoni@IPRED.COM.AR
+address:     Maipú, 245, 
+address:     2126 - General Lagos - SF
+country:     AR
+phone:       +54 341 4760459 []
+created:     20120223
+changed:     20160721
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

@@ -1,0 +1,72 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 23:55:31 (BRST -02:00)
+
+inetnum:     190.103.80/22
+status:      allocated
+aut-num:     N/A
+owner:       Tecnologia WorkOut S.A.
+ownerid:     AR-TWSA3-LACNIC
+responsible: Santos Jorge Ariel
+address:     Av. Belgrano, 430, 10º Oficin D
+address:     C1092AAR - Buenos Aires - CF
+country:     AR
+phone:       +54 11 48784450 [118]
+owner-c:     TWS
+tech-c:      TWS
+abuse-c:     TWS
+inetrev:     190.103.80/24
+nserver:     FRODO.TWKO.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     SAM.TWKO.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     SCUBA.TWKO.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     DIVING.TWKO.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+inetrev:     190.103.81/24
+inetrev:     190.103.82/23
+nserver:     FRODO.TWKO.COM.AR  
+nsstat:      20170102 AA
+nslastaa:    20170102
+nserver:     SAM.TWKO.COM.AR  
+nsstat:      20170102 AA
+nslastaa:    20170102
+nserver:     SCUBA.TWKO.COM.AR  
+nsstat:      20170102 AA
+nslastaa:    20170102
+nserver:     DIVING.TWKO.COM.AR  
+nsstat:      20170102 AA
+nslastaa:    20170102
+created:     20120116
+changed:     20120116
+
+nic-hdl:     TWS
+person:      Jorge Ariel Santos
+e-mail:      noc@TWKO.COM.AR
+address:     Poligono Industrial de Berisso, 120, 
+address:     1923 - BERISSO - BA
+country:     AR
+phone:       +054 0221 6441170 [1172]
+created:     20060921
+changed:     20161107
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

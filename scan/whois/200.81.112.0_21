@@ -1,0 +1,74 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-06 02:24:08 (BRST -02:00)
+
+inetnum:     200.81.112/21
+status:      allocated
+aut-num:     N/A
+owner:       Inteliglobe Argetina SRL
+ownerid:     AR-IASR1-LACNIC
+responsible: Federico Garcia
+address:     Lavalle, 362, 6to piso
+address:     C1047AAH - CABA - BA
+country:     AR
+phone:       +54 11 52720294 []
+owner-c:     FEG57
+tech-c:      FEG57
+abuse-c:     FEG57
+inetrev:     200.81.112/24
+nserver:     NS1.INTELIGLOBE.NET  
+nsstat:      20170104 AA
+nslastaa:    20170104
+inetrev:     200.81.113/24
+inetrev:     200.81.114/24
+nserver:     NS1.INTELIGLOBE.NET  
+nsstat:      20170103 AA
+nslastaa:    20170103
+inetrev:     200.81.115/24
+nserver:     NS1.INTELIGLOBE.NET  
+nsstat:      20170104 AA
+nslastaa:    20170104
+inetrev:     200.81.116/24
+nserver:     NS1.INTELIGLOBE.NET  
+nsstat:      20170105 AA
+nslastaa:    20170105
+inetrev:     200.81.117/24
+nserver:     NS1.INTELIGLOBE.NET  
+nsstat:      20170104 AA
+nslastaa:    20170104
+inetrev:     200.81.118/24
+nserver:     NS1.INTELIGLOBE.NET  
+nsstat:      20161229 AA
+nslastaa:    20161229
+inetrev:     200.81.119/24
+nserver:     NS1.INTELIGLOBE.NET  
+nsstat:      20170105 AA
+nslastaa:    20170105
+created:     20080925
+changed:     20151120
+
+nic-hdl:     FEG57
+person:      Federico Garcia
+e-mail:      fgarcia@IGNETWORKS.COM
+address:     Lavalle, 362, 6to piso
+address:     C1047AAH - CABA - BA
+country:     AR
+phone:       +54 11 52720294 [294]
+created:     20151119
+changed:     20151119
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

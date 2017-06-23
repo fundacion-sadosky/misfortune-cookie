@@ -1,0 +1,52 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 22:50:53 (BRST -02:00)
+
+inetnum:     186.1.240/21
+status:      allocated
+aut-num:     N/A
+owner:       NORTECH
+ownerid:     AR-NORT2-LACNIC
+responsible: Leandro Piccini
+address:     Av mosconi, 2925, OF 4
+address:     1419 - Buenos Aires - CF
+country:     AR
+phone:       +54 11 66329000 []
+owner-c:     LEP8
+tech-c:      LEP8
+abuse-c:     LEP8
+inetrev:     186.1.240/21
+nserver:     NS1.NORTECH.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+nserver:     NS2.NORTECH.COM.AR  
+nsstat:      20170104 AA
+nslastaa:    20170104
+created:     20110818
+changed:     20110818
+
+nic-hdl:     LEP8
+person:      Leandro Piccini
+e-mail:      lpiccini@NORTECH.COM.AR
+address:     Mosconi, 2925, 3
+address:     1419 - Buenos Aires - BS
+country:     AR
+phone:       +54 11 4574 [1942]
+created:     20100610
+changed:     20110928
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

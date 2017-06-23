@@ -1,0 +1,45 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 21:28:53 (BRST -02:00)
+
+inetnum:     168.205.184/22
+status:      allocated
+aut-num:     N/A
+owner:       Coop. de Prov. de Servicios Públicos y Vivienda San Guillermo LTDA
+ownerid:     AR-CPYV-LACNIC
+responsible: Gili Luciano Luis
+address:     Avenida San Martín, 52, -
+address:     - - San Guillermo (Santa Fé) - 
+country:     AR
+phone:       +54 3562 466444 []
+owner-c:     CTG7
+tech-c:      CTG7
+abuse-c:     CTG7
+created:     20160308
+changed:     20160308
+
+nic-hdl:     CTG7
+person:      Cooperativa Telefónica San Guillermo
+e-mail:      soptec@SANGUILLERMO.COM.AR
+address:     Av. San Martin, 52, 
+address:     2347 - san guillermo - 
+country:     AR
+phone:       +54 3562 466444 []
+created:     20140609
+changed:     20160205
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

@@ -1,0 +1,62 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-06 01:15:15 (BRST -02:00)
+
+inetnum:     200.3.96/20
+status:      assigned
+aut-num:     N/A
+owner:       PETROBRAS ENERGIA S.A.
+ownerid:     AR-CNPC-LACNIC
+responsible: Administracion tecnica de DNS
+address:     Maipu, 1, 
+address:     1084 - Capital Federal - BA
+country:     AR
+phone:       +54 11 4344 [6368]
+owner-c:     ATD
+tech-c:      MAS33
+abuse-c:     MAS33
+inetrev:     200.3.96/20
+nserver:     NS1.ESPACIOPETROBRAS.COM  
+nsstat:      20170104 TIMEOUT
+nslastaa:    20161231
+nserver:     NS2.ESPACIOPETROBRAS.COM  
+nsstat:      20170104 AA
+nslastaa:    20170104
+created:     19950427
+changed:     20110926
+
+nic-hdl:     ATD
+person:      Administracion tecnica de DNS
+e-mail:      dns@PETROBRAS.COM
+address:     Maipu, 1, 
+address:     C1084ABA - Buenos Aires - BA
+country:     AR
+phone:       +54 11 4344-6000 []
+created:     20051027
+changed:     20071122
+
+nic-hdl:     MAS33
+person:      Mariano Striani
+e-mail:      mariano.striani@PETROBRAS.COM
+address:     Maipu, 1, 12
+address:     1084 - Capital Federal - BA
+country:     AR
+phone:       +54 11 43447005 [7005]
+created:     20091203
+changed:     20160713
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

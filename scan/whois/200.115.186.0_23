@@ -1,0 +1,55 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-06 02:45:11 (BRST -02:00)
+
+inetnum:     200.115.186/23
+status:      assigned
+aut-num:     N/A
+owner:       IDT CORPORATION DE ARGENTINA S.A.
+ownerid:     AR-ICAS-LACNIC
+responsible: E&O Cala
+address:     Cabildo, 2677, piso 8
+address:     1428 - Buenos Aires - BA
+country:     AR
+phone:       +54 11 53549000 [9013]
+owner-c:     NEE9
+tech-c:      GNO
+abuse-c:     GNO
+created:     20121017
+changed:     20150618
+
+nic-hdl:     GNO
+person:      gnoc operation
+e-mail:      gnoc@IDT.NET
+address:     Broad Street, 500, 
+address:     07102 - NEW JERSEY - NW
+country:     US
+phone:       +1 973 4384662 []
+created:     20150617
+changed:     20150618
+
+nic-hdl:     NEE9
+person:      IDT Network Engineering
+e-mail:      ipadmin@IDT.NET
+address:     Broad Street, 520, 
+address:     07102 - Newark - NJ
+country:     US
+phone:       +1 973 4384662 []
+created:     20150624
+changed:     20150626
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

@@ -1,0 +1,49 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 23:17:24 (BRST -02:00)
+
+inetnum:     186.190.176/20
+status:      allocated
+aut-num:     N/A
+owner:       NODOCOOP Federación de Cooperativas Ltda.
+ownerid:     AR-NFCL-LACNIC
+responsible: Mario Alberto Galindo
+address:     Av. Moreno, 53, 
+address:     B8160BJA - Buenos Aires - TO
+country:     AR
+phone:       +54 291 4941142 []
+owner-c:     MAG32
+tech-c:      MAG32
+abuse-c:     MAG32
+inetrev:     186.190.178/24
+nserver:     NS.DEVILLAMAZA.COM.AR  
+nsstat:      20170103 AA
+nslastaa:    20170103
+created:     20110427
+changed:     20110427
+
+nic-hdl:     MAG32
+person:      Mario Alberto Galindo
+e-mail:      tecnica@NODOCOOP.COM.AR
+address:     Av. Moreno, 53, 
+address:     B8160BJA - Buenos Aires - TO
+country:     AR
+phone:       +54 291 4941142 []
+created:     20080304
+changed:     20080304
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

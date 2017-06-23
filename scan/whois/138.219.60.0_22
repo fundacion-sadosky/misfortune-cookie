@@ -1,0 +1,59 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2017-01-05 20:49:07 (BRST -02:00)
+
+inetnum:     138.219.60/22
+status:      allocated
+aut-num:     N/A
+owner:       SGS VALLEVISION SRL
+ownerid:     AR-SVSR-LACNIC
+responsible: Marcos Agustin Schoninger
+address:     Avenida de Las Americas, 574, 
+address:     3364 - Aristóbulo del Valle - Mi
+country:     AR
+phone:       +54 3755 470700 []
+owner-c:     SVS8
+tech-c:      SVS8
+abuse-c:     SVS8
+inetrev:     138.219.60/23
+nserver:     NS1.VALLEVISION.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+nserver:     NS2.VALLEVISION.COM.AR  
+nsstat:      20170105 AA
+nslastaa:    20170105
+inetrev:     138.219.62/23
+nserver:     NS1.VALLEVISION.COM.AR  
+nsstat:      20170102 AA
+nslastaa:    20170102
+nserver:     NS2.VALLEVISION.COM.AR  
+nsstat:      20170102 AA
+nslastaa:    20170102
+created:     20150810
+changed:     20150810
+
+nic-hdl:     SVS8
+person:      Agustin Schoninger
+e-mail:      tecnico1@VALLEVISION.COM.AR
+address:     Avenida de Las Americas, 574, 
+address:     3364 - Aristobulo del Valle - 
+country:     AR
+phone:       +54 3755 470700 [548625]
+created:     20150612
+changed:     20160731
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+
