@@ -8,7 +8,7 @@ http://www.ipdeny.com/ipblocks/data/countries/ar.zone
 
 Nearly 220.000 HTTP servers were found that reported to have the vulnerable version, ``RomPager/4.07``. The big majority was found in a non standard port (30005), that corresponds to modems from Arnet (that is operated by Telecom Argentina).
 
-From the search space of 19M addresses of the possible IPs that had been leased to argentina (desarrollar mejor, nombrar al LACNIC), the standard 7547 port and the non standard 30005 port where scanned, finding that 2.863.653 where open. Then a banner grabbing was performed to find the vulnerable version of the HTTP server (``RomPager/4.07``), reporting 220.738 devices with this vulnerable version.
+From the search space of 19M addresses of the possible IPs that had been leased to argentina (as reported by the `LACNIC <http://www.lacnic.net>`_ `whois <./whois/>`_), the standard 7547 port and the non standard 30005 port where scanned, finding that 2.863.653 where open. Then a banner grabbing was performed to find the vulnerable version of the HTTP server (``RomPager/4.07``), reporting 220.738 devices with this vulnerable version.
 
 All the logic is summarized in `main.py <../src/scan/main.py>`_. The scan results, in an ``sqlite`` database, are available for `download <https://github.com/programa-stic/misfortune-cookie-analysis/releases/download/0.1.0/scan.sqlite.tar.gz>`_.
 
