@@ -9,7 +9,7 @@ This is an analysis of a vulnerability (`CVE-2014-9222 <https://cve.mitre.org/cg
 	This severe vulnerability allows an attacker to remotely
 	take over the device with administrative privileges.
 
-Alought the bug that causes the problem has been fixed many years ago, a recent scan in Argentina reveals that the vulnerable version of the HTTP server is still deployed on nearly 220.000 devices (mainly belonging to Telecom Argentina).
+Alought the bug that causes the problem has been fixed many years ago, a recent `scan in Argentina <./scan>`_ reveals that the vulnerable version of the HTTP server is still deployed on nearly 220.000 devices (mainly belonging to Telecom Argentina).
 
 The bug was presented in a `CCC talk <https://www.youtube.com/watch?v=W455bd6js0s>`_ by Lior Oppenheim and Shahar Tal. Other analysis of the bug worth reading are:
 

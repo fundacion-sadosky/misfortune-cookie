@@ -10,7 +10,7 @@ Nearly 220.000 HTTP servers were found that reported to have the vulnerable vers
 
 From the search space of 19M addresses of the possible IPs that had been leased to argentina (desarrollar mejor, nombrar al LACNIC), the standard 7547 port and the non standard 30005 port where scanned, finding that 2.863.653 where open. Then a banner grabbing was performed to find the vulnerable version of the HTTP server (``RomPager/4.07``), reporting 220.738 devices with this vulnerable version.
 
-All the logic is summarized in ```src/scan/main.py`` <../src/scan/main.py>`_.
+All the logic is summarized in `main.py <../src/scan/main.py>`_.
 
 
 Setup
@@ -28,7 +28,7 @@ With a clear documentation, the installation was performed according to the READ
 
 	sudo ../masscan/bin/masscan -c scan/scan.conf
 
-All the configuration options used are in the configuration file (including the IPs range) in ```./scan.conf`` <./scan.conf>`_.
+All the configuration options used are in the configuration file (including the IPs range) in `scan.conf <./scan.conf>`_.
 
 A rate of 3000 packets per second (with 2 retries) was chosen, to balance scan speed with avoiding network saturation (the scan lasted several hours which was acceptable for the current target).
 
