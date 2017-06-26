@@ -56,8 +56,8 @@ To find the vulnerable devices in the database:
        custom 30005) and owner of the IP block (providing also totals.) */
     SELECT
         count(*) as Total,
-        sum(port_7547)  as "Port  7547", /* Defined in the nested SELECT. */
-        sum(port_30005) as "Port 30005", /* Defined in the nested SELECT. */
+        sum(port_7547)  as "Port  7547", /* Defined in the */
+        sum(port_30005) as "Port 30005", /* nested SELECT. */
         owner,
         country
     FROM (
