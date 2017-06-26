@@ -35,7 +35,7 @@ A rate of 3000 packets per second (with 2 retries) was chosen, to balance scan s
 Banner grabbing
 ---------------
 
-Masscan provides a banner grabbing feature but it didn't work as expected (missing many banners, probably due to a misconfiguration). The banner grabbing functionality was implemented with a custom python script using the requests package.
+Masscan provides a banner grabbing feature but it didn't work as expected (missing many banners, probably due to a misconfiguration issue). The banner grabbing functionality was implemented with a `custom python script <../src/scan/banner_grabber.py>`_ using the `requests <https://github.com/requests/requests>`_ package.
 
 
 SQLite
@@ -56,8 +56,8 @@ To find the vulnerable devices in the database:
        custom 30005) and owner of the IP block (providing also totals.) */
     SELECT
         count(*) as Total,
-        sum(port_7547)  as "Port  7547", /* Defined in the */
-        sum(port_30005) as "Port 30005", /* nested SELECT. */
+        sum(port_7547)  as "Port  7547", /* Defined in the   */
+        sum(port_30005) as "Port 30005", /*   nested SELECT. */
         owner,
         country
     FROM (
