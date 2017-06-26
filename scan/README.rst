@@ -47,29 +47,29 @@ To find the vulnerable devices in the database:
 
 .. code-block:: SQL
 
-	SELECT * FROM scan where scan.http_banner like '%RomPager/4.07%'
-	/* Simple command to list all vulnerable modems. (Actually the
-	   vulnerable versions range is 4.07-4.34, but in practice all
-	   were either 4.07 or 4.51.) */
+    SELECT * FROM scan where scan.http_banner like '%RomPager/4.07%'
+    /* Simple command to list all vulnerable modems. (Actually the
+       vulnerable versions range is 4.07-4.34, but in practice all
+       were either 4.07 or 4.51.) */
 
-	/* Aggregate all modems grouped by the port number (standard 7547 or
-	   custom 30005) and owner of the IP block (providing also totals.) */
-	SELECT
-		count(*) as Total,
-		sum(port_7547)  as "Port  7547", /* Defined in the nested SELECT. */
-		sum(port_30005) as "Port 30005", /* Defined in the nested SELECT. */
-		owner,
-		country
-	FROM (
-		SELECT
-			ip_blocks.ownerid, /* Group by owner of IP block. */
-			ip_blocks.owner,
-			ip_blocks.country,
-			case scan.port when 7547 then 1 else 0 end as port_7547,
-			case scan.port when 30005 then 1 else 0 end as port_30005
-		FROM scan
-		INNER JOIN ip_blocks ON scan.ip_block_id == ip_blocks.id
-		WHERE scan.http_banner like '%RomPager/4.07%'
-	)
-	GROUP BY ownerid
-	ORDER BY total DESC
+    /* Aggregate all modems grouped by the port number (standard 7547 or
+       custom 30005) and owner of the IP block (providing also totals.) */
+    SELECT
+        count(*) as Total,
+        sum(port_7547)  as "Port  7547", /* Defined in the nested SELECT. */
+        sum(port_30005) as "Port 30005", /* Defined in the nested SELECT. */
+        owner,
+        country
+    FROM (
+        SELECT
+            ip_blocks.ownerid, /* Group by owner of IP block. */
+            ip_blocks.owner,
+            ip_blocks.country,
+            case scan.port when 7547 then 1 else 0 end as port_7547,
+            case scan.port when 30005 then 1 else 0 end as port_30005
+        FROM scan
+        INNER JOIN ip_blocks ON scan.ip_block_id == ip_blocks.id
+        WHERE scan.http_banner like '%RomPager/4.07%'
+    )
+    GROUP BY ownerid
+    ORDER BY total DESC
