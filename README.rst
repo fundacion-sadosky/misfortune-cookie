@@ -1,5 +1,5 @@
 ****************************************
-Misfortune cookie vulnerability analysys
+Misfortune Cookie vulnerability analysys
 ****************************************
 
 This is an analysis of the `Misfortune Cookie vulnerability <http://mis.fortunecook.ie/>`_ (`CVE-2014-9222 <https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2014-9222>`_) found by Check Point in an HTTP server firmware that runs on many home modems, their report states:
@@ -17,6 +17,10 @@ The bug was presented in a `CCC talk <https://www.youtube.com/watch?v=W455bd6js0
 * `Porting the Misfortune Cookie Exploit: A Look into Router Exploitation Using the TD-8817 <https://www.nccgroup.trust/globalassets/our-research/uk/whitepapers/2015/10/porting-the-misfortune-cookie-exploit-whitepaper.pdf>`_ by Grant Willcox
 
 -----
+
+***********************************************
+Análisis de la vulnerabilidad Misfortune Cookie
+***********************************************
 
 Este es un análisis de la vulnerabilidad llamada `Misfortune Cookie <http://mis.fortunecook.ie/>`_ (`CVE-2014-9222 <https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2014-9222>`_) descubierta por Check Point en el firmware que implementa un servidor HTTP que corre en muchos modems hogareños, su reporte dice:
 
