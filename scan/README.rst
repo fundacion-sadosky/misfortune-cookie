@@ -2,7 +2,7 @@
 Scan of Argentina IP blocks
 ***************************
 
-Using the `masscan <https://github.com/robertdavidgraham/masscan>`_ tool, a scan for the vulnerable version of the RomPager server was done for all IPv4 argentian addresses, as reported from: 
+Using the `masscan <https://github.com/robertdavidgraham/masscan>`_ tool, a scan for the vulnerable version of the RomPager server was done for all IPv4 argentinian addresses, as reported from: 
 
 http://www.ipdeny.com/ipblocks/data/countries/ar.zone
 
