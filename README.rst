@@ -16,7 +16,7 @@ The bug was presented in a `CCC talk <https://www.youtube.com/watch?v=W455bd6js0
 * `Misfortune Cookie (CVE-2014-9222) Demystified <http://cawanblog.blogspot.com.ar/2015/02/misfortune-cookie-cve-2014-9222.html>`_ by cawan
 * `Porting the Misfortune Cookie Exploit: A Look into Router Exploitation Using the TD-8817 <https://www.nccgroup.trust/globalassets/our-research/uk/whitepapers/2015/10/porting-the-misfortune-cookie-exploit-whitepaper.pdf>`_ by Grant Willcox
 
-This repository contains a directory with the `Python source code to reproduce the scan <./src/scan>`_ and in `another directory <./scan>`_ the instructions to use it, including `SQL code <./scan#sqlite>`_ to inspect the scan results saved in an anonymised `data base  <https://github.com/programa-stic/misfortune-cookie/releases/download/0.1.0/scan.sqlite.tar.gz>`_.
+This repository contains a directory with the `Python source code to reproduce the scan <./src/scan>`_ and in `another directory <./scan>`_ the instructions to use it, including `SQL code <./scan#sqlite>`_ to inspect the scan results saved in an anonymised `database  <https://github.com/programa-stic/misfortune-cookie/releases/download/0.1.0/scan.sqlite.tar.gz>`_.
 
 -----
 
